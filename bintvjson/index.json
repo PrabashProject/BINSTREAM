@@ -1,5 +1,31 @@
 [
     {
+        "id": "ppv-event-03-modified-week-ocala-ppv-03",
+        "title": "Modified Week Ocala  \u2b50",
+        "category": "other",
+        "date": 1771542000000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-03-modified-week-ocala-ppv-03"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-02-lucas-oil-late-models-all-tech-ppv-02",
+        "title": "Lucas Oil Late Models All Tech \ud83d\udd25",
+        "category": "other",
+        "date": 1771539000000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-02-lucas-oil-late-models-all-tech-ppv-02"
+            }
+        ]
+    },
+    {
         "id": "ppv-event-01-lights-out-17-ppv-001",
         "title": "Lights Out 17 \ud83d\udd25 \u2b50 \ud83d\udca5",
         "category": "other",
@@ -55,102 +81,6 @@
         ]
     },
     {
-        "id": "ppv-omonoia-vs-rijeka",
-        "title": "Omonoia vs. Rijeka",
-        "category": "football",
-        "date": 1771531200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEFECEJxAkQWEDAYh27LNmCIIwEUM4Ns-YEJDiQAY0Hb5ezZP18sKYKzDsuwAnMthCwJLl2WON2otXtLDvBWNsCK7BBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Omonoia",
-                "badge": ""
-            },
-            "away": {
-                "name": "Rijeka",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-omonoia-vs-rijeka"
-            }
-        ]
-    },
-    {
-        "id": "jagiellonia-bia-ystok-vs-fiorentina-2419528",
-        "title": "Jagiellonia Bia\u0142ystok vs Fiorentina",
-        "category": "football",
-        "date": 1771531200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYwKMPy3TdIXiCwmQMIyCtWIIEiGb5gSClhFzGO1Sh5gy8Imo5Hyd6MD9xMQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Jagiellonia Bia\u0142ystok",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplHwwSUiG5gUWkABMQMPRCMhTh3SgIUmfFFzBk19eaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Fiorentina",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDMQqpuBIhuIACYhtBmCBTqQJxDAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-jagiellonia-vs-fiorentina"
-            }
-        ]
-    },
-    {
-        "id": "shk-ndija-vs-samsunspor-2419532",
-        "title": "Shk\u00ebndija vs Samsunspor",
-        "category": "football",
-        "date": 1771531200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrOoh+SEBG0GsIIzAMhzekNOMskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Shk\u00ebndija",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBQ+YACYgBKXCG7b9hxLr4gtEECgIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Samsunspor",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYJCBggyKEHxDcQKvSF0RtRy1tOEYwJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-shk-ndija-vs-samsunspor"
-            }
-        ]
-    },
-    {
-        "id": "ludogorets-razgrad-vs-ferencv-ros-2425789",
-        "title": "Ludogorets Razgrad vs Ferencv\u00e1ros",
-        "category": "football",
-        "date": 1771531200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFlgQjHHGkheILMZAxDIS5YMQQzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Ludogorets Razgrad",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCJR8MHxAATYGBDcQWkrhAoQEHWdPLCMYEz4ouYMhvrzRzprTCuxohBAA"
-            },
-            "away": {
-                "name": "Ferencv\u00e1ros",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgEAGENxADWEDSAAmII0c2aSuAyGWEYwJnxRcwZeEXmjHTWmGdjREIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-ludogorets-vs-ferencv-ros"
-            }
-        ]
-    },
-    {
         "id": "panathinaikos-vs-viktoria-plze--2425790",
         "title": "Panathinaikos vs Viktoria Plze\u0148",
         "category": "football",
@@ -169,36 +99,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-panathinaikos-vs-viktoria-plze"
-            },
-            {
                 "source": "golf",
                 "id": "19792"
-            }
-        ]
-    },
-    {
-        "id": "lille-vs-crvena-zvezda-2425788",
-        "title": "Lille vs Crvena Zvezda",
-        "category": "football",
-        "date": 1771531200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjhwpOYMWBC8QWIyBgGQFi9JDVTLJBSwi5jFLo7aOu8o2pzt+KzAYO6MYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Lille",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulz9OKMElIhuIEiEQQQMY3oMgjMAhSZ8UXMGXhF5o+01phHY0RCA"
-            },
-            "away": {
-                "name": "Crvena Zvezda",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz5gkIACYgSIOFu7bNIPrtwhEEEJZgEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-lille-vs-crvena-zvezda"
             }
         ]
     },
@@ -221,36 +123,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-celtic-vs-stuttgart"
-            },
-            {
                 "source": "golf",
                 "id": "19789"
-            }
-        ]
-    },
-    {
-        "id": "drita-vs-celje-2419527",
-        "title": "Drita vs Celje",
-        "category": "football",
-        "date": 1771531200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtVbBZwMLOkheILMZAxDIS5YggbKFkgpYRcxijCqUPD+UaaxXvhaYB7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Drita",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQhefWCBig1IEiBQgAJiAghzfU7j0EKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Celje",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxlgAJghCI+IbiDUhDevTH0gUIErgIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-drita-vs-celje"
             }
         ]
     },
@@ -288,34 +162,6 @@
             {
                 "source": "echo",
                 "id": "premier-league-darts-glasgow-darts-1"
-            }
-        ]
-    },
-    {
-        "id": "ppv-nbc-women-s-free-skate",
-        "title": "NBC: Women's Free Skate",
-        "category": "olympics",
-        "date": 1771524000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEEkCYCQYgUIkPV4gpiIRKz9gnQcPjABWReOCqlEqRBDyJnBRBTBWYdl2AFseC4WBJcAY3McrtAbod3VYFZqDGpAA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-nbc-women-s-free-skate"
-            }
-        ]
-    },
-    {
-        "id": "ppv-the-golazo-show",
-        "title": "The Golazo Show",
-        "category": "football",
-        "date": 1771523100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEFECXiHadgnECGARs-ECSEgAxtKVZRDaRJGr4okFpk6x9EDFEpgrMOy7AC2PBcLAkuBeY5XaUke3N2dYFaS6hBAA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-the-golazo-show"
             }
         ]
     },
@@ -412,33 +258,6 @@
             {
                 "source": "golf",
                 "id": "19787"
-            }
-        ]
-    },
-    {
-        "id": "the-genesis-invitational-pga-tour-atp1000",
-        "title": "The Genesis Invitational | PGA Tour",
-        "category": "other",
-        "date": 1771514100000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "the-genesis-invitational-pga-tour-atp1000"
-            }
-        ]
-    },
-    {
-        "id": "ppv-gold-zone-day-13",
-        "title": "Gold Zone: Day 13",
-        "category": "olympics",
-        "date": 1771506000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEdzkRChAxsDEFjET4oxFnHBBYmMIUgSIAMYgIwTjOAlgOiAN4pgrMOy7ACo82ELAkuDeY5XaOve3N3pYFZGDEZAA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-gold-zone-day-13"
             }
         ]
     }
