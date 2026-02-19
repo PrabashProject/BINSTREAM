@@ -1,5 +1,26 @@
 [
     {
+        "id": "19791",
+        "title": "Ludogorets Razgrad - Ferencvaros",
+        "category": "football",
+        "date": 1771531200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Ludogorets Razgrad"
+            },
+            "away": {
+                "name": "Ferencvaros"
+            }
+        },
+        "sources": [
+            {
+                "source": "golf",
+                "id": "19791"
+            }
+        ]
+    },
+    {
         "id": "19790",
         "title": "Lille - Red Star Belgrade",
         "category": "football",
@@ -17,33 +38,6 @@
             {
                 "source": "golf",
                 "id": "19790"
-            }
-        ]
-    },
-    {
-        "id": "ludogorets-vs-ferencvarosi-tc-football-1515536",
-        "title": "Ludogorets vs Ferencvarosi TC",
-        "category": "football",
-        "date": 1771531200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Ludogorets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIfsvrkGAY2bie8EVW4EurMGFz5zQA"
-            },
-            "away": {
-                "name": "Ferencvarosi TC",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IbCBJ1yDAMbNxPeCKrcCXVmDC58FoA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ludogorets-vs-ferencvarosi-tc-football-1515536"
-            },
-            {
-                "source": "golf",
-                "id": "19791"
             }
         ]
     },
@@ -92,14 +86,6 @@
             {
                 "source": "admin",
                 "id": "ppv-jagiellonia-vs-fiorentina"
-            },
-            {
-                "source": "delta",
-                "id": "live_uefa-europa-conference-league-knockout-stage_jagiellonia-fiorentina-live-streaming-503442432"
-            },
-            {
-                "source": "echo",
-                "id": "jagiellonia-vs-fiorentina-football-1508932"
             }
         ]
     },
@@ -200,10 +186,6 @@
             {
                 "source": "admin",
                 "id": "ppv-lille-vs-crvena-zvezda"
-            },
-            {
-                "source": "echo",
-                "id": "lille-vs-fk-crvena-zvezda-football-1515535"
             }
         ]
     },
@@ -228,14 +210,6 @@
             {
                 "source": "admin",
                 "id": "ppv-celtic-vs-stuttgart"
-            },
-            {
-                "source": "delta",
-                "id": "live_uefa-europa-league-knockout-stage_celtic-stuttgart-live-streaming-503438544"
-            },
-            {
-                "source": "echo",
-                "id": "celtic-vs-vfb-stuttgart-football-1515534"
             },
             {
                 "source": "golf",
@@ -264,10 +238,6 @@
             {
                 "source": "admin",
                 "id": "ppv-drita-vs-celje"
-            },
-            {
-                "source": "echo",
-                "id": "drita-vs-celje-football-1508931"
             }
         ]
     },
@@ -334,30 +304,6 @@
             {
                 "source": "admin",
                 "id": "ppv-switzerland-vs-great-britain-m-semifinal"
-            }
-        ]
-    },
-    {
-        "id": "ppv-usa-vs-canada-women-s-gold",
-        "title": "USA vs. Canada (Women's Gold)",
-        "category": "olympics",
-        "date": 1771524600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEEYEkBBCIhKEJ2HD+wTjMmysIGJOW8+7EgzUBjEAN4x+KkPmCsw7LsALY8ZwsCS5tKDmcbwKs9q5vwzFsAQDEFAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "USA",
-                "badge": ""
-            },
-            "away": {
-                "name": "Canada ",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-usa-vs-canada-women-s-gold"
             }
         ]
     },
