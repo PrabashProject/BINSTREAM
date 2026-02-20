@@ -1,5 +1,31 @@
 [
     {
+        "id": "ppv-event-13-modified-week-ocala-ppv-13",
+        "title": "Modified Week Ocala",
+        "category": "other",
+        "date": 1771628400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-13-modified-week-ocala-ppv-13"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-12-lucas-oil-late-models-all-tech-ppv-12",
+        "title": "Lucas Oil Late Models All Tech",
+        "category": "other",
+        "date": 1771627500000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-12-lucas-oil-late-models-all-tech-ppv-12"
+            }
+        ]
+    },
+    {
         "id": "ppv-event-03-bray-v-coria-ppv-03",
         "title": "Bray v Coria  \u2b50",
         "category": "fight",
@@ -60,14 +86,6 @@
                 "id": "ppv-usa-vs-slovakia-men-s-semifinal"
             },
             {
-                "source": "delta",
-                "id": "live_olympic-games-playoffs_usa-slovakia-live-streaming-508111920"
-            },
-            {
-                "source": "echo",
-                "id": "usa-vs-slovakia-hockey-420468"
-            },
-            {
                 "source": "golf",
                 "id": "19880"
             }
@@ -94,14 +112,6 @@
             {
                 "source": "admin",
                 "id": "ppv-arizona-diamondbacks-vs-colorado-rockies"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_rockies-diamondbacks-live-streaming-506150640"
-            },
-            {
-                "source": "echo",
-                "id": "colorado-rockies-vs-arizona-diamondbacks-baseball-180116"
             },
             {
                 "source": "golf",
@@ -146,34 +156,6 @@
         ]
     },
     {
-        "id": "texas-rangers-vs-kansas-city-royals-2392725",
-        "title": "Texas Rangers vs Kansas City Royals",
-        "category": "baseball",
-        "date": 1771617900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdonDgsICCES8QOnYYMhz5krpZIKWEXMYowqlDxflG1OW-ytgYC7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Texas Rangers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Kansas City Royals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_rangers-royals-live-streaming-506150208"
-            },
-            {
-                "source": "echo",
-                "id": "texas-rangers-vs-kansas-city-royals-baseball-180118"
-            }
-        ]
-    },
-    {
         "id": "chicago-cubs-vs-chicago-white-sox-2392726",
         "title": "Chicago Cubs vs Chicago White Sox",
         "category": "baseball",
@@ -206,30 +188,6 @@
             {
                 "source": "golf",
                 "id": "19653"
-            }
-        ]
-    },
-    {
-        "id": "athletic-bilbao-vs-elche-2279635",
-        "title": "Athletic Bilbao vs Elche",
-        "category": "football",
-        "date": 1771617600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLJBAwQo+iRDcQfHQZAQT2nIhgFgSCn2Gz6KMCpRc35ellkemtGBuYrpAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Athletic Bilbao",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATEOD4gBq0iG5qQiFCAggYG3PvMEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Elche",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIgoAEx5g+IVdxDrdR1SjUhEiRhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-athletic-club-vs-elche"
             }
         ]
     },
@@ -295,30 +253,6 @@
         ]
     },
     {
-        "id": "baltimore-orioles-vs-new-york-yankees-2392722",
-        "title": "Baltimore Orioles vs New York Yankees",
-        "category": "baseball",
-        "date": 1771610700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBTAwDENT6gQvEFhNGQiYyGsgIFlkgpYRcxijCqtHD+Ub6xWvis2h7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Baltimore Orioles",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA"
-            },
-            "away": {
-                "name": "New York Yankees",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "19652"
-            }
-        ]
-    },
-    {
         "id": "atp-500-doha-atp-500-rio-atp-250-delray-beach-tn-1",
         "title": "ATP 500 Doha / ATP 500 Rio / ATP 250 Delray Beach \ud83c\udfbe",
         "category": "other",
@@ -380,32 +314,6 @@
             {
                 "source": "admin",
                 "id": "ppv-gold-zone-day-14"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-12-lucas-oil-late-models-all-tech-ppv-12",
-        "title": "Lucas Oil Late Models All Tech",
-        "category": "other",
-        "date": 1771627500000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-12-lucas-oil-late-models-all-tech-ppv-12"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-13-modified-week-ocala-ppv-13",
-        "title": "Modified Week Ocala",
-        "category": "other",
-        "date": 1771628400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-13-modified-week-ocala-ppv-13"
             }
         ]
     },
