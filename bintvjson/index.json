@@ -1,5 +1,18 @@
 [
     {
+        "id": "ppv-event-14-world-outlaws-late-models-ppv14",
+        "title": "World Outlaws Late Models",
+        "category": "other",
+        "date": 1771629300000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-14-world-outlaws-late-models-ppv14"
+            }
+        ]
+    },
+    {
         "id": "ppv-event-13-modified-week-ocala-ppv-13",
         "title": "Modified Week Ocala",
         "category": "other",
@@ -47,6 +60,20 @@
             {
                 "source": "golf",
                 "id": "19881"
+            }
+        ]
+    },
+    {
+        "id": "ppv-postgame-coverage",
+        "title": "Postgame Coverage",
+        "category": "olympics",
+        "date": 1771626600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOTRFYRRCRAwQKEIOCd6wIQGNJILMAjD+2YaLXssITiBBqdKveybAW4dl2AFsec4WBJcsvhzYUIk6X1vxzbMrSEEA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-postgame-coverage"
             }
         ]
     },
@@ -142,14 +169,6 @@
                 "id": "ppv-san-diego-padres-vs-seattle-mariners"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_mariners-padres-live-streaming-506151072"
-            },
-            {
-                "source": "echo",
-                "id": "seattle-mariners-vs-san-diego-padres-baseball-180117"
-            },
-            {
                 "source": "golf",
                 "id": "19656"
             }
@@ -176,14 +195,6 @@
             {
                 "source": "admin",
                 "id": "ppv-chicago-white-sox-vs-chicago-cubs"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_cubs-white-sox-live-streaming-506149776"
-            },
-            {
-                "source": "echo",
-                "id": "chicago-cubs-vs-chicago-white-sox-baseball-180119"
             },
             {
                 "source": "golf",
@@ -253,6 +264,30 @@
         ]
     },
     {
+        "id": "switzerland-curling-vs-norway-curling-2435737",
+        "title": "Switzerland Curling vs Norway Curling",
+        "category": "olympics",
+        "date": 1771610700000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOdEXxLbCEQwQJEAGMQEYJ2CJxwCBJBYVITqKmiZIEQqUGh9Rb2VlgLcOy7AC2PBcLAkucSg4WGNabPbu78BZsisYQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Switzerland Curling",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgIIbiFoATXBpC716mCD4Hz6iYRjAmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Norway Curling",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwkIXt1hg+GkABMQEI6pC7DiEkYIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-norway-vs-switzerland-men-s-bronze-final"
+            }
+        ]
+    },
+    {
         "id": "atp-500-doha-atp-500-rio-atp-250-delray-beach-tn-1",
         "title": "ATP 500 Doha / ATP 500 Rio / ATP 250 Delray Beach \ud83c\udfbe",
         "category": "other",
@@ -262,21 +297,6 @@
             {
                 "source": "echo",
                 "id": "atp-500-doha-atp-500-rio-atp-250-delray-beach-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "the-genesis-invitational-round-2-2436062",
-        "title": "The Genesis Invitational Round 2",
-        "category": "golf",
-        "date": 1771604100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXNRQg+GmCG7aQJEFJBmIIPRYMgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "the-genesis-invitational-pga-tour-atp1000"
             }
         ]
     },
@@ -300,33 +320,6 @@
             {
                 "source": "golf",
                 "id": "19879"
-            }
-        ]
-    },
-    {
-        "id": "ppv-gold-zone-day-14",
-        "title": "Gold Zone: Day 14",
-        "category": "olympics",
-        "date": 1771592400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOdEdzkRChAxs9EFjET4oxFnHBBYmMIUgSIAMYgIwTjOAlgOiAN4pgLcOy7ACo82ELAkuDeY5sKOve3N3pYGxG9EZAA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-gold-zone-day-14"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-14-world-outlaws-late-models-ppv14",
-        "title": "World Outlaws Late Models",
-        "category": "other",
-        "date": 1771629300000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-14-world-outlaws-late-models-ppv14"
             }
         ]
     }
