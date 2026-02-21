@@ -440,14 +440,6 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_yankees-tigers-live-streaming-506363184"
-            },
-            {
-                "source": "echo",
-                "id": "new-york-yankees-vs-detroit-tigers-baseball-180126"
-            },
-            {
                 "source": "golf",
                 "id": "19850"
             }
@@ -519,14 +511,6 @@
             }
         },
         "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_cardinals-nationals-live-streaming-506363616"
-            },
-            {
-                "source": "echo",
-                "id": "stlouis-cardinals-vs-washington-nationals-baseball-180124"
-            },
             {
                 "source": "golf",
                 "id": "19851"
@@ -715,29 +699,6 @@
         ]
     },
     {
-        "id": "ufc-fight-night-strickland-vs-hernandez-mma-2535",
-        "title": "Punahele Soriano vs Ramiz Brahimaj",
-        "category": "fight",
-        "date": 1771711200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Punahele Soriano",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAR5IePXIMxzYGB7wpVbqIaswWtrghA"
-            },
-            "away": {
-                "name": "Ramiz Brahimaj",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAQQ2ECnrkGY5sDA94Uqt1ENWYbW1wQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ufc-fight-night-strickland-vs-hernandez-mma-2535"
-            }
-        ]
-    },
-    {
         "id": "ufc-fight-night-strickland-vs-hernandez-mma-2536",
         "title": "Jean-Paul Lebosnoyani vs Phil Rowe",
         "category": "fight",
@@ -757,6 +718,29 @@
             {
                 "source": "echo",
                 "id": "ufc-fight-night-strickland-vs-hernandez-mma-2536"
+            }
+        ]
+    },
+    {
+        "id": "ufc-fight-night-strickland-vs-hernandez-mma-2535",
+        "title": "Punahele Soriano vs Ramiz Brahimaj",
+        "category": "fight",
+        "date": 1771711200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Punahele Soriano",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAR5IePXIMxzYGB7wpVbqIaswWtrghA"
+            },
+            "away": {
+                "name": "Ramiz Brahimaj",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAQQ2ECnrkGY5sDA94Uqt1ENWYbW1wQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ufc-fight-night-strickland-vs-hernandez-mma-2535"
             }
         ]
     },
