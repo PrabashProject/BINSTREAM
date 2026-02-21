@@ -57,18 +57,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-denver-nuggets-vs-portland-trail-blazers"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_trail-blazers-nuggets-live-streaming-430507008"
-            },
-            {
-                "source": "echo",
-                "id": "portland-trail-blazers-vs-denver-nuggets-basketball-470289"
-            },
-            {
                 "source": "golf",
                 "id": "19841"
             }
@@ -92,18 +80,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-la-clippers-vs-los-angeles-lakers"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_lakers-clippers-live-streaming-430506576"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-lakers-vs-los-angeles-clippers-basketball-470288"
-            },
             {
                 "source": "golf",
                 "id": "19840"
@@ -137,19 +113,6 @@
         ]
     },
     {
-        "id": "ppv-event-06-combat-fc-12-ppv-06",
-        "title": "Combat FC 12",
-        "category": "other",
-        "date": 1771635600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-06-combat-fc-12-ppv-06"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-07-jara-v-gerez-en-espanol-ppv-07",
         "title": "Jara v Gerez (En Espanol)",
         "category": "fight",
@@ -171,6 +134,19 @@
             {
                 "source": "golf",
                 "id": "19882"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-06-combat-fc-12-ppv-06",
+        "title": "Combat FC 12",
+        "category": "other",
+        "date": 1771635600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-06-combat-fc-12-ppv-06"
             }
         ]
     },
@@ -300,13 +276,12 @@
         ]
     },
     {
-        "id": "mens-ski-cross-seeding-2427636",
-        "title": "Mens Ski Cross Seeding",
+        "id": "ppv-men-s-ski-cross-seeding",
+        "title": "Men's Ski Cross: Seeding",
         "category": "olympics",
         "date": 1771664400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoxQgUYcFCwheIAwZghzEYyGohL2-MCQUsIuZrCqUPD+UbU5Xg70YB7iYhBAA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOdELe4EthDtO9EBF4gY4geOEyIwRJxAkQKWVl5Kp-RAGMQKtYjLAW4dl2AFsec4WBJc+jRzYVFo9htvxzbMCK7BBAA.webp",
         "popular": true,
-        "teams": null,
         "sources": [
             {
                 "source": "admin",
@@ -339,35 +314,6 @@
         ]
     },
     {
-        "id": "mixed-team-aerials-final-1-2427637",
-        "title": "Mixed Team Aerials Final 1",
-        "category": "olympics",
-        "date": 1771667100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEZhQYfvEgheILMZAwQFiKeogShlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-mixed-team-aerials-final"
-            }
-        ]
-    },
-    {
-        "id": "ppv-men-s-50-km-mass-start-classic",
-        "title": "Men's 50km Mass Start Classic",
-        "category": "olympics",
-        "date": 1771668000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOdEE4CXvxDxgiLCAEkQnEChAwQi8YkVy+kxYKkohI8Z3rzF-HS3DsuwAtjzAwhYElwBjHRzYUIwA+x3WRYGz89PxAA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-men-s-50-km-mass-start-classic"
-            }
-        ]
-    },
-    {
         "id": "magical-kenya-open-round-3-2436060",
         "title": "Magical Kenya Open Round 3",
         "category": "golf",
@@ -383,16 +329,17 @@
         ]
     },
     {
-        "id": "ppv-men-s-ski-cross-finals",
-        "title": "Men's Ski Cross: Finals",
+        "id": "mixed-team-aerials-final-2-2427638",
+        "title": "Mixed Team Aerials Final 2",
         "category": "olympics",
-        "date": 1771671300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOdEFX4CNiGcQokiBghEIrANHBEoxDHqiQWEOJRDBGkX0kBjTaO0tw7LsAJCzhYElyHtHNhUGd6eawuBg2Al4QQA.webp",
+        "date": 1771670700000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzDSQq7khC8QWIyBghzEE9R06WSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
         "popular": true,
+        "teams": null,
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-men-s-ski-cross-finals"
+                "id": "ppv-mixed-team-aerials-final"
             }
         ]
     },
@@ -486,20 +433,6 @@
         ]
     },
     {
-        "id": "ppv-women-s-12-5-km-mass-start",
-        "title": "Women's 12.5km Mass Start",
-        "category": "olympics",
-        "date": 1771679700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOTTkLP+iEQRgvEVkExRIEiE6CUMoYJHxBdEDBAaQ03ikElsBluHZdgBbHmBhCwJLgDGBjmwoj57A1bVg2wCLsEEA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-women-s-12-5-km-mass-start"
-            }
-        ]
-    },
-    {
         "id": "pakistan-cricket-vs-new-zealand-cricket-2435703",
         "title": "Pakistan Cricket vs New Zealand Cricket",
         "category": "cricket",
@@ -543,6 +476,20 @@
             {
                 "source": "echo",
                 "id": "ufc-fight-night-strickland-vs-hernandez-mma-2444"
+            }
+        ]
+    },
+    {
+        "id": "ppv-men-s-women-s-mass-start",
+        "title": "Men's & Women's Mass Start",
+        "category": "olympics",
+        "date": 1771682400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOTeYTkAMYhhwiCDogsIEiETsxvEsDH8Us7BpkpgMmMERr+UrMr71tLcOy7ACGi4WBJcA7RzYUIZ9tru8wbKbyQA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-men-s-women-s-mass-start"
             }
         ]
     },
@@ -1429,7 +1376,7 @@
             },
             {
                 "source": "echo",
-                "id": "washington-nationals-vs-houston-astros-baseball-180121"
+                "id": "stlouis-cardinals-vs-washington-nationals-baseball-180124"
             },
             {
                 "source": "golf",
@@ -1502,31 +1449,6 @@
         ]
     },
     {
-        "id": "live_olympic-games-playoffs_slovakia-finland-live-streaming-508524480",
-        "title": "Slovakia vs Finland",
-        "category": "hockey",
-        "date": 1771699200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Slovakia"
-            },
-            "away": {
-                "name": "Finland"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live_olympic-games-playoffs_slovakia-finland-live-streaming-508524480"
-            },
-            {
-                "source": "golf",
-                "id": "19927"
-            }
-        ]
-    },
-    {
         "id": "ppv-exhibition-gala",
         "title": "Exhibition Gala",
         "category": "olympics",
@@ -1566,6 +1488,37 @@
             {
                 "source": "admin",
                 "id": "ppv-men-s-bronze-final"
+            }
+        ]
+    },
+    {
+        "id": "slovakia-ice-hockey-vs-finland-ice-hockey-2436113",
+        "title": "Slovakia Ice Hockey vs Finland Ice Hockey",
+        "category": "hockey",
+        "date": 1771702800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Slovakia",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIhEiEnXIMAxs2Bge8SVSmEGrMDra4IQA"
+            },
+            "away": {
+                "name": "Finland",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIhEVEBHrkGAY2bAwPeJKpTCDVmF1tcEIA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_olympic-games-playoffs_slovakia-finland-live-streaming-508524480"
+            },
+            {
+                "source": "echo",
+                "id": "slovakia-vs-finland-hockey-420490"
+            },
+            {
+                "source": "golf",
+                "id": "19927"
             }
         ]
     },
@@ -1832,6 +1785,38 @@
         ]
     },
     {
+        "id": "cleveland-guardians-vs-cincinnati-reds-2392738",
+        "title": "Cleveland Guardians vs Cincinnati Reds",
+        "category": "baseball",
+        "date": 1771704300000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkmhkIIMQAYQvEFmOGQiIyBAoQ1EDBaaYAkXMYowqlD0-lG1OW98VmAwT3ExCCA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Cleveland Guardians",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA"
+            },
+            "away": {
+                "name": "Cincinnati Reds",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_guardians-reds-live-streaming-506365776"
+            },
+            {
+                "source": "echo",
+                "id": "cleveland-guardians-vs-cincinnati-reds-baseball-180131"
+            },
+            {
+                "source": "golf",
+                "id": "19858"
+            }
+        ]
+    },
+    {
         "id": "arizona-diamondbacks-vs-colorado-rockies-2392742",
         "title": "Arizona Diamondbacks vs Colorado Rockies",
         "category": "baseball",
@@ -1928,34 +1913,25 @@
         ]
     },
     {
-        "id": "milwaukee-brewers-vs-cleveland-guardians-2392735",
-        "title": "Milwaukee Brewers vs Cleveland Guardians",
-        "category": "baseball",
-        "date": 1771704600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPhhZ9MGCQheILMcMhERkFZApDLJBSwi5jFGFUoe78o2pzP+KzAemKMoUA.webp",
+        "id": "ufc-fight-night-strickland-vs-hernandez-mma-2535",
+        "title": "Punahele Soriano vs Ramiz Brahimaj",
+        "category": "fight",
+        "date": 1771711200000,
         "popular": true,
         "teams": {
             "home": {
-                "name": "Milwaukee Brewers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA"
+                "name": "Punahele Soriano",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAR5IePXIMxzYGB7wpVbqIaswWtrghA"
             },
             "away": {
-                "name": "Cleveland Guardians",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA"
+                "name": "Ramiz Brahimaj",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAQQ2ECnrkGY5sDA94Uqt1ENWYbW1wQgA"
             }
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_guardians-reds-live-streaming-506365776"
-            },
-            {
                 "source": "echo",
-                "id": "cleveland-guardians-vs-cincinnati-reds-baseball-180131"
-            },
-            {
-                "source": "golf",
-                "id": "19858"
+                "id": "ufc-fight-night-strickland-vs-hernandez-mma-2535"
             }
         ]
     },
@@ -1979,29 +1955,6 @@
             {
                 "source": "echo",
                 "id": "ufc-fight-night-strickland-vs-hernandez-mma-2536"
-            }
-        ]
-    },
-    {
-        "id": "ufc-fight-night-strickland-vs-hernandez-mma-2535",
-        "title": "Punahele Soriano vs Ramiz Brahimaj",
-        "category": "fight",
-        "date": 1771711200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Punahele Soriano",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAR5IePXIMxzYGB7wpVbqIaswWtrghA"
-            },
-            "away": {
-                "name": "Ramiz Brahimaj",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAQQ2ECnrkGY5sDA94Uqt1ENWYbW1wQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ufc-fight-night-strickland-vs-hernandez-mma-2535"
             }
         ]
     },
