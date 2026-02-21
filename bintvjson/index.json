@@ -662,7 +662,7 @@
             },
             {
                 "source": "echo",
-                "id": "washington-nationals-vs-houston-astros-baseball-180121"
+                "id": "stlouis-cardinals-vs-washington-nationals-baseball-180124"
             },
             {
                 "source": "golf",
@@ -1046,29 +1046,6 @@
         ]
     },
     {
-        "id": "ufc-fight-night-strickland-vs-hernandez-mma-2536",
-        "title": "Jean-Paul Lebosnoyani vs Phil Rowe",
-        "category": "fight",
-        "date": 1771711200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Jean-Paul Lebosnoyani",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQi7CAj1yDMc2Bge8KVW6iGrMDra4IQA"
-            },
-            "away": {
-                "name": "Phil Rowe",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBCQVECHrkGY5sDA94Uqt1ENWYbW1wQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ufc-fight-night-strickland-vs-hernandez-mma-2536"
-            }
-        ]
-    },
-    {
         "id": "ufc-fight-night-strickland-vs-hernandez-mma-2535",
         "title": "Punahele Soriano vs Ramiz Brahimaj",
         "category": "fight",
@@ -1092,10 +1069,34 @@
         ]
     },
     {
+        "id": "ufc-fight-night-strickland-vs-hernandez-mma-2536",
+        "title": "Jean-Paul Lebosnoyani vs Phil Rowe",
+        "category": "fight",
+        "date": 1771711200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Jean-Paul Lebosnoyani",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQi7CAj1yDMc2Bge8KVW6iGrMDra4IQA"
+            },
+            "away": {
+                "name": "Phil Rowe",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBCQVECHrkGY5sDA94Uqt1ENWYbW1wQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ufc-fight-night-strickland-vs-hernandez-mma-2536"
+            }
+        ]
+    },
+    {
         "id": "ufc-fight-night-267-strickland-vs-hernandez-2391885",
         "title": "UFC Fight Night 267 Strickland vs Hernandez",
         "category": "fight",
         "date": 1771711200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGogQTMEjD98IXiCynjIaeZggImzS30wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
         "popular": true,
         "teams": {
             "home": {
