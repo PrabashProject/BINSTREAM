@@ -1,46 +1,33 @@
 [
     {
-        "id": "wta-500-merida-atp-500-acapulco-wta-250-austin-tn-1",
-        "title": "WTA 500 Merida / ATP 500 Acapulco / WTA 250 Austin \ud83c\udfbe",
-        "category": "other",
-        "date": 1771840800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "wta-500-merida-atp-500-acapulco-wta-250-austin-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "fiorentina-vs-pisa-2265289",
-        "title": "Fiorentina vs Pisa",
-        "category": "football",
-        "date": 1771867800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWmzBgZhPiG4g9JEMZQhEEQ7n0FgSCn2Gz6KMCpRc35ellkemtFqi9MFAA.webp",
+        "id": "toronto-blue-jays-vs-new-york-mets-2392762",
+        "title": "Toronto Blue Jays vs New York Mets",
+        "category": "baseball",
+        "date": 1771870020000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhQhZ4aWBAheILMcMhERrTDMwWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Fiorentina",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDMQqpuBIhuIACYhtBmCBTqQJxDAIUmfFFzBl4ReaIdNaYJ2NEQgA"
+                "name": "Toronto Blue Jays",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA"
             },
             "away": {
-                "name": "Pisa",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyCWIFGD4huIEiG0oDIGCDOJTKAhSZ8UXMGXhF5o+01phHY0RCA"
+                "name": "New York Mets",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA"
             }
         },
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-fiorentina-vs-pisa"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_fiorentina-pisa-live-streaming-442309248"
+                "id": "ppv-new-york-mets-vs-toronto-blue-jays"
             },
             {
                 "source": "echo",
-                "id": "fiorentina-vs-pisa-football-1378117"
+                "id": "toronto-blue-jays-vs-new-york-mets-baseball-180155"
+            },
+            {
+                "source": "golf",
+                "id": "19915"
             }
         ]
     },
@@ -65,10 +52,6 @@
             {
                 "source": "admin",
                 "id": "ppv-new-york-yankees-vs-pittsburgh-pirates"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_pirates-yankees-live-streaming-507915360"
             },
             {
                 "source": "echo",
@@ -99,10 +82,6 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_tigers-twins-live-streaming-507914928"
-            },
-            {
                 "source": "echo",
                 "id": "detroit-tigers-vs-minnesota-twins-baseball-180162"
             },
@@ -130,10 +109,6 @@
             }
         },
         "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_orioles-braves-live-streaming-507914496"
-            },
             {
                 "source": "echo",
                 "id": "baltimore-orioles-vs-atlanta-braves-baseball-180165"
@@ -167,10 +142,6 @@
                 "id": "ppv-miami-marlins-vs-st-louis-cardinals"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_cardinals-marlins-live-streaming-507915792"
-            },
-            {
                 "source": "echo",
                 "id": "stlouis-cardinals-vs-miami-marlins-baseball-180157"
             },
@@ -199,10 +170,6 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_rays-red-sox-live-streaming-507916224"
-            },
-            {
                 "source": "echo",
                 "id": "tampa-bay-rays-vs-boston-red-sox-baseball-180156"
             },
@@ -213,38 +180,30 @@
         ]
     },
     {
-        "id": "toronto-blue-jays-vs-new-york-mets-2392762",
-        "title": "Toronto Blue Jays vs New York Mets",
-        "category": "baseball",
-        "date": 1771870020000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhQhZ4aWBAheILMcMhERrTDMwWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+        "id": "fiorentina-vs-pisa-2265289",
+        "title": "Fiorentina vs Pisa",
+        "category": "football",
+        "date": 1771867800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWmzBgZhPiG4g9JEMZQhEEQ7n0FgSCn2Gz6KMCpRc35ellkemtFqi9MFAA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Toronto Blue Jays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA"
+                "name": "Fiorentina",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDMQqpuBIhuIACYhtBmCBTqQJxDAIUmfFFzBl4ReaIdNaYJ2NEQgA"
             },
             "away": {
-                "name": "New York Mets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA"
+                "name": "Pisa",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyCWIFGD4huIEiG0oDIGCDOJTKAhSZ8UXMGXhF5o+01phHY0RCA"
             }
         },
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-new-york-mets-vs-toronto-blue-jays"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_blue-jays-mets-live-streaming-507916656"
+                "id": "ppv-fiorentina-vs-pisa"
             },
             {
                 "source": "echo",
-                "id": "toronto-blue-jays-vs-new-york-mets-baseball-180155"
-            },
-            {
-                "source": "golf",
-                "id": "19915"
+                "id": "fiorentina-vs-pisa-football-1378117"
             }
         ]
     },
@@ -269,10 +228,6 @@
             {
                 "source": "admin",
                 "id": "ppv-bologna-vs-udinese"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_bologna-udinese-live-streaming-442308384"
             },
             {
                 "source": "echo",
@@ -301,10 +256,6 @@
             {
                 "source": "admin",
                 "id": "ppv-alav-s-vs-girona"
-            },
-            {
-                "source": "delta",
-                "id": "live_laliga_alaves-girona-live-streaming-442314000"
             }
         ]
     },
@@ -329,10 +280,6 @@
             {
                 "source": "admin",
                 "id": "ppv-everton-vs-manchester-united"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_everton-man-utd-live-streaming-503576784"
             },
             {
                 "source": "echo",
@@ -367,10 +314,6 @@
                 "id": "ppv-seattle-mariners-vs-los-angeles-dodgers"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_dodgers-mariners-live-streaming-507917952"
-            },
-            {
                 "source": "echo",
                 "id": "los-angeles-dodgers-vs-seattle-mariners-baseball-180152"
             },
@@ -398,10 +341,6 @@
             }
         },
         "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_royals-cubs-live-streaming-507917520"
-            },
             {
                 "source": "echo",
                 "id": "kansas-city-royals-vs-chicago-cubs-baseball-180159"
@@ -431,10 +370,6 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_guardians-diamondbacks-live-streaming-507917088"
-            },
-            {
                 "source": "echo",
                 "id": "cleveland-guardians-vs-arizona-diamondbacks-baseball-180164"
             },
@@ -462,10 +397,6 @@
             }
         },
         "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_giants-athletics-live-streaming-507918384"
-            },
             {
                 "source": "echo",
                 "id": "san-francisco-giants-vs-athletics-baseball-180158"
@@ -499,10 +430,6 @@
                 "id": "ppv-milwaukee-brewers-vs-san-diego-padres"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_padres-brewers-live-streaming-507919680"
-            },
-            {
                 "source": "echo",
                 "id": "san-diego-padres-vs-milwaukee-brewers-baseball-180153"
             },
@@ -530,10 +457,6 @@
             }
         },
         "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_rockies-white-sox-live-streaming-507918816"
-            },
             {
                 "source": "echo",
                 "id": "colorado-rockies-vs-chicago-white-sox-baseball-180163"
@@ -563,10 +486,6 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_angels-rangers-live-streaming-507919248"
-            },
-            {
                 "source": "echo",
                 "id": "los-angeles-angels-vs-texas-rangers-baseball-180161"
             },
@@ -594,10 +513,6 @@
             }
         },
         "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_nationals-phillies-live-streaming-507920112"
-            },
             {
                 "source": "echo",
                 "id": "washington-nationals-vs-philadelphia-phillies-baseball-180154"
