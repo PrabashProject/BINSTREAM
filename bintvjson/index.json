@@ -1,42 +1,10 @@
 [
     {
-        "id": "los-angeles-clippers-vs-orlando-magic-2358190",
-        "title": "Los Angeles Clippers vs Orlando Magic",
-        "category": "basketball",
-        "date": 1771812000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAYhCD6EENxB8QJEClwhEuxIglMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Los Angeles Clippers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0+RHOETcQfEDpSqQMIzpzLCMYEz4ouYMvA2lOTWmAdjREIA"
-            },
-            "away": {
-                "name": "Orlando Magic",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplpJyAExC0c3EHxAQQRlHoO4tICYRjAmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "19909"
-            }
-        ]
-    },
-    {
         "id": "live-event_claressa-shields-vs-franchon-crews-dezurn-live-stream",
         "title": "Claressa Shields vs Franchon Crews Dezurn",
         "category": "fight",
         "date": 1771808400000,
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Claressa Shields"
-            },
-            "away": {
-                "name": "Franchon Crews-Dezurn"
-            }
-        },
         "sources": [
             {
                 "source": "delta",
@@ -45,10 +13,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-04-shields-v-crews-dezurn-2-game-00004"
-            },
-            {
-                "source": "golf",
-                "id": "19929"
             }
         ]
     },
@@ -110,6 +74,10 @@
             {
                 "source": "admin",
                 "id": "ppv-fiorentina-vs-pisa"
+            },
+            {
+                "source": "delta",
+                "id": "live_serie-a_fiorentina-pisa-live-streaming-442309248"
             },
             {
                 "source": "echo",
@@ -344,6 +312,10 @@
                 "id": "ppv-bologna-vs-udinese"
             },
             {
+                "source": "delta",
+                "id": "live_serie-a_bologna-udinese-live-streaming-442308384"
+            },
+            {
                 "source": "echo",
                 "id": "bologna-vs-udinese-football-1378115"
             }
@@ -370,6 +342,10 @@
             {
                 "source": "admin",
                 "id": "ppv-alav-s-vs-girona"
+            },
+            {
+                "source": "delta",
+                "id": "live_laliga_alaves-girona-live-streaming-442314000"
             }
         ]
     },
@@ -394,6 +370,10 @@
             {
                 "source": "admin",
                 "id": "ppv-everton-vs-manchester-united"
+            },
+            {
+                "source": "delta",
+                "id": "live_premier-league_everton-man-utd-live-streaming-503576784"
             },
             {
                 "source": "echo",
