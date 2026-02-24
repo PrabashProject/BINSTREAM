@@ -26,38 +26,8 @@
                 "id": "live_nba_rockets-jazz-live-streaming-430755840"
             },
             {
-                "source": "echo",
-                "id": "houston-rockets-vs-utah-jazz-basketball-470309"
-            },
-            {
                 "source": "golf",
                 "id": "19932"
-            }
-        ]
-    },
-    {
-        "id": "ppv-wwe-monday-night-raw",
-        "title": "WWE: Monday Night RAW",
-        "category": "fight",
-        "date": 1771894800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEekEkIkQlgAlMAghOU4Ij5ZZISVn4MQClXxEKRnCepAhRggxHGsw7LsALY8wMIWBJcAY3EdLtCMD3txtvAOlhIMEkA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-wwe-monday-night-raw"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_monday-night-raw-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "wwe-monday-night-raw-wwe-2025"
-            },
-            {
-                "source": "golf",
-                "id": "19960"
             }
         ]
     },
@@ -80,44 +50,29 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-sacramento-kings-vs-memphis-grizzlies"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_grizzlies-kings-live-streaming-430755408"
-            },
-            {
-                "source": "echo",
-                "id": "memphis-grizzlies-vs-sacramento-kings-basketball-470308"
-            },
-            {
                 "source": "golf",
                 "id": "19931"
             }
         ]
     },
     {
-        "id": "detroit-pistons-vs-san-antonio-spurs-2358191",
-        "title": "Detroit Pistons vs San Antonio Spurs",
-        "category": "basketball",
+        "id": "live-event_monday-night-raw-live-stream",
+        "title": "Monday Night Raw",
+        "category": "fight",
         "date": 1771891200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCDJRuIWiRA6+mkCly6QEc4ngFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Detroit Pistons",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8QfMN2zMQ3EABNcukCRAoQEdSd0EKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "San Antonio Spurs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzlhRtXvhDcQAE20GQIEiBTGQiPgQpMrXNeXrzRKYE1pg1Y0RCA"
-            }
-        },
         "sources": [
             {
+                "source": "delta",
+                "id": "live-event_monday-night-raw-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "wwe-monday-night-raw-wwe-2025"
+            },
+            {
                 "source": "golf",
-                "id": "19930"
+                "id": "19960"
             }
         ]
     },
@@ -192,6 +147,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-detroit-tigers-vs-atlanta-braves"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_braves-tigers-live-streaming-508120560"
             },
@@ -223,6 +182,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-pittsburgh-pirates-vs-boston-red-sox"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_red-sox-pirates-live-streaming-508120992"
@@ -288,6 +251,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-new-york-yankees-vs-toronto-blue-jays"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_blue-jays-yankees-live-streaming-508122288"
             },
@@ -351,6 +318,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-houston-astros-vs-new-york-mets"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_mets-astros-live-streaming-508123152"
@@ -600,6 +571,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-cleveland-guardians-vs-los-angeles-dodgers"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_dodgers-guardians-live-streaming-508124880"
             },
@@ -610,6 +585,30 @@
             {
                 "source": "golf",
                 "id": "19954"
+            }
+        ]
+    },
+    {
+        "id": "ppv-los-angeles-angels-vs-colorado-rockies",
+        "title": "Los Angeles Angels vs. Colorado Rockies",
+        "category": "baseball",
+        "date": 1771963800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdECYT3gxAoQomCAF8sIdiQkgAxsEQil0kRBDT6w5SHjLsvEOPEhlKYKzDsuwAtjxXCwJLgWWON2n04MnDgZgNsB87BBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Los Angeles Angels",
+                "badge": ""
+            },
+            "away": {
+                "name": "Colorado Rockies",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-los-angeles-angels-vs-colorado-rockies"
             }
         ]
     },
@@ -631,6 +630,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-chicago-white-sox-vs-seattle-mariners"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_mariners-white-sox-live-streaming-508126608"
