@@ -32,6 +32,31 @@
         ]
     },
     {
+        "id": "live-event_edward-vazquez-vs-grimardi-machuca-live-stream",
+        "title": "Edward Vazquez vs Grimardi Machuca",
+        "category": "fight",
+        "date": 1772233200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Edward Vazquez"
+            },
+            "away": {
+                "name": "Grimardi Machuca"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_edward-vazquez-vs-grimardi-machuca-live-stream"
+            },
+            {
+                "source": "golf",
+                "id": "20160"
+            }
+        ]
+    },
+    {
         "id": "chile-basketball-vs-colombia-basketball-2389728",
         "title": "Chile Basketball vs Colombia Basketball",
         "category": "basketball",
@@ -119,18 +144,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-los-angeles-dodgers-vs-san-francisco-giants"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_giants-dodgers-live-streaming-509490000"
-            },
-            {
-                "source": "echo",
-                "id": "san-francisco-giants-vs-los-angeles-dodgers-baseball-180218"
-            },
             {
                 "source": "golf",
                 "id": "20066"
@@ -296,6 +309,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_quinn-vs-dodd-live-stream"
+            },
             {
                 "source": "golf",
                 "id": "20159"
