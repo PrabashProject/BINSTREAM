@@ -231,30 +231,6 @@
         ]
     },
     {
-        "id": "barcelona-vs-villarreal-2279644",
-        "title": "Barcelona vs Villarreal",
-        "category": "football",
-        "date": 1772291700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOCRB8wSECjB8Q3LSE3GIpkDFwgL8AsCQU+w2fX0qUXMGXhEssl5MtGA+YqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Barcelona",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huIFAnbYQ6gCYhEKEBBAwQB06fgEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Villarreal",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm1FLDDcwKENxAQQfEIhIgYJ80ZMEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-barcelona-vs-villarreal"
-            }
-        ]
-    },
-    {
         "id": "cognizant-classic-pga-tour-atp1000",
         "title": "Cognizant Classic | PGA Tour",
         "category": "other",
@@ -1268,7 +1244,7 @@
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-ufc-fight-night-moreno-vs-kavanagh-main-card"
+                "id": "ppv-ufc-fight-night-moreno-vs-kavanagh-prelims"
             },
             {
                 "source": "delta",
@@ -1277,29 +1253,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-01-ufc-fight-night-moreno-v-kavanagh-ppv-001"
-            }
-        ]
-    },
-    {
-        "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2518",
-        "title": "Francis Marshall vs Erik Silva",
-        "category": "fight",
-        "date": 1772319600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Francis Marshall",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQEEMpD1yDMc2Bge8KVW6iGrMDra4IQA"
-            },
-            "away": {
-                "name": "Erik Silva",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQEEMqH1yDMc2Bge8KVW6iGrMDra4IQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2518"
             }
         ]
     },
@@ -1323,6 +1276,29 @@
             {
                 "source": "echo",
                 "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2465"
+            }
+        ]
+    },
+    {
+        "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2518",
+        "title": "Francis Marshall vs Erik Silva",
+        "category": "fight",
+        "date": 1772319600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Francis Marshall",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQEEMpD1yDMc2Bge8KVW6iGrMDra4IQA"
+            },
+            "away": {
+                "name": "Erik Silva",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQEEMqH1yDMc2Bge8KVW6iGrMDra4IQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2518"
             }
         ]
     },
