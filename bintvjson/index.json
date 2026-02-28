@@ -1,5 +1,100 @@
 [
     {
+        "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2523",
+        "title": "Javier Reyes vs Douglas Silva de Andrade",
+        "category": "fight",
+        "date": 1772320500000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Javier Reyes",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQi7CBT1yDMc2Bge8KVW6iGrMDra4IQA"
+            },
+            "away": {
+                "name": "Douglas Silva de Andrade",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAoQMECTrkGY5sDA94Uqt1ENWYbW1wQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2523"
+            }
+        ]
+    },
+    {
+        "id": "colorado-avalanche-vs-chicago-blackhawks-2347820",
+        "title": "Colorado Avalanche vs Chicago Blackhawks",
+        "category": "hockey",
+        "date": 1772319600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKIAMIKPDB8Q3QyANSQMECnPWriCUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Colorado Avalanche",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA"
+            },
+            "away": {
+                "name": "Chicago Blackhawks",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLBk+YFGAAm2ENxARcRmAb0hzJiYRjAmfFF1Xl680Q6a0wqsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-chicago-blackhawks-vs-colorado-avalanche"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl_avalanche-blackhawks-live-streaming-510100416"
+            },
+            {
+                "source": "echo",
+                "id": "colorado-avalanche-vs-chicago-blackhawks-hockey-416555"
+            },
+            {
+                "source": "golf",
+                "id": "20076"
+            }
+        ]
+    },
+    {
+        "id": "columbus-blue-jackets-vs-new-york-islanders-2347821",
+        "title": "Columbus Blue Jackets vs New York Islanders",
+        "category": "hockey",
+        "date": 1772319600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRCnYg+IWgAYQ3bSCkgYIFGauXECpkgp9hs+ijArNbd+XpZZmplowdzFRCCA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Columbus Blue Jackets",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjkU0PpBDcQEXNpB8QKfSRCJlhGMCZ8UXMGVX15o+01phHY0RCA"
+            },
+            "away": {
+                "name": "New York Islanders",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3C98IDSRDdtIACa6UILYgN9dEAhSZ8UXMGXhF5ou01pgHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-new-york-islanders-vs-columbus-blue-jackets"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl_blue-jackets-islanders-live-streaming-510100848"
+            },
+            {
+                "source": "echo",
+                "id": "columbus-blue-jackets-vs-new-york-islanders-hockey-416556"
+            },
+            {
+                "source": "golf",
+                "id": "20075"
+            }
+        ]
+    },
+    {
         "id": "st--louis-blues-vs-new-jersey-devils-2347819",
         "title": "St. Louis Blues vs New Jersey Devils",
         "category": "hockey",
@@ -131,29 +226,6 @@
         ]
     },
     {
-        "id": "egypt-basketball-vs-angola-basketball-2389708",
-        "title": "Egypt Basketball vs Angola Basketball",
-        "category": "basketball",
-        "date": 1772312400000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Egypt Basketball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLC95A0CBDcQfEIhi59ICFpAltBCkz4ouYMvCLzRdprTAOxoiEA"
-            },
-            "away": {
-                "name": "Angola Basketball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wSMChAkQKUiG7ajIVab4GTICAQpM+etmDLwi80Xqa0wTsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "egypt-vs-angola-basketball-485529"
-            }
-        ]
-    },
-    {
         "id": "miami-heat-vs-houston-rockets-2358227",
         "title": "Miami Heat vs Houston Rockets",
         "category": "basketball",
@@ -171,18 +243,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-houston-rockets-vs-miami-heat"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_heat-rockets-live-streaming-430890624"
-            },
-            {
-                "source": "echo",
-                "id": "miami-heat-vs-houston-rockets-basketball-470343"
-            },
             {
                 "source": "golf",
                 "id": "20085"
@@ -212,80 +272,8 @@
                 "id": "ppv-kansas-city-royals-vs-colorado-rockies"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_rockies-royals-live-streaming-510096960"
-            },
-            {
-                "source": "echo",
-                "id": "colorado-rockies-vs-kansas-city-royals-baseball-180239"
-            },
-            {
                 "source": "golf",
                 "id": "20101"
-            }
-        ]
-    },
-    {
-        "id": "milwaukee-brewers-vs-cincinnati-reds-2392842",
-        "title": "Milwaukee Brewers vs Cincinnati Reds",
-        "category": "baseball",
-        "date": 1772309400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBggc8MLxD9pB7Sf2J9KEBBCJpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Milwaukee Brewers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Cincinnati Reds",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cincinnati-reds-vs-milwaukee-brewers"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_brewers-reds-live-streaming-510097824"
-            },
-            {
-                "source": "echo",
-                "id": "milwaukee-brewers-vs-cincinnati-reds-baseball-180235"
-            },
-            {
-                "source": "golf",
-                "id": "20103"
-            }
-        ]
-    },
-    {
-        "id": "san-diego-padres-vs-seattle-mariners-2392839",
-        "title": "San Diego Padres vs Seattle Mariners",
-        "category": "baseball",
-        "date": 1772309400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKuBCgQ-Rvh0gshg4l4gUICCGogSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "San Diego Padres",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Seattle Mariners",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-seattle-mariners-vs-san-diego-padres"
-            },
-            {
-                "source": "golf",
-                "id": "20104"
             }
         ]
     },
@@ -322,6 +310,110 @@
         ]
     },
     {
+        "id": "san-diego-padres-vs-seattle-mariners-2392839",
+        "title": "San Diego Padres vs Seattle Mariners",
+        "category": "baseball",
+        "date": 1772309400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKuBCgQ-Rvh0gshg4l4gUICCGogSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "San Diego Padres",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "Seattle Mariners",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-seattle-mariners-vs-san-diego-padres"
+            },
+            {
+                "source": "golf",
+                "id": "20104"
+            }
+        ]
+    },
+    {
+        "id": "milwaukee-brewers-vs-cincinnati-reds-2392842",
+        "title": "Milwaukee Brewers vs Cincinnati Reds",
+        "category": "baseball",
+        "date": 1772309400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBggc8MLxD9pB7Sf2J9KEBBCJpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Milwaukee Brewers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Cincinnati Reds",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-cincinnati-reds-vs-milwaukee-brewers"
+            },
+            {
+                "source": "golf",
+                "id": "20103"
+            }
+        ]
+    },
+    {
+        "id": "ppv-chicago-cubs-vs-los-angeles-dodgers",
+        "title": "Chicago Cubs vs. Los Angeles Dodgers",
+        "category": "baseball",
+        "date": 1772309100000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEE4CYCRDwGvEOKzBO4mQGMQs7MJAQxIoQNWSs44Ig0rlk6WWCsw7LsALY8ZwsCS5ZKDmcbwKnBnZsiwFvw+EEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Chicago Cubs",
+                "badge": ""
+            },
+            "away": {
+                "name": "Los Angeles Dodgers",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-chicago-cubs-vs-los-angeles-dodgers"
+            }
+        ]
+    },
+    {
+        "id": "texas-rangers-vs-los-angeles-dodgers-2392843",
+        "title": "Texas Rangers vs Los Angeles Dodgers",
+        "category": "baseball",
+        "date": 1772309100000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmOoDKIFCGkheILMcMhERvRBAkQu-MCQUsIuYxRhVKHp-KMtYt4O9GCe4mIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Texas Rangers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Los Angeles Dodgers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5KwJCAAmIRN20HEIYyBQg+J+AQpM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "golf",
+                "id": "20099"
+            }
+        ]
+    },
+    {
         "id": "athletics-vs-san-francisco-giants-2392849",
         "title": "Athletics vs San Francisco Giants",
         "category": "baseball",
@@ -340,52 +432,8 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_athletics-giants-live-streaming-510094368"
-            },
-            {
-                "source": "echo",
-                "id": "athletics-vs-san-francisco-giants-baseball-180242"
-            },
-            {
                 "source": "golf",
                 "id": "20097"
-            }
-        ]
-    },
-    {
-        "id": "los-angeles-dodgers-vs-chicago-cubs-2392844",
-        "title": "Los Angeles Dodgers vs Chicago Cubs",
-        "category": "baseball",
-        "date": 1772309100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvX5hSIaSH28QWIyEOJDKEBF0hm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Los Angeles Dodgers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5KwJCAAmIRN20HEIYyBQg+J+AQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Chicago Cubs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-chicago-cubs-vs-los-angeles-dodgers"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_dodgers-cubs-live-streaming-510095664"
-            },
-            {
-                "source": "echo",
-                "id": "texas-rangers-vs-los-angeles-dodgers-baseball-180236"
-            },
-            {
-                "source": "golf",
-                "id": "20099"
             }
         ]
     },
@@ -412,14 +460,6 @@
                 "id": "ppv-chicago-white-sox-vs-cleveland-guardians"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_guardians-white-sox-live-streaming-510094800"
-            },
-            {
-                "source": "echo",
-                "id": "cleveland-guardians-vs-chicago-white-sox-baseball-180240"
-            },
-            {
                 "source": "golf",
                 "id": "20098"
             }
@@ -444,68 +484,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-boston-bruins-vs-philadelphia-flyers"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl_flyers-bruins-live-streaming-510099120"
-            },
-            {
-                "source": "echo",
-                "id": "philadelphia-flyers-vs-boston-bruins-hockey-416552"
-            },
-            {
                 "source": "golf",
                 "id": "20072"
-            }
-        ]
-    },
-    {
-        "id": "miami-marlins-vs-st--louis-cardinals-2392836",
-        "title": "Miami Marlins vs St. Louis Cardinals",
-        "category": "baseball",
-        "date": 1772302200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBwoQ0kGJAGQvTSeOJj2iEZCL8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Miami Marlins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "St. Louis Cardinals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20095"
-            }
-        ]
-    },
-    {
-        "id": "new-york-mets-vs-washington-nationals-2392841",
-        "title": "New York Mets vs Washington Nationals",
-        "category": "baseball",
-        "date": 1772302200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlhAw+W0CBIheITZqOIjKEBBCJ4LJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New York Mets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA"
-            },
-            "away": {
-                "name": "Washington Nationals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20096"
             }
         ]
     },
@@ -567,82 +547,10 @@
         ]
     },
     {
-        "id": "columbus-blue-jackets-vs-new-york-islanders-2347821",
-        "title": "Columbus Blue Jackets vs New York Islanders",
-        "category": "hockey",
-        "date": 1772319600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRCnYg+IWgAYQ3bSCkgYIFGauXECpkgp9hs+ijArNbd+XpZZmplowdzFRCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Columbus Blue Jackets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjkU0PpBDcQEXNpB8QKfSRCJlhGMCZ8UXMGVX15o+01phHY0RCA"
-            },
-            "away": {
-                "name": "New York Islanders",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3C98IDSRDdtIACa6UILYgN9dEAhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-new-york-islanders-vs-columbus-blue-jackets"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl_blue-jackets-islanders-live-streaming-510100848"
-            },
-            {
-                "source": "echo",
-                "id": "columbus-blue-jackets-vs-new-york-islanders-hockey-416556"
-            },
-            {
-                "source": "golf",
-                "id": "20075"
-            }
-        ]
-    },
-    {
-        "id": "colorado-avalanche-vs-chicago-blackhawks-2347820",
-        "title": "Colorado Avalanche vs Chicago Blackhawks",
-        "category": "hockey",
-        "date": 1772319600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKIAMIKPDB8Q3QyANSQMECnPWriCUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Colorado Avalanche",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA"
-            },
-            "away": {
-                "name": "Chicago Blackhawks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLBk+YFGAAm2ENxARcRmAb0hzJiYRjAmfFF1Xl680Q6a0wqsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-chicago-blackhawks-vs-colorado-avalanche"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl_avalanche-blackhawks-live-streaming-510100416"
-            },
-            {
-                "source": "echo",
-                "id": "colorado-avalanche-vs-chicago-blackhawks-hockey-416555"
-            },
-            {
-                "source": "golf",
-                "id": "20076"
-            }
-        ]
-    },
-    {
         "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2465",
         "title": "Kris Moutinho vs Cristian Qui\u00c3\u00b1onez",
         "category": "fight",
-        "date": 1772320500000,
+        "date": 1772322000000,
         "popular": true,
         "teams": {
             "home": {
@@ -658,29 +566,6 @@
             {
                 "source": "echo",
                 "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2465"
-            }
-        ]
-    },
-    {
-        "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2523",
-        "title": "Javier Reyes vs Douglas Silva de Andrade",
-        "category": "fight",
-        "date": 1772320500000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Javier Reyes",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQi7CBT1yDMc2Bge8KVW6iGrMDra4IQA"
-            },
-            "away": {
-                "name": "Douglas Silva de Andrade",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAoQMECTrkGY5sDA94Uqt1ENWYbW1wQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2523"
             }
         ]
     }
