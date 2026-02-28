@@ -718,6 +718,20 @@
         ]
     },
     {
+        "id": "ppv-supercross-daytona",
+        "title": "Supercross: Daytona",
+        "category": "motor-sports",
+        "date": 1772301600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEFEfgMa8QMECRCIIIkFhBSQDYJxDKpyxAtkCl2OcHiLlJfUt7AywVmHZdgBbHkuFgSXAJQdLjeBU6KP9gZg1sAQihBAA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-supercross-daytona"
+            }
+        ]
+    },
+    {
         "id": "monaco-vs-angers-2278321",
         "title": "Monaco vs Angers",
         "category": "football",
@@ -1315,7 +1329,7 @@
             },
             {
                 "source": "echo",
-                "id": "los-angeles-dodgers-vs-chicago-cubs-baseball-180237"
+                "id": "texas-rangers-vs-los-angeles-dodgers-baseball-180236"
             },
             {
                 "source": "golf",
@@ -1662,25 +1676,28 @@
         ]
     },
     {
-        "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2465",
-        "title": "Kris Moutinho vs Cristian Qui\u00c3\u00b1onez",
+        "id": "ufc-fight-night-268-moreno-vs-kavanagh-2391886",
+        "title": "UFC Fight Night 268 Moreno vs Kavanagh",
         "category": "fight",
-        "date": 1772319600000,
+        "date": 1772316000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEAYxBTBOIESJQDgJPiEQwhQ0SPbDhgqTBDCQkhiAjB9iLCCnD6g1mHZdgBbHmBhCwJLl6COV2vs4MHd+EcrAz8IIA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Kris Moutinho",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQiMSBJ1yDMc2Bge8KVW6iGrMDra4IQA"
+                "name": "UFC Fight Night 268 Moreno"
             },
             "away": {
-                "name": "Cristian Qui\u00c3\u00b1onez",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQEEGMX1yDMc2Bge8KVW6iGrMDra4IQA"
+                "name": "Kavanagh"
             }
         },
         "sources": [
             {
-                "source": "echo",
-                "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2465"
+                "source": "admin",
+                "id": "ppv-ufc-fight-night-moreno-vs-kavanagh-prelims"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_ufc-fight-night-moreno-vs-almabayev-live-stream"
             }
         ]
     },
@@ -1704,6 +1721,29 @@
             {
                 "source": "echo",
                 "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2518"
+            }
+        ]
+    },
+    {
+        "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2465",
+        "title": "Kris Moutinho vs Cristian Qui\u00c3\u00b1onez",
+        "category": "fight",
+        "date": 1772319600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Kris Moutinho",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQiMSBJ1yDMc2Bge8KVW6iGrMDra4IQA"
+            },
+            "away": {
+                "name": "Cristian Qui\u00c3\u00b1onez",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQEEGMX1yDMc2Bge8KVW6iGrMDra4IQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2465"
             }
         ]
     },
