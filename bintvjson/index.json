@@ -78,10 +78,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-denver-nuggets-vs-oklahoma-city-thunder"
-            },
-            {
                 "source": "delta",
                 "id": "live_nba_thunder-nuggets-live-streaming-430851312"
             },
@@ -113,10 +109,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-minnesota-wild-vs-utah-mammoth"
-            },
             {
                 "source": "golf",
                 "id": "20048"
@@ -168,30 +160,6 @@
             {
                 "source": "golf",
                 "id": "20070"
-            }
-        ]
-    },
-    {
-        "id": "milwaukee-bucks-vs-new-york-knicks-2358223",
-        "title": "Milwaukee Bucks vs New York Knicks",
-        "category": "basketball",
-        "date": 1772240400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRErB8Qo7iD3aSIFLhAazISyQLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Milwaukee Bucks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ZhQYUXxAwQ3EABNcukCRAoQEEFp2MKTPii4by9eaMdNaYDWNEQgA"
-            },
-            "away": {
-                "name": "New York Knicks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gUoWGFEATENxAk9RkEZggIIRMsIxgTPurZby9eaPVNaYLWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20052"
             }
         ]
     },
@@ -834,6 +802,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-pittsburgh-penguins-vs-new-york-rangers"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl_rangers-penguins-live-streaming-510098688"
+            },
+            {
                 "source": "echo",
                 "id": "new-york-rangers-vs-pittsburgh-penguins-hockey-416551"
             },
@@ -889,6 +865,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-portland-trail-blazers-vs-charlotte-hornets"
+            },
+            {
+                "source": "delta",
+                "id": "live_nba_hornets-trail-blazers-live-streaming-430890192"
+            },
             {
                 "source": "echo",
                 "id": "charlotte-hornets-vs-portland-trail-blazers-basketball-470342"
@@ -1240,6 +1224,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-boston-bruins-vs-philadelphia-flyers"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl_flyers-bruins-live-streaming-510099120"
+            },
+            {
                 "source": "echo",
                 "id": "philadelphia-flyers-vs-boston-bruins-hockey-416552"
             },
@@ -1301,7 +1293,7 @@
             },
             {
                 "source": "echo",
-                "id": "los-angeles-dodgers-vs-chicago-cubs-baseball-180237"
+                "id": "texas-rangers-vs-los-angeles-dodgers-baseball-180236"
             },
             {
                 "source": "golf",
@@ -1520,6 +1512,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-houston-rockets-vs-miami-heat"
+            },
+            {
+                "source": "delta",
+                "id": "live_nba_heat-rockets-live-streaming-430890624"
+            },
+            {
                 "source": "echo",
                 "id": "miami-heat-vs-houston-rockets-basketball-470343"
             },
@@ -1547,6 +1547,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-edmonton-oilers-vs-san-jose-sharks"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl_sharks-oilers-live-streaming-510099552"
+            },
             {
                 "source": "echo",
                 "id": "san-jose-sharks-vs-edmonton-oilers-hockey-416553"
@@ -1645,6 +1653,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-new-jersey-devils-vs-st-louis-blues"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl_blues-devils-live-streaming-510099984"
+            },
+            {
                 "source": "echo",
                 "id": "st-louis-blues-vs-new-jersey-devils-hockey-416554"
             },
@@ -1719,6 +1735,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-new-york-islanders-vs-columbus-blue-jackets"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl_blue-jackets-islanders-live-streaming-510100848"
+            },
+            {
                 "source": "echo",
                 "id": "columbus-blue-jackets-vs-new-york-islanders-hockey-416556"
             },
@@ -1746,6 +1770,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-chicago-blackhawks-vs-colorado-avalanche"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl_avalanche-blackhawks-live-streaming-510100416"
+            },
             {
                 "source": "echo",
                 "id": "colorado-avalanche-vs-chicago-blackhawks-hockey-416555"
