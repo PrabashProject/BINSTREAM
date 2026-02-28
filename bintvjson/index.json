@@ -118,14 +118,6 @@
                 "id": "ppv-minnesota-wild-vs-utah-mammoth"
             },
             {
-                "source": "delta",
-                "id": "live_nhl_mammoth-wild-live-streaming-509493456"
-            },
-            {
-                "source": "echo",
-                "id": "utah-mammoth-vs-minnesota-wild-hockey-416549"
-            },
-            {
                 "source": "golf",
                 "id": "20048"
             }
@@ -149,18 +141,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-memphis-grizzlies-vs-dallas-mavericks"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_mavericks-grizzlies-live-streaming-430850880"
-            },
-            {
-                "source": "echo",
-                "id": "dallas-mavericks-vs-memphis-grizzlies-basketball-470340"
-            },
             {
                 "source": "golf",
                 "id": "20053"
@@ -186,34 +166,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-arizona-diamondbacks-vs-seattle-mariners"
-            },
-            {
                 "source": "golf",
                 "id": "20070"
-            }
-        ]
-    },
-    {
-        "id": "ppv-wwe-friday-night-smackdown",
-        "title": "WWE: Friday Night Smackdown",
-        "category": "fight",
-        "date": 1772240400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTdxAYxCCsIGME4gSg4CWCJEKEMOG8GIRPUUixs6SAWTBfbBLUpgrMOy7AC2POcLAkuPmY6XaEbezO345y2AvdgggA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-wwe-friday-night-smackdown"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_friday-night-smackdown-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "wwe-friday-night-smackdown-wwe-009"
             }
         ]
     },
@@ -242,50 +196,19 @@
         ]
     },
     {
-        "id": "boston-celtics-vs-brooklyn-nets-2358222",
-        "title": "Boston Celtics vs Brooklyn Nets",
-        "category": "basketball",
-        "date": 1772238600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMrSRgpCUCG4g+IEiBS4QiCBZA34BYFpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Boston Celtics",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0kIDaPn4Q3EABMDIPiBQhEhkhtMEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Brooklyn Nets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAADAoAmpEJpDcQfEIhQhTEEJcR6JhGMCZ8UXMGXhF5o501phXY0QggA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20051"
-            }
-        ]
-    },
-    {
-        "id": "detroit-pistons-vs-cleveland-cavaliers-2358221",
-        "title": "Detroit Pistons vs Cleveland Cavaliers",
-        "category": "basketball",
+        "id": "live-event_friday-night-smackdown-live-stream",
+        "title": "Friday Night SmackDown",
+        "category": "fight",
         "date": 1772236800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOA1kBtDdxB8QJEClwhEEcxtwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Detroit Pistons",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8QfMN2zMQ3EABNcukCRAoQEdSd0EKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Cleveland Cavaliers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAoEIPiFEAGENxAATQyAgmNIC0ZK4CFJnxRcwZeEXmjHTWmGdjREIA"
-            }
-        },
         "sources": [
             {
-                "source": "golf",
-                "id": "20050"
+                "source": "delta",
+                "id": "live-event_friday-night-smackdown-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "wwe-friday-night-smackdown-wwe-009"
             }
         ]
     },
@@ -1378,7 +1301,7 @@
             },
             {
                 "source": "echo",
-                "id": "texas-rangers-vs-los-angeles-dodgers-baseball-180236"
+                "id": "los-angeles-dodgers-vs-chicago-cubs-baseball-180237"
             },
             {
                 "source": "golf",
@@ -1732,29 +1655,6 @@
         ]
     },
     {
-        "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2465",
-        "title": "Kris Moutinho vs Cristian Qui\u00c3\u00b1onez",
-        "category": "fight",
-        "date": 1772319600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Kris Moutinho",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQiMSBJ1yDMc2Bge8KVW6iGrMDra4IQA"
-            },
-            "away": {
-                "name": "Cristian Qui\u00c3\u00b1onez",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQEEGMX1yDMc2Bge8KVW6iGrMDra4IQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2465"
-            }
-        ]
-    },
-    {
         "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2518",
         "title": "Francis Marshall vs Erik Silva",
         "category": "fight",
@@ -1774,6 +1674,29 @@
             {
                 "source": "echo",
                 "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2518"
+            }
+        ]
+    },
+    {
+        "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2465",
+        "title": "Kris Moutinho vs Cristian Qui\u00c3\u00b1onez",
+        "category": "fight",
+        "date": 1772319600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Kris Moutinho",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQiMSBJ1yDMc2Bge8KVW6iGrMDra4IQA"
+            },
+            "away": {
+                "name": "Cristian Qui\u00c3\u00b1onez",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQEEGMX1yDMc2Bge8KVW6iGrMDra4IQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ufc-fight-night-moreno-vs-kavanagh-mma-2465"
             }
         ]
     },
