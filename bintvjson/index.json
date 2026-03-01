@@ -1,5 +1,69 @@
 [
     {
+        "id": "marseille-vs-lyon-2278319",
+        "title": "Marseille vs Lyon",
+        "category": "football",
+        "date": 1772394300000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMLjCimABmA6Q3EHxAkQEEJZiXjhwwWBIKfYbPootbFFy3l6WWW8mWjBPelEIIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Marseille",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJko8MCkghuICCD4hEJEDD0GQAEz0EKTPii5gyG+vNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Lyon",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lhgABhAoQfHSG4gAJiBJGtIRDhAgIJghSZ8UXMGXhF5o501phXY0QggA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-marseille-vs-lyon"
+            },
+            {
+                "source": "delta",
+                "id": "live_ligue-1_marseille-lyon-live-streaming-471701232"
+            },
+            {
+                "source": "echo",
+                "id": "marseille-vs-lyon-football-1387908"
+            }
+        ]
+    },
+    {
+        "id": "roma-vs-juventus-2265301",
+        "title": "Roma vs Juventus",
+        "category": "football",
+        "date": 1772394300000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmBnqQvPjpB6pIEiAincII4hAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Roma",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRg+2SrgQhuIPiAAmIGCFM4TR-RAIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Juventus",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIhgAExAx+2ENxB8QEXCBQhziQzj4EKTG1zBl4ReaJTAmtME7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-as-roma-vs-juventus"
+            },
+            {
+                "source": "delta",
+                "id": "live_serie-a_roma-juventus-live-streaming-471693456"
+            },
+            {
+                "source": "echo",
+                "id": "as-roma-vs-juventus-football-1378129"
+            }
+        ]
+    },
+    {
         "id": "poland-basketball-vs-latvia-basketball-2389738",
         "title": "Poland Basketball vs Latvia Basketball",
         "category": "basketball",
@@ -383,29 +447,6 @@
         ]
     },
     {
-        "id": "madagascar-basketball-vs-ivory-coast-basketball-2389745",
-        "title": "Madagascar Basketball vs Ivory Coast Basketball",
-        "category": "basketball",
-        "date": 1772388000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Madagascar Basketball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhmRevVXcQfEDFW6QAExP6zjCkz4ouYMvCLzRtprTD2xoiEA"
-            },
-            "away": {
-                "name": "Ivory Coast Basketball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzAADCBRg+IEOpDcQOxDFwhEiCCCsTCMYEz4ouYMvCLzRzprTCuxohBAA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "madagascar-vs-ivory-coast-basketball-485566"
-            }
-        ]
-    },
-    {
         "id": "new-york-knicks-vs-san-antonio-spurs-2358231",
         "title": "New York Knicks vs San Antonio Spurs",
         "category": "basketball",
@@ -485,38 +526,6 @@
             {
                 "source": "admin",
                 "id": "ppv-real-betis-vs-sevilla"
-            },
-            {
-                "source": "delta",
-                "id": "live_laliga_real-betis-sevilla-live-streaming-471697776"
-            },
-            {
-                "source": "echo",
-                "id": "real-betis-vs-sevilla-football-1391070"
-            }
-        ]
-    },
-    {
-        "id": "torino-vs-lazio-2265303",
-        "title": "Torino vs Lazio",
-        "category": "football",
-        "date": 1772384400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGRBAoQm7iD4g9BkiBPbEmgwYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Torino",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDg4WaChDcQEXSAMGYIACaHjjCkz4ouYMvCLzRtprTD2xoiEA"
-            },
-            "away": {
-                "name": "Lazio",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbmBRgAJghDcQEIyFOmYIHZZAWQBCkz4ouYMvCLzRzprTCuxohBAA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-torino-vs-lazio"
             }
         ]
     },
@@ -532,83 +541,6 @@
             {
                 "source": "admin",
                 "id": "ppv-indy-car-grand-prix-of-st-petersburg"
-            }
-        ]
-    },
-    {
-        "id": "cognizant-classic-pga-tour-atp1000",
-        "title": "Cognizant Classic | PGA Tour",
-        "category": "other",
-        "date": 1772375400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "cognizant-classic-pga-tour-atp1000"
-            }
-        ]
-    },
-    {
-        "id": "marseille-vs-lyon-2278319",
-        "title": "Marseille vs Lyon",
-        "category": "football",
-        "date": 1772394300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMLjCimABmA6Q3EHxAkQEEJZiXjhwwWBIKfYbPootbFFy3l6WWW8mWjBPelEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Marseille",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJko8MCkghuICCD4hEJEDD0GQAEz0EKTPii5gyG+vNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Lyon",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lhgABhAoQfHSG4gAJiBJGtIRDhAgIJghSZ8UXMGXhF5o501phXY0QggA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-marseille-vs-lyon"
-            },
-            {
-                "source": "delta",
-                "id": "live_ligue-1_marseille-lyon-live-streaming-471701232"
-            },
-            {
-                "source": "echo",
-                "id": "marseille-vs-lyon-football-1387908"
-            }
-        ]
-    },
-    {
-        "id": "roma-vs-juventus-2265301",
-        "title": "Roma vs Juventus",
-        "category": "football",
-        "date": 1772394300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmBnqQvPjpB6pIEiAincII4hAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Roma",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRg+2SrgQhuIPiAAmIGCFM4TR-RAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Juventus",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIhgAExAx+2ENxB8QEXCBQhziQzj4EKTG1zBl4ReaJTAmtME7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-as-roma-vs-juventus"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_roma-juventus-live-streaming-471693456"
-            },
-            {
-                "source": "echo",
-                "id": "as-roma-vs-juventus-football-1378129"
             }
         ]
     },
