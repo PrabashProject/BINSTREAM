@@ -18,18 +18,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-sacramento-kings-vs-los-angeles-lakers"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_lakers-kings-live-streaming-431022816"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-lakers-vs-sacramento-kings-basketball-470357"
-            },
-            {
                 "source": "golf",
                 "id": "20121"
             }
@@ -67,60 +55,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-new-orleans-pelicans-vs-la-clippers"
-            },
-            {
                 "source": "golf",
                 "id": "20120"
-            }
-        ]
-    },
-    {
-        "id": "dallas-mavericks-vs-oklahoma-city-thunder-2358239",
-        "title": "Dallas Mavericks vs Oklahoma City Thunder",
-        "category": "basketball",
-        "date": 1772413200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECVzAwIEGxB8Q3AxpApcIRBBDXjjYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Dallas Mavericks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhu1cFgQhuICLhAwQJEABMQFviBRmCFJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Oklahoma City Thunder",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwg+YACYht2rdzUgIILXpAwQiPmYIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20119"
-            }
-        ]
-    },
-    {
-        "id": "boston-celtics-vs-philadelphia-76ers-2358237",
-        "title": "Boston Celtics vs Philadelphia 76ers",
-        "category": "basketball",
-        "date": 1772413200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbtn64wfEBBDcQukiBS4QiffpimCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Boston Celtics",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0kIDaPn4Q3EABMDIPiBQhEhkhtMEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Philadelphia 76ers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8Q3ECRARNwACbrNhkNpAGdJnSgIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20118"
             }
         ]
     },
@@ -657,6 +593,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-detroit-red-wings-vs-nashville-predators"
+            },
             {
                 "source": "delta",
                 "id": "live_nhl_predators-red-wings-live-streaming-510892272"
