@@ -1,5 +1,28 @@
 [
     {
+        "id": "brazil-basketball-vs-colombia-basketball-2389767",
+        "title": "Brazil Basketball vs Colombia Basketball",
+        "category": "basketball",
+        "date": 1772488800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Brazil Basketball",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQUMlBCUQ3VSAAmIGIZBm1asxMIxgTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Colombia Basketball",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kpKYACbAADJpDcQfECRAbcIFCAjnEywjGBM+atmDLwi80Wqa0wbsVEIIA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "brazil-vs-colombia-basketball-485588"
+            }
+        ]
+    },
+    {
         "id": "argentina-basketball-vs-panama-basketball-2389764",
         "title": "Argentina Basketball vs Panama Basketball",
         "category": "basketball",
@@ -251,42 +274,6 @@
             {
                 "source": "admin",
                 "id": "ppv-real-madrid-vs-getafe"
-            },
-            {
-                "source": "delta",
-                "id": "live_laliga_real-madrid-getafe-live-streaming-471698208"
-            },
-            {
-                "source": "echo",
-                "id": "real-madrid-vs-getafe-football-1391076"
-            }
-        ]
-    },
-    {
-        "id": "udinese-vs-fiorentina-2265304",
-        "title": "Udinese vs Fiorentina",
-        "category": "football",
-        "date": 1772480700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRL1D0pICCG4g+IEsZAoQiPUaMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Udinese",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPmDXxoObiAj6QRozBArjeiYRjAmfFFzBlt9eaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Fiorentina",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDMQqpuBIhuIACYhtBmCBTqQJxDAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-udinese-vs-fiorentina"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_udinese-fiorentina-live-streaming-471694752"
             }
         ]
     },
@@ -308,18 +295,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-detroit-red-wings-vs-nashville-predators"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl_predators-red-wings-live-streaming-510892272"
-            },
-            {
-                "source": "echo",
-                "id": "nashville-predators-vs-detroit-red-wings-hockey-416572"
-            },
             {
                 "source": "golf",
                 "id": "20138"
@@ -489,29 +464,6 @@
             {
                 "source": "golf",
                 "id": "20150"
-            }
-        ]
-    },
-    {
-        "id": "brazil-basketball-vs-colombia-basketball-2389767",
-        "title": "Brazil Basketball vs Colombia Basketball",
-        "category": "basketball",
-        "date": 1772488800000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Brazil Basketball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQUMlBCUQ3VSAAmIGIZBm1asxMIxgTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Colombia Basketball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kpKYACbAADJpDcQfECRAbcIFCAjnEywjGBM+atmDLwi80Wqa0wbsVEIIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "brazil-vs-colombia-basketball-485588"
             }
         ]
     },
