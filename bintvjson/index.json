@@ -184,30 +184,6 @@
         ]
     },
     {
-        "id": "ppv-como-vs-internazionale",
-        "title": "Como vs. Internazionale",
-        "category": "football",
-        "date": 1772568000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEEhkeMD6JO-FCE4gAxiHb0QKYIPYiQarNiETgEEDB39JG9n3n1FrMOy7ACmi4WBJcUxRyu0IwUe0V3BYFYG7BBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Como",
-                "badge": ""
-            },
-            "away": {
-                "name": "Internazionale",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-como-vs-internazionale"
-            }
-        ]
-    },
-    {
         "id": "strasbourg-vs-stade-de-reims-2428917",
         "title": "Strasbourg vs Stade de Reims",
         "category": "football",
@@ -260,6 +236,34 @@
             {
                 "source": "delta",
                 "id": "live_copa-del-rey_barcelona-atl-madrid-live-streaming-503759088"
+            }
+        ]
+    },
+    {
+        "id": "como-vs-inter-milan-2432481",
+        "title": "Como vs Inter Milan",
+        "category": "football",
+        "date": 1772568000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrOogxORIl4gshkFpImQEEFZQgULJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Como",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcYEJpDdI2kABNcIPiAiqQJLWYmEYwJnxRcwZeEXminTWmBdjREEA"
+            },
+            "away": {
+                "name": "Inter Milan",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgUoMCRAATOiG479IPkYOIDMEPAIUmfdW03l680eqa0wmsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-como-vs-inter-milan"
+            },
+            {
+                "source": "echo",
+                "id": "como-vs-inter-football-1521547"
             }
         ]
     },
@@ -380,10 +384,6 @@
                 "id": "live_premier-league_bournemouth-brentford-live-streaming-471792816"
             },
             {
-                "source": "echo",
-                "id": "bournemouth-vs-brentford-football-1379250"
-            },
-            {
                 "source": "golf",
                 "id": "20209"
             }
@@ -431,14 +431,6 @@
             }
         },
         "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_twins-rays-live-streaming-511153632"
-            },
-            {
-                "source": "echo",
-                "id": "minnesota-twins-vs-tampa-bay-rays-baseball-180274"
-            },
             {
                 "source": "golf",
                 "id": "20199"
