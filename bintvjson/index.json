@@ -13,19 +13,6 @@
         ]
     },
     {
-        "id": "tgl-los-angeles-gc-vs-new-york-golf-club-pga-526234",
-        "title": "TGL: Los Angeles GC vs New York Golf Club",
-        "category": "other",
-        "date": 1772496000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "tgl-los-angeles-gc-vs-new-york-golf-club-pga-526234"
-            }
-        ]
-    },
-    {
         "id": "hapoel-tel-aviv-bc-vs-paris-basketball-2345352",
         "title": "Hapoel Tel Aviv BC vs Paris Basketball",
         "category": "basketball",
@@ -50,20 +37,20 @@
         ]
     },
     {
-        "id": "minnesota-twins-vs-tampa-bay-rays-2392881",
-        "title": "Minnesota Twins vs Tampa Bay Rays",
+        "id": "tampa-bay-rays-vs-philadelphia-phillies-2392883",
+        "title": "Tampa Bay Rays vs Philadelphia Phillies",
         "category": "baseball",
         "date": 1772561100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvzEomIRChC8QWIwd2n90s1hZIK19qPEowq7RxflG1OdvytgYC7iYhBAA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE3wwKsEhDSQvEFhNGQiYygMgItlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Minnesota Twins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
                 "name": "Tampa Bay Rays",
                 "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "Philadelphia Phillies",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA"
             }
         },
         "sources": [
@@ -128,6 +115,10 @@
                 "id": "ppv-afc-bournemouth-vs-brentford"
             },
             {
+                "source": "delta",
+                "id": "live_premier-league_bournemouth-brentford-live-streaming-471792816"
+            },
+            {
                 "source": "echo",
                 "id": "bournemouth-vs-brentford-football-1379250"
             },
@@ -160,6 +151,10 @@
                 "id": "ppv-leeds-united-vs-sunderland"
             },
             {
+                "source": "delta",
+                "id": "live_premier-league_leeds-sunderland-live-streaming-471794544"
+            },
+            {
                 "source": "echo",
                 "id": "leeds-vs-sunderland-football-1379254"
             },
@@ -190,6 +185,10 @@
             {
                 "source": "admin",
                 "id": "ppv-everton-vs-burnley"
+            },
+            {
+                "source": "delta",
+                "id": "live_premier-league_everton-burnley-live-streaming-471793680"
             },
             {
                 "source": "echo",
@@ -274,6 +273,10 @@
             {
                 "source": "admin",
                 "id": "ppv-barcelona-vs-atl-tico-madrid"
+            },
+            {
+                "source": "delta",
+                "id": "live_copa-del-rey_barcelona-atl-madrid-live-streaming-503759088"
             }
         ]
     },
@@ -452,8 +455,36 @@
                 "id": "ppv-wolverhampton-wanderers-vs-liverpool"
             },
             {
+                "source": "delta",
+                "id": "live_premier-league_wolves-liverpool-live-streaming-471796272"
+            },
+            {
                 "source": "golf",
                 "id": "20212"
+            }
+        ]
+    },
+    {
+        "id": "boston-red-sox-vs-puerto-rico-baseball-2434664",
+        "title": "Boston Red Sox vs Puerto Rico Baseball",
+        "category": "baseball",
+        "date": 1772579100000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEdrYEgOCISILLyHtO2EIMSJp9EAGNsMhcAghEKFcLEgtq9mWCsw7LsAJqUZwsCS5ldjhdoRgivNeFmLmgyaQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Boston Red Sox",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
+            },
+            "away": {
+                "name": "Puerto Rico Baseball",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3nwiABmBhsIbiAAmuECRAwDICKZApdBCkz4ouYMmvrzRTprW2ipdIA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-puerto-rico-vs-red-sox"
             }
         ]
     },
@@ -502,30 +533,6 @@
             {
                 "source": "admin",
                 "id": "ppv-venezuela-vs-astros"
-            }
-        ]
-    },
-    {
-        "id": "boston-red-sox-vs-puerto-rico-baseball-2434664",
-        "title": "Boston Red Sox vs Puerto Rico Baseball",
-        "category": "baseball",
-        "date": 1772579100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEdrYEgOCISILLyHtO2EIMSJp9EAGNsMhcAghEKFcLEgtq9mWCsw7LsAJqUZwsCS5ldjhdoRgivNeFmLmgyaQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Boston Red Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
-            },
-            "away": {
-                "name": "Puerto Rico Baseball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3nwiABmBhsIbiAAmuECRAwDICKZApdBCkz4ouYMmvrzRTprW2ipdIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-puerto-rico-vs-red-sox"
             }
         ]
     }
