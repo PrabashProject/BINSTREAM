@@ -330,14 +330,6 @@
             {
                 "source": "admin",
                 "id": "ppv-hamburg-sv-vs-bayer-leverkusen"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_hsv-leverkusen-live-streaming-503778960"
-            },
-            {
-                "source": "echo",
-                "id": "hamburger-sv-vs-bayer-leverkusen-football-1388455"
             }
         ]
     },
@@ -366,10 +358,6 @@
             {
                 "source": "delta",
                 "id": "live_premier-league_brighton-arsenal-live-streaming-471793248"
-            },
-            {
-                "source": "echo",
-                "id": "brighton-vs-arsenal-football-1379251"
             },
             {
                 "source": "golf",
@@ -404,10 +392,6 @@
                 "id": "live_premier-league_man-city-forest-live-streaming-471794976"
             },
             {
-                "source": "echo",
-                "id": "manchester-city-vs-nottingham-forest-football-1379255"
-            },
-            {
                 "source": "golf",
                 "id": "20216"
             }
@@ -440,10 +424,6 @@
                 "id": "live_premier-league_aston-villa-chelsea-live-streaming-471792384"
             },
             {
-                "source": "echo",
-                "id": "aston-villa-vs-chelsea-football-1379249"
-            },
-            {
                 "source": "golf",
                 "id": "20213"
             }
@@ -474,10 +454,6 @@
             {
                 "source": "delta",
                 "id": "live_premier-league_fulham-west-ham-live-streaming-471794112"
-            },
-            {
-                "source": "echo",
-                "id": "fulham-vs-west-ham-football-1379253"
             },
             {
                 "source": "golf",
@@ -523,78 +499,6 @@
         ]
     },
     {
-        "id": "adler-mannheim-vs-l-wen-frankfurt-2325966",
-        "title": "Adler Mannheim vs L\u00f6wen Frankfurt",
-        "category": "hockey",
-        "date": 1772649000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGAFTqZJCG4g+IEoZAQQMEFP3H9BYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Adler Mannheim",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZh2IGCAAm-ENxB9tIRBBAkNIS-ogEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "L\u00f6wen Frankfurt",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkkIEDzBkIIbiAAmuYyRAwQujTgMEKTPii7by9eaMdNaYbWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "adler-mannheim-vs-frankfurt-lowen-hockey-409106"
-            }
-        ]
-    },
-    {
-        "id": "tampa-bay-rays-vs-netherlands-baseball-2434668",
-        "title": "Tampa Bay Rays vs Netherlands Baseball",
-        "category": "baseball",
-        "date": 1772647500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdETkGfiAjBOweNgZiRIcSRkTEKECAYh6QkAGMJWECTGD1fXZrX8UwVmHZdgBCRbCFgSXJosdrtYaPYX74mDWwMLsEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Tampa Bay Rays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Netherlands Baseball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRg+IEiBggQbENxAATXBq1GTmnDAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-kingdom-of-the-netherlands-vs-tampa-bay-rays"
-            }
-        ]
-    },
-    {
-        "id": "minnesota-twins-vs-puerto-rico-baseball-2434671",
-        "title": "Minnesota Twins vs Puerto Rico Baseball",
-        "category": "baseball",
-        "date": 1772647500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEeYPxJ34NeIAMbBOIECPaIUkkBBAl+IKfRAoQm6TDUTNfTSRAwdC1mHZdgBbHmBhCwJLjEKO12hEkNH9nxg1sC+7BBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Minnesota Twins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Puerto Rico Baseball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3nwiABmBhsIbiAAmuECRAwDICKZApdBCkz4ouYMmvrzRTprW2ipdIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-puerto-rico-vs-minnesota-twins"
-            }
-        ]
-    },
-    {
         "id": "boston-red-sox-vs-new-york-yankees-2392887",
         "title": "Boston Red Sox vs New York Yankees",
         "category": "baseball",
@@ -612,18 +516,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-new-york-yankees-vs-boston-red-sox"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_red-sox-yankees-live-streaming-511413696"
-            },
-            {
-                "source": "echo",
-                "id": "boston-red-sox-vs-new-york-yankees-baseball-180280"
-            },
             {
                 "source": "golf",
                 "id": "20204"
@@ -649,60 +541,21 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-houston-astros-vs-baltimore-orioles"
-            },
-            {
                 "source": "golf",
                 "id": "20267"
             }
         ]
     },
     {
-        "id": "philadelphia-phillies-vs-canada-baseball-2434666",
-        "title": "Philadelphia Phillies vs Canada Baseball",
-        "category": "baseball",
-        "date": 1772647500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEEkeYIgDGILMAggRA9vX6jgnfoJApJIEA02KBArKP0xsyiYrLBWYdl2AEjKc4WBJcQ+x0u0ICzfdsCwluKaEEA.webp",
+        "id": "ppv-event-01-lucas-oil-late-models-golden-isles-ppv-001",
+        "title": "Lucas Oil Late Models Golden Isles \ud83d\udd25 \u2b50 \ud83d\udca5",
+        "category": "other",
+        "date": 1772662500000,
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Philadelphia Phillies",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Canada Baseball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4huIEOxD1Q6gCa4QJEDBAHE64yAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-canada-vs-philadelphia-phillies"
-            }
-        ]
-    },
-    {
-        "id": "atlanta-braves-vs-colombia-baseball-2434667",
-        "title": "Atlanta Braves vs Colombia Baseball",
-        "category": "baseball",
-        "date": 1772647500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEAYxHogsIGME4CQklCHjAScmUOAQxc4IkHDEiXgzGKIIEnxCc9xkCmCsw7LsALY81wsCS5eVjrdoqz7K0dZMFtlPQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Atlanta Braves",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Colombia Baseball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplpgQAExApgTUNw24QJEDAOJzICAQpM+2tmDLwi80dqarHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-colombia-vs-atlanta-braves"
+                "source": "echo",
+                "id": "ppv-event-01-lucas-oil-late-models-golden-isles-ppv-001"
             }
         ]
     },
