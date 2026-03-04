@@ -18,18 +18,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-phoenix-suns-vs-sacramento-kings"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_kings-suns-live-streaming-431091504"
-            },
-            {
-                "source": "echo",
-                "id": "sacramento-kings-vs-phoenix-suns-basketball-470371"
-            },
-            {
                 "source": "golf",
                 "id": "20192"
             }
@@ -54,100 +42,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-new-orleans-pelicans-vs-los-angeles-lakers"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_lakers-pelicans-live-streaming-431091072"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-lakers-vs-new-orleans-pelicans-basketball-470370"
-            },
-            {
                 "source": "golf",
                 "id": "20191"
-            }
-        ]
-    },
-    {
-        "id": "san-jose-sharks-vs-montreal-canadiens-2347851",
-        "title": "San Jose Sharks vs Montreal Canadiens",
-        "category": "hockey",
-        "date": 1772593200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFAghpwAAxgpIbiD4hDMEChAXjFi42BIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "San Jose Sharks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRKEHxDat3ECRAQQAExB6NiGCCvGCFJnxRc15evPXAmtMGrGiIQA"
-            },
-            "away": {
-                "name": "Montreal Canadiens",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4WMCjAgQ3EBFy6QfECiMmSIeAQpM+KLmDKr680Q6a0wTsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-montreal-canadiens-vs-san-jose-sharks"
-            },
-            {
-                "source": "golf",
-                "id": "20177"
-            }
-        ]
-    },
-    {
-        "id": "anaheim-ducks-vs-colorado-avalanche-2347850",
-        "title": "Anaheim Ducks vs Colorado Avalanche",
-        "category": "hockey",
-        "date": 1772593200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJF1FLgABhDcQfEFJAwQKU-stmYBYEgp9hs+ijAqUXd+XpZZnplowdzEtIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Anaheim Ducks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8IIdQBMQZddxB9VIFDoMhEhk5oIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Colorado Avalanche",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-colorado-avalanche-vs-anaheim-ducks"
-            },
-            {
-                "source": "golf",
-                "id": "20176"
-            }
-        ]
-    },
-    {
-        "id": "minnesota-wild-vs-tampa-bay-lightning-2347849",
-        "title": "Minnesota Wild vs Tampa Bay Lightning",
-        "category": "hockey",
-        "date": 1772591400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEHOoCqObiD4gpIGCBTHzZs6aZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Minnesota Wild",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+NMOETcQEXPpi79AExBnlhGMCZ8UXMGVX15ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Tampa Bay Lightning",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+YFOTIQQ3EDpx6+IFLpDmcjCkz4ouYMqvrzRdprTAOxoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20175"
             }
         ]
     },
@@ -361,29 +257,6 @@
         ]
     },
     {
-        "id": "kolner-vs-augsburger-panther-hockey-409104",
-        "title": "Kolner vs Augsburger Panther",
-        "category": "hockey",
-        "date": 1772649000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Kolner",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIEnXIMAxs2Bge8SVSmEGrMDra4IQA"
-            },
-            "away": {
-                "name": "Augsburger Panther",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIi+uQYBjZsDA94kqlMINWYbW1wQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "kolner-vs-augsburger-panther-hockey-409104"
-            }
-        ]
-    },
-    {
         "id": "bremerhaven-vs-straubing-tigers-hockey-409100",
         "title": "Bremerhaven vs Straubing Tigers",
         "category": "hockey",
@@ -426,6 +299,29 @@
             {
                 "source": "echo",
                 "id": "nurnberg-ice-tigers-vs-schwenninger-hockey-409105"
+            }
+        ]
+    },
+    {
+        "id": "kolner-vs-augsburger-panther-hockey-409104",
+        "title": "Kolner vs Augsburger Panther",
+        "category": "hockey",
+        "date": 1772649000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Kolner",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIEnXIMAxs2Bge8SVSmEGrMDra4IQA"
+            },
+            "away": {
+                "name": "Augsburger Panther",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIi+uQYBjZsDA94kqlMINWYbW1wQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "kolner-vs-augsburger-panther-hockey-409104"
             }
         ]
     },
