@@ -243,29 +243,6 @@
         ]
     },
     {
-        "id": "bremerhaven-vs-straubing-tigers-hockey-409100",
-        "title": "Bremerhaven vs Straubing Tigers",
-        "category": "hockey",
-        "date": 1772649000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Bremerhaven",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA"
-            },
-            "away": {
-                "name": "Straubing Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIACb1yDAMbNgYHvElUphBqzC62uCEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "bremerhaven-vs-straubing-tigers-hockey-409100"
-            }
-        ]
-    },
-    {
         "id": "kolner-vs-augsburger-panther-hockey-409104",
         "title": "Kolner vs Augsburger Panther",
         "category": "hockey",
@@ -285,6 +262,29 @@
             {
                 "source": "echo",
                 "id": "kolner-vs-augsburger-panther-hockey-409104"
+            }
+        ]
+    },
+    {
+        "id": "bremerhaven-vs-straubing-tigers-hockey-409100",
+        "title": "Bremerhaven vs Straubing Tigers",
+        "category": "hockey",
+        "date": 1772649000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Bremerhaven",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA"
+            },
+            "away": {
+                "name": "Straubing Tigers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIACb1yDAMbNgYHvElUphBqzC62uCEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "bremerhaven-vs-straubing-tigers-hockey-409100"
             }
         ]
     },
@@ -444,6 +444,10 @@
                 "id": "ppv-lorient-vs-nice"
             },
             {
+                "source": "delta",
+                "id": "live_coupe-de-france_lorient-nice-live-streaming-503784144"
+            },
+            {
                 "source": "echo",
                 "id": "lorient-vs-nice-football-1519244"
             }
@@ -472,6 +476,10 @@
                 "id": "ppv-hamburg-sv-vs-bayer-leverkusen"
             },
             {
+                "source": "delta",
+                "id": "live_bundesliga_hsv-leverkusen-live-streaming-503778960"
+            },
+            {
                 "source": "echo",
                 "id": "hamburger-sv-vs-bayer-leverkusen-football-1388455"
             }
@@ -498,6 +506,10 @@
             {
                 "source": "admin",
                 "id": "ppv-brighton-hove-albion-vs-arsenal"
+            },
+            {
+                "source": "delta",
+                "id": "live_premier-league_brighton-arsenal-live-streaming-471793248"
             },
             {
                 "source": "echo",
@@ -532,6 +544,10 @@
                 "id": "ppv-manchester-city-vs-nottingham-forest"
             },
             {
+                "source": "delta",
+                "id": "live_premier-league_man-city-forest-live-streaming-471794976"
+            },
+            {
                 "source": "echo",
                 "id": "manchester-city-vs-nottingham-forest-football-1379255"
             },
@@ -562,6 +578,10 @@
             {
                 "source": "admin",
                 "id": "ppv-aston-villa-vs-chelsea"
+            },
+            {
+                "source": "delta",
+                "id": "live_premier-league_aston-villa-chelsea-live-streaming-471792384"
             },
             {
                 "source": "echo",
@@ -596,6 +616,10 @@
                 "id": "ppv-fulham-vs-west-ham-united"
             },
             {
+                "source": "delta",
+                "id": "live_premier-league_fulham-west-ham-live-streaming-471794112"
+            },
+            {
                 "source": "echo",
                 "id": "fulham-vs-west-ham-football-1379253"
             },
@@ -628,6 +652,10 @@
                 "id": "ppv-real-sociedad-vs-athletic-club"
             },
             {
+                "source": "delta",
+                "id": "live_copa-del-rey_real-sociedad-athletic-club-live-streaming-503779392"
+            },
+            {
                 "source": "echo",
                 "id": "real-sociedad-vs-athletic-club-football-1520393"
             }
@@ -654,6 +682,10 @@
             {
                 "source": "admin",
                 "id": "ppv-marseille-vs-toulouse"
+            },
+            {
+                "source": "delta",
+                "id": "live_coupe-de-france_marseille-toulouse-live-streaming-503784576"
             },
             {
                 "source": "echo",
@@ -850,6 +882,10 @@
             {
                 "source": "admin",
                 "id": "ppv-newcastle-united-vs-manchester-united"
+            },
+            {
+                "source": "delta",
+                "id": "live_premier-league_newcastle-man-utd-live-streaming-471795408"
             },
             {
                 "source": "echo",
