@@ -1,44 +1,5 @@
 [
     {
-        "id": "ppv-czechia-vs-korea",
-        "title": "Czechia vs. Korea",
-        "category": "baseball",
-        "date": 1772704800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdECEGYIhIh2WEJ2wgxYlCADGg-sAjBOIWfEUhei9sIX0RSzWsRyUwVmHZdgBbHkuFgSXOY6XG8ChPYX7mmDWygzKQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Czechia",
-                "badge": ""
-            },
-            "away": {
-                "name": "Korea",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-czechia-vs-korea"
-            }
-        ]
-    },
-    {
-        "id": "joburg-open-2358587",
-        "title": "Joburg Open",
-        "category": "golf",
-        "date": 1772668800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELSxgBIEFJAQQ3EHxAldes7iPWSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "joburg-open-dp-world-tour-tgl-001"
-            }
-        ]
-    },
-    {
         "id": "india-cricket-vs-england-cricket-2441332",
         "title": "India Cricket vs England Cricket",
         "category": "cricket",
@@ -58,6 +19,21 @@
             {
                 "source": "echo",
                 "id": "t20-world-cup-semi-final-england-vs-india-cricket-1"
+            }
+        ]
+    },
+    {
+        "id": "joburg-open-2358587",
+        "title": "Joburg Open",
+        "category": "golf",
+        "date": 1772668800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELSxgBIEFJAQQ3EHxAldes7iPWSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "joburg-open-dp-world-tour-tgl-001"
             }
         ]
     },
@@ -407,29 +383,6 @@
         ]
     },
     {
-        "id": "valencia-vs-zalgiris-kaunas-basketball-454572",
-        "title": "Valencia vs Zalgiris Kaunas",
-        "category": "basketball",
-        "date": 1772739000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Valencia",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IKiEQQQJOuQYBjZpJ7wxVbgS6swYXPmtA"
-            },
-            "away": {
-                "name": "Zalgiris Kaunas",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IAMYgUIACb1yDZc0k94YqtwJdWYMLnzWgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "valencia-vs-zalgiris-kaunas-basketball-454572"
-            }
-        ]
-    },
-    {
         "id": "partizan-mozzart-bet-vs-dubai-basketball-454571",
         "title": "Partizan Mozzart Bet vs Dubai",
         "category": "basketball",
@@ -449,6 +402,29 @@
             {
                 "source": "echo",
                 "id": "partizan-mozzart-bet-vs-dubai-basketball-454571"
+            }
+        ]
+    },
+    {
+        "id": "valencia-vs-zalgiris-kaunas-basketball-454572",
+        "title": "Valencia vs Zalgiris Kaunas",
+        "category": "basketball",
+        "date": 1772739000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Valencia",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IKiEQQQJOuQYBjZpJ7wxVbgS6swYXPmtA"
+            },
+            "away": {
+                "name": "Zalgiris Kaunas",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IAMYgUIACb1yDZc0k94YqtwJdWYMLnzWgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "valencia-vs-zalgiris-kaunas-basketball-454572"
             }
         ]
     },
