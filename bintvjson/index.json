@@ -1,75 +1,33 @@
 [
     {
-        "id": "india-cricket-vs-england-cricket-2441332",
-        "title": "India Cricket vs England Cricket",
-        "category": "cricket",
-        "date": 1772717400000,
+        "id": "miami-marlins-vs-houston-astros-2392892",
+        "title": "Miami Marlins vs Houston Astros",
+        "category": "baseball",
+        "date": 1772734200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAghw8MGUEkQvEFhNGQiYyhDSQ16SyQUsIuYxR6OKHnvKNqct74rMBgnoxiEEA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "India Cricket",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3qsmYEAL4huIACYgI+zSZI6QZlAQpM+KLmDLwi80faa0wjsaIhA"
+                "name": "Miami Marlins",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA"
             },
             "away": {
-                "name": "England Cricket",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgyA2mBDbuIACYgI+kHxNqQukrgIUmfFFzBl4ReaIdNNTsaIhA"
+                "name": "Houston Astros",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA"
             }
         },
         "sources": [
             {
-                "source": "echo",
-                "id": "t20-world-cup-semi-final-england-vs-india-cricket-1"
-            }
-        ]
-    },
-    {
-        "id": "joburg-open-2358587",
-        "title": "Joburg Open",
-        "category": "golf",
-        "date": 1772668800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELSxgBIEFJAQQ3EHxAldes7iPWSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "joburg-open-dp-world-tour-tgl-001"
-            }
-        ]
-    },
-    {
-        "id": "arnold-palmer-invitational-pga-tour-pga-526234",
-        "title": "Arnold Palmer Invitational | PGA Tour",
-        "category": "other",
-        "date": 1772726400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "arnold-palmer-invitational-pga-tour-pga-526234"
-            }
-        ]
-    },
-    {
-        "id": "fenerbahce-vs-monaco-basketball-454568",
-        "title": "Fenerbahce vs Monaco",
-        "category": "basketball",
-        "date": 1772732700000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Fenerbahce",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiCogAxiBj1yDdc0k94YqtwJdWYMLnw2gA"
+                "source": "delta",
+                "id": "live_mlb_marlins-astros-live-streaming-511619760"
             },
-            "away": {
-                "name": "Monaco",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAm9cgwDGzST3hiq3Al1ZgwufJaA"
-            }
-        },
-        "sources": [
             {
                 "source": "echo",
-                "id": "fenerbahce-vs-monaco-basketball-454568"
+                "id": "miami-marlins-vs-houston-astros-baseball-180285"
+            },
+            {
+                "source": "golf",
+                "id": "20275"
             }
         ]
     },
@@ -286,34 +244,38 @@
         ]
     },
     {
-        "id": "miami-marlins-vs-houston-astros-2392892",
-        "title": "Miami Marlins vs Houston Astros",
-        "category": "baseball",
-        "date": 1772734200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAghw8MGUEkQvEFhNGQiYyhDSQ16SyQUsIuYxR6OKHnvKNqct74rMBgnoxiEEA.webp",
+        "id": "fenerbahce-vs-monaco-basketball-454568",
+        "title": "Fenerbahce vs Monaco",
+        "category": "basketball",
+        "date": 1772732700000,
         "popular": true,
         "teams": {
             "home": {
-                "name": "Miami Marlins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA"
+                "name": "Fenerbahce",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiCogAxiBj1yDdc0k94YqtwJdWYMLnw2gA"
             },
             "away": {
-                "name": "Houston Astros",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA"
+                "name": "Monaco",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAm9cgwDGzST3hiq3Al1ZgwufJaA"
             }
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_marlins-astros-live-streaming-511619760"
-            },
+                "source": "echo",
+                "id": "fenerbahce-vs-monaco-basketball-454568"
+            }
+        ]
+    },
+    {
+        "id": "arnold-palmer-invitational-pga-tour-pga-526234",
+        "title": "Arnold Palmer Invitational | PGA Tour",
+        "category": "other",
+        "date": 1772726400000,
+        "popular": true,
+        "sources": [
             {
                 "source": "echo",
-                "id": "miami-marlins-vs-houston-astros-baseball-180285"
-            },
-            {
-                "source": "golf",
-                "id": "20275"
+                "id": "arnold-palmer-invitational-pga-tour-pga-526234"
             }
         ]
     },
@@ -383,29 +345,6 @@
         ]
     },
     {
-        "id": "partizan-mozzart-bet-vs-dubai-basketball-454571",
-        "title": "Partizan Mozzart Bet vs Dubai",
-        "category": "basketball",
-        "date": 1772739000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Partizan Mozzart Bet",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiBggAJiBD1yDAMbNJPeGKrcCXVmDC58toA"
-            },
-            "away": {
-                "name": "Dubai",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IACYgIIFCvrkGAY2aSe8MVW4EurMGFz4bQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "partizan-mozzart-bet-vs-dubai-basketball-454571"
-            }
-        ]
-    },
-    {
         "id": "valencia-vs-zalgiris-kaunas-basketball-454572",
         "title": "Valencia vs Zalgiris Kaunas",
         "category": "basketball",
@@ -425,6 +364,29 @@
             {
                 "source": "echo",
                 "id": "valencia-vs-zalgiris-kaunas-basketball-454572"
+            }
+        ]
+    },
+    {
+        "id": "partizan-mozzart-bet-vs-dubai-basketball-454571",
+        "title": "Partizan Mozzart Bet vs Dubai",
+        "category": "basketball",
+        "date": 1772739000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Partizan Mozzart Bet",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiBggAJiBD1yDAMbNJPeGKrcCXVmDC58toA"
+            },
+            "away": {
+                "name": "Dubai",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IACYgIIFCvrkGAY2aSe8MVW4EurMGFz4bQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "partizan-mozzart-bet-vs-dubai-basketball-454571"
             }
         ]
     },
