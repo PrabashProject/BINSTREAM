@@ -44,18 +44,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-indiana-pacers-vs-la-clippers"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_clippers-pacers-live-streaming-431111808"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-clippers-vs-indiana-pacers-basketball-470377"
-            },
-            {
                 "source": "golf",
                 "id": "20198"
             }
@@ -79,18 +67,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-st-louis-blues-vs-seattle-kraken"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl_kraken-blues-live-streaming-511416720"
-            },
-            {
-                "source": "echo",
-                "id": "seattle-kraken-vs-st-louis-blues-hockey-416590"
-            },
             {
                 "source": "golf",
                 "id": "20182"
@@ -116,18 +92,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-carolina-hurricanes-vs-vancouver-canucks"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl_canucks-hurricanes-live-streaming-511417152"
-            },
-            {
-                "source": "echo",
-                "id": "vancouver-canucks-vs-carolina-hurricanes-hockey-416589"
-            },
-            {
                 "source": "golf",
                 "id": "20180"
             }
@@ -151,18 +115,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-new-york-islanders-vs-anaheim-ducks"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl_ducks-islanders-live-streaming-511416288"
-            },
-            {
-                "source": "echo",
-                "id": "anaheim-ducks-vs-new-york-islanders-hockey-416591"
-            },
             {
                 "source": "golf",
                 "id": "20181"
@@ -190,14 +142,6 @@
             {
                 "source": "admin",
                 "id": "ppv-chinese-taipei-vs-australia"
-            },
-            {
-                "source": "delta",
-                "id": "live_world-baseball-classic-pool-c_australia-chinese-taipei-live-streaming-511410672"
-            },
-            {
-                "source": "echo",
-                "id": "australia-vs-chinese-taipei-baseball-183940"
             }
         ]
     },
@@ -243,10 +187,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-seattle-mariners-vs-san-francisco-giants"
-            },
             {
                 "source": "golf",
                 "id": "20208"
@@ -689,29 +629,6 @@
         ]
     },
     {
-        "id": "partizan-mozzart-bet-vs-dubai-basketball-454571",
-        "title": "Partizan Mozzart Bet vs Dubai",
-        "category": "basketball",
-        "date": 1772739000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Partizan Mozzart Bet",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiBggAJiBD1yDAMbNJPeGKrcCXVmDC58toA"
-            },
-            "away": {
-                "name": "Dubai",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IACYgIIFCvrkGAY2aSe8MVW4EurMGFz4bQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "partizan-mozzart-bet-vs-dubai-basketball-454571"
-            }
-        ]
-    },
-    {
         "id": "valencia-vs-zalgiris-kaunas-basketball-454572",
         "title": "Valencia vs Zalgiris Kaunas",
         "category": "basketball",
@@ -731,6 +648,29 @@
             {
                 "source": "echo",
                 "id": "valencia-vs-zalgiris-kaunas-basketball-454572"
+            }
+        ]
+    },
+    {
+        "id": "partizan-mozzart-bet-vs-dubai-basketball-454571",
+        "title": "Partizan Mozzart Bet vs Dubai",
+        "category": "basketball",
+        "date": 1772739000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Partizan Mozzart Bet",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiBggAJiBD1yDAMbNJPeGKrcCXVmDC58toA"
+            },
+            "away": {
+                "name": "Dubai",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IACYgIIFCvrkGAY2aSe8MVW4EurMGFz4bQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "partizan-mozzart-bet-vs-dubai-basketball-454571"
             }
         ]
     },
