@@ -1,5 +1,18 @@
 [
     {
+        "id": "joburg-open-dp-world-tour-tgl-001",
+        "title": "Joburg Open | DP World Tour",
+        "category": "other",
+        "date": 1772793000000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "joburg-open-dp-world-tour-tgl-001"
+            }
+        ]
+    },
+    {
         "id": "chinese-taipei-baseball-vs-japan-baseball-2434684",
         "title": "Chinese Taipei Baseball vs Japan Baseball",
         "category": "baseball",
@@ -56,30 +69,6 @@
         ]
     },
     {
-        "id": "new-south-wales-waratahs-vs-hurricanes-super-rugby-2416947",
-        "title": "New South Wales Waratahs vs Hurricanes Super Rugby",
-        "category": "rugby",
-        "date": 1772786100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmPCJeuFCF4gsIaSFMRDIRNQuT8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New South Wales Waratahs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgQIRNzWgQ3ECX2GAJuo2GcjCkz4ouYMvCLzRtprTD2xoiEA"
-            },
-            "away": {
-                "name": "Hurricanes Super Rugby",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnlgQMMSBCJuIEnpARDIXTC0g+hghSZ8UXMGXhF5o+01phHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "waratahs-vs-hurricanes-rugby-51800"
-            }
-        ]
-    },
-    {
         "id": "blue-bay-china-pga-tour-atp1000",
         "title": "Blue Bay China | PGA Tour",
         "category": "other",
@@ -102,19 +91,6 @@
             {
                 "source": "echo",
                 "id": "liv-golf-hong-kong-hsbc-liv-golf-hong-kong-game-162626"
-            }
-        ]
-    },
-    {
-        "id": "joburg-open-dp-world-tour-tgl-001",
-        "title": "Joburg Open | DP World Tour",
-        "category": "other",
-        "date": 1772793000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "joburg-open-dp-world-tour-tgl-001"
             }
         ]
     },
@@ -421,29 +397,6 @@
         ]
     },
     {
-        "id": "adler-mannheim-vs-kolner-hockey-409112",
-        "title": "Adler Mannheim vs Kolner",
-        "category": "hockey",
-        "date": 1772821800000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Adler Mannheim",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIePXIMAxs2Bge8SVSmEGrMDra4IQA"
-            },
-            "away": {
-                "name": "Kolner",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIEnXIMAxs2Bge8SVSmEGrMDra4IQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "adler-mannheim-vs-kolner-hockey-409112"
-            }
-        ]
-    },
-    {
         "id": "bremerhaven-vs-erc-ingolstadt-hockey-409113",
         "title": "Bremerhaven vs ERC Ingolstadt",
         "category": "hockey",
@@ -463,6 +416,29 @@
             {
                 "source": "echo",
                 "id": "bremerhaven-vs-erc-ingolstadt-hockey-409113"
+            }
+        ]
+    },
+    {
+        "id": "munchen-vs-grizzly-wolfsburg-hockey-409107",
+        "title": "Munchen vs Grizzly Wolfsburg",
+        "category": "hockey",
+        "date": 1772821800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Munchen",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIePXIMAxs2Bge8SVSmEGrMDra4IQA"
+            },
+            "away": {
+                "name": "Grizzly Wolfsburg",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIcXXIMAxs2Bge8SVSmEGrMDra4IQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "munchen-vs-grizzly-wolfsburg-hockey-409107"
             }
         ]
     },
@@ -490,25 +466,25 @@
         ]
     },
     {
-        "id": "munchen-vs-grizzly-wolfsburg-hockey-409107",
-        "title": "Munchen vs Grizzly Wolfsburg",
+        "id": "adler-mannheim-vs-kolner-hockey-409112",
+        "title": "Adler Mannheim vs Kolner",
         "category": "hockey",
         "date": 1772821800000,
         "popular": true,
         "teams": {
             "home": {
-                "name": "Munchen",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIePXIMAxs2Bge8SVSmEGrMDra4IQA"
+                "name": "Adler Mannheim",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIePXIMAxs2Bge8SVSmEGrMDra4IQA"
             },
             "away": {
-                "name": "Grizzly Wolfsburg",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIcXXIMAxs2Bge8SVSmEGrMDra4IQA"
+                "name": "Kolner",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIEnXIMAxs2Bge8SVSmEGrMDra4IQA"
             }
         },
         "sources": [
             {
                 "source": "echo",
-                "id": "munchen-vs-grizzly-wolfsburg-hockey-409107"
+                "id": "adler-mannheim-vs-kolner-hockey-409112"
             }
         ]
     },
