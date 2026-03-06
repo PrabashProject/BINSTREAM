@@ -350,10 +350,6 @@
             {
                 "source": "delta",
                 "id": "live_serie-a_napoli-torino-live-streaming-472006656"
-            },
-            {
-                "source": "echo",
-                "id": "napoli-vs-torino-football-1378143"
             }
         ]
     },
@@ -382,10 +378,6 @@
             {
                 "source": "delta",
                 "id": "live_ligue-1_psg-as-monaco-live-streaming-472014000"
-            },
-            {
-                "source": "echo",
-                "id": "paris-saint-germain-vs-monaco-football-1387921"
             }
         ]
     },
@@ -410,10 +402,6 @@
             {
                 "source": "admin",
                 "id": "ppv-bayern-munich-vs-borussia-m-nchengladbach"
-            },
-            {
-                "source": "echo",
-                "id": "bayern-munchen-vs-borussia-monchengladbach-football-1388524"
             }
         ]
     },
@@ -448,18 +436,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-pittsburgh-pirates-vs-toronto-blue-jays"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_pirates-phillies-live-streaming-512235792"
-            },
-            {
-                "source": "echo",
-                "id": "pittsburgh-pirates-vs-philadelphia-phillies-baseball-180300"
-            },
             {
                 "source": "golf",
                 "id": "20286"
@@ -533,10 +509,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-st-louis-cardinals-vs-baltimore-orioles"
-            },
-            {
                 "source": "golf",
                 "id": "20283"
             }
@@ -556,38 +528,6 @@
         ]
     },
     {
-        "id": "great-britain-baseball-vs-mexico-baseball-2434687",
-        "title": "Great Britain Baseball vs Mexico Baseball",
-        "category": "baseball",
-        "date": 1772820000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHApKYbWBAoQvEFhNGQ1M5ojmD+YEgpYRcxijCrtHD+UbU52vb0YB7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Great Britain Baseball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcpZmAEQQ3EHxAATEDr3GDxkrgIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Mexico Baseball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAC+IFMCYhVIbiAAmuEBA3H1KEyBgEKTPprZgy8IvNGamtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-mexico-vs-great-britain"
-            },
-            {
-                "source": "delta",
-                "id": "live_world-baseball-classic-pool-b_great-britain-mexico-live-streaming-512242272"
-            },
-            {
-                "source": "echo",
-                "id": "great-britain-vs-mexico-baseball-161692"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-10-arnold-sports-festival-ppv-10",
         "title": "Arnold Sports Festival",
         "category": "other",
@@ -597,6 +537,19 @@
             {
                 "source": "echo",
                 "id": "ppv-event-10-arnold-sports-festival-ppv-10"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-17-lucas-oil-late-models-golden-isles-game-19964",
+        "title": "Lucas Oil Late Models Golden Isles",
+        "category": "other",
+        "date": 1772837100000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-17-lucas-oil-late-models-golden-isles-game-19964"
             }
         ]
     },
