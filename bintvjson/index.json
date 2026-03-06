@@ -1,5 +1,29 @@
 [
     {
+        "id": "brisbane-broncos-vs-penrith-panthers-2417160",
+        "title": "Brisbane Broncos vs Penrith Panthers",
+        "category": "rugby",
+        "date": 1772787600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmGL4QcQbxD6sII-oggUIEiGohpxlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Brisbane Broncos",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3pMkIACZgyfEN00gIBxEd0bDIEAQpM+KLtvL15o+01phtY0RCA"
+            },
+            "away": {
+                "name": "Penrith Panthers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwhEKYEgYgIIbiBIHVMEHzWm9uAhSZ8NbMGXhF5ojU1phHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "brisbane-broncos-vs-penrith-panthers-game-236363"
+            }
+        ]
+    },
+    {
         "id": "new-south-wales-waratahs-vs-hurricanes-super-rugby-2416947",
         "title": "New South Wales Waratahs vs Hurricanes Super Rugby",
         "category": "rugby",
@@ -50,19 +74,6 @@
         ]
     },
     {
-        "id": "tna-impact-tna-1",
-        "title": "TNA: Impact \ud83d\udd25",
-        "category": "fight",
-        "date": 1772758800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "tna-impact-tna-1"
-            }
-        ]
-    },
-    {
         "id": "chinese-taipei-baseball-vs-japan-baseball-2434684",
         "title": "Chinese Taipei Baseball vs Japan Baseball",
         "category": "baseball",
@@ -104,6 +115,19 @@
             {
                 "source": "echo",
                 "id": "joburg-open-dp-world-tour-tgl-001"
+            }
+        ]
+    },
+    {
+        "id": "uk-open-darts-session-1-2-darts-1",
+        "title": "UK Open Darts - Session 1 & 2  \ud83c\udfaf",
+        "category": "other",
+        "date": 1772798400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "uk-open-darts-session-1-2-darts-1"
             }
         ]
     },
@@ -443,29 +467,6 @@
         ]
     },
     {
-        "id": "bremerhaven-vs-erc-ingolstadt-hockey-409113",
-        "title": "Bremerhaven vs ERC Ingolstadt",
-        "category": "hockey",
-        "date": 1772821800000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Bremerhaven",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA"
-            },
-            "away": {
-                "name": "ERC Ingolstadt",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIAMb1yDVVmBge8SVSmEGrMDra4IQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "bremerhaven-vs-erc-ingolstadt-hockey-409113"
-            }
-        ]
-    },
-    {
         "id": "adler-mannheim-vs-kolner-hockey-409112",
         "title": "Adler Mannheim vs Kolner",
         "category": "hockey",
@@ -485,6 +486,29 @@
             {
                 "source": "echo",
                 "id": "adler-mannheim-vs-kolner-hockey-409112"
+            }
+        ]
+    },
+    {
+        "id": "bremerhaven-vs-erc-ingolstadt-hockey-409113",
+        "title": "Bremerhaven vs ERC Ingolstadt",
+        "category": "hockey",
+        "date": 1772821800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Bremerhaven",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA"
+            },
+            "away": {
+                "name": "ERC Ingolstadt",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIAMb1yDVVmBge8SVSmEGrMDra4IQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "bremerhaven-vs-erc-ingolstadt-hockey-409113"
             }
         ]
     },
@@ -965,7 +989,7 @@
             },
             {
                 "source": "echo",
-                "id": "arizona-diamondbacks-vs-chicago-white-sox-baseball-180311"
+                "id": "milwaukee-brewers-vs-arizona-diamondbacks-baseball-180303"
             },
             {
                 "source": "golf",
