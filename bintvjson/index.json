@@ -26,30 +26,6 @@
         ]
     },
     {
-        "id": "ireland-rugby-vs-wales-rugby-2261717",
-        "title": "Ireland Rugby vs Wales Rugby",
-        "category": "rugby",
-        "date": 1772827800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjhQhZKMOF4gDWbSC0kQ5mCETnm+YEgpYRcxrtUoeYMvCLU5nvb0YN7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Ireland Rugby",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxwgQMYGBC1Q3ECRAATI9pB8TKEJZQEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Wales Rugby",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAgFogbwAmIbiBIgdOxKpw69MAhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ireland-vs-wales-rugby-49488"
-            }
-        ]
-    },
-    {
         "id": "arizona-diamondbacks-vs-chicago-white-sox-2392918",
         "title": "Arizona Diamondbacks vs Chicago White Sox",
         "category": "baseball",
@@ -73,7 +49,7 @@
             },
             {
                 "source": "echo",
-                "id": "milwaukee-brewers-vs-arizona-diamondbacks-baseball-180303"
+                "id": "arizona-diamondbacks-vs-chicago-white-sox-baseball-180311"
             },
             {
                 "source": "golf",
@@ -234,14 +210,6 @@
             {
                 "source": "admin",
                 "id": "ppv-wolverhampton-wanderers-vs-liverpool"
-            },
-            {
-                "source": "delta",
-                "id": "live_fa-cup_wolves-liverpool-live-streaming-515303856"
-            },
-            {
-                "source": "golf",
-                "id": "20319"
             }
         ]
     },
@@ -266,14 +234,6 @@
             {
                 "source": "admin",
                 "id": "ppv-celta-vigo-vs-real-madrid"
-            },
-            {
-                "source": "delta",
-                "id": "live_laliga_celta-real-madrid-live-streaming-472007952"
-            },
-            {
-                "source": "echo",
-                "id": "celta-vigo-vs-real-madrid-football-1391081"
             }
         ]
     },
@@ -322,86 +282,6 @@
             {
                 "source": "echo",
                 "id": "leigh-leopards-vs-catalans-dragons-game-182283"
-            }
-        ]
-    },
-    {
-        "id": "napoli-vs-torino-2265315",
-        "title": "Napoli vs Torino",
-        "category": "football",
-        "date": 1772826300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHClgttAAykQ3EHxAlTIFCEQQQtowqZIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Napoli",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhw3MClVgAJiG4g+ICLhAo1pksf0EKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Torino",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDg4WaChDcQEXSAMGYIACaHjjCkz4ouYMvCLzRtprTD2xoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-napoli-vs-torino"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_napoli-torino-live-streaming-472006656"
-            }
-        ]
-    },
-    {
-        "id": "paris-sg-vs-monaco-2278332",
-        "title": "Paris SG vs Monaco",
-        "category": "football",
-        "date": 1772826300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhQhuYAUhAltIPgZAQQFmBeOmQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Paris SG",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbtVXcQOiCD4hEJEDBD6QpywQpM+KLmDLwi80Q6a0wTsaIhA"
-            },
-            "away": {
-                "name": "Monaco",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIhgSYABMQosCG4htfECZMxT5iCAgEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-paris-saint-germain-vs-as-monaco"
-            },
-            {
-                "source": "delta",
-                "id": "live_ligue-1_psg-as-monaco-live-streaming-472014000"
-            }
-        ]
-    },
-    {
-        "id": "bayern-munich-vs-borussia-m-nchengladbach-2276854",
-        "title": "Bayern Munich vs Borussia M\u00f6nchengladbach",
-        "category": "football",
-        "date": 1772825400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUKKq8pCENxB8QJEBBAwTekFIMGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Bayern Munich",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQvVgIAModSD56AJiBQhjaiHsYUmfFFzBl4ReaPtNaYR2NEQgA"
-            },
-            "away": {
-                "name": "Borussia M\u00f6nchengladbach",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgU5MljB8Q3EBBA7EBkiESIQIGAQpM+KLmDKr680Q6a0wTsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-bayern-munich-vs-borussia-m-nchengladbach"
             }
         ]
     },
