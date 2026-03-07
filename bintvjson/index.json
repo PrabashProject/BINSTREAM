@@ -156,6 +156,10 @@
                 "id": "ppv-vf-l-wolfsburg-vs-hamburg-sv"
             },
             {
+                "source": "alpha",
+                "id": "vfl-wolfsburg-vs-hamburg-sv"
+            },
+            {
                 "source": "charlie",
                 "id": "vfl-wolfsburg-vs-hamburger-sv-1388532"
             },
@@ -452,6 +456,32 @@
         ]
     },
     {
+        "id": "the-arnold-palmer-invitational-sky",
+        "title": "The Arnold Palmer Invitational SKY",
+        "category": "golf",
+        "date": 1772890200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "the-arnold-palmer-invitational-sky"
+            }
+        ]
+    },
+    {
+        "id": "bundesliga-konferenz",
+        "title": "Bundesliga Konferenz",
+        "category": "football",
+        "date": 1772890200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "bundesliga-konferenz"
+            }
+        ]
+    },
+    {
         "id": "le-mans-vs-annecy-2278040",
         "title": "Le Mans vs Annecy",
         "category": "football",
@@ -566,10 +596,6 @@
         },
         "sources": [
             {
-                "source": "alpha",
-                "id": "hull-city-vs-millwall"
-            },
-            {
                 "source": "charlie",
                 "id": "hull-city-vs-millwall-1386976"
             }
@@ -594,16 +620,8 @@
         },
         "sources": [
             {
-                "source": "alpha",
-                "id": "blackburn-rovers-vs-portsmouth"
-            },
-            {
                 "source": "charlie",
                 "id": "blackburn-vs-portsmouth-1386979"
-            },
-            {
-                "source": "echo",
-                "id": "blackburn-vs-portsmouth-football-1386979"
             }
         ]
     },
@@ -625,36 +643,8 @@
         },
         "sources": [
             {
-                "source": "alpha",
-                "id": "england-w-vs-iceland-w"
-            },
-            {
                 "source": "charlie",
                 "id": "england-w-vs-iceland-w-1523841"
-            }
-        ]
-    },
-    {
-        "id": "boreham-wood-vs-brackley-town-2285019",
-        "title": "Boreham Wood vs Brackley Town",
-        "category": "football",
-        "date": 1772886600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzB8tDMCjBSNIPiBLGj3EBCMhjBYEgp9hs+vpUouYMvCJZZnky0YN5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Boreham Wood",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhQIURBBRE3DSD04YIACYg+IFNtwEKTPii5gy8IvNGOmtMM7GagA"
-            },
-            "away": {
-                "name": "Brackley Town",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl44BvEDxDcQJbbhAwQAExBmjiGAQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "boreham-wood-vs-brackley-town"
             }
         ]
     },
@@ -947,30 +937,6 @@
         ]
     },
     {
-        "id": "ppv-rizin-52-kyoma-akimoto-vs-patchy-mix",
-        "title": "RIZIN 52: Kyoma Akimoto vs. Patchy Mix",
-        "category": "fight",
-        "date": 1772859600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEdrEGLyEoGITiBLYQKMVIggAxoukgswefVmalMbAz0RgicZrLBWYdl2AE9IsIWBJcCkR0u1DnfSNvxzlur6EEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "RIZIN 52: Kyoma Akimoto",
-                "badge": ""
-            },
-            "away": {
-                "name": "Patchy Mix",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-rizin-52-kyoma-akimoto-vs-patchy-mix"
-            }
-        ]
-    },
-    {
         "id": "ladbrokes-uk-open-day-2-2428553",
         "title": "Ladbrokes UK Open Day 2",
         "category": "darts",
@@ -1032,16 +998,40 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-mansfield-town-vs-arsenal"
-            },
-            {
                 "source": "charlie",
                 "id": "mansfield-town-vs-arsenal-1523412"
             },
             {
                 "source": "echo",
                 "id": "stockport-county-vs-mansfield-town-football-1387533"
+            }
+        ]
+    },
+    {
+        "id": "aris-vs-atromitos-2287193",
+        "title": "Aris vs Atromitos",
+        "category": "football",
+        "date": 1772895600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWilwgovRNxBSQ+kAZCacEbSD4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Aris",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulx0Q3MEk4h1IACYgYuEHxMhEBiOoIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Atromitos",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh170QuYEhAwQ3EABNtuEHxMgIxxHwIUm1rmDLwi80SmBNaYR2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "aris-vs-atromitos"
+            },
+            {
+                "source": "echo",
+                "id": "aris-thessalonikis-vs-atromitos-football-1400901"
             }
         ]
     },
@@ -1388,20 +1378,6 @@
         ]
     },
     {
-        "id": "ppv-oktagon-85-czech",
-        "title": "OKTAGON 85 (Czech)",
-        "category": "fight",
-        "date": 1772902800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEGEekIJjAI2XgxAkQWfiBTTg8BtkXBO0kIhKqBETSHXtOY0erLBWYdl2AEVKC4WBJcAYwccrtU8od2lYFYiyhBAA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-oktagon-85-czech"
-            }
-        ]
-    },
-    {
         "id": "ppv-oktagon-85-english",
         "title": "OKTAGON 85 (English)",
         "category": "fight",
@@ -1412,6 +1388,20 @@
             {
                 "source": "admin",
                 "id": "ppv-oktagon-85-english"
+            }
+        ]
+    },
+    {
+        "id": "ppv-oktagon-85-czech",
+        "title": "OKTAGON 85 (Czech)",
+        "category": "fight",
+        "date": 1772902800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEGEekIJjAI2XgxAkQWfiBTTg8BtkXBO0kIhKqBETSHXtOY0erLBWYdl2AEVKC4WBJcAYwccrtU8od2lYFYiyhBAA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-oktagon-85-czech"
             }
         ]
     },
@@ -1797,19 +1787,6 @@
         ]
     },
     {
-        "id": "ppv-event-21-ama-supercross-championship-indianapolis-ppv-21",
-        "title": "AMA Supercross Championship Indianapolis",
-        "category": "other",
-        "date": 1772906400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-21-ama-supercross-championship-indianapolis-ppv-21"
-            }
-        ]
-    },
-    {
         "id": "ufc-326-holloway-vs-oliveira-2-mma-2489",
         "title": "Brunno Ferreira vs Gregory Rodrigues",
         "category": "fight",
@@ -1846,6 +1823,24 @@
             {
                 "source": "echo",
                 "id": "ppv-event-07-fcc-45-ppv-07"
+            }
+        ]
+    },
+    {
+        "id": "ppv-supercross-indianapolis",
+        "title": "Supercross: Indianapolis",
+        "category": "motor-sports",
+        "date": 1772906400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEFEfgMa8QMECRCIIIkFhBSQDYJxDKpyxAtkCl2OcHiLlJfUt7AywVmHZdgBbHkuFgSXAJQdLjeBU6KP9gZg1sAQihBAA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-supercross-indianapolis"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-21-ama-supercross-championship-indianapolis-ppv-21"
             }
         ]
     },
@@ -2159,6 +2154,7 @@
         "title": "Ty Mitchell vs Gabe Rosado",
         "category": "fight",
         "date": 1772908200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEXkYRPRAoQAY2wMQESVgHBOIBbMSJpJSZ2AkQMPpoXiVfdmWCsw7LsAISUZwsCS5RdjhdrTN7OzfhmLwNLsEEA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -2169,6 +2165,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-mf-duel-2-ty-mitchell-vs-gabe-rosado"
+            },
             {
                 "source": "charlie",
                 "id": "mitchell-vs-rosado-1629486276"
@@ -2936,19 +2936,6 @@
         ]
     },
     {
-        "id": "ppv-event-01-prelims-ufc-326-ppv-001",
-        "title": "Prelims UFC 326 \ud83d\udd25 \u2b50 \ud83d\udca5",
-        "category": "other",
-        "date": 1772920800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-01-prelims-ufc-326-ppv-001"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-11-fight-to-win-307-ppv-11",
         "title": "Fight to Win 307",
         "category": "other",
@@ -2958,6 +2945,19 @@
             {
                 "source": "echo",
                 "id": "ppv-event-11-fight-to-win-307-ppv-11"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-01-prelims-ufc-326-ppv-001",
+        "title": "Prelims UFC 326 \ud83d\udd25 \u2b50 \ud83d\udca5",
+        "category": "other",
+        "date": 1772920800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-01-prelims-ufc-326-ppv-001"
             }
         ]
     },
