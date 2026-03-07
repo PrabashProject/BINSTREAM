@@ -64,25 +64,28 @@
         ]
     },
     {
-        "id": "ufc-326-holloway-vs-oliveira-2-mma-2575",
-        "title": "Diyar Nurgozhay vs Rafael Tobias",
-        "category": "fight",
+        "id": "pga-tour-champions-golf",
+        "title": "PGA Tour Champions Golf",
+        "category": "golf",
         "date": 1772924400000,
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Diyar Nurgozhay",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQYkEJAp65BmObAwPeFKrdRDVmF1tcEIA"
-            },
-            "away": {
-                "name": "Rafael Tobias",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQi7CDH1yDVfzA94Uqt1ENWYbW1wQgA"
-            }
-        },
         "sources": [
             {
-                "source": "echo",
-                "id": "ufc-326-holloway-vs-oliveira-2-mma-2575"
+                "source": "alpha",
+                "id": "pga-tour-champions-golf"
+            }
+        ]
+    },
+    {
+        "id": "aruba-w-vs-cuba-w",
+        "title": "Aruba W vs Cuba W",
+        "category": "football",
+        "date": 1772924400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "aruba-w-vs-cuba-w"
             }
         ]
     },
@@ -489,10 +492,6 @@
             {
                 "source": "delta",
                 "id": "live_mls_dc-united-inter-miami-live-streaming-471898224"
-            },
-            {
-                "source": "echo",
-                "id": "dc-united-vs-inter-miami-football-1490137"
             }
         ]
     },
@@ -521,14 +520,6 @@
             {
                 "source": "alpha",
                 "id": "athletics-vs-los-angeles-angels"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_athletics-angels-live-streaming-513205632"
-            },
-            {
-                "source": "echo",
-                "id": "athletics-vs-los-angeles-angels-baseball-180326"
             },
             {
                 "source": "golf",
@@ -697,10 +688,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-chicago-white-sox-vs-seattle-mariners"
-            },
-            {
                 "source": "alpha",
                 "id": "seattle-mariners-vs-chicago-white-sox"
             },
@@ -777,10 +764,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-san-diego-padres-vs-cleveland-guardians"
-            },
-            {
                 "source": "alpha",
                 "id": "cleveland-guardians-vs-san-diego-padres"
             },
@@ -808,10 +791,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-texas-rangers-vs-san-francisco-giants"
-            },
             {
                 "source": "alpha",
                 "id": "san-francisco-giants-vs-texas-rangers"
@@ -846,19 +825,6 @@
         ]
     },
     {
-        "id": "nhra-drag-racing-gatornationals-tf-all-star-callout",
-        "title": "NHRA Drag Racing Gatornationals TF All-Star Callout",
-        "category": "motor-sports",
-        "date": 1772913600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "nhra-drag-racing-gatornationals-tf-all-star-callout"
-            }
-        ]
-    },
-    {
         "id": "newcastle-united-vs-manchester-city-2434725",
         "title": "Newcastle United vs Manchester City",
         "category": "football",
@@ -879,30 +845,6 @@
             {
                 "source": "charlie",
                 "id": "newcastle-vs-manchester-city-1523413"
-            }
-        ]
-    },
-    {
-        "id": "new-jersey-devils-vs-new-york-rangers-2347873",
-        "title": "New Jersey Devils vs New York Rangers",
-        "category": "hockey",
-        "date": 1772913600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIgFIK3ECRC6+IKSBggUpg5Ygg+BYNpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New Jersey Devils",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgoWcgBNYIbiE26QKECRCIDfNSBgEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "New York Rangers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpIS5gTcNxBa+IACYhEEECRDGDuvQQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20235"
             }
         ]
     },
@@ -978,29 +920,6 @@
         ]
     },
     {
-        "id": "ireland-vs-wales-1629486280",
-        "title": "Ireland vs Wales",
-        "category": "american-football",
-        "date": 1772911800000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Ireland",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzoZYBDbLh4DgxgUwATYAUxQFYSzgHqwBjYD65+scc1GkbkqtIQE4mDNuibBOmCDVzyE6EBRDitwTYhw74uLSETcDKEAYhXl2pYkva2Om1URdgNkLxjMF8iSs8NiS3AQMRmBg3EqxQA"
-            },
-            "away": {
-                "name": "Wales",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCEIgZ+-LGB4mtHSwSKuW2ufJgwWiK2AQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "charlie",
-                "id": "ireland-vs-wales-1629486280"
-            }
-        ]
-    },
-    {
         "id": "bochum-vs-kaiserslautern-2277160",
         "title": "Bochum vs Kaiserslautern",
         "category": "football",
@@ -1048,30 +967,6 @@
         ]
     },
     {
-        "id": "sheffield-sharks-vs-london-lions-2377485",
-        "title": "Sheffield Sharks vs London Lions",
-        "category": "basketball",
-        "date": 1772911800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxBSQ3EChCj8OjQb2mYIS4ksKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Sheffield Sharks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wAiLjqQQ3EABMQKEImMgDuCxAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "London Lions",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gAJmLXZgakNxCqSIIxGNn9OCAQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "charlie",
-                "id": "sheffield-sharks-vs-london-lions-1629486279"
-            }
-        ]
-    },
-    {
         "id": "widzew-lodz-vs-lech-poznan-1380598",
         "title": "Ekstraklasa: Widzew \u0141odz vs Lech Poznan",
         "category": "football",
@@ -1095,19 +990,6 @@
         ]
     },
     {
-        "id": "atpwta-1000-indian-wells-tn-1",
-        "title": "ATP/WTA 1000: Indian Wells \ud83c\udfbe",
-        "category": "other",
-        "date": 1772910000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "atpwta-1000-indian-wells-tn-1"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-10-wow-fc-27-ppv-10",
         "title": "WOW FC 27",
         "category": "other",
@@ -1121,6 +1003,19 @@
         ]
     },
     {
+        "id": "atpwta-1000-indian-wells-tn-1",
+        "title": "ATP/WTA 1000: Indian Wells \ud83c\udfbe",
+        "category": "other",
+        "date": 1772910000000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atpwta-1000-indian-wells-tn-1"
+            }
+        ]
+    },
+    {
         "id": "atpwta-second-round-1629486278",
         "title": "BNP Paribas Open: ATP/WTA Second Round",
         "category": "tennis",
@@ -1130,19 +1025,6 @@
             {
                 "source": "charlie",
                 "id": "atpwta-second-round-1629486278"
-            }
-        ]
-    },
-    {
-        "id": "indycar-series-grand-prix-phoenix-raceway",
-        "title": "IndyCar Series Grand Prix Phoenix Raceway",
-        "category": "motor-sports",
-        "date": 1772910000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "indycar-series-grand-prix-phoenix-raceway"
             }
         ]
     },
@@ -1228,6 +1110,19 @@
             {
                 "source": "echo",
                 "id": "ppv-event-09-wxw-165-carat-gold-ppv-09"
+            }
+        ]
+    },
+    {
+        "id": "the-arnold-palmer-invitational-nbc",
+        "title": "The Arnold Palmer Invitational NBC",
+        "category": "golf",
+        "date": 1772908200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "the-arnold-palmer-invitational-nbc"
             }
         ]
     },
@@ -1366,6 +1261,10 @@
             {
                 "source": "admin",
                 "id": "ppv-supercross-indianapolis"
+            },
+            {
+                "source": "alpha",
+                "id": "supercross-rd-9-indianapolis"
             },
             {
                 "source": "echo",
@@ -2126,19 +2025,6 @@
             {
                 "source": "charlie",
                 "id": "korona-kielce-vs-nieciecza-1380591"
-            }
-        ]
-    },
-    {
-        "id": "the-arnold-palmer-invitational-sky",
-        "title": "The Arnold Palmer Invitational SKY",
-        "category": "golf",
-        "date": 1772890200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "the-arnold-palmer-invitational-sky"
             }
         ]
     },
