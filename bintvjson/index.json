@@ -13,19 +13,6 @@
         ]
     },
     {
-        "id": "the-joburg-open",
-        "title": "The Joburg Open",
-        "category": "golf",
-        "date": 1772877600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "the-joburg-open"
-            }
-        ]
-    },
-    {
         "id": "japan-baseball-vs-south-korea-baseball-2434692",
         "title": "Japan Baseball vs South Korea Baseball",
         "category": "baseball",
@@ -82,10 +69,6 @@
             {
                 "source": "charlie",
                 "id": "sydney-vs-melbourne-victory-1469674"
-            },
-            {
-                "source": "echo",
-                "id": "sydney-vs-melbourne-victory-football-1469674"
             }
         ]
     },
@@ -239,6 +222,21 @@
             {
                 "source": "echo",
                 "id": "cronulla-sharks-vs-gold-coast-titans-game-3373252"
+            }
+        ]
+    },
+    {
+        "id": "joburg-open-round-3-2445012",
+        "title": "Joburg Open Round 3",
+        "category": "golf",
+        "date": 1772860500000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELSxgBIEFJAQQ3EHxAldes7iPWSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "the-joburg-open"
             }
         ]
     },
@@ -440,10 +438,6 @@
         "popular": true,
         "teams": null,
         "sources": [
-            {
-                "source": "alpha",
-                "id": "wxw-independent-wrestling-summit-2026"
-            },
             {
                 "source": "echo",
                 "id": "ppv-event-04-wxw-independent-wrestling-summit-ppv-004"
@@ -1544,20 +1538,6 @@
         ]
     },
     {
-        "id": "ppv-oktagon-85-english",
-        "title": "OKTAGON 85 (English)",
-        "category": "fight",
-        "date": 1772902800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEGEekIJjAI2XgxAkQWfiBTTg8BtkXBO0kIhKqBETSHXtOY0erLBWYdl2AEVKC4WBJcAYwccrtU8od2lYFYiyhBAA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-oktagon-85-english"
-            }
-        ]
-    },
-    {
         "id": "ppv-oktagon-85-german",
         "title": "OKTAGON 85 (German)",
         "category": "fight",
@@ -1568,6 +1548,20 @@
             {
                 "source": "admin",
                 "id": "ppv-oktagon-85-german"
+            }
+        ]
+    },
+    {
+        "id": "ppv-oktagon-85-english",
+        "title": "OKTAGON 85 (English)",
+        "category": "fight",
+        "date": 1772902800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEGEekIJjAI2XgxAkQWfiBTTg8BtkXBO0kIhKqBETSHXtOY0erLBWYdl2AEVKC4WBJcAYwccrtU8od2lYFYiyhBAA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-oktagon-85-english"
             }
         ]
     },
@@ -2141,6 +2135,38 @@
         ]
     },
     {
+        "id": "boston-red-sox-vs-tampa-bay-rays-2392930",
+        "title": "Boston Red Sox vs Tampa Bay Rays",
+        "category": "baseball",
+        "date": 1772906700000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihCyADGCTjqIXiCwmjIRMc0gzJFkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Boston Red Sox",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
+            },
+            "away": {
+                "name": "Tampa Bay Rays",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_red-sox-rays-live-streaming-513200880"
+            },
+            {
+                "source": "echo",
+                "id": "boston-red-sox-vs-tampa-bay-rays-baseball-180323"
+            },
+            {
+                "source": "golf",
+                "id": "20302"
+            }
+        ]
+    },
+    {
         "id": "philadelphia-phillies-vs-toronto-blue-jays-2392924",
         "title": "Philadelphia Phillies vs Toronto Blue Jays",
         "category": "baseball",
@@ -2201,38 +2227,6 @@
             {
                 "source": "golf",
                 "id": "20300"
-            }
-        ]
-    },
-    {
-        "id": "boston-red-sox-vs-tampa-bay-rays-2392930",
-        "title": "Boston Red Sox vs Tampa Bay Rays",
-        "category": "baseball",
-        "date": 1772906700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihCyADGCTjqIXiCwmjIRMc0gzJFkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Boston Red Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
-            },
-            "away": {
-                "name": "Tampa Bay Rays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_red-sox-rays-live-streaming-513200880"
-            },
-            {
-                "source": "echo",
-                "id": "boston-red-sox-vs-tampa-bay-rays-baseball-180323"
-            },
-            {
-                "source": "golf",
-                "id": "20302"
             }
         ]
     },
@@ -2971,19 +2965,6 @@
         ]
     },
     {
-        "id": "ppv-event-11-fight-to-win-307-ppv-11",
-        "title": "Fight to Win 307",
-        "category": "other",
-        "date": 1772920800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-11-fight-to-win-307-ppv-11"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-01-prelims-ufc-326-ppv-001",
         "title": "Prelims UFC 326 \ud83d\udd25 \u2b50 \ud83d\udca5",
         "category": "other",
@@ -2993,6 +2974,19 @@
             {
                 "source": "echo",
                 "id": "ppv-event-01-prelims-ufc-326-ppv-001"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-11-fight-to-win-307-ppv-11",
+        "title": "Fight to Win 307",
+        "category": "other",
+        "date": 1772920800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-11-fight-to-win-307-ppv-11"
             }
         ]
     },
