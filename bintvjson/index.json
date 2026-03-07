@@ -1,14 +1,48 @@
 [
     {
-        "id": "melbourne-australia-1629486440",
-        "title": "FIA Formula 3 Championship Feature Race: Melbourne, Australia",
-        "category": "motor-sports",
-        "date": 1772919900000,
+        "id": "ppv-event-11-fight-to-win-307-ppv-11",
+        "title": "Fight to Win 307",
+        "category": "other",
+        "date": 1772920800000,
         "popular": true,
         "sources": [
             {
-                "source": "charlie",
-                "id": "melbourne-australia-1629486440"
+                "source": "echo",
+                "id": "ppv-event-11-fight-to-win-307-ppv-11"
+            }
+        ]
+    },
+    {
+        "id": "ufc-326-holloway-vs-oliveira-2-2391887",
+        "title": "UFC 326 Holloway vs Oliveira 2",
+        "category": "fight",
+        "date": 1772920800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzsQKMHxC0SIbiD16cIE5bMgFTJBT7DZ9HSpRcwZeESyz3TWjBPMVEIIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "UFC 326 Holloway"
+            },
+            "away": {
+                "name": "Oliveira 2"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-ufc-326-holloway-vs-oliveira-2"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_ufc-326-holloway-vs-oliveira-2-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-02-ufc-326-holloway-v-olivera-2-ppv-02"
+            },
+            {
+                "source": "golf",
+                "id": "20327"
             }
         ]
     },
@@ -33,6 +67,10 @@
             {
                 "source": "admin",
                 "id": "ppv-d-c-united-vs-inter-miami-cf"
+            },
+            {
+                "source": "alpha",
+                "id": "d-c-united-vs-inter-miami-cf"
             },
             {
                 "source": "delta",
@@ -65,6 +103,10 @@
             {
                 "source": "admin",
                 "id": "ppv-los-angeles-angels-vs-athletics"
+            },
+            {
+                "source": "alpha",
+                "id": "athletics-vs-los-angeles-angels"
             },
             {
                 "source": "delta",
@@ -164,11 +206,45 @@
             },
             {
                 "source": "alpha",
-                "id": "northern-kentucky-vs-20-florida-state"
+                "id": "5-florida-vs-kentucky"
             },
             {
                 "source": "delta",
                 "id": "live_ncaa_kentucky-florida-live-streaming-465162048"
+            }
+        ]
+    },
+    {
+        "id": "fia-formula-3-2026-australia-f3gp-feature-race",
+        "title": "FIA Formula 3 2026: Australia F3GP Feature Race",
+        "category": "motor-sports",
+        "date": 1772916300000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "fia-formula-3-2026-australia-f3gp-feature-race"
+            },
+            {
+                "source": "charlie",
+                "id": "melbourne-australia-1629486440"
+            }
+        ]
+    },
+    {
+        "id": "ufc-326-fight-pass-prelims",
+        "title": "UFC 326: Fight Pass Prelims",
+        "category": "fight",
+        "date": 1772915400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "ufc-326-fight-pass-prelims"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-01-prelims-ufc-326-ppv-001"
             }
         ]
     },
@@ -296,10 +372,6 @@
             {
                 "source": "charlie",
                 "id": "toulouse-vs-marseille-1387922"
-            },
-            {
-                "source": "echo",
-                "id": "toulouse-vs-marseille-football-1387922"
             }
         ]
     },
@@ -439,6 +511,19 @@
         ]
     },
     {
+        "id": "nhra-drag-racing-gatornationals-tf-all-star-callout",
+        "title": "NHRA Drag Racing Gatornationals TF All-Star Callout",
+        "category": "motor-sports",
+        "date": 1772913600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "nhra-drag-racing-gatornationals-tf-all-star-callout"
+            }
+        ]
+    },
+    {
         "id": "newcastle-united-vs-manchester-city-2434725",
         "title": "Newcastle United vs Manchester City",
         "category": "football",
@@ -467,46 +552,6 @@
             {
                 "source": "charlie",
                 "id": "newcastle-vs-manchester-city-1523413"
-            },
-            {
-                "source": "delta",
-                "id": "live_fa-cup_newcastle-man-city-live-streaming-515309472"
-            },
-            {
-                "source": "echo",
-                "id": "newcastle-vs-manchester-city-football-1523413"
-            },
-            {
-                "source": "golf",
-                "id": "20322"
-            }
-        ]
-    },
-    {
-        "id": "excelsior-vs-heerenveen-2268378",
-        "title": "Excelsior vs Heerenveen",
-        "category": "football",
-        "date": 1772913600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNiBCJEvUNxB8QJEDBAQTBkFIuNgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Excelsior",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lt5+ECjAATENxC6cJPSD64QxywQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Heerenveen",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgyWGmBAhuICCD4hEJI3u1mJhGMCZ8UXNeXrzR9prTBqxoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "excelsior-vs-heerenveen"
-            },
-            {
-                "source": "echo",
-                "id": "excelsior-vs-heerenveen-football-1381092"
             }
         ]
     },
@@ -535,14 +580,6 @@
             {
                 "source": "alpha",
                 "id": "athletic-club-vs-barcelona"
-            },
-            {
-                "source": "delta",
-                "id": "live_laliga_athletic-club-barcelona-live-streaming-472007088"
-            },
-            {
-                "source": "echo",
-                "id": "athletic-club-vs-barcelona-football-1391079"
             }
         ]
     },
@@ -668,44 +705,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-juventus-vs-pisa"
-            },
-            {
-                "source": "alpha",
-                "id": "juventus-vs-pisa"
-            },
-            {
                 "source": "charlie",
                 "id": "juventus-vs-pisa-1378139"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_juventus-pisa-live-streaming-472004928"
-            }
-        ]
-    },
-    {
-        "id": "union-saint-gilloise-vs-genk-2271265",
-        "title": "Union Saint-Gilloise vs Genk",
-        "category": "football",
-        "date": 1772912700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXD0HcQIOiG18QJEDBCGIIRFJAojBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Union Saint-Gilloise",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAk5dTBAQQ3EABMQJbQZBa9fE4wpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Genk",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNggYIACZESIbiB2IIIY330gUu4wQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "union-st-gilloise-vs-racing-genk"
             }
         ]
     },
@@ -733,34 +734,6 @@
         ]
     },
     {
-        "id": "new-york-city-fc-vs-orlando-city-2406737",
-        "title": "New York City FC vs Orlando City",
-        "category": "football",
-        "date": 1772911800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOAEDuIRDBA6+IfVJBGdiHEZAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New York City FC",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAowAE3YIQfENx0hEJPSAggYIdSGPLCMYEz4ouYMvCLzRzprTCuxohBAA"
-            },
-            "away": {
-                "name": "Orlando City",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5gUsDeD4huICLhCIQhg4hwATAhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "new-york-city-fc-vs-orlando-city-sc"
-            },
-            {
-                "source": "delta",
-                "id": "live_mls_ny-city-orlando-live-streaming-471897792"
-            }
-        ]
-    },
-    {
         "id": "bochum-vs-kaiserslautern-2277160",
         "title": "Bochum vs Kaiserslautern",
         "category": "football",
@@ -778,10 +751,6 @@
             }
         },
         "sources": [
-            {
-                "source": "alpha",
-                "id": "vfl-bochum-vs-kaiserslautern"
-            },
             {
                 "source": "charlie",
                 "id": "vfl-bochum-vs-1-fc-kaiserslautern-1388830"
@@ -805,10 +774,6 @@
             }
         },
         "sources": [
-            {
-                "source": "alpha",
-                "id": "dunfermline-athletic-vs-aberdeen"
-            },
             {
                 "source": "charlie",
                 "id": "dunfermline-vs-aberdeen-1525612"
@@ -1063,10 +1028,6 @@
             {
                 "source": "admin",
                 "id": "ppv-arizona-state-sun-devils-vs-iowa-state-cyclones-basketball"
-            },
-            {
-                "source": "alpha",
-                "id": "arizona-state-vs-6-iowa-state"
             }
         ]
     },
@@ -1446,30 +1407,6 @@
         ]
     },
     {
-        "id": "surrey-89ers-vs-leicester-riders-2384049",
-        "title": "Surrey 89ers vs Leicester Riders",
-        "category": "basketball",
-        "date": 1772906400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWtxDcwmsjk18QJECiMgYISzgggFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Surrey 89ers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQg+YJMSYQQ3NSEQATEDtV8QJEMfgEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Leicester Riders",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24gBKBiDKJVAExAoQiQyBD6YBgwQpM+GtmG1F5ojU1phHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "charlie",
-                "id": "surrey-89ers-vs-leicester-riders-1629486275"
-            }
-        ]
-    },
-    {
         "id": "wrexham-vs-chelsea-2434728",
         "title": "Wrexham vs Chelsea",
         "category": "football",
@@ -1600,10 +1537,6 @@
         },
         "sources": [
             {
-                "source": "alpha",
-                "id": "caen-vs-strasbourg"
-            },
-            {
                 "source": "charlie",
                 "id": "auxerre-vs-strasbourg-1387914"
             }
@@ -1667,20 +1600,6 @@
         ]
     },
     {
-        "id": "ppv-oktagon-85-czech",
-        "title": "OKTAGON 85 (Czech)",
-        "category": "fight",
-        "date": 1772902800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEGEekIJjAI2XgxAkQWfiBTTg8BtkXBO0kIhKqBETSHXtOY0erLBWYdl2AEVKC4WBJcAYwccrtU8od2lYFYiyhBAA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-oktagon-85-czech"
-            }
-        ]
-    },
-    {
         "id": "ppv-oktagon-85-german",
         "title": "OKTAGON 85 (German)",
         "category": "fight",
@@ -1691,6 +1610,20 @@
             {
                 "source": "admin",
                 "id": "ppv-oktagon-85-german"
+            }
+        ]
+    },
+    {
+        "id": "ppv-oktagon-85-czech",
+        "title": "OKTAGON 85 (Czech)",
+        "category": "fight",
+        "date": 1772902800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEGEekIJjAI2XgxAkQWfiBTTg8BtkXBO0kIhKqBETSHXtOY0erLBWYdl2AEVKC4WBJcAYwccrtU8od2lYFYiyhBAA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-oktagon-85-czech"
             }
         ]
     },
@@ -2558,66 +2491,6 @@
         ]
     },
     {
-        "id": "ppv-event-11-fight-to-win-307-ppv-11",
-        "title": "Fight to Win 307",
-        "category": "other",
-        "date": 1772920800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-11-fight-to-win-307-ppv-11"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-01-prelims-ufc-326-ppv-001",
-        "title": "Prelims UFC 326 \ud83d\udd25 \u2b50 \ud83d\udca5",
-        "category": "other",
-        "date": 1772920800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-01-prelims-ufc-326-ppv-001"
-            }
-        ]
-    },
-    {
-        "id": "ufc-326-holloway-vs-oliveira-2-2391887",
-        "title": "UFC 326 Holloway vs Oliveira 2",
-        "category": "fight",
-        "date": 1772920800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzsQKMHxC0SIbiD16cIE5bMgFTJBT7DZ9HSpRcwZeESyz3TWjBPMVEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "UFC 326 Holloway"
-            },
-            "away": {
-                "name": "Oliveira 2"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-ufc-326-holloway-vs-oliveira-2"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_ufc-326-holloway-vs-oliveira-2-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-02-ufc-326-holloway-v-olivera-2-ppv-02"
-            },
-            {
-                "source": "golf",
-                "id": "20327"
-            }
-        ]
-    },
-    {
         "id": "ufc-326-holloway-vs-oliveira-2-mma-2576",
         "title": "Gaston Bola\u00c3\u00b1os vs JeongYeong Lee",
         "category": "fight",
@@ -2684,6 +2557,10 @@
             {
                 "source": "admin",
                 "id": "ppv-nashville-predators-vs-buffalo-sabres"
+            },
+            {
+                "source": "alpha",
+                "id": "buffalo-sabres-vs-nashville-predators"
             },
             {
                 "source": "delta",
