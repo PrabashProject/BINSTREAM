@@ -97,10 +97,6 @@
         },
         "sources": [
             {
-                "source": "alpha",
-                "id": "anyang-vs-jeju-sk"
-            },
-            {
                 "source": "charlie",
                 "id": "fc-anyang-vs-jeju-united-fc-1506907"
             }
@@ -177,6 +173,19 @@
             {
                 "source": "charlie",
                 "id": "gimcheon-sangmu-fc-vs-jeonbuk-motors-1506906"
+            }
+        ]
+    },
+    {
+        "id": "liv-golf-hong-kong-hsbc-liv-golf-hong-kong-game-162626",
+        "title": "LIV Golf Hong Kong | HSBC LIV Golf Hong Kong",
+        "category": "other",
+        "date": 1772944200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "liv-golf-hong-kong-hsbc-liv-golf-hong-kong-game-162626"
             }
         ]
     },
@@ -292,23 +301,6 @@
             {
                 "source": "charlie",
                 "id": "tigres-uanl-vs-monterrey-1492549"
-            }
-        ]
-    },
-    {
-        "id": "liv-golf-hong-kong-day-4-featured-group-1",
-        "title": "LIV Golf Hong Kong Day 4 Featured Group 1",
-        "category": "golf",
-        "date": 1772937000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "liv-golf-hong-kong-day-4-featured-group-1"
-            },
-            {
-                "source": "echo",
-                "id": "liv-golf-hong-kong-hsbc-liv-golf-hong-kong-game-162626"
             }
         ]
     },
@@ -719,6 +711,33 @@
         ]
     },
     {
+        "id": "konyaspor-vs-kasimpasa",
+        "title": "Konyaspor vs Kasimpasa",
+        "category": "football",
+        "date": 1772971200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "konyaspor-vs-kasimpasa"
+            }
+        ]
+    },
+    {
+        "id": "ppv-uk-open",
+        "title": "UK Open",
+        "category": "darts",
+        "date": 1772971200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTCEekLMEQgQ8bAwEgSUkL05C+socE4yAxgOwgYIFKJW7twEsqx8UwVmHZdgBcRbCFgSXGosdrtCCoZ47ymDWwD7sEEA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-uk-open"
+            }
+        ]
+    },
+    {
         "id": "afc-wimbledon-vs-northampton-town-2275054",
         "title": "AFC Wimbledon vs Northampton Town",
         "category": "football",
@@ -900,6 +919,10 @@
                 "id": "ppv-villarreal-vs-elche"
             },
             {
+                "source": "alpha",
+                "id": "villarreal-vs-elche"
+            },
+            {
                 "source": "charlie",
                 "id": "villarreal-vs-elche-1391088"
             },
@@ -971,6 +994,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-port-vale-vs-sunderland"
+            },
             {
                 "source": "delta",
                 "id": "live_fa-cup_port-vale-sunderland-live-streaming-515358720"
