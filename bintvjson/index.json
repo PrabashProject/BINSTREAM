@@ -165,38 +165,6 @@
         ]
     },
     {
-        "id": "new-york-red-bulls-vs-cf-montr-al-2406750",
-        "title": "New York Red Bulls vs CF Montr\u00e9al",
-        "category": "football",
-        "date": 1773001800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFG5gSIRDhzcQfEDBBSjIQ4kSGUBYEgp9hs+im1sUXbeXpZZXky0YB70ohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New York Red Bulls",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgyKaABMwKENxAQQfEIhImQmgxdwEKTPii5ry9eaMdNaYNWNEQgA"
-            },
-            "away": {
-                "name": "CF Montr\u00e9al",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDswAEzFgQibiHUg+IFDpAQzx3CGWEYwJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "new-york-red-bulls-vs-cf-montreal"
-            },
-            {
-                "source": "delta",
-                "id": "live_mls_ny-red-bulls-montreal-live-streaming-472020912"
-            },
-            {
-                "source": "echo",
-                "id": "new-york-red-bulls-vs-cf-montreal-football-1490148"
-            }
-        ]
-    },
-    {
         "id": "pittsburgh-penguins-vs-boston-bruins-2347884",
         "title": "Pittsburgh Penguins vs Boston Bruins",
         "category": "hockey",
@@ -427,14 +395,6 @@
                 "id": "ppv-kansas-city-royals-vs-chicago-white-sox"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_white-sox-royals-live-streaming-513710208"
-            },
-            {
-                "source": "echo",
-                "id": "chicago-white-sox-vs-kansas-city-royals-baseball-180339"
-            },
-            {
                 "source": "golf",
                 "id": "20398"
             }
@@ -544,26 +504,25 @@
         ]
     },
     {
-        "id": "valencia-vs-deportivo-alav-s-2279662",
-        "title": "Valencia vs Deportivo Alav\u00e9s",
+        "id": "valencia-vs-alaves-1391087",
+        "title": "La Liga: Valencia vs Alaves",
         "category": "football",
         "date": 1773000000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGfApSKABhDcQfECX0gIxkDFyHLBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
         "popular": true,
         "teams": {
             "home": {
                 "name": "Valencia",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3qgQwMCAAmlEN20gSh4yhAQQFrWYIUmfFFzBl4ReaIdNaYJ2NEQgA"
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCBYhEHfLGB4mtHSwSKuW2ufJgwWiK2AQgA"
             },
             "away": {
-                "name": "Deportivo Alav\u00e9s",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksOAATYPhAotoENxB8QiCCFUGjISycYUmfFFzBl4ReaIdNaYJ2NEQgA"
+                "name": "Alaves",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCBYgIIDvljA8TWjpYJFXLbQvkwYLRFbAIQA"
             }
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-valencia-vs-alav-s"
+                "source": "charlie",
+                "id": "valencia-vs-alaves-1391087"
             }
         ]
     },
@@ -610,10 +569,6 @@
         },
         "sources": [
             {
-                "source": "alpha",
-                "id": "ac-milan-vs-internazionale"
-            },
-            {
                 "source": "charlie",
                 "id": "ac-milan-vs-inter-1378142"
             }
@@ -656,10 +611,6 @@
             {
                 "source": "charlie",
                 "id": "santa-clara-vs-guimaraes-1396460"
-            },
-            {
-                "source": "echo",
-                "id": "santa-clara-vs-guimaraes-football-1396460"
             }
         ]
     },
@@ -696,10 +647,6 @@
             }
         },
         "sources": [
-            {
-                "source": "alpha",
-                "id": "los-angeles-lakers-vs-new-york-knicks"
-            },
             {
                 "source": "golf",
                 "id": "20356"
@@ -752,33 +699,6 @@
             {
                 "source": "charlie",
                 "id": "evening-session-day-3-1629486424"
-            }
-        ]
-    },
-    {
-        "id": "valencia-vs-alaves",
-        "title": "Valencia vs Alaves",
-        "category": "football",
-        "date": 1772996400000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Valencia",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCBYhEHfLGB4mtHSwSKuW2ufJgwWiK2AQgA"
-            },
-            "away": {
-                "name": "Alaves",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCBYgIIDvljA8TWjpYJFXLbQvkwYLRFbAIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "valencia-vs-alaves"
-            },
-            {
-                "source": "charlie",
-                "id": "valencia-vs-alaves-1391087"
             }
         ]
     },
@@ -871,19 +791,6 @@
         ]
     },
     {
-        "id": "atpwta-third-round-1629486366",
-        "title": "BNP Paribas Open: ATP/WTA Third Round",
-        "category": "tennis",
-        "date": 1772992800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "charlie",
-                "id": "atpwta-third-round-1629486366"
-            }
-        ]
-    },
-    {
         "id": "lusitania-lourosa-vs-sporting-cp-b-1398189",
         "title": "Segunda Liga: Lusitania Lourosa vs Sporting CP B",
         "category": "football",
@@ -903,6 +810,19 @@
             {
                 "source": "charlie",
                 "id": "lusitania-lourosa-vs-sporting-cp-b-1398189"
+            }
+        ]
+    },
+    {
+        "id": "atpwta-third-round-1629486366",
+        "title": "BNP Paribas Open: ATP/WTA Third Round",
+        "category": "tennis",
+        "date": 1772992800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "charlie",
+                "id": "atpwta-third-round-1629486366"
             }
         ]
     },
@@ -1057,19 +977,6 @@
             {
                 "source": "charlie",
                 "id": "qpr-vs-middlesbrough-1386978"
-            }
-        ]
-    },
-    {
-        "id": "hsbc-svns-vancouver-day-2",
-        "title": "HSBC SVNS Vancouver Day 2",
-        "category": "rugby",
-        "date": 1772987400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "hsbc-svns-vancouver-day-2"
             }
         ]
     },
@@ -2067,6 +1974,19 @@
             {
                 "source": "echo",
                 "id": "israel-vs-nicaragua-baseball-183951"
+            }
+        ]
+    },
+    {
+        "id": "hsbc-svns-vancouver-day-2-session-4",
+        "title": "HSBC SVNS Vancouver Day 2: Session 4",
+        "category": "tennis",
+        "date": 1773012000000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "hsbc-svns-vancouver-day-2-session-4"
             }
         ]
     }
