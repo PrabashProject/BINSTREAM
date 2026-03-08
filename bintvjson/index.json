@@ -1,5 +1,59 @@
 [
     {
+        "id": "atpwta-1000-indian-wells-tn-1",
+        "title": "ATP/WTA 1000: Indian Wells \ud83c\udfbe",
+        "category": "other",
+        "date": 1772996400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atpwta-1000-indian-wells-tn-1"
+            }
+        ]
+    },
+    {
+        "id": "evening-session-day-3-1629486424",
+        "title": "Ladbrokes UK Open: Evening Session Day 3",
+        "category": "darts",
+        "date": 1772996400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "charlie",
+                "id": "evening-session-day-3-1629486424"
+            }
+        ]
+    },
+    {
+        "id": "nec-nijmegen-vs-fc-volendam-2268383",
+        "title": "NEC Nijmegen vs FC Volendam",
+        "category": "football",
+        "date": 1772996400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWCTswUkChAkQ3EHwMgYICOZMhdiPUyQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "NEC Nijmegen",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJBleSYGFIhuIPiBg6DRlCDMATMwQpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "FC Volendam",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnn0qolMxDcQAE1wgS2vSD4gUICCBgEKTPprZgy8IvI3AmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "charlie",
+                "id": "nec-nijmegen-vs-fc-volendam-1381097"
+            },
+            {
+                "source": "echo",
+                "id": "nec-nijmegen-vs-fc-volendam-football-1381097"
+            }
+        ]
+    },
+    {
         "id": "pescara-vs-bari-2297931",
         "title": "Pescara vs Bari",
         "category": "football",
@@ -105,6 +159,10 @@
         },
         "sources": [
             {
+                "source": "alpha",
+                "id": "benfica-vs-fc-porto"
+            },
+            {
                 "source": "charlie",
                 "id": "benfica-vs-fc-porto-1396454"
             },
@@ -133,6 +191,10 @@
         },
         "sources": [
             {
+                "source": "alpha",
+                "id": "schwenninger-vs-augsburger-panther"
+            },
+            {
                 "source": "echo",
                 "id": "schwenninger-vs-augsburger-panther-hockey-409120"
             }
@@ -159,6 +221,10 @@
             {
                 "source": "admin",
                 "id": "ppv-minnesota-wild-vs-colorado-avalanche"
+            },
+            {
+                "source": "alpha",
+                "id": "colorado-avalanche-vs-minnesota-wild"
             },
             {
                 "source": "delta",
@@ -707,6 +773,42 @@
         ]
     },
     {
+        "id": "rakow-czestochowa-vs-pogon-szczecin-1380597",
+        "title": "Ekstraklasa: Rakow Czestochowa vs Pogon Szczecin",
+        "category": "football",
+        "date": 1772987400000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Rakow Czestochowa",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCEQQQ2PgRjA8TWjpYJFXLbQvkwYLRFbAIQA"
+            },
+            "away": {
+                "name": "Pogon Szczecin",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCEQQQIfLGB4mtHSwSKuW2ufJgwWiK2AQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "charlie",
+                "id": "rakow-czestochowa-vs-pogon-szczecin-1380597"
+            }
+        ]
+    },
+    {
+        "id": "hsbc-svns-vancouver-day-2",
+        "title": "HSBC SVNS Vancouver Day 2",
+        "category": "rugby",
+        "date": 1772987400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "hsbc-svns-vancouver-day-2"
+            }
+        ]
+    },
+    {
         "id": "union-berlin-vs-werder-bremen-2276861",
         "title": "Union Berlin vs Werder Bremen",
         "category": "football",
@@ -729,16 +831,8 @@
                 "id": "ppv-1-fc-union-berlin-vs-werder-bremen"
             },
             {
-                "source": "alpha",
-                "id": "fc-union-berlin-vs-werder-bremen"
-            },
-            {
                 "source": "charlie",
                 "id": "union-berlin-vs-werder-bremen-1388531"
-            },
-            {
-                "source": "echo",
-                "id": "union-berlin-vs-werder-bremen-football-1388531"
             }
         ]
     },
@@ -765,24 +859,8 @@
                 "id": "ppv-leeds-united-vs-norwich-city"
             },
             {
-                "source": "alpha",
-                "id": "leeds-united-vs-norwich-city"
-            },
-            {
                 "source": "charlie",
                 "id": "leeds-vs-norwich-1523411"
-            },
-            {
-                "source": "delta",
-                "id": "live_fa-cup_leeds-norwich-live-streaming-515359152"
-            },
-            {
-                "source": "echo",
-                "id": "leeds-vs-norwich-football-1523411"
-            },
-            {
-                "source": "golf",
-                "id": "20325"
             }
         ]
     },
@@ -797,34 +875,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-03-wxw-16-carat-gold-ppv-03"
-            }
-        ]
-    },
-    {
-        "id": "ppv-nice-vs-stade-rennais",
-        "title": "Nice vs. Stade Rennais",
-        "category": "football",
-        "date": 1772986500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdELB33sE7YQAY2DwG-FCGEl+iGeIggQwEiBXt5w+iD0qYmgUdEpgrMOy7AC2PBcLAkuMxwuN4FXQ7uSwVsAQUhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Nice",
-                "badge": ""
-            },
-            "away": {
-                "name": "Stade Rennais",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-nice-vs-stade-rennais"
-            },
-            {
-                "source": "alpha",
-                "id": "nice-vs-stade-rennais"
             }
         ]
     },
@@ -846,10 +896,6 @@
             }
         },
         "sources": [
-            {
-                "source": "alpha",
-                "id": "carrarese-vs-palermo"
-            },
             {
                 "source": "charlie",
                 "id": "carrarese-vs-palermo-1419874"
@@ -899,14 +945,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-lille-vs-lorient"
-            },
-            {
-                "source": "alpha",
-                "id": "lille-vs-lorient"
-            },
-            {
                 "source": "charlie",
                 "id": "lille-vs-lorient-1387917"
             }
@@ -930,14 +968,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-brest-vs-le-havre-ac"
-            },
-            {
-                "source": "alpha",
-                "id": "brest-vs-le-havre-ac"
-            },
             {
                 "source": "charlie",
                 "id": "stade-brestois-29-vs-le-havre-1387915"
@@ -1076,14 +1106,6 @@
             {
                 "source": "alpha",
                 "id": "dominican-republic-vs-netherlands"
-            },
-            {
-                "source": "delta",
-                "id": "live_world-baseball-classic-pool-d_dominican-republic-netherlands-live-streaming-513714960"
-            },
-            {
-                "source": "echo",
-                "id": "dominican-republic-vs-netherlands-baseball-161701"
             }
         ]
     },
@@ -1171,33 +1193,6 @@
         ]
     },
     {
-        "id": "rakow-vs-pogon-szczecin",
-        "title": "Rakow vs Pogon Szczecin",
-        "category": "football",
-        "date": 1772983800000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Rakow Czestochowa",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCEQQQ2PgRjA8TWjpYJFXLbQvkwYLRFbAIQA"
-            },
-            "away": {
-                "name": "Pogon Szczecin",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCEQQQIfLGB4mtHSwSKuW2ufJgwWiK2AQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "rakow-vs-pogon-szczecin"
-            },
-            {
-                "source": "charlie",
-                "id": "rakow-czestochowa-vs-pogon-szczecin-1380597"
-            }
-        ]
-    },
-    {
         "id": "estrela-amadora-vs-gil-vicente-2283549",
         "title": "Estrela Amadora vs Gil Vicente",
         "category": "football",
@@ -1242,19 +1237,6 @@
             {
                 "source": "charlie",
                 "id": "getafe-vs-real-betis-1391083"
-            }
-        ]
-    },
-    {
-        "id": "nhra-drag-racing-gatornationals-finals",
-        "title": "NHRA Drag Racing Gatornationals Finals",
-        "category": "motor-sports",
-        "date": 1772982000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "nhra-drag-racing-gatornationals-finals"
             }
         ]
     },
@@ -1511,6 +1493,19 @@
         ]
     },
     {
+        "id": "uk-open-darts-session-1-2-darts-1",
+        "title": "UK Open Darts - Session 1 & 2  \ud83c\udfaf",
+        "category": "other",
+        "date": 1772975400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "uk-open-darts-session-1-2-darts-1"
+            }
+        ]
+    },
+    {
         "id": "the-arnold-palmer-invitational-sky",
         "title": "The Arnold Palmer Invitational SKY",
         "category": "golf",
@@ -1585,29 +1580,6 @@
         ]
     },
     {
-        "id": "hannover-96-vs-spvgg-greuther-furth-1388833",
-        "title": "2. Bundesliga: Hannover 96 vs SpVgg Greuther Furth",
-        "category": "football",
-        "date": 1772973000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Hannover 96",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdLxAyD+WMDxNaOlgkVcttM+TBgtEVsAhA"
-            },
-            "away": {
-                "name": "SpVgg Greuther Furth",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdLxCEQIfLGB4mtHSwSKuW2ufJgwWiK2AQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "charlie",
-                "id": "hannover-96-vs-spvgg-greuther-furth-1388833"
-            }
-        ]
-    },
-    {
         "id": "preussen-munster-vs-hertha-bsc-1388837",
         "title": "2. Bundesliga: Preu\u00dfen Munster vs Hertha BSC",
         "category": "football",
@@ -1627,6 +1599,29 @@
             {
                 "source": "charlie",
                 "id": "preussen-munster-vs-hertha-bsc-1388837"
+            }
+        ]
+    },
+    {
+        "id": "hannover-96-vs-spvgg-greuther-furth-1388833",
+        "title": "2. Bundesliga: Hannover 96 vs SpVgg Greuther Furth",
+        "category": "football",
+        "date": 1772973000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Hannover 96",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdLxAyD+WMDxNaOlgkVcttM+TBgtEVsAhA"
+            },
+            "away": {
+                "name": "SpVgg Greuther Furth",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdLxCEQIfLGB4mtHSwSKuW2ufJgwWiK2AQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "charlie",
+                "id": "hannover-96-vs-spvgg-greuther-furth-1388833"
             }
         ]
     },
@@ -1675,23 +1670,6 @@
             {
                 "source": "charlie",
                 "id": "club-brugge-kv-vs-anderlecht-1382646"
-            }
-        ]
-    },
-    {
-        "id": "uk-open-darts-day-3-aft-session",
-        "title": "UK Open Darts: Day 3 Aft Session",
-        "category": "darts",
-        "date": 1772971200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "uk-open-darts-day-3-aft-session"
-            },
-            {
-                "source": "echo",
-                "id": "uk-open-darts-session-1-2-darts-1"
             }
         ]
     },
@@ -1900,60 +1878,6 @@
         ]
     },
     {
-        "id": "atpwta-1000-indian-wells-tn-1",
-        "title": "ATP/WTA 1000: Indian Wells \ud83c\udfbe",
-        "category": "other",
-        "date": 1772996400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "atpwta-1000-indian-wells-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "evening-session-day-3-1629486424",
-        "title": "Ladbrokes UK Open: Evening Session Day 3",
-        "category": "darts",
-        "date": 1772996400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "charlie",
-                "id": "evening-session-day-3-1629486424"
-            }
-        ]
-    },
-    {
-        "id": "nec-nijmegen-vs-fc-volendam-2268383",
-        "title": "NEC Nijmegen vs FC Volendam",
-        "category": "football",
-        "date": 1772996400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWCTswUkChAkQ3EHwMgYICOZMhdiPUyQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "NEC Nijmegen",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJBleSYGFIhuIPiBg6DRlCDMATMwQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "FC Volendam",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnn0qolMxDcQAE1wgS2vSD4gUICCBgEKTPprZgy8IvI3AmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "charlie",
-                "id": "nec-nijmegen-vs-fc-volendam-1381097"
-            },
-            {
-                "source": "echo",
-                "id": "nec-nijmegen-vs-fc-volendam-football-1381097"
-            }
-        ]
-    },
-    {
         "id": "legia-warszawa-vs-cracovia-krakow-1380593",
         "title": "Ekstraklasa: Legia Warszawa vs Cracovia Krakow",
         "category": "football",
@@ -2100,29 +2024,6 @@
         ]
     },
     {
-        "id": "deportivo-la-coruna-vs-granada-cf-1392074",
-        "title": "Segunda Divisi\u00f3n: Deportivo La Coruna vs Granada CF",
-        "category": "football",
-        "date": 1773000000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Deportivo La Coruna",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCBYgIh-LGB4mtHSwSKuW2ufJgwWiK2AQgA"
-            },
-            "away": {
-                "name": "Granada CF",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCEK8QbAjGB4mtHSwSKuW2ufJgwWiK2AQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "charlie",
-                "id": "deportivo-la-coruna-vs-granada-cf-1392074"
-            }
-        ]
-    },
-    {
         "id": "valencia-vs-alaves-1391087",
         "title": "La Liga: Valencia vs Alaves",
         "category": "football",
@@ -2146,6 +2047,29 @@
             {
                 "source": "echo",
                 "id": "valencia-vs-alaves-football-1391087"
+            }
+        ]
+    },
+    {
+        "id": "deportivo-la-coruna-vs-granada-cf-1392074",
+        "title": "Segunda Divisi\u00f3n: Deportivo La Coruna vs Granada CF",
+        "category": "football",
+        "date": 1773000000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Deportivo La Coruna",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCBYgIh-LGB4mtHSwSKuW2ufJgwWiK2AQgA"
+            },
+            "away": {
+                "name": "Granada CF",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCEK8QbAjGB4mtHSwSKuW2ufJgwWiK2AQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "charlie",
+                "id": "deportivo-la-coruna-vs-granada-cf-1392074"
             }
         ]
     },
@@ -2277,7 +2201,7 @@
             },
             {
                 "source": "echo",
-                "id": "athletics-vs-los-angeles-angels-baseball-180341"
+                "id": "texas-rangers-vs-los-angeles-angels-baseball-180335"
             },
             {
                 "source": "golf",
