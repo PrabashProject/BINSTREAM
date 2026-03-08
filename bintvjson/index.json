@@ -1,5 +1,18 @@
 [
     {
+        "id": "vancouver-day-2-session-3-1629486368",
+        "title": "World Rugby Sevens Series: Vancouver Day 2: Session 3",
+        "category": "american-football",
+        "date": 1773010800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "charlie",
+                "id": "vancouver-day-2-session-3-1629486368"
+            }
+        ]
+    },
+    {
         "id": "fc-cincinnati-vs-toronto-fc-2406751",
         "title": "FC Cincinnati vs Toronto FC",
         "category": "football",
@@ -424,20 +437,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-boston-bruins-vs-pittsburgh-penguins"
-            },
-            {
                 "source": "alpha",
                 "id": "pittsburgh-penguins-vs-boston-bruins"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl_penguins-bruins-live-streaming-513785376"
-            },
-            {
-                "source": "echo",
-                "id": "pittsburgh-penguins-vs-boston-bruins-hockey-416619"
             },
             {
                 "source": "golf",
@@ -463,10 +464,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cleveland-guardians-vs-colorado-rockies"
-            },
             {
                 "source": "alpha",
                 "id": "colorado-rockies-vs-cleveland-guardians"
@@ -520,40 +517,12 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-cincinnati-reds-vs-san-diego-padres"
-            },
-            {
                 "source": "alpha",
                 "id": "cincinnati-reds-vs-arizona-diamondbacks"
             },
             {
                 "source": "golf",
                 "id": "20399"
-            }
-        ]
-    },
-    {
-        "id": "ppv-arizona-diamondbacks-vs-cincinnati-reds",
-        "title": "Arizona Diamondbacks vs. Cincinnati Reds",
-        "category": "baseball",
-        "date": 1773000300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdECEE-g0GdgAvoizYQAY2CcQ9EDBBZeouSE3TNmoYtXzlEKSgUpgrMOy7AC2PBcLAkuaeY5Xaxke3N34FlbAxuwQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Arizona Diamondbacks",
-                "badge": ""
-            },
-            "away": {
-                "name": "Cincinnati Reds",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-arizona-diamondbacks-vs-cincinnati-reds"
             }
         ]
     },
@@ -600,10 +569,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-kansas-city-royals-vs-chicago-white-sox"
-            },
-            {
                 "source": "golf",
                 "id": "20398"
             }
@@ -627,10 +592,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-los-angeles-dodgers-vs-athletics"
-            },
             {
                 "source": "alpha",
                 "id": "athletics-vs-los-angeles-angels"
@@ -660,39 +621,12 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-san-francisco-giants-vs-chicago-cubs"
-            },
-            {
                 "source": "alpha",
                 "id": "chicago-cubs-vs-san-francisco-giants"
             },
             {
                 "source": "golf",
                 "id": "20397"
-            }
-        ]
-    },
-    {
-        "id": "deportivo-la-coruna-vs-granada-cf-1392074",
-        "title": "Segunda Divisi\u00f3n: Deportivo La Coruna vs Granada CF",
-        "category": "football",
-        "date": 1773000000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Deportivo La Coruna",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCBYgIh-LGB4mtHSwSKuW2ufJgwWiK2AQgA"
-            },
-            "away": {
-                "name": "Granada CF",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCEK8QbAjGB4mtHSwSKuW2ufJgwWiK2AQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "charlie",
-                "id": "deportivo-la-coruna-vs-granada-cf-1392074"
             }
         ]
     },
@@ -716,6 +650,29 @@
             {
                 "source": "charlie",
                 "id": "valencia-vs-alaves-1391087"
+            }
+        ]
+    },
+    {
+        "id": "deportivo-la-coruna-vs-granada-cf-1392074",
+        "title": "Segunda Divisi\u00f3n: Deportivo La Coruna vs Granada CF",
+        "category": "football",
+        "date": 1773000000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Deportivo La Coruna",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCBYgIh-LGB4mtHSwSKuW2ufJgwWiK2AQgA"
+            },
+            "away": {
+                "name": "Granada CF",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCEK8QbAjGB4mtHSwSKuW2ufJgwWiK2AQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "charlie",
+                "id": "deportivo-la-coruna-vs-granada-cf-1392074"
             }
         ]
     },
@@ -764,58 +721,6 @@
             {
                 "source": "charlie",
                 "id": "ac-milan-vs-inter-1378142"
-            }
-        ]
-    },
-    {
-        "id": "vancouver-day-2-session-2-1629486367",
-        "title": "World Rugby Sevens Series: Vancouver Day 2: Session 2",
-        "category": "american-football",
-        "date": 1772998200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "charlie",
-                "id": "vancouver-day-2-session-2-1629486367"
-            }
-        ]
-    },
-    {
-        "id": "straight-talk-wireless-500-2409890",
-        "title": "Straight Talk Wireless 500",
-        "category": "motor-sports",
-        "date": 1772998200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAowA7UmBSQ3DSeM4SIC5pQgFTJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-straight-talk-wireless-500"
-            }
-        ]
-    },
-    {
-        "id": "los-angeles-lakers-vs-new-york-knicks-2358285",
-        "title": "Los Angeles Lakers vs New York Knicks",
-        "category": "basketball",
-        "date": 1772998200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBgu9LGD4huIAyRApcIRBBDWDfAsCQV7rEWJRgVKLp-K7Z3ky0YJ5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Los Angeles Lakers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwghwoquD4huIbbtU4SIVcd0TCMYEz4ouYMvCLzRdprTAOxoiEA"
-            },
-            "away": {
-                "name": "New York Knicks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gUoWGFEATENxAk9RkEZggIIRMsIxgTPurZby9eaPVNaYLWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20356"
             }
         ]
     },
@@ -957,6 +862,19 @@
         ]
     },
     {
+        "id": "atpwta-third-round-1629486366",
+        "title": "BNP Paribas Open: ATP/WTA Third Round",
+        "category": "tennis",
+        "date": 1772992800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "charlie",
+                "id": "atpwta-third-round-1629486366"
+            }
+        ]
+    },
+    {
         "id": "lusitania-lourosa-vs-sporting-cp-b-1398189",
         "title": "Segunda Liga: Lusitania Lourosa vs Sporting CP B",
         "category": "football",
@@ -976,19 +894,6 @@
             {
                 "source": "charlie",
                 "id": "lusitania-lourosa-vs-sporting-cp-b-1398189"
-            }
-        ]
-    },
-    {
-        "id": "atpwta-third-round-1629486366",
-        "title": "BNP Paribas Open: ATP/WTA Third Round",
-        "category": "tennis",
-        "date": 1772992800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "charlie",
-                "id": "atpwta-third-round-1629486366"
             }
         ]
     },
@@ -1688,29 +1593,6 @@
         ]
     },
     {
-        "id": "hannover-96-vs-spvgg-greuther-furth-1388833",
-        "title": "2. Bundesliga: Hannover 96 vs SpVgg Greuther Furth",
-        "category": "football",
-        "date": 1772973000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Hannover 96",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdLxAyD+WMDxNaOlgkVcttM+TBgtEVsAhA"
-            },
-            "away": {
-                "name": "SpVgg Greuther Furth",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdLxCEQIfLGB4mtHSwSKuW2ufJgwWiK2AQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "charlie",
-                "id": "hannover-96-vs-spvgg-greuther-furth-1388833"
-            }
-        ]
-    },
-    {
         "id": "preussen-munster-vs-hertha-bsc-1388837",
         "title": "2. Bundesliga: Preu\u00dfen Munster vs Hertha BSC",
         "category": "football",
@@ -1730,6 +1612,29 @@
             {
                 "source": "charlie",
                 "id": "preussen-munster-vs-hertha-bsc-1388837"
+            }
+        ]
+    },
+    {
+        "id": "hannover-96-vs-spvgg-greuther-furth-1388833",
+        "title": "2. Bundesliga: Hannover 96 vs SpVgg Greuther Furth",
+        "category": "football",
+        "date": 1772973000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Hannover 96",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdLxAyD+WMDxNaOlgkVcttM+TBgtEVsAhA"
+            },
+            "away": {
+                "name": "SpVgg Greuther Furth",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdLxCEQIfLGB4mtHSwSKuW2ufJgwWiK2AQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "charlie",
+                "id": "hannover-96-vs-spvgg-greuther-furth-1388833"
             }
         ]
     },
@@ -1826,30 +1731,6 @@
             {
                 "source": "charlie",
                 "id": "fulham-vs-southampton-1523410"
-            }
-        ]
-    },
-    {
-        "id": "lecce-vs-cremonese-2265313",
-        "title": "Lecce vs Cremonese",
-        "category": "football",
-        "date": 1772969400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENwTAwYFCFEAGDSD76zexBBDWYJgsCQU+w2fRRgVKLh-L0ssryZaHVF6UKA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Lecce",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgoAEzBJghHNxAkQ6kHxCJjhnBBAoCFJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Cremonese",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATYEz64wqsChDcQJEFv1aYISzn0TCMDfxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "charlie",
-                "id": "lecce-vs-cremonese-1378141"
             }
         ]
     }
