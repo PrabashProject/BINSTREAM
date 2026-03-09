@@ -1,5 +1,45 @@
 [
     {
+        "id": "new-york-mets-vs-miami-marlins-2392957",
+        "title": "New York Mets vs Miami Marlins",
+        "category": "baseball",
+        "date": 1773094200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFD4gyWYEmAAGENxBatJxCZQhr1hUyQU+w2fRRgVKLh-L1doryZaMA8xUQggA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "New York Mets",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA"
+            },
+            "away": {
+                "name": "Miami Marlins",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-miami-marlins-vs-new-york-mets"
+            },
+            {
+                "source": "alpha",
+                "id": "new-york-mets-vs-miami-marlins"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_mets-marlins-live-streaming-513908064"
+            },
+            {
+                "source": "echo",
+                "id": "new-york-mets-vs-miami-marlins-baseball-180350"
+            },
+            {
+                "source": "golf",
+                "id": "20416"
+            }
+        ]
+    },
+    {
         "id": "tondela-vs-rio-ave-2283553",
         "title": "Tondela vs Rio Ave",
         "category": "football",
@@ -20,10 +60,6 @@
             {
                 "source": "alpha",
                 "id": "tondela-vs-rio-ave"
-            },
-            {
-                "source": "echo",
-                "id": "tondela-vs-rio-ave-football-1396461"
             }
         ]
     },
@@ -190,10 +226,6 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_giants-angels-live-streaming-513906336"
-            },
-            {
                 "source": "echo",
                 "id": "san-francisco-giants-vs-los-angeles-angels-baseball-180347"
             },
@@ -288,18 +320,6 @@
             {
                 "source": "admin",
                 "id": "ppv-espanyol-vs-real-oviedo"
-            },
-            {
-                "source": "alpha",
-                "id": "espanyol-vs-real-oviedo"
-            },
-            {
-                "source": "delta",
-                "id": "live_laliga_espanyol-real-oviedo-live-streaming-472008384"
-            },
-            {
-                "source": "echo",
-                "id": "espanyol-vs-oviedo-football-1391082"
             }
         ]
     },
@@ -344,62 +364,6 @@
         ]
     },
     {
-        "id": "lazio-vs-sassuolo-2265312",
-        "title": "Lazio vs Sassuolo",
-        "category": "football",
-        "date": 1773085500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjBJgABhDxsukNxB8QJcxv0gIIOzH0FgSCn2Gz6mlSi5gyB+ixZHyZaMD8xUQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Lazio",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbmBRgAJghDcQEIyFOmYIHZZAWQBCkz4ouYMvCLzRzprTCuxohBAA"
-            },
-            "away": {
-                "name": "Sassuolo",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnApyUACawQ3EBD0hDhmCA06QiEAQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-lazio-vs-sassuolo"
-            },
-            {
-                "source": "alpha",
-                "id": "lazio-vs-sassuolo"
-            }
-        ]
-    },
-    {
-        "id": "usl-dunkerque-vs-stade-de-reims-2278034",
-        "title": "USL Dunkerque vs Stade de Reims",
-        "category": "football",
-        "date": 1773085500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMCRgQm3GD4huIAyRARjuEFLMgYtgpop9hs+ijAqNbD+XpZZGky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "USL Dunkerque",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwEIekxIht3EHx0gYIEwZSr9uAhSZ8UXMGTX15o+01phHY0RCA"
-            },
-            "away": {
-                "name": "Stade de Reims",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDNqfELxzcQJEClz7DegxBAATAhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "dunkerque-vs-stade-de-reims"
-            },
-            {
-                "source": "echo",
-                "id": "dunkerque-vs-reims-football-1389336"
-            }
-        ]
-    },
-    {
         "id": "west-ham-united-vs-brentford-2434726",
         "title": "West Ham United vs Brentford",
         "category": "football",
@@ -418,10 +382,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-west-ham-united-vs-brentford"
-            },
-            {
                 "source": "alpha",
                 "id": "west-ham-united-vs-brentford"
             },
@@ -432,163 +392,6 @@
             {
                 "source": "echo",
                 "id": "west-ham-vs-brentford-football-1523414"
-            }
-        ]
-    },
-    {
-        "id": "inside-the-ring",
-        "title": "Inside The Ring",
-        "category": "fight",
-        "date": 1773076200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "inside-the-ring"
-            }
-        ]
-    },
-    {
-        "id": "atlanta-braves-vs-minnesota-twins-2392964",
-        "title": "Atlanta Braves vs Minnesota Twins",
-        "category": "baseball",
-        "date": 1773075900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxBb6ABgZyQ3DcaOIcMEBcQgCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Atlanta Braves",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Minnesota Twins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "atlanta-braves-vs-minnesota-twins"
-            },
-            {
-                "source": "golf",
-                "id": "20404"
-            }
-        ]
-    },
-    {
-        "id": "st--louis-cardinals-vs-baltimore-orioles-2392953",
-        "title": "St. Louis Cardinals vs Baltimore Orioles",
-        "category": "baseball",
-        "date": 1773075900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKZBAowKLexDcQfIwZCJDu3cZQFgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "St. Louis Cardinals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Baltimore Orioles",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "st-louis-cardinals-vs-baltimore-orioles"
-            },
-            {
-                "source": "golf",
-                "id": "20407"
-            }
-        ]
-    },
-    {
-        "id": "detroit-tigers-vs-tampa-bay-rays-2392958",
-        "title": "Detroit Tigers vs Tampa Bay Rays",
-        "category": "baseball",
-        "date": 1773075900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCBnwEnJCG4g+h-SEQGNFkCALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Detroit Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Tampa Bay Rays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20406"
-            }
-        ]
-    },
-    {
-        "id": "boston-red-sox-vs-philadelphia-phillies-2392963",
-        "title": "Boston Red Sox vs Philadelphia Phillies",
-        "category": "baseball",
-        "date": 1773075900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiAghRWMClAhuIPscMhEOGCCuISBYEgp9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Boston Red Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
-            },
-            "away": {
-                "name": "Philadelphia Phillies",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20405"
-            }
-        ]
-    },
-    {
-        "id": "new-york-mets-vs-miami-marlins-2392957",
-        "title": "New York Mets vs Miami Marlins",
-        "category": "baseball",
-        "date": 1773094200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFD4gyWYEmAAGENxBatJxCZQhr1hUyQU+w2fRRgVKLh-L1doryZaMA8xUQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New York Mets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA"
-            },
-            "away": {
-                "name": "Miami Marlins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-miami-marlins-vs-new-york-mets"
-            },
-            {
-                "source": "alpha",
-                "id": "new-york-mets-vs-miami-marlins"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_mets-marlins-live-streaming-513908064"
-            },
-            {
-                "source": "echo",
-                "id": "new-york-mets-vs-miami-marlins-baseball-180350"
-            },
-            {
-                "source": "golf",
-                "id": "20416"
             }
         ]
     },
