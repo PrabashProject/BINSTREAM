@@ -79,10 +79,6 @@
                 "id": "ppv-zuffa-boxing-04"
             },
             {
-                "source": "alpha",
-                "id": "zuffa-boxing-04-jai-opetaia-vs-brandon-glanton"
-            },
-            {
                 "source": "delta",
                 "id": "live-event_zuffa-boxing-live-stream"
             },
@@ -115,20 +111,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-charlotte-hornets-vs-phoenix-suns"
-            },
-            {
                 "source": "alpha",
                 "id": "phoenix-suns-vs-charlotte-hornets"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_suns-hornets-live-streaming-431383104"
-            },
-            {
-                "source": "echo",
-                "id": "phoenix-suns-vs-charlotte-hornets-basketball-470407"
             },
             {
                 "source": "golf",
@@ -155,20 +139,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-edmonton-oilers-vs-vegas-golden-knights"
-            },
-            {
                 "source": "alpha",
                 "id": "vegas-golden-knights-vs-edmonton-oilers"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl_golden-knights-oilers-live-streaming-513787536"
-            },
-            {
-                "source": "echo",
-                "id": "vegas-golden-knights-vs-edmonton-oilers-hockey-416624"
             },
             {
                 "source": "golf",
@@ -202,46 +174,6 @@
         ]
     },
     {
-        "id": "anaheim-ducks-vs-st--louis-blues-2347888",
-        "title": "Anaheim Ducks vs St. Louis Blues",
-        "category": "hockey",
-        "date": 1773018000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSBQgy3EHBghdfEBoNaDugyBAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Anaheim Ducks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8IIdQBMQZddxB9VIFDoMhEhk5oIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "St. Louis Blues",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlu0PmBAhuICLgMwQJEIj47jBCkz4ouYMvCLzRdprTAOxoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-st-louis-blues-vs-anaheim-ducks"
-            },
-            {
-                "source": "alpha",
-                "id": "anaheim-ducks-vs-st-louis-blues"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl_ducks-blues-live-streaming-513787104"
-            },
-            {
-                "source": "echo",
-                "id": "anaheim-ducks-vs-st-louis-blues-hockey-416623"
-            },
-            {
-                "source": "golf",
-                "id": "20333"
-            }
-        ]
-    },
-    {
         "id": "portland-trail-blazers-vs-indiana-pacers-2358292",
         "title": "Portland Trail Blazers vs Indiana Pacers",
         "category": "basketball",
@@ -259,18 +191,6 @@
             }
         },
         "sources": [
-            {
-                "source": "alpha",
-                "id": "portland-trail-blazers-vs-indiana-pacers"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_trail-blazers-pacers-live-streaming-431383536"
-            },
-            {
-                "source": "echo",
-                "id": "portland-trail-blazers-vs-indiana-pacers-basketball-470408"
-            },
             {
                 "source": "golf",
                 "id": "20362"
@@ -296,22 +216,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-chicago-bulls-vs-sacramento-kings"
-            },
-            {
-                "source": "alpha",
-                "id": "sacramento-kings-vs-chicago-bulls"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_kings-bulls-live-streaming-431383968"
-            },
-            {
-                "source": "echo",
-                "id": "sacramento-kings-vs-chicago-bulls-basketball-470409"
-            },
-            {
                 "source": "golf",
                 "id": "20363"
             }
@@ -327,90 +231,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-04-gcw-ransom-ppv-004"
-            }
-        ]
-    },
-    {
-        "id": "san-antonio-spurs-vs-houston-rockets-2358290",
-        "title": "San Antonio Spurs vs Houston Rockets",
-        "category": "basketball",
-        "date": 1773014400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbrhBwkIMjo19dIFJsQQQ5kBYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "San Antonio Spurs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzlhRtXvhDcQAE20GQIEiBTGQiPgQpMrXNeXrzRKYE1pg1Y0RCA"
-            },
-            "away": {
-                "name": "Houston Rockets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSCkFEJRDcQJEChB8QEEKYAmIGLtwEKTPqrZgy8IvNGqmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "san-antonio-spurs-vs-houston-rockets"
-            },
-            {
-                "source": "golf",
-                "id": "20361"
-            }
-        ]
-    },
-    {
-        "id": "milwaukee-bucks-vs-orlando-magic-2358289",
-        "title": "Milwaukee Bucks vs Orlando Magic",
-        "category": "basketball",
-        "date": 1773014400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELyYgQfMAJzcdIEiBS4QiCCCvb4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Milwaukee Bucks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ZhQYUXxAwQ3EABNcukCRAoQEEFp2MKTPii4by9eaMdNaYDWNEQgA"
-            },
-            "away": {
-                "name": "Orlando Magic",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplpJyAExC0c3EHxAQQRlHoO4tICYRjAmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "alpha",
-                "id": "milwaukee-bucks-vs-orlando-magic"
-            },
-            {
-                "source": "golf",
-                "id": "20360"
-            }
-        ]
-    },
-    {
-        "id": "mexico-baseball-vs-brazil-baseball-2434706",
-        "title": "Mexico Baseball vs Brazil Baseball",
-        "category": "baseball",
-        "date": 1773014400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCG5gBSWYm4g+hzbmMgQJUzALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Mexico Baseball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAC+IFMCYhVIbiAAmuEBA3H1KEyBgEKTPprZgy8IvNGamtMM7GiIQA"
-            },
-            "away": {
-                "name": "Brazil Baseball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgURAAx0QAExDcQfXSAj7jRkmZAEKTPii5gyq+vNEOmtME7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-brazil-vs-mexico"
-            },
-            {
-                "source": "alpha",
-                "id": "mexico-vs-brazil"
             }
         ]
     },
@@ -514,6 +334,10 @@
                 "id": "australia-vs-south-korea"
             },
             {
+                "source": "delta",
+                "id": "live_world-baseball-classic-pool-c_australia-south-korea-live-streaming-513714528"
+            },
+            {
                 "source": "echo",
                 "id": "australia-vs-south-korea-baseball-161703"
             }
@@ -600,6 +424,10 @@
                 "id": "israel-vs-dominican-republic"
             },
             {
+                "source": "delta",
+                "id": "live_world-baseball-classic-pool-d_israel-dominican-republic-live-streaming-513911088"
+            },
+            {
                 "source": "echo",
                 "id": "israel-vs-dominican-republic-baseball-161704"
             }
@@ -632,8 +460,25 @@
                 "id": "panama-vs-colombia"
             },
             {
+                "source": "delta",
+                "id": "live_world-baseball-classic-pool-a_panama-colombia-live-streaming-513908928"
+            },
+            {
                 "source": "echo",
                 "id": "panama-vs-colombia-baseball-183953"
+            }
+        ]
+    },
+    {
+        "id": "inside-the-ring",
+        "title": "Inside The Ring",
+        "category": "fight",
+        "date": 1773075600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "inside-the-ring"
             }
         ]
     },
@@ -696,6 +541,10 @@
                 "id": "great-britain-vs-brazil"
             },
             {
+                "source": "delta",
+                "id": "live_world-baseball-classic-pool-b_great-britain-brazil-live-streaming-513909792"
+            },
+            {
                 "source": "echo",
                 "id": "great-britain-vs-brazil-baseball-183954"
             }
@@ -751,6 +600,10 @@
                 "id": "atlanta-braves-vs-minnesota-twins"
             },
             {
+                "source": "delta",
+                "id": "live_mlb_braves-twins-live-streaming-513902880"
+            },
+            {
                 "source": "echo",
                 "id": "atlanta-braves-vs-minnesota-twins-baseball-180357"
             },
@@ -783,6 +636,10 @@
                 "id": "detroit-tigers-vs-tampa-bay-rays"
             },
             {
+                "source": "delta",
+                "id": "live_mlb_tigers-rays-live-streaming-513903744"
+            },
+            {
                 "source": "echo",
                 "id": "detroit-tigers-vs-tampa-bay-rays-baseball-180351"
             },
@@ -813,6 +670,10 @@
             {
                 "source": "alpha",
                 "id": "boston-red-sox-vs-philadelphia-phillies"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_red-sox-phillies-live-streaming-513903312"
             },
             {
                 "source": "echo",
@@ -851,12 +712,42 @@
                 "id": "st-louis-cardinals-vs-baltimore-orioles"
             },
             {
+                "source": "delta",
+                "id": "live_mlb_cardinals-orioles-live-streaming-513904176"
+            },
+            {
                 "source": "echo",
                 "id": "stlouis-cardinals-vs-baltimore-orioles-baseball-180346"
             },
             {
                 "source": "golf",
                 "id": "20407"
+            }
+        ]
+    },
+    {
+        "id": "traktor-sazi-fc-vs-shabab-al-ahli-postponed",
+        "title": "Traktor Sazi FC vs Shabab Al-Ahli-Postponed",
+        "category": "football",
+        "date": 1773076500000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "traktor-sazi-fc-vs-shabab-al-ahli-postponed"
+            }
+        ]
+    },
+    {
+        "id": "fa-cup-quarterfinal-draw-2025-26",
+        "title": "FA Cup quarterfinal draw 2025/26",
+        "category": "football",
+        "date": 1773077400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "fa-cup-quarterfinal-draw-2025-26"
             }
         ]
     },
@@ -1083,6 +974,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_nhl_blue-jackets-kings-live-streaming-514168128"
+            },
+            {
                 "source": "echo",
                 "id": "columbus-blue-jackets-vs-los-angeles-kings-hockey-416442"
             },
@@ -1110,6 +1005,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_royals-guardians-live-streaming-513905904"
+            },
             {
                 "source": "echo",
                 "id": "kansas-city-royals-vs-cleveland-guardians-baseball-180352"
@@ -1139,6 +1038,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_white-sox-rockies-live-streaming-513904608"
+            },
+            {
                 "source": "echo",
                 "id": "chicago-white-sox-vs-colorado-rockies-baseball-180355"
             },
@@ -1166,6 +1069,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_reds-athletics-live-streaming-513905040"
+            },
             {
                 "source": "echo",
                 "id": "cincinnati-reds-vs-athletics-baseball-180354"
@@ -1195,6 +1102,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_giants-angels-live-streaming-513906336"
+            },
+            {
                 "source": "echo",
                 "id": "san-francisco-giants-vs-los-angeles-angels-baseball-180347"
             },
@@ -1222,6 +1133,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_diamondbacks-mariners-live-streaming-513906768"
+            },
             {
                 "source": "echo",
                 "id": "arizona-diamondbacks-vs-seattle-mariners-baseball-180358"
@@ -1255,6 +1170,10 @@
                 "id": "ppv-texas-rangers-vs-san-diego-padres"
             },
             {
+                "source": "delta",
+                "id": "live_mlb_padres-rangers-live-streaming-513907632"
+            },
+            {
                 "source": "echo",
                 "id": "san-diego-padres-vs-texas-rangers-baseball-180348"
             },
@@ -1285,6 +1204,10 @@
             {
                 "source": "admin",
                 "id": "ppv-los-angeles-dodgers-vs-milwaukee-brewers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_brewers-dodgers-live-streaming-513907200"
             },
             {
                 "source": "echo",
@@ -1347,6 +1270,10 @@
                 "id": "ppv-miami-marlins-vs-new-york-mets"
             },
             {
+                "source": "delta",
+                "id": "live_mlb_mets-marlins-live-streaming-513908064"
+            },
+            {
                 "source": "echo",
                 "id": "new-york-mets-vs-miami-marlins-baseball-180350"
             },
@@ -1379,6 +1306,10 @@
                 "id": "ppv-pittsburgh-pirates-vs-new-york-yankees"
             },
             {
+                "source": "delta",
+                "id": "live_mlb_yankees-pirates-live-streaming-513908496"
+            },
+            {
                 "source": "echo",
                 "id": "new-york-yankees-vs-pittsburgh-pirates-baseball-180349"
             },
@@ -1406,6 +1337,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_nhl_capitals-flames-live-streaming-514168992"
+            },
             {
                 "source": "echo",
                 "id": "washington-capitals-vs-calgary-flames-hockey-416626"
@@ -1435,6 +1370,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_nhl_flyers-rangers-live-streaming-514168560"
+            },
+            {
                 "source": "echo",
                 "id": "philadelphia-flyers-vs-new-york-rangers-hockey-416625"
             },
@@ -1462,6 +1401,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_nba_cavaliers-76ers-live-streaming-431441856"
+            },
             {
                 "source": "echo",
                 "id": "cleveland-cavaliers-vs-philadelphia-76ers-basketball-470410"
@@ -1495,6 +1438,10 @@
                 "id": "ppv-venezuela-vs-nicaragua"
             },
             {
+                "source": "delta",
+                "id": "live_world-baseball-classic-pool-d_nicaragua-venezuela-live-streaming-513911520"
+            },
+            {
                 "source": "echo",
                 "id": "nicaragua-vs-venezuela-baseball-183955"
             }
@@ -1523,6 +1470,10 @@
                 "id": "ppv-cuba-vs-puerto-rico"
             },
             {
+                "source": "delta",
+                "id": "live_world-baseball-classic-pool-a_puerto-rico-cuba-live-streaming-513909360"
+            },
+            {
                 "source": "echo",
                 "id": "puerto-rico-vs-cuba-baseball-161705"
             }
@@ -1546,6 +1497,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_nba_thunder-nuggets-live-streaming-431442720"
+            },
             {
                 "source": "echo",
                 "id": "oklahoma-city-thunder-vs-denver-nuggets-basketball-470412"
@@ -1574,6 +1529,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_nba_nets-grizzlies-live-streaming-431442288"
+            },
             {
                 "source": "echo",
                 "id": "brooklyn-nets-vs-memphis-grizzlies-basketball-470411"
