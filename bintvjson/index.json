@@ -1,5 +1,37 @@
 [
     {
+        "id": "oregon-vs-maryland-2446220",
+        "title": "Oregon vs Maryland",
+        "category": "basketball",
+        "date": 1773176400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTLEGBkPRAoQnECGAQQAYwbZgJOVJSTgiEfGBjZQkeM1Y1ghXz4KVrMOy7AC8i4WBJc0lRyu0IWuSruawVqrsEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Oregon",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkQow4MinYhuIEiAO6YuEBFMgAJjoIUmfLWzBl4ReaK1NaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Maryland",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphC5YqkDBDdtIPiESqIuxIZAATAhSZ8UXMGXhF5ou01pgHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-maryland-terrapins-vs-oregon-ducks-basketball"
+            },
+            {
+                "source": "alpha",
+                "id": "maryland-vs-oregon"
+            },
+            {
+                "source": "delta",
+                "id": "live_ncaa_oregon-maryland-live-streaming-520543584"
+            }
+        ]
+    },
+    {
         "id": "ppv-syracuse-orange-vs-smu-mustangs-basketball",
         "title": "Syracuse Orange vs. SMU Mustangs (Basketball)",
         "category": "basketball",
@@ -668,30 +700,6 @@
         ]
     },
     {
-        "id": "galatasaray-vs-liverpool-2440244",
-        "title": "Galatasaray vs Liverpool",
-        "category": "football",
-        "date": 1773164700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXIJC4QA0Nx0GcEEDBD6pIEiHgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Galatasaray",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxSUQApMAAMuEN3UgAJgZQgIe3aZAEKTPqrZgy8IvNGqmtME7GiIQA"
-            },
-            "away": {
-                "name": "Liverpool",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwACYKQgnNxB8QiAyhDqQJgzggEKTPii5gy8IvNEOmtME7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-galatasaray-vs-liverpool"
-            }
-        ]
-    },
-    {
         "id": "new-york-mets-vs-st--louis-cardinals-2392971",
         "title": "New York Mets vs St. Louis Cardinals",
         "category": "baseball",
@@ -876,41 +884,9 @@
         ]
     },
     {
-        "id": "oregon-vs-maryland-2446220",
-        "title": "Oregon vs Maryland",
-        "category": "basketball",
-        "date": 1773176400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTLEGBkPRAoQnECGAQQAYwbZgJOVJSTgiEfGBjZQkeM1Y1ghXz4KVrMOy7AC8i4WBJc0lRyu0IWuSruawVqrsEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Oregon",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkQow4MinYhuIEiAO6YuEBFMgAJjoIUmfLWzBl4ReaK1NaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Maryland",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphC5YqkDBDdtIPiESqIuxIZAATAhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-maryland-terrapins-vs-oregon-ducks-basketball"
-            },
-            {
-                "source": "alpha",
-                "id": "maryland-vs-oregon"
-            },
-            {
-                "source": "delta",
-                "id": "live_ncaa_oregon-maryland-live-streaming-520543584"
-            }
-        ]
-    },
-    {
         "id": "independiente-vs-union",
         "title": "Independiente vs Union",
-        "category": "hockey",
+        "category": "football",
         "date": 1773179100000,
         "popular": true,
         "sources": [
@@ -973,6 +949,34 @@
         ]
     },
     {
+        "id": "philadelphia-union-vs-cf-america-2440202",
+        "title": "Philadelphia Union vs CF America",
+        "category": "football",
+        "date": 1773183600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihBxNKOSRC8QWIyESHEMEBANWWSClhFzGKMKt0c35RtTm78rMBgbuJiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Philadelphia Union",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz5gUYJMEIpKIbiAAmIGLj3GQiIyFwEKTPjrZgy8IvNE6mtMM7GiIQA"
+            },
+            "away": {
+                "name": "CF America",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxlgUIbmHCJuIEiAO6D+viETrGFJnxRcwZeEXmjbTWmHtjREIA"
+            }
+        },
+        "sources": [
+            {
+                "source": "alpha",
+                "id": "philadelphia-union-vs-america"
+            },
+            {
+                "source": "echo",
+                "id": "philadelphia-union-vs-club-america-football-1528310"
+            }
+        ]
+    },
+    {
         "id": "new-york-rangers-vs-calgary-flames-2347895",
         "title": "New York Rangers vs Calgary Flames",
         "category": "hockey",
@@ -993,6 +997,10 @@
             {
                 "source": "admin",
                 "id": "ppv-calgary-flames-vs-new-york-rangers"
+            },
+            {
+                "source": "alpha",
+                "id": "new-york-rangers-vs-calgary-flames"
             },
             {
                 "source": "delta",
@@ -1031,6 +1039,10 @@
                 "id": "ppv-pittsburgh-penguins-vs-carolina-hurricanes"
             },
             {
+                "source": "alpha",
+                "id": "carolina-hurricanes-vs-pittsburgh-penguins"
+            },
+            {
                 "source": "delta",
                 "id": "live_nhl_hurricanes-penguins-live-streaming-514270512"
             },
@@ -1065,6 +1077,10 @@
             {
                 "source": "admin",
                 "id": "ppv-columbus-blue-jackets-vs-tampa-bay-lightning"
+            },
+            {
+                "source": "alpha",
+                "id": "tampa-bay-lightning-vs-columbus-blue-jackets"
             },
             {
                 "source": "delta",
@@ -1103,6 +1119,10 @@
                 "id": "ppv-toronto-maple-leafs-vs-montreal-canadiens"
             },
             {
+                "source": "alpha",
+                "id": "montreal-canadiens-vs-toronto-maple-leafs"
+            },
+            {
                 "source": "delta",
                 "id": "live_nhl_canadiens-maple-leafs-live-streaming-514271376"
             },
@@ -1139,6 +1159,10 @@
                 "id": "ppv-detroit-red-wings-vs-florida-panthers"
             },
             {
+                "source": "alpha",
+                "id": "florida-panthers-vs-detroit-red-wings"
+            },
+            {
                 "source": "delta",
                 "id": "live_nhl_panthers-red-wings-live-streaming-514270944"
             },
@@ -1173,6 +1197,10 @@
             {
                 "source": "admin",
                 "id": "ppv-san-jose-sharks-vs-buffalo-sabres"
+            },
+            {
+                "source": "alpha",
+                "id": "buffalo-sabres-vs-san-jose-sharks"
             },
             {
                 "source": "delta",
@@ -1343,6 +1371,10 @@
                 "id": "ppv-canada-vs-puerto-rico"
             },
             {
+                "source": "alpha",
+                "id": "puerto-rico-vs-canada"
+            },
+            {
                 "source": "delta",
                 "id": "live_world-baseball-classic-pool-a_puerto-rico-canada-live-streaming-514215648"
             },
@@ -1370,6 +1402,10 @@
             }
         },
         "sources": [
+            {
+                "source": "alpha",
+                "id": "netherlands-vs-israel"
+            },
             {
                 "source": "delta",
                 "id": "live_world-baseball-classic-pool-d_netherlands-israel-live-streaming-514216512"
