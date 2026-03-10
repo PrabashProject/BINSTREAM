@@ -245,10 +245,6 @@
         },
         "sources": [
             {
-                "source": "alpha",
-                "id": "boston-red-sox-vs-detroit-tigers"
-            },
-            {
                 "source": "delta",
                 "id": "live_mlb_red-sox-tigers-live-streaming-514209600"
             },
@@ -320,10 +316,6 @@
             }
         },
         "sources": [
-            {
-                "source": "alpha",
-                "id": "tampa-bay-ray-vs-minnesota-twins"
-            },
             {
                 "source": "delta",
                 "id": "live_mlb_rays-twins-live-streaming-514213488"
@@ -436,10 +428,6 @@
             }
         },
         "sources": [
-            {
-                "source": "alpha",
-                "id": "miami-marlins-vs-washington-nationals"
-            },
             {
                 "source": "delta",
                 "id": "live_mlb_marlins-nationals-live-streaming-514213056"
@@ -1004,6 +992,10 @@
             {
                 "source": "admin",
                 "id": "ppv-maryland-terrapins-vs-oregon-ducks-basketball"
+            },
+            {
+                "source": "alpha",
+                "id": "maryland-vs-23-west-virginia"
             }
         ]
     },
