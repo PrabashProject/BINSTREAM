@@ -1,18 +1,5 @@
 [
     {
-        "id": "wwe-nxt-wwe",
-        "title": "WWE: NXT",
-        "category": "fight",
-        "date": 1773190800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "wwe-nxt-wwe"
-            }
-        ]
-    },
-    {
         "id": "ppv-pittsburgh-panthers-vs-nc-state-wolfpack-basketball",
         "title": "Pittsburgh Panthers vs. NC State Wolfpack (Basketball)",
         "category": "basketball",
@@ -842,30 +829,6 @@
         ]
     },
     {
-        "id": "ppv-tbd-vs-west-virginia-mountaineers-basketball",
-        "title": "TBD vs. West Virginia Mountaineers (Basketball)",
-        "category": "basketball",
-        "date": 1773270000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEEke3vxABjQZxAQQWISAYh4wPp2DKBolA2wgUIcdPZ9pqoaOEbWYdl2AFseYGELAkuMxweN4FVfdsKwlsAQmhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "TBD",
-                "badge": ""
-            },
-            "away": {
-                "name": "West Virginia Mountaineers ",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-tbd-vs-west-virginia-mountaineers-basketball"
-            }
-        ]
-    },
-    {
         "id": "ppv-ole-miss-rebels-vs-texas-longhorns-basketball",
         "title": "Ole Miss Rebels vs. Texas Longhorns (Basketball)",
         "category": "basketball",
@@ -886,6 +849,30 @@
             {
                 "source": "admin",
                 "id": "ppv-ole-miss-rebels-vs-texas-longhorns-basketball"
+            }
+        ]
+    },
+    {
+        "id": "ppv-tbd-vs-west-virginia-mountaineers-basketball",
+        "title": "TBD vs. West Virginia Mountaineers (Basketball)",
+        "category": "basketball",
+        "date": 1773270000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEEke3vxABjQZxAQQWISAYh4wPp2DKBolA2wgUIcdPZ9pqoaOEbWYdl2AFseYGELAkuMxweN4FVfdsKwlsAQmhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "TBD",
+                "badge": ""
+            },
+            "away": {
+                "name": "West Virginia Mountaineers ",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-tbd-vs-west-virginia-mountaineers-basketball"
             }
         ]
     },
