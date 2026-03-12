@@ -24,54 +24,6 @@
         ]
     },
     {
-        "id": "denver-nuggets-vs-houston-rockets-2358313",
-        "title": "Denver Nuggets vs Houston Rockets",
-        "category": "basketball",
-        "date": 1773280800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGVHgQDEDBDcQfDSBS4QiCCcNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Denver Nuggets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhKq4EhCiADCG7aQEEABMQMfadwg+RghSZ8UXMGXhF5o501phXY0QggA"
-            },
-            "away": {
-                "name": "Houston Rockets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSCkFEJRDcQJEChB8QEEKYAmIGLtwEKTPqrZgy8IvNGqmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20384"
-            }
-        ]
-    },
-    {
-        "id": "sacramento-kings-vs-charlotte-hornets-2358314",
-        "title": "Sacramento Kings vs Charlotte Hornets",
-        "category": "basketball",
-        "date": 1773280800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiFEhKwAAxgSIDX00gUuEIginjBYEgp9hs+igNsUXA+XpZZnplowd3pRCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Sacramento Kings",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiIIWlDhIQ3EABNdRkKpApTJvgQpMrXMGXhF5olMCa0wDsWqA"
-            },
-            "away": {
-                "name": "Charlotte Hornets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDdoAEzCaYIbiAi5DiECB3qjBCkz4ouYMvCLzRtprTD2xoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20385"
-            }
-        ]
-    },
-    {
         "id": "aew-wednesday-night-dynamite-aew-001",
         "title": "AEW: Wednesday Night Dynamite",
         "category": "fight",
@@ -98,30 +50,6 @@
         ]
     },
     {
-        "id": "ppv-iowa-hawkeyes-vs-ohio-state-buckeyes-basketball",
-        "title": "Iowa Hawkeyes vs. Ohio State Buckeyes (Basketball)",
-        "category": "basketball",
-        "date": 1773331200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEFXkEiCwgRgmMAj9EIYJxD0QkvomEBjEOIVyI2bCHiyhIvZwYhuwVmHZdgBXSkuFgSXKscdrtHafaP7BmDWEgwSQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Iowa Hawkeyes",
-                "badge": ""
-            },
-            "away": {
-                "name": "Ohio State Buckeyes ",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-iowa-hawkeyes-vs-ohio-state-buckeyes-basketball"
-            }
-        ]
-    },
-    {
         "id": "ppv-nc-state-wolfpack-vs-virginia-cavaliers-basketball",
         "title": "NC State Wolfpack vs. Virginia Cavaliers (Basketball)",
         "category": "basketball",
@@ -142,6 +70,30 @@
             {
                 "source": "admin",
                 "id": "ppv-nc-state-wolfpack-vs-virginia-cavaliers-basketball"
+            }
+        ]
+    },
+    {
+        "id": "ppv-iowa-hawkeyes-vs-ohio-state-buckeyes-basketball",
+        "title": "Iowa Hawkeyes vs. Ohio State Buckeyes (Basketball)",
+        "category": "basketball",
+        "date": 1773331200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEFXkEiCwgRgmMAj9EIYJxD0QkvomEBjEOIVyI2bCHiyhIvZwYhuwVmHZdgBXSkuFgSXKscdrtHafaP7BmDWEgwSQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Iowa Hawkeyes",
+                "badge": ""
+            },
+            "away": {
+                "name": "Ohio State Buckeyes ",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-iowa-hawkeyes-vs-ohio-state-buckeyes-basketball"
             }
         ]
     },
@@ -1185,26 +1137,26 @@
         ]
     },
     {
-        "id": "ppv-ole-miss-rebels-vs-georgia-bulldogs-basketball",
-        "title": "Ole Miss Rebels vs. Georgia Bulldogs (Basketball)",
+        "id": "ppv-byu-cougars-vs-houston-cougars-basketball",
+        "title": "BYU Cougars vs. Houston Cougars (Basketball)",
         "category": "basketball",
         "date": 1773356400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEXlEeNhAQQMYBGCCRvLCHoDJDUYpICQnIQGNRakAyGqsi2WWCsw7LsALY8ZwsCS5NKDmcbwKG9q5uCwFuL6EEA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTeYCELNhCcQEYCRD0QAY2AisIRApESSwXuxEjEazg0UgQfcaJAoQMYSmCsw7LsALY8NwsCS5p1jndpi97NZOvGB2xuwQQA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Ole Miss Rebels",
+                "name": "BYU Cougars",
                 "badge": ""
             },
             "away": {
-                "name": "Georgia Bulldogs ",
+                "name": "Houston Cougars ",
                 "badge": ""
             }
         },
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-ole-miss-rebels-vs-georgia-bulldogs-basketball"
+                "id": "ppv-byu-cougars-vs-houston-cougars-basketball"
             }
         ]
     },
@@ -1233,26 +1185,26 @@
         ]
     },
     {
-        "id": "ppv-byu-cougars-vs-houston-cougars-basketball",
-        "title": "BYU Cougars vs. Houston Cougars (Basketball)",
+        "id": "ppv-ole-miss-rebels-vs-georgia-bulldogs-basketball",
+        "title": "Ole Miss Rebels vs. Georgia Bulldogs (Basketball)",
         "category": "basketball",
         "date": 1773356400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTeYCELNhCcQEYCRD0QAY2AisIRApESSwXuxEjEazg0UgQfcaJAoQMYSmCsw7LsALY8NwsCS5p1jndpi97NZOvGB2xuwQQA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEXlEeNhAQQMYBGCCRvLCHoDJDUYpICQnIQGNRakAyGqsi2WWCsw7LsALY8ZwsCS5NKDmcbwKG9q5uCwFuL6EEA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "BYU Cougars",
+                "name": "Ole Miss Rebels",
                 "badge": ""
             },
             "away": {
-                "name": "Houston Cougars ",
+                "name": "Georgia Bulldogs ",
                 "badge": ""
             }
         },
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-byu-cougars-vs-houston-cougars-basketball"
+                "id": "ppv-ole-miss-rebels-vs-georgia-bulldogs-basketball"
             }
         ]
     },
