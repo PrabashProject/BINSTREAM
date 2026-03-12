@@ -1,5 +1,28 @@
 [
     {
+        "id": "carlton-blues-vs-richmond-tigers-australian-football-3350",
+        "title": "Carlton Blues vs Richmond Tigers",
+        "category": "afl",
+        "date": 1773304200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Carlton Blues",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQUuuQYBjZsJ7wxVcYQaswYXPn1A"
+            },
+            "away": {
+                "name": "Richmond Tigers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREEzrkGAY2bCe8MVXGEGrMGFz5DQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "carlton-blues-vs-richmond-tigers-australian-football-3350"
+            }
+        ]
+    },
+    {
         "id": "aew-wednesday-night-dynamite-aew-001",
         "title": "AEW: Wednesday Night Dynamite",
         "category": "fight",
@@ -9,19 +32,6 @@
             {
                 "source": "echo",
                 "id": "aew-wednesday-night-dynamite-aew-001"
-            }
-        ]
-    },
-    {
-        "id": "liv-golf-singapore-game-162626",
-        "title": "LIV Golf Singapore",
-        "category": "other",
-        "date": 1773275400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "liv-golf-singapore-game-162626"
             }
         ]
     },
@@ -111,30 +121,6 @@
         ]
     },
     {
-        "id": "ppv-kentucky-wildcats-vs-missouri-tigers-basketball",
-        "title": "Kentucky Wildcats vs. Missouri Tigers (Basketball)",
-        "category": "basketball",
-        "date": 1773333000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTRFEfmMAjBODBiBTASIAMYgYIeiHjYQnNSCyqsyzcqlTZ2A+wj9Fk1mHZdgBY5cLAkuGZI7Xaw0e0n2VYNZCYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Kentucky Wildcats",
-                "badge": ""
-            },
-            "away": {
-                "name": "Missouri Tigers ",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-kentucky-wildcats-vs-missouri-tigers-basketball"
-            }
-        ]
-    },
-    {
         "id": "ppv-iowa-state-cyclones-vs-texas-tech-red-raiders-basketball",
         "title": "Iowa State Cyclones vs. Texas Tech Red Raiders (Basketball)",
         "category": "basketball",
@@ -155,6 +141,30 @@
             {
                 "source": "admin",
                 "id": "ppv-iowa-state-cyclones-vs-texas-tech-red-raiders-basketball"
+            }
+        ]
+    },
+    {
+        "id": "ppv-kentucky-wildcats-vs-missouri-tigers-basketball",
+        "title": "Kentucky Wildcats vs. Missouri Tigers (Basketball)",
+        "category": "basketball",
+        "date": 1773333000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTRFEfmMAjBODBiBTASIAMYgYIeiHjYQnNSCyqsyzcqlTZ2A+wj9Fk1mHZdgBY5cLAkuGZI7Xaw0e0n2VYNZCYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Kentucky Wildcats",
+                "badge": ""
+            },
+            "away": {
+                "name": "Missouri Tigers ",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-kentucky-wildcats-vs-missouri-tigers-basketball"
             }
         ]
     },
