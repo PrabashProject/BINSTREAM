@@ -1,5 +1,18 @@
 [
     {
+        "id": "the-players-pga-tour-atp1000",
+        "title": "The Players | PGA Tour",
+        "category": "other",
+        "date": 1773315000000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "the-players-pga-tour-atp1000"
+            }
+        ]
+    },
+    {
         "id": "brisbane-broncos-vs-parramatta-eels-2417164",
         "title": "Brisbane Broncos vs Parramatta Eels",
         "category": "rugby",
@@ -20,42 +33,6 @@
             {
                 "source": "echo",
                 "id": "brisbane-broncos-vs-parramatta-eels-game-236363"
-            }
-        ]
-    },
-    {
-        "id": "carlton-blues-vs-richmond-tigers-australian-football-3350",
-        "title": "Carlton Blues vs Richmond Tigers",
-        "category": "afl",
-        "date": 1773304200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Carlton Blues",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQUuuQYBjZsJ7wxVcYQaswYXPn1A"
-            },
-            "away": {
-                "name": "Richmond Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREEzrkGAY2bCe8MVXGEGrMGFz5DQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "carlton-blues-vs-richmond-tigers-australian-football-3350"
-            }
-        ]
-    },
-    {
-        "id": "the-players-pga-tour-atp1000",
-        "title": "The Players | PGA Tour",
-        "category": "other",
-        "date": 1773315000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "the-players-pga-tour-atp1000"
             }
         ]
     },
@@ -639,30 +616,6 @@
         ]
     },
     {
-        "id": "ppv-ucf-knights-vs-arizona-wildcats-basketball",
-        "title": "UCF Knights vs. Arizona Wildcats (Basketball)",
-        "category": "basketball",
-        "date": 1773342000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTTkPgY2wgSfbAxCdgEEIhBCsIeiAUje7CEMHTJ06exLB4wEdJgpgrMOy7ACY82ELAkufuY5XaGye3N2jYFZSDFJAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "UCF Knights",
-                "badge": ""
-            },
-            "away": {
-                "name": "Arizona Wildcats ",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-ucf-knights-vs-arizona-wildcats-basketball"
-            }
-        ]
-    },
-    {
         "id": "ppv-auburn-tigers-vs-tennessee-volunteers-basketball",
         "title": "Auburn Tigers vs. Tennessee Volunteers (Basketball)",
         "category": "basketball",
@@ -683,6 +636,30 @@
             {
                 "source": "admin",
                 "id": "ppv-auburn-tigers-vs-tennessee-volunteers-basketball"
+            }
+        ]
+    },
+    {
+        "id": "ppv-ucf-knights-vs-arizona-wildcats-basketball",
+        "title": "UCF Knights vs. Arizona Wildcats (Basketball)",
+        "category": "basketball",
+        "date": 1773342000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTTkPgY2wgSfbAxCdgEEIhBCsIeiAUje7CEMHTJ06exLB4wEdJgpgrMOy7ACY82ELAkufuY5XaGye3N2jYFZSDFJAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "UCF Knights",
+                "badge": ""
+            },
+            "away": {
+                "name": "Arizona Wildcats ",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-ucf-knights-vs-arizona-wildcats-basketball"
             }
         ]
     },
