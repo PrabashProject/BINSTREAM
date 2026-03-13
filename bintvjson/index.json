@@ -1,5 +1,27 @@
 [
     {
+        "id": "one-friday-fights-146-detchawalit-vs-dotsenko-2448125",
+        "title": "ONE Friday Fights 146 Detchawalit vs Dotsenko",
+        "category": "fight",
+        "date": 1773405000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdviHSiVRLxBYDIRIhQgz0o+c1IKWEXMYowqlDxflG1OW830wLuJiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "ONE Friday Fights 146 Detchawalit"
+            },
+            "away": {
+                "name": "Dotsenko"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-01-one-friday-fights-146-detchawalit-v-dotsenko-ppv-001"
+            }
+        ]
+    },
+    {
         "id": "european-darts-trophy-darts-1",
         "title": "European Darts Trophy \ud83c\udfaf",
         "category": "other",
@@ -83,28 +105,6 @@
             {
                 "source": "echo",
                 "id": "world-rally-championship-2026-season-racing-0059"
-            }
-        ]
-    },
-    {
-        "id": "one-friday-fights-146-detchawalit-vs-dotsenko-2448125",
-        "title": "ONE Friday Fights 146 Detchawalit vs Dotsenko",
-        "category": "fight",
-        "date": 1773405000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdviHSiVRLxBYDIRIhQgz0o+c1IKWEXMYowqlDxflG1OW830wLuJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "ONE Friday Fights 146 Detchawalit"
-            },
-            "away": {
-                "name": "Dotsenko"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-01-one-friday-fights-146-detchawalit-v-dotsenko-ppv-001"
             }
         ]
     },
@@ -275,29 +275,6 @@
         ]
     },
     {
-        "id": "nurnberg-ice-tigers-vs-bremerhaven-hockey-409123",
-        "title": "Nurnberg Ice Tigers vs Bremerhaven",
-        "category": "hockey",
-        "date": 1773426600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Nurnberg Ice Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsICPXIMAxs2Bge8SVSmEGrMDra4IQA"
-            },
-            "away": {
-                "name": "Bremerhaven",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "nurnberg-ice-tigers-vs-bremerhaven-hockey-409123"
-            }
-        ]
-    },
-    {
         "id": "grizzly-wolfsburg-vs-kolner-hockey-409125",
         "title": "Grizzly Wolfsburg vs Kolner",
         "category": "hockey",
@@ -317,6 +294,29 @@
             {
                 "source": "echo",
                 "id": "grizzly-wolfsburg-vs-kolner-hockey-409125"
+            }
+        ]
+    },
+    {
+        "id": "nurnberg-ice-tigers-vs-bremerhaven-hockey-409123",
+        "title": "Nurnberg Ice Tigers vs Bremerhaven",
+        "category": "hockey",
+        "date": 1773426600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Nurnberg Ice Tigers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsICPXIMAxs2Bge8SVSmEGrMDra4IQA"
+            },
+            "away": {
+                "name": "Bremerhaven",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "nurnberg-ice-tigers-vs-bremerhaven-hockey-409123"
             }
         ]
     },
@@ -442,13 +442,13 @@
     },
     {
         "id": "crvena-zvezda-meridianbet-vs-fenerbahce-basketball-454585",
-        "title": "Crvena Zvezda Meridianbet vs Fenerbahce",
+        "title": "Crvena zvezda vs Fenerbahce",
         "category": "basketball",
         "date": 1773428400000,
         "popular": true,
         "teams": {
             "home": {
-                "name": "Crvena Zvezda Meridianbet",
+                "name": "Crvena zvezda",
                 "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiBggAJiGz1yDAMbNJPeGKrcCXVmDC58toA"
             },
             "away": {
