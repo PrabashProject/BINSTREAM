@@ -48,6 +48,20 @@
         ]
     },
     {
+        "id": "admin-the-players-championship",
+        "title": "THE PLAYERS Championship",
+        "category": "golf",
+        "date": 1773401400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAUwRQFYFgAGMbNYcki4eYDJy1BvV9ECCAIgUIAJwhcA9GghpcDGYjFpiQyULQT42ECFV6QAE12CCq1br0q5Uiee1pEgo8YvF5IYiySxC2HDBSeEhgMRIsRlZgMCDgCAiIIA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "admin-the-players-championship"
+            }
+        ]
+    },
+    {
         "id": "sydney-roosters-vs-south-sydney-rabbitohs-2417166",
         "title": "Sydney Roosters vs South Sydney Rabbitohs",
         "category": "rugby",
@@ -68,30 +82,6 @@
             {
                 "source": "echo",
                 "id": "sydney-roosters-vs-south-sydney-rabbitohs-game-236363"
-            }
-        ]
-    },
-    {
-        "id": "new-zealand-warriors-vs-canberra-raiders-2417165",
-        "title": "New Zealand Warriors vs Canberra Raiders",
-        "category": "rugby",
-        "date": 1773385200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcCkEoK3ELr4gpIYyT24QEEAZIFgSCn2Gz62lZrZgy8IllmamtGCeYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New Zealand Warriors",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gQDECmAAGMKu4gAJiAhGQiU6tXG+BCk1tcwZeEXmitTWmGdjREIA"
-            },
-            "away": {
-                "name": "Canberra Raiders",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFswYJJRDbuIACYgI+kIiN9j5iYRjAmfFFzBl4ReaIdNa60VLpA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "new-zealand-warriors-vs-canberra-raiders-game-3373252"
             }
         ]
     },
@@ -277,29 +267,6 @@
         ]
     },
     {
-        "id": "nurnberg-ice-tigers-vs-bremerhaven-hockey-409123",
-        "title": "Nurnberg Ice Tigers vs Bremerhaven",
-        "category": "hockey",
-        "date": 1773426600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Nurnberg Ice Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsICPXIMAxs2Bge8SVSmEGrMDra4IQA"
-            },
-            "away": {
-                "name": "Bremerhaven",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "nurnberg-ice-tigers-vs-bremerhaven-hockey-409123"
-            }
-        ]
-    },
-    {
         "id": "grizzly-wolfsburg-vs-kolner-hockey-409125",
         "title": "Grizzly Wolfsburg vs Kolner",
         "category": "hockey",
@@ -319,6 +286,29 @@
             {
                 "source": "echo",
                 "id": "grizzly-wolfsburg-vs-kolner-hockey-409125"
+            }
+        ]
+    },
+    {
+        "id": "nurnberg-ice-tigers-vs-bremerhaven-hockey-409123",
+        "title": "Nurnberg Ice Tigers vs Bremerhaven",
+        "category": "hockey",
+        "date": 1773426600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Nurnberg Ice Tigers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsICPXIMAxs2Bge8SVSmEGrMDra4IQA"
+            },
+            "away": {
+                "name": "Bremerhaven",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "nurnberg-ice-tigers-vs-bremerhaven-hockey-409123"
             }
         ]
     },
@@ -1086,38 +1076,38 @@
         ]
     },
     {
-        "id": "detroit-pistons-vs-memphis-grizzlies-2358326",
-        "title": "Detroit Pistons vs Memphis Grizzlies",
+        "id": "indiana-pacers-vs-new-york-knicks-2358325",
+        "title": "Indiana Pacers vs New York Knicks",
         "category": "basketball",
         "date": 1773444600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGXApgYMLwAMIbiD4aQKXCEQQziEgWBIKfYbPoowK7W0-l6WWW0mWl1RejCgA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reLBDgIuUCG4g+IEiBS4QiHScsFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Detroit Pistons",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8QfMN2zMQ3EABNcukCRAoQEdSd0EKTPii5gy8IvNGOmtMM7GiIQA"
+                "name": "Indiana Pacers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIFcCRgk-NiG4gSIGCER8QEfSGs4JhGMCZ8UXMGXhF5ol01pg3YqIQQA"
             },
             "away": {
-                "name": "Memphis Grizzlies",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAATEFHUQ1IbiBI6DelDr4hzKAhSZ8UXMGXhF5ou01pgHY0RCA"
+                "name": "New York Knicks",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gUoWGFEATENxAk9RkEZggIIRMsIxgTPurZby9eaPVNaYLWNEQgA"
             }
         },
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-memphis-grizzlies-vs-detroit-pistons"
+                "id": "ppv-new-york-knicks-vs-indiana-pacers"
             },
             {
                 "source": "delta",
-                "id": "live_nba_pistons-grizzlies-live-streaming-431514432"
+                "id": "live_nba_pacers-knicks-live-streaming-431514864"
             },
             {
                 "source": "echo",
-                "id": "detroit-pistons-vs-memphis-grizzlies-basketball-470442"
+                "id": "indiana-pacers-vs-new-york-knicks-basketball-470441"
             },
             {
                 "source": "golf",
-                "id": "20495"
+                "id": "20496"
             }
         ]
     },
@@ -1158,38 +1148,38 @@
         ]
     },
     {
-        "id": "indiana-pacers-vs-new-york-knicks-2358325",
-        "title": "Indiana Pacers vs New York Knicks",
+        "id": "detroit-pistons-vs-memphis-grizzlies-2358326",
+        "title": "Detroit Pistons vs Memphis Grizzlies",
         "category": "basketball",
         "date": 1773444600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reLBDgIuUCG4g+IEiBS4QiHScsFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGXApgYMLwAMIbiD4aQKXCEQQziEgWBIKfYbPoowK7W0-l6WWW0mWl1RejCgA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Indiana Pacers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIFcCRgk-NiG4gSIGCER8QEfSGs4JhGMCZ8UXMGXhF5ol01pg3YqIQQA"
+                "name": "Detroit Pistons",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8QfMN2zMQ3EABNcukCRAoQEdSd0EKTPii5gy8IvNGOmtMM7GiIQA"
             },
             "away": {
-                "name": "New York Knicks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gUoWGFEATENxAk9RkEZggIIRMsIxgTPurZby9eaPVNaYLWNEQgA"
+                "name": "Memphis Grizzlies",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAATEFHUQ1IbiBI6DelDr4hzKAhSZ8UXMGXhF5ou01pgHY0RCA"
             }
         },
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-new-york-knicks-vs-indiana-pacers"
+                "id": "ppv-memphis-grizzlies-vs-detroit-pistons"
             },
             {
                 "source": "delta",
-                "id": "live_nba_pacers-knicks-live-streaming-431514864"
+                "id": "live_nba_pistons-grizzlies-live-streaming-431514432"
             },
             {
                 "source": "echo",
-                "id": "indiana-pacers-vs-new-york-knicks-basketball-470441"
+                "id": "detroit-pistons-vs-memphis-grizzlies-basketball-470442"
             },
             {
                 "source": "golf",
-                "id": "20496"
+                "id": "20495"
             }
         ]
     }
