@@ -195,53 +195,12 @@
         ]
     },
     {
-        "id": "ppv-event-11-high-limit-racing-las-vegas-ppv-11",
-        "title": "High Limit Racing Las Vegas",
+        "id": "ppv-event-05-one-fight-night-41-ppv-05",
+        "title": "One Fight Night 41",
         "category": "other",
-        "date": 1773450900000,
+        "date": 1773453600000,
         "popular": true,
         "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-11-high-limit-racing-las-vegas-ppv-11"
-            }
-        ]
-    },
-    {
-        "id": "liv-golf-singapore-game-162626",
-        "title": "LIV Golf Singapore",
-        "category": "other",
-        "date": 1773450000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "liv-golf-singapore-game-162626"
-            }
-        ]
-    },
-    {
-        "id": "ppv-one-fight-night-sinsamut-vs-jarvis",
-        "title": "ONE Fight Night: Sinsamut vs. Jarvis",
-        "category": "fight",
-        "date": 1773450000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEe3kGCCzB4I3sBLBO2CcAggAxhJCcQKRdhBb5idpNXyl0w8r4wUwVmHZdgBGRbCFgSXAosdrtCFIZ47IpbWcn4QQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "ONE Fight Night: Sinsamut",
-                "badge": ""
-            },
-            "away": {
-                "name": "Jarvis",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-one-fight-night-sinsamut-vs-jarvis"
-            },
             {
                 "source": "echo",
                 "id": "ppv-event-05-one-fight-night-41-ppv-05"
@@ -1382,30 +1341,6 @@
         ]
     },
     {
-        "id": "ppv-ole-miss-rebels-vs-arkansas-razorbacks-basketball",
-        "title": "Ole Miss Rebels vs. Arkansas Razorbacks (Basketball)",
-        "category": "basketball",
-        "date": 1773516600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEekTkFhAxBIFGODxgAiIOwgSk6cFnsSIEComyN4gXyEiAxgpXAywVmHZdgBbHkuFgSXEZQdLjeBU4NH9lJg1mbsEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Ole Miss Rebels",
-                "badge": ""
-            },
-            "away": {
-                "name": "Arkansas Razorbacks ",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-ole-miss-rebels-vs-arkansas-razorbacks-basketball"
-            }
-        ]
-    },
-    {
         "id": "ppv-purdue-boilermakers-vs-ucla-bruins-basketball",
         "title": "Purdue Boilermakers vs. UCLA Bruins (Basketball)",
         "category": "basketball",
@@ -1426,6 +1361,30 @@
             {
                 "source": "admin",
                 "id": "ppv-purdue-boilermakers-vs-ucla-bruins-basketball"
+            }
+        ]
+    },
+    {
+        "id": "ppv-ole-miss-rebels-vs-arkansas-razorbacks-basketball",
+        "title": "Ole Miss Rebels vs. Arkansas Razorbacks (Basketball)",
+        "category": "basketball",
+        "date": 1773516600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEekTkFhAxBIFGODxgAiIOwgSk6cFnsSIEComyN4gXyEiAxgpXAywVmHZdgBbHkuFgSXEZQdLjeBU4NH9lJg1mbsEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Ole Miss Rebels",
+                "badge": ""
+            },
+            "away": {
+                "name": "Arkansas Razorbacks ",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-ole-miss-rebels-vs-arkansas-razorbacks-basketball"
             }
         ]
     },
@@ -1693,7 +1652,7 @@
             },
             {
                 "source": "echo",
-                "id": "cincinnati-reds-vs-texas-rangers-baseball-180423"
+                "id": "texas-rangers-vs-san-diego-padres-baseball-180417"
             },
             {
                 "source": "golf",
@@ -1841,7 +1800,7 @@
             },
             {
                 "source": "echo",
-                "id": "milwaukee-brewers-vs-colorado-rockies-baseball-180424"
+                "id": "colorado-rockies-vs-chicago-cubs-baseball-180427"
             },
             {
                 "source": "golf",
