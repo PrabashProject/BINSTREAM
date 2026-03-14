@@ -1,24 +1,15 @@
 [
     {
-        "id": "ufc-fight-night-emmett-vs-vallejos-mma-2530",
-        "title": "SuYoung You vs Elijah Smith",
-        "category": "fight",
-        "date": 1773493200000,
+        "id": "admin-the-players-championship",
+        "title": "THE PLAYERS Championship",
+        "category": "golf",
+        "date": 1773494100000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAUwRQFYFgAGMbNYcki4eYDJy1BvV9ECCAIgUIAJwhcA9GghpcDGYjFpiQyULQT42ECFV6QAE12CCq1br0q5Uiee1pEgo8YvF5IYiySxC2HDBSeEhgMRIsRlZgMCDgCAiIIA.webp",
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "SuYoung You",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQY+SCH1yDMc2Bge8KVW6iGrMDra4IQA"
-            },
-            "away": {
-                "name": "Elijah Smith",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQYkEJAx65BmObAwPeFKrdRDVmF1tcEIA"
-            }
-        },
         "sources": [
             {
-                "source": "echo",
-                "id": "ufc-fight-night-emmett-vs-vallejos-mma-2530"
+                "source": "admin",
+                "id": "admin-the-players-championship"
             }
         ]
     },
@@ -42,6 +33,29 @@
             {
                 "source": "echo",
                 "id": "ufc-fight-night-emmett-vs-vallejos-mma-2521"
+            }
+        ]
+    },
+    {
+        "id": "ufc-fight-night-emmett-vs-vallejos-mma-2530",
+        "title": "SuYoung You vs Elijah Smith",
+        "category": "fight",
+        "date": 1773493200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "SuYoung You",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQY+SCH1yDMc2Bge8KVW6iGrMDra4IQA"
+            },
+            "away": {
+                "name": "Elijah Smith",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQYkEJAx65BmObAwPeFKrdRDVmF1tcEIA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ufc-fight-night-emmett-vs-vallejos-mma-2530"
             }
         ]
     },
@@ -150,20 +164,6 @@
             {
                 "source": "admin",
                 "id": "ppv-european-darts-trophy-day-2"
-            }
-        ]
-    },
-    {
-        "id": "admin-the-players-championship",
-        "title": "THE PLAYERS Championship",
-        "category": "golf",
-        "date": 1773494100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAUwRQFYFgAGMbNYcki4eYDJy1BvV9ECCAIgUIAJwhcA9GghpcDGYjFpiQyULQT42ECFV6QAE12CCq1br0q5Uiee1pEgo8YvF5IYiySxC2HDBSeEhgMRIsRlZgMCDgCAiIIA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "admin-the-players-championship"
             }
         ]
     },
@@ -1199,6 +1199,30 @@
         ]
     },
     {
+        "id": "ppv-ole-miss-rebels-vs-arkansas-razorbacks-basketball",
+        "title": "Ole Miss Rebels vs. Arkansas Razorbacks (Basketball)",
+        "category": "basketball",
+        "date": 1773516600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEekTkFhAxBIFGODxgAiIOwgSk6cFnsSIEComyN4gXyEiAxgpXAywVmHZdgBbHkuFgSXEZQdLjeBU4NH9lJg1mbsEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Ole Miss Rebels",
+                "badge": ""
+            },
+            "away": {
+                "name": "Arkansas Razorbacks ",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-ole-miss-rebels-vs-arkansas-razorbacks-basketball"
+            }
+        ]
+    },
+    {
         "id": "ppv-purdue-boilermakers-vs-ucla-bruins-basketball",
         "title": "Purdue Boilermakers vs. UCLA Bruins (Basketball)",
         "category": "basketball",
@@ -1223,30 +1247,6 @@
             {
                 "source": "delta",
                 "id": "live_ncaa_ucla-purdue-live-streaming-524328768"
-            }
-        ]
-    },
-    {
-        "id": "ppv-ole-miss-rebels-vs-arkansas-razorbacks-basketball",
-        "title": "Ole Miss Rebels vs. Arkansas Razorbacks (Basketball)",
-        "category": "basketball",
-        "date": 1773516600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEekTkFhAxBIFGODxgAiIOwgSk6cFnsSIEComyN4gXyEiAxgpXAywVmHZdgBbHkuFgSXEZQdLjeBU4NH9lJg1mbsEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Ole Miss Rebels",
-                "badge": ""
-            },
-            "away": {
-                "name": "Arkansas Razorbacks ",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-ole-miss-rebels-vs-arkansas-razorbacks-basketball"
             }
         ]
     },
