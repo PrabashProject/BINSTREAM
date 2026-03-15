@@ -1,33 +1,5 @@
 [
     {
-        "id": "20561",
-        "title": "Chinese GP \u2013 Race",
-        "category": "motor-sports",
-        "date": 1773561600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20561"
-            }
-        ]
-    },
-    {
-        "id": "elten-safety-shoes-european-darts-trophy-day-3-2428558",
-        "title": "Elten Safety Shoes European Darts Trophy Day 3",
-        "category": "darts",
-        "date": 1773532800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTE4RFEOywgAxiE4hJY4TGAQQMEBGwgBkyQIn8+wXpz6iGByYnopgrMOy7AC2PBcLAkuEeY5Xay-e3N34FlZyRhBAA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-european-darts-trophy-day-3"
-            }
-        ]
-    },
-    {
         "id": "the-players-pga-tour-atp1000",
         "title": "The Players | PGA Tour",
         "category": "other",
@@ -73,6 +45,34 @@
         ]
     },
     {
+        "id": "20561",
+        "title": "Chinese GP \u2013 Race",
+        "category": "motor-sports",
+        "date": 1773561600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "golf",
+                "id": "20561"
+            }
+        ]
+    },
+    {
+        "id": "elten-safety-shoes-european-darts-trophy-day-3-2428558",
+        "title": "Elten Safety Shoes European Darts Trophy Day 3",
+        "category": "darts",
+        "date": 1773532800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTE4RFEOywgAxiE4hJY4TGAQQMEBGwgBkyQIn8+wXpz6iGByYnopgrMOy7AC2PBcLAkuEeY5Xay-e3N34FlZyRhBAA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-european-darts-trophy-day-3"
+            }
+        ]
+    },
+    {
         "id": "admin-the-players-championship",
         "title": "THE PLAYERS Championship",
         "category": "golf",
@@ -83,29 +83,6 @@
             {
                 "source": "admin",
                 "id": "admin-the-players-championship"
-            }
-        ]
-    },
-    {
-        "id": "bremerhaven-vs-dresdner-eislowen-hockey-409130",
-        "title": "Bremerhaven vs Dresdner Eislowen",
-        "category": "hockey",
-        "date": 1773579600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Bremerhaven",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA"
-            },
-            "away": {
-                "name": "Dresdner Eislowen",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogAJiBJ1yDAMbNgYHvElUphBqzC62uCEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "bremerhaven-vs-dresdner-eislowen-hockey-409130"
             }
         ]
     },
@@ -133,25 +110,25 @@
         ]
     },
     {
-        "id": "eisbaren-berlin-vs-munchen-hockey-409131",
-        "title": "Eisbaren Berlin vs Munchen",
+        "id": "bremerhaven-vs-dresdner-eislowen-hockey-409130",
+        "title": "Bremerhaven vs Dresdner Eislowen",
         "category": "hockey",
         "date": 1773579600000,
         "popular": true,
         "teams": {
             "home": {
-                "name": "Eisbaren Berlin",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIEPXIMAxs2Bge8SVSmEGrMDra4IQA"
+                "name": "Bremerhaven",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA"
             },
             "away": {
-                "name": "Munchen",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIePXIMAxs2Bge8SVSmEGrMDra4IQA"
+                "name": "Dresdner Eislowen",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogAJiBJ1yDAMbNgYHvElUphBqzC62uCEA"
             }
         },
         "sources": [
             {
                 "source": "echo",
-                "id": "eisbaren-berlin-vs-munchen-hockey-409131"
+                "id": "bremerhaven-vs-dresdner-eislowen-hockey-409130"
             }
         ]
     },
@@ -175,6 +152,29 @@
             {
                 "source": "echo",
                 "id": "straubing-tigers-vs-kolner-hockey-409134"
+            }
+        ]
+    },
+    {
+        "id": "eisbaren-berlin-vs-munchen-hockey-409131",
+        "title": "Eisbaren Berlin vs Munchen",
+        "category": "hockey",
+        "date": 1773579600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Eisbaren Berlin",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIEPXIMAxs2Bge8SVSmEGrMDra4IQA"
+            },
+            "away": {
+                "name": "Munchen",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIePXIMAxs2Bge8SVSmEGrMDra4IQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "eisbaren-berlin-vs-munchen-hockey-409131"
             }
         ]
     },
