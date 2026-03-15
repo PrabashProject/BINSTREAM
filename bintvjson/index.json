@@ -1,5 +1,31 @@
 [
     {
+        "id": "ppv-event-04-fms-fight-night-10-em-portuguese-ppv-004",
+        "title": "FMS Fight Night 10 (em Portuguese)",
+        "category": "other",
+        "date": 1773612600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-04-fms-fight-night-10-em-portuguese-ppv-004"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-03-fury-fc-117-ppv-03",
+        "title": "Fury FC 117 \u2b50",
+        "category": "other",
+        "date": 1773612000000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-03-fury-fc-117-ppv-03"
+            }
+        ]
+    },
+    {
         "id": "ppv-ncaa-men-s-basketball-championship-selection-show",
         "title": "NCAA Men's Basketball Championship Selection Show",
         "category": "basketball",
@@ -86,6 +112,20 @@
         ]
     },
     {
+        "id": "so-much-fun-2447011",
+        "title": "So Much Fun",
+        "category": "fight",
+        "date": 1773608400000,
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-05-gcw-so-much-fun-ppv-05"
+            }
+        ]
+    },
+    {
         "id": "vancouver-whitecaps-vs-minnesota-united-2406764",
         "title": "Vancouver Whitecaps vs Minnesota United",
         "category": "football",
@@ -110,10 +150,6 @@
             {
                 "source": "delta",
                 "id": "live_mls_vancouver-minnesota-live-streaming-472185936"
-            },
-            {
-                "source": "echo",
-                "id": "vancouver-whitecaps-vs-minnesota-united-fc-football-1490162"
             }
         ]
     },
@@ -328,10 +364,6 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_giants-brewers-live-streaming-517305312"
-            },
-            {
                 "source": "echo",
                 "id": "san-francisco-giants-vs-milwaukee-brewers-baseball-180439"
             },
@@ -342,82 +374,15 @@
         ]
     },
     {
-        "id": "real-sociedad-vs-osasuna-2279672",
-        "title": "Real Sociedad vs Osasuna",
-        "category": "football",
+        "id": "ppv-event-02-zenith-racing-series-sonoma-ppv-02",
+        "title": "Zenith Racing Series Sonoma \ud83d\udd25",
+        "category": "other",
         "date": 1773604800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWBCgQGmPxDcQfECQMgIJkDFwhbJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Real Sociedad",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmsaGrg5uICCD4hEJEDFwgUISyoIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Osasuna",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgAJuTgaIIbiB18QiEiBi4QKEGtMEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-real-sociedad-vs-osasuna"
-            },
-            {
-                "source": "delta",
-                "id": "live_laliga_real-sociedad-osasuna-live-streaming-472283136"
-            },
             {
                 "source": "echo",
-                "id": "real-sociedad-vs-osasuna-football-1391097"
-            }
-        ]
-    },
-    {
-        "id": "ppv-stade-rennais-vs-lille",
-        "title": "Stade Rennais vs. Lille",
-        "category": "football",
-        "date": 1773603900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOTEkAY2zAIwTiBgh6IUXzEgsDIXJAo5I4IkniUwXqIgh9vLPzXtJ9bazDsuwAoMuFgSXH20drtYZwXb78YDBrIQUIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Stade Rennais",
-                "badge": ""
-            },
-            "away": {
-                "name": "Lille",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-stade-rennais-vs-lille"
-            }
-        ]
-    },
-    {
-        "id": "lazio-vs-ac-milan-2265319",
-        "title": "Lazio vs AC Milan",
-        "category": "football",
-        "date": 1773603900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCBQgSIKWBlSQ3EH21mtiCCGs5NTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Lazio",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbmBRgAJghDcQEIyFOmYIHZZAWQBCkz4ouYMvCLzRzprTCuxohBAA"
-            },
-            "away": {
-                "name": "AC Milan",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gAJuThkc3EBD0hDhmCDWmQuvgQpMrXMGXhF5olMCa0wDsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-lazio-vs-ac-milan"
+                "id": "ppv-event-02-zenith-racing-series-sonoma-ppv-02"
             }
         ]
     },
@@ -477,18 +442,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-detroit-pistons-vs-toronto-raptors"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_raptors-pistons-live-streaming-431656560"
-            },
-            {
-                "source": "echo",
-                "id": "toronto-raptors-vs-detroit-pistons-basketball-470458"
-            },
-            {
                 "source": "golf",
                 "id": "20582"
             }
@@ -513,18 +466,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-dallas-mavericks-vs-cleveland-cavaliers"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_cavaliers-mavericks-live-streaming-431655696"
-            },
-            {
-                "source": "echo",
-                "id": "cleveland-cavaliers-vs-dallas-mavericks-basketball-470456"
-            },
-            {
                 "source": "golf",
                 "id": "20581"
             }
@@ -548,14 +489,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-indiana-pacers-vs-milwaukee-bucks"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_bucks-pacers-live-streaming-431656128"
-            },
             {
                 "source": "golf",
                 "id": "20583"
@@ -583,34 +516,6 @@
             {
                 "source": "admin",
                 "id": "ppv-wichita-state-shockers-vs-south-florida-bulls-basketball"
-            }
-        ]
-    },
-    {
-        "id": "winnipeg-jets-vs-st--louis-blues-2347939",
-        "title": "Winnipeg Jets vs St. Louis Blues",
-        "category": "hockey",
-        "date": 1773601200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECB5hwSDZRDcQfEFJAwQKMwdxXGwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Winnipeg Jets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgB+EClDYQ3ECRAQQfXCESIAJrt0EKTPlrZgy8IvNFamtMM7GiIQA"
-            },
-            "away": {
-                "name": "St. Louis Blues",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlu0PmBAhuICLgMwQJEIj47jBCkz4ouYMvCLzRdprTAOxoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-st-louis-blues-vs-winnipeg-jets"
-            },
-            {
-                "source": "golf",
-                "id": "20574"
             }
         ]
     },
@@ -647,31 +552,33 @@
         ]
     },
     {
-        "id": "admin-the-players-championship",
-        "title": "THE PLAYERS Championship",
-        "category": "golf",
-        "date": 1773577800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAUwRQFYFgAGMbNYcki4eYDJy1BvV9ECCAIgUIAJwhcA9GghpcDGYjFpiQyULQT42ECFV6QAE12CCq1br0q5Uiee1pEgo8YvF5IYiySxC2HDBSeEhgMRIsRlZgMCDgCAiIIA.webp",
+        "id": "live-event_aew-revolution-2026-live-stream",
+        "title": "AEW Revolution 2026",
+        "category": "fight",
+        "date": 1773615600000,
         "popular": true,
         "sources": [
             {
-                "source": "admin",
-                "id": "admin-the-players-championship"
+                "source": "delta",
+                "id": "live-event_aew-revolution-2026-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-06-aew-revolution-2026-ppv-06"
             }
         ]
     },
     {
-        "id": "elten-safety-shoes-european-darts-trophy-day-3-2428558",
-        "title": "Elten Safety Shoes European Darts Trophy Day 3",
-        "category": "darts",
-        "date": 1773572400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE2yADJBApOIXiCwmQiaSBjmjVoyyQUsIuYxRhVBjh-KNqcg3xWYDAPcTEIIA.webp",
+        "id": "ppv-the-98-th-academy-awards",
+        "title": "The 98th Academy Awards",
+        "category": "other",
+        "date": 1773615600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdEEBkEiBi8QKbCN6cBIeMFn0QCmMCl8Ii6RBUgsIdQGM9wQbtmDmwVmHZdgBbHkuFgSXPrEdrtLZwaP7smDWwFrsEEA.webp",
         "popular": true,
-        "teams": null,
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-european-darts-trophy-day-3"
+                "id": "ppv-the-98-th-academy-awards"
             }
         ]
     },
