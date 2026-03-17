@@ -1,14 +1,24 @@
 [
     {
-        "id": "atpwta-1000-indian-wells-tn-1",
-        "title": "ATP/WTA 1000: Indian Wells \ud83c\udfbe",
-        "category": "other",
-        "date": 1773759600000,
+        "id": "bahcesehir-kol-vs-cluj-napoca-basketball-495701",
+        "title": "Bahcesehir Kol. vs Cluj-Napoca",
+        "category": "basketball",
+        "date": 1773763200000,
         "popular": true,
+        "teams": {
+            "home": {
+                "name": "Bahcesehir Kol.",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiCogAJiAj1yDAMbNJPeGKrcCXVmDC58toA"
+            },
+            "away": {
+                "name": "Cluj-Napoca",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IRBBBEQKeuQYBjZpJ7wxVbgS6swYXPmtA"
+            }
+        },
         "sources": [
             {
                 "source": "echo",
-                "id": "atpwta-1000-indian-wells-tn-1"
+                "id": "bahcesehir-kol-vs-cluj-napoca-basketball-495701"
             }
         ]
     },
@@ -33,29 +43,6 @@
             {
                 "source": "echo",
                 "id": "hapoel-tel-aviv-vs-paris-basketball-454482"
-            }
-        ]
-    },
-    {
-        "id": "bahcesehir-kol-vs-cluj-napoca-basketball-495701",
-        "title": "Bahcesehir Kol. vs Cluj-Napoca",
-        "category": "basketball",
-        "date": 1773763200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Bahcesehir Kol.",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiCogAJiAj1yDAMbNJPeGKrcCXVmDC58toA"
-            },
-            "away": {
-                "name": "Cluj-Napoca",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IRBBBEQKeuQYBjZpJ7wxVbgS6swYXPmtA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "bahcesehir-kol-vs-cluj-napoca-basketball-495701"
             }
         ]
     },
@@ -110,10 +97,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-atlanta-braves-vs-boston-red-sox"
-            },
-            {
                 "source": "delta",
                 "id": "live_mlb_red-sox-braves-live-streaming-517402080"
             },
@@ -145,10 +128,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-st-louis-cardinals-vs-washington-nationals"
-            },
             {
                 "source": "delta",
                 "id": "live_mlb_nationals-cardinals-live-streaming-517403808"
@@ -214,10 +193,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-minnesota-twins-vs-philadelphia-phillies"
-            },
-            {
                 "source": "delta",
                 "id": "live_mlb_phillies-twins-live-streaming-517402944"
             },
@@ -249,10 +224,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-new-york-yankees-vs-tampa-bay-rays"
-            },
             {
                 "source": "delta",
                 "id": "live_mlb_rays-yankees-live-streaming-517405104"
@@ -569,30 +540,6 @@
         ]
     },
     {
-        "id": "ppv-san-diego-padres-vs-seattle-mariners",
-        "title": "San Diego Padres vs. Seattle Mariners",
-        "category": "baseball",
-        "date": 1773778200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdETkFEAGNgiYfRBZgEECWCc5I4CX69V7cTBkh2k+YmkRFk2ZPbNgrMOy7AC2PBcLAkuQSg4XG8CvPbu78BZWUgxSQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "San Diego Padres",
-                "badge": ""
-            },
-            "away": {
-                "name": "Seattle Mariners",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-san-diego-padres-vs-seattle-mariners"
-            }
-        ]
-    },
-    {
         "id": "colorado-rockies-vs-seattle-mariners-2393078",
         "title": "Colorado Rockies vs Seattle Mariners",
         "category": "baseball",
@@ -611,16 +558,12 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-seattle-mariners-vs-colorado-rockies"
-            },
-            {
                 "source": "delta",
                 "id": "live_mlb_rockies-mariners-live-streaming-517405536"
             },
             {
                 "source": "echo",
-                "id": "colorado-rockies-vs-seattle-mariners-baseball-180471"
+                "id": "seattle-mariners-vs-san-diego-padres-baseball-180465"
             },
             {
                 "source": "golf",
@@ -629,26 +572,28 @@
         ]
     },
     {
-        "id": "howard-vs-umbc-2450038",
-        "title": "Howard vs UMBC",
-        "category": "basketball",
-        "date": 1773787200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0MmAzWwQWAFNp50Lx7gOBOdET4RLCADG2ECRApgfEtikgYvfhOAR+KiSHohVWkPO1KUekIKGbsk1mHZdgBWZcLAkuIZI7Xaqvu0n34wGDWKgwqQA.webp",
+        "id": "tgl-semi-final-boston-common-vs-jupiter-links-tgl-001",
+        "title": "TGL semi-final: Boston Common vs Jupiter Links",
+        "category": "other",
+        "date": 1773786600000,
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Howard",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gBYEHxDcQiHSRCGcWxAa0xtBCkz4ouYMvCLzRdprTAOxoiEA"
-            },
-            "away": {
-                "name": "UMBC",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuly4eagAzMQ3ECRAG+q3QBMQRxHwIUmVrmDLwi80SmBNaYB2NEQgA"
-            }
-        },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-umbc-retrievers-vs-howard-bison-basketball"
+                "source": "echo",
+                "id": "tgl-semi-final-boston-common-vs-jupiter-links-tgl-001"
+            }
+        ]
+    },
+    {
+        "id": "atpwta-1000-miami-tn-1",
+        "title": "ATP/WTA 1000: Miami \ud83c\udfbe",
+        "category": "other",
+        "date": 1773788400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atpwta-1000-miami-tn-1"
             }
         ]
     },
@@ -779,10 +724,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-detroit-pistons-vs-washington-wizards"
-            },
-            {
                 "source": "delta",
                 "id": "live_nba_wizards-pistons-live-streaming-431711424"
             },
@@ -815,10 +756,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-oklahoma-city-thunder-vs-orlando-magic"
-            },
-            {
                 "source": "delta",
                 "id": "live_nba_magic-thunder-live-streaming-431710992"
             },
@@ -850,10 +787,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-miami-heat-vs-charlotte-hornets"
-            },
             {
                 "source": "delta",
                 "id": "live_nba_hornets-heat-live-streaming-431710560"
@@ -922,10 +855,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-indiana-pacers-vs-new-york-knicks"
-            },
             {
                 "source": "delta",
                 "id": "live_nba_knicks-pacers-live-streaming-431711856"
