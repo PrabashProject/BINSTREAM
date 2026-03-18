@@ -1,5 +1,46 @@
 [
     {
+        "id": "ppv-the-golazo-show",
+        "title": "The Golazo Show",
+        "category": "football",
+        "date": 1773860400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOdEFECXiHadgnECGARs-ECSEgAxtKVZR9aRJGr4okFpk6xdEDFEpgLcOy7AC2PBcLAkuBeY5sKUke3N2dYGyS6hBAA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-the-golazo-show"
+            },
+            {
+                "source": "echo",
+                "id": "champion-league-the-golazo-show-game-111"
+            }
+        ]
+    },
+    {
+        "id": "hapoel-jerusalem-bc-vs-t-rk-telekom-bk-2447949",
+        "title": "Hapoel Jerusalem BC vs T\u00fcrk Telekom BK",
+        "category": "basketball",
+        "date": 1773860400000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Hapoel Jerusalem BC",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQgAJnXK8kIbiD651IFLsMmYIY4RjAmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "T\u00fcrk Telekom BK",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqUwJCFoATYAAYQ3EH1whtIFIZAwQEayGWEYwJn3VswZeEXmj1TWjBPMVEIIA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "hapoel-jerusalem-vs-turk-telekom-basketball-495704"
+            }
+        ]
+    },
+    {
         "id": "grizzly-wolfsburg-vs-schwenninger-hockey-422926",
         "title": "Grizzly Wolfsburg vs Schwenninger",
         "category": "hockey",
@@ -141,14 +182,6 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_cardinals-astros-live-streaming-517460400"
-            },
-            {
-                "source": "echo",
-                "id": "stlouis-cardinals-vs-houston-astros-baseball-180477"
-            },
-            {
                 "source": "golf",
                 "id": "20686"
             }
@@ -187,53 +220,6 @@
         ]
     },
     {
-        "id": "besiktas-basketbol-vs-trento-2447948",
-        "title": "Besiktas Basketbol vs Trento",
-        "category": "basketball",
-        "date": 1773853200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Besiktas Basketbol",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgQIGJXUhuOkABMDIPnt0oQJbfAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Trento",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpniwQUbgjYhuIACYg+h-cZC4QJCwQpM+KLmDKr680faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "besiktas-vs-trento-basketball-495703"
-            }
-        ]
-    },
-    {
-        "id": "braga-vs-ferencv-ros-2440274",
-        "title": "Braga vs Ferencv\u00e1ros",
-        "category": "football",
-        "date": 1773847800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gQDYElggtfEMZwQQMQyCkntBPRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Braga",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAh+Ier1YQQ3EABMQfVUd2mchiYRjAmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Ferencv\u00e1ros",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgEAGENxADWEDSAAmII0c2aSuAyGWEYwJnxRcwZeEXmjHTWmGdjREIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-braga-vs-ferencv-ros"
-            }
-        ]
-    },
-    {
         "id": "atpwta-1000-miami-tn-1",
         "title": "ATP/WTA 1000: Miami \ud83c\udfbe",
         "category": "other",
@@ -243,43 +229,6 @@
             {
                 "source": "echo",
                 "id": "atpwta-1000-miami-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "ppv-the-golazo-show",
-        "title": "The Golazo Show",
-        "category": "football",
-        "date": 1773860400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOdEFECXiHadgnECGARs-ECSEgAxtKVZR9aRJGr4okFpk6xdEDFEpgLcOy7AC2PBcLAkuBeY5sKUke3N2dYGyS6hBAA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-the-golazo-show"
-            }
-        ]
-    },
-    {
-        "id": "hapoel-jerusalem-bc-vs-t-rk-telekom-bk-2447949",
-        "title": "Hapoel Jerusalem BC vs T\u00fcrk Telekom BK",
-        "category": "basketball",
-        "date": 1773860400000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Hapoel Jerusalem BC",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQgAJnXK8kIbiD651IFLsMmYIY4RjAmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "T\u00fcrk Telekom BK",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqUwJCFoATYAAYQ3EH1whtIFIZAwQEayGWEYwJn3VswZeEXmj1TWjBPMVEIIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "hapoel-jerusalem-vs-turk-telekom-basketball-495704"
             }
         ]
     },
