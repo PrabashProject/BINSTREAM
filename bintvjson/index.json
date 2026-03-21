@@ -1,5 +1,31 @@
 [
     {
+        "id": "valspar-championship-pga-tour-pga-526234",
+        "title": "Valspar Championship | PGA Tour",
+        "category": "other",
+        "date": 1774093500000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "valspar-championship-pga-tour-pga-526234"
+            }
+        ]
+    },
+    {
+        "id": "motogp-brazilian-grand-prix-game-122273",
+        "title": "MotoGP: Brazilian Grand Prix",
+        "category": "other",
+        "date": 1774093200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "motogp-brazilian-grand-prix-game-122273"
+            }
+        ]
+    },
+    {
         "id": "liv-golf-south-africa-game-162626",
         "title": "LIV Golf South Africa",
         "category": "other",
@@ -41,38 +67,17 @@
         "title": "Lecot Belgian Darts Open Day 2",
         "category": "darts",
         "date": 1774051200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOTE4RFEOywgAxiE4hJY4TGAQQMEBGwgBkyQIn8+wXpz6j6ByYjopgLcOy7AC2PBcLAkuEeY5sKy-e3N34FmxyRhBAA.webp",
         "popular": true,
         "teams": null,
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-belgian-darts-open-day-2"
+            },
+            {
                 "source": "echo",
                 "id": "belgian-darts-open-darts-1"
-            }
-        ]
-    },
-    {
-        "id": "motogp-brazilian-grand-prix-game-122273",
-        "title": "MotoGP: Brazilian Grand Prix",
-        "category": "other",
-        "date": 1774093200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "motogp-brazilian-grand-prix-game-122273"
-            }
-        ]
-    },
-    {
-        "id": "valspar-championship-pga-tour-pga-526234",
-        "title": "Valspar Championship | PGA Tour",
-        "category": "other",
-        "date": 1774093500000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "valspar-championship-pga-tour-pga-526234"
             }
         ]
     },
@@ -277,19 +282,6 @@
         ]
     },
     {
-        "id": "atpwta-1000-miami-tn-1",
-        "title": "ATP/WTA 1000: Miami \ud83c\udfbe",
-        "category": "other",
-        "date": 1774105200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "atpwta-1000-miami-tn-1"
-            }
-        ]
-    },
-    {
         "id": "leicester-tigers-vs-bristol-rugby-50097",
         "title": "Leicester Tigers vs Bristol",
         "category": "rugby",
@@ -309,6 +301,19 @@
             {
                 "source": "echo",
                 "id": "leicester-tigers-vs-bristol-rugby-50097"
+            }
+        ]
+    },
+    {
+        "id": "atpwta-1000-miami-tn-1",
+        "title": "ATP/WTA 1000: Miami \ud83c\udfbe",
+        "category": "other",
+        "date": 1774105200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atpwta-1000-miami-tn-1"
             }
         ]
     },
@@ -469,29 +474,6 @@
         ]
     },
     {
-        "id": "ufc-fight-night-evloev-vs-murphy-mma-2517",
-        "title": "Antonio Trocoli vs Mantas Kondratavicius",
-        "category": "fight",
-        "date": 1774108800000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Antonio Trocoli",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAQQi+PXIMxzYGB7wpVbqIaswWtrghA"
-            },
-            "away": {
-                "name": "Mantas Kondratavicius",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQioSBJ1yDMc2Bge8KVW6iGrMDra4IQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ufc-fight-night-evloev-vs-murphy-mma-2517"
-            }
-        ]
-    },
-    {
         "id": "ufc-fight-night-evloev-vs-murphy-mma-2507",
         "title": "Losene Keita vs Nathaniel Wood",
         "category": "fight",
@@ -511,6 +493,29 @@
             {
                 "source": "echo",
                 "id": "ufc-fight-night-evloev-vs-murphy-mma-2507"
+            }
+        ]
+    },
+    {
+        "id": "ufc-fight-night-evloev-vs-murphy-mma-2517",
+        "title": "Antonio Trocoli vs Mantas Kondratavicius",
+        "category": "fight",
+        "date": 1774108800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Antonio Trocoli",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAQQi+PXIMxzYGB7wpVbqIaswWtrghA"
+            },
+            "away": {
+                "name": "Mantas Kondratavicius",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQioSBJ1yDMc2Bge8KVW6iGrMDra4IQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ufc-fight-night-evloev-vs-murphy-mma-2517"
             }
         ]
     },
@@ -1367,19 +1372,6 @@
         ]
     },
     {
-        "id": "ppv-event-04-bushido-stankis-v-gezius-ppv-004",
-        "title": "Bushido Stankis v Gezius",
-        "category": "other",
-        "date": 1774123200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-04-bushido-stankis-v-gezius-ppv-004"
-            }
-        ]
-    },
-    {
         "id": "ufc-fight-night-evloev-vs-murphy-mma-2516",
         "title": "Danny Silva vs Kurtis Campbell",
         "category": "fight",
@@ -1399,6 +1391,19 @@
             {
                 "source": "echo",
                 "id": "ufc-fight-night-evloev-vs-murphy-mma-2516"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-04-bushido-stankis-v-gezius-ppv-004",
+        "title": "Bushido Stankis v Gezius",
+        "category": "other",
+        "date": 1774123200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-04-bushido-stankis-v-gezius-ppv-004"
             }
         ]
     },
@@ -1827,19 +1832,6 @@
         ]
     },
     {
-        "id": "fortinet-founders-cup-lpga-tour-atp1000",
-        "title": "Fortinet Founders Cup | LPGA Tour",
-        "category": "other",
-        "date": 1774130400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "fortinet-founders-cup-lpga-tour-atp1000"
-            }
-        ]
-    },
-    {
         "id": "ufc-fight-night-evloev-vs-murphy-mma-2452",
         "title": "Michael Aswell vs Luke Riley",
         "category": "fight",
@@ -1859,6 +1851,19 @@
             {
                 "source": "echo",
                 "id": "ufc-fight-night-evloev-vs-murphy-mma-2452"
+            }
+        ]
+    },
+    {
+        "id": "fortinet-founders-cup-lpga-tour-atp1000",
+        "title": "Fortinet Founders Cup | LPGA Tour",
+        "category": "other",
+        "date": 1774130400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "fortinet-founders-cup-lpga-tour-atp1000"
             }
         ]
     },
