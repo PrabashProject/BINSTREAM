@@ -338,10 +338,6 @@
             {
                 "source": "admin",
                 "id": "ppv-everton-vs-chelsea"
-            },
-            {
-                "source": "golf",
-                "id": "20804"
             }
         ]
     },
@@ -389,7 +385,7 @@
         "sources": [
             {
                 "source": "echo",
-                "id": "washington-nationals-vs-new-york-mets-baseball-183871"
+                "id": "new-york-mets-vs-houston-astros-baseball-183877"
             },
             {
                 "source": "golf",
@@ -444,10 +440,6 @@
         },
         "sources": [
             {
-                "source": "echo",
-                "id": "detroit-tigers-vs-new-york-yankees-baseball-183873"
-            },
-            {
                 "source": "golf",
                 "id": "20781"
             }
@@ -471,10 +463,6 @@
             }
         },
         "sources": [
-            {
-                "source": "echo",
-                "id": "boston-red-sox-vs-atlanta-braves-baseball-183875"
-            },
             {
                 "source": "golf",
                 "id": "20780"
@@ -500,10 +488,6 @@
         },
         "sources": [
             {
-                "source": "echo",
-                "id": "stlouis-cardinals-vs-miami-marlins-baseball-183870"
-            },
-            {
                 "source": "golf",
                 "id": "20783"
             }
@@ -527,10 +511,6 @@
             }
         },
         "sources": [
-            {
-                "source": "echo",
-                "id": "pittsburgh-pirates-vs-toronto-blue-jays-baseball-183874"
-            },
             {
                 "source": "golf",
                 "id": "20782"
@@ -642,31 +622,6 @@
         ]
     },
     {
-        "id": "ppv-event-02-lapin-v-bulmeistars-ppv-02",
-        "title": "Lapin v Bulmeistars \ud83d\udd25",
-        "category": "fight",
-        "date": 1774110600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Daniel Lapin"
-            },
-            "away": {
-                "name": "Kristaps Bulmeistars"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-02-lapin-v-bulmeistars-ppv-02"
-            },
-            {
-                "source": "golf",
-                "id": "20947"
-            }
-        ]
-    },
-    {
         "id": "george-liddard-vs-tyler-denny-2436328",
         "title": "George Liddard vs Tyler Denny",
         "category": "fight",
@@ -693,25 +648,23 @@
         ]
     },
     {
-        "id": "michigan-vs-saint-louis-2453540",
-        "title": "Michigan vs Saint Louis",
-        "category": "basketball",
-        "date": 1774109400000,
+        "id": "20947",
+        "title": "Daniel Lapin - Kristaps Bulmeistars",
+        "category": "fight",
+        "date": 1774107000000,
         "popular": true,
         "teams": {
             "home": {
-                "name": "Michigan",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDMQZeGAEoQ3dSAMxc+vUb4h4BCkz4ouYDUXmi7TWmAdjREIA"
+                "name": "Daniel Lapin"
             },
             "away": {
-                "name": "Saint Louis",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz5Fa8pCETcQJEPr06I+kDBAoQAEwIUmfFFzBl4ReaIdNaYJ2NEQgA"
+                "name": "Kristaps Bulmeistars"
             }
         },
         "sources": [
             {
                 "source": "golf",
-                "id": "20845"
+                "id": "20947"
             }
         ]
     },
@@ -725,19 +678,6 @@
             {
                 "source": "echo",
                 "id": "atpwta-1000-miami-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "motogp-brazilian-grand-prix-game-122273",
-        "title": "MotoGP: Brazilian Grand Prix",
-        "category": "other",
-        "date": 1774093200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "motogp-brazilian-grand-prix-game-122273"
             }
         ]
     },
@@ -761,19 +701,6 @@
         ]
     },
     {
-        "id": "ppv-event-04-bushido-stankis-v-gezius-ppv-004",
-        "title": "Bushido Stankis v Gezius",
-        "category": "other",
-        "date": 1774123200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-04-bushido-stankis-v-gezius-ppv-004"
-            }
-        ]
-    },
-    {
         "id": "ufc-fight-night-evloev-vs-murphy-mma-2516",
         "title": "Danny Silva vs Kurtis Campbell",
         "category": "fight",
@@ -793,6 +720,19 @@
             {
                 "source": "echo",
                 "id": "ufc-fight-night-evloev-vs-murphy-mma-2516"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-04-bushido-stankis-v-gezius-ppv-004",
+        "title": "Bushido Stankis v Gezius",
+        "category": "other",
+        "date": 1774123200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-04-bushido-stankis-v-gezius-ppv-004"
             }
         ]
     },
@@ -1226,19 +1166,6 @@
         ]
     },
     {
-        "id": "fortinet-founders-cup-lpga-tour-atp1000",
-        "title": "Fortinet Founders Cup | LPGA Tour",
-        "category": "other",
-        "date": 1774130400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "fortinet-founders-cup-lpga-tour-atp1000"
-            }
-        ]
-    },
-    {
         "id": "ufc-fight-night-evloev-vs-murphy-mma-2452",
         "title": "Michael Aswell vs Luke Riley",
         "category": "fight",
@@ -1258,6 +1185,19 @@
             {
                 "source": "echo",
                 "id": "ufc-fight-night-evloev-vs-murphy-mma-2452"
+            }
+        ]
+    },
+    {
+        "id": "fortinet-founders-cup-lpga-tour-atp1000",
+        "title": "Fortinet Founders Cup | LPGA Tour",
+        "category": "other",
+        "date": 1774130400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "fortinet-founders-cup-lpga-tour-atp1000"
             }
         ]
     },
