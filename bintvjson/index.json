@@ -45,31 +45,12 @@
                 "id": "ppv-tcu-horned-frogs-vs-duke-blue-devils"
             },
             {
+                "source": "delta",
+                "id": "live_ncaa_duke-tcu-live-streaming-1220022756"
+            },
+            {
                 "source": "golf",
                 "id": "20847"
-            }
-        ]
-    },
-    {
-        "id": "ufc-fight-night-evloev-vs-murphy-mma-2514",
-        "title": "Austen Lane vs Iwo Baraniewski",
-        "category": "fight",
-        "date": 1774126800000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Austen Lane",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQiIiAj1yDMc2Bge8KVW6iGrMDra4IQA"
-            },
-            "away": {
-                "name": "Iwo Baraniewski",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQihWPrkGK-mB7wpVbqIaswWtrghA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ufc-fight-night-evloev-vs-murphy-mma-2514"
             }
         ]
     },
@@ -132,6 +113,10 @@
                 "id": "ppv-oklahoma-city-thunder-vs-washington-wizards"
             },
             {
+                "source": "delta",
+                "id": "live_nba_wizards-thunder-live-streaming-998543457"
+            },
+            {
                 "source": "echo",
                 "id": "washington-wizards-vs-oklahoma-city-thunder-basketball-470501"
             },
@@ -162,6 +147,10 @@
             {
                 "source": "admin",
                 "id": "ppv-philadelphia-union-vs-chicago-fire-fc"
+            },
+            {
+                "source": "delta",
+                "id": "live_mls_philadelphia-chicago-live-streaming-1092564342"
             },
             {
                 "source": "echo",
@@ -262,19 +251,6 @@
         ]
     },
     {
-        "id": "ppv-event-04-bushido-stankis-v-gezius-ppv-004",
-        "title": "Bushido Stankis v Gezius",
-        "category": "other",
-        "date": 1774123200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-04-bushido-stankis-v-gezius-ppv-004"
-            }
-        ]
-    },
-    {
         "id": "sevilla-vs-valencia-2279682",
         "title": "Sevilla vs Valencia",
         "category": "football",
@@ -295,6 +271,10 @@
             {
                 "source": "admin",
                 "id": "ppv-sevilla-vs-valencia"
+            },
+            {
+                "source": "delta",
+                "id": "live_laliga_sevilla-valencia-live-streaming-1092807099"
             },
             {
                 "source": "echo",
@@ -323,6 +303,10 @@
             {
                 "source": "admin",
                 "id": "ppv-leeds-united-vs-brentford"
+            },
+            {
+                "source": "delta",
+                "id": "live_premier-league_leeds-brentford-live-streaming-1092505401"
             },
             {
                 "source": "echo",
@@ -465,8 +449,8 @@
                 "id": "ppv-juventus-vs-sassuolo"
             },
             {
-                "source": "echo",
-                "id": "juventus-vs-sassuolo-football-1378160"
+                "source": "delta",
+                "id": "live_serie-a_juventus-sassuolo-live-streaming-1092795111"
             }
         ]
     },
@@ -488,14 +472,6 @@
             }
         },
         "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_giants-guardians-live-streaming-1196916885"
-            },
-            {
-                "source": "echo",
-                "id": "san-francisco-giants-vs-cleveland-guardians-baseball-183880"
-            },
             {
                 "source": "golf",
                 "id": "20789"
@@ -539,7 +515,6 @@
         "title": "Michigan State vs Louisville",
         "category": "basketball",
         "date": 1774118700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOdEFYEkJxAlgEYfRCJEnethBZ+IJTGDT5IGOpl1JIduwVZe-bPT4tw7LsAKnzhYElwBjPhzYUIwbXhurgYGyishBAA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -552,10 +527,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-louisville-cardinals-vs-michigan-state-spartans"
-            },
             {
                 "source": "golf",
                 "id": "20846"
@@ -587,26 +558,19 @@
         ]
     },
     {
-        "id": "nashville-predators-vs-vegas-golden-knights-2347982",
-        "title": "Nashville Predators vs Vegas Golden Knights",
-        "category": "hockey",
+        "id": "live-event_bushido-stankis-vs-gezius-live-stream",
+        "title": "Bushido Stankis vs Gezius",
+        "category": "fight",
         "date": 1774116000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUWhBassMFJDcQfEPpggUIM4ZwX4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Nashville Predators",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Vegas Golden Knights",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
         "sources": [
             {
-                "source": "golf",
-                "id": "20759"
+                "source": "delta",
+                "id": "live-event_bushido-stankis-vs-gezius-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-04-bushido-stankis-v-gezius-ppv-004"
             }
         ]
     },
@@ -654,151 +618,7 @@
         "sources": [
             {
                 "source": "golf",
-                "id": "20785"
-            }
-        ]
-    },
-    {
-        "id": "baltimore-orioles-vs-philadelphia-phillies-2436104",
-        "title": "Baltimore Orioles vs Philadelphia Phillies",
-        "category": "baseball",
-        "date": 1774112700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmSRheYEiDHSQvEFhMgIRkNX3mb8FlpgCRcxil0cUPXeUbU5XviswGAejGIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Baltimore Orioles",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA"
-            },
-            "away": {
-                "name": "Philadelphia Phillies",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20779"
-            }
-        ]
-    },
-    {
-        "id": "boston-red-sox-vs-atlanta-braves-2436103",
-        "title": "Boston Red Sox vs Atlanta Braves",
-        "category": "baseball",
-        "date": 1774112700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmEpyUYfmhC8QWIyAgGQ1ECVNWLLJBSwi5jHapQ8wZeEWrb5rMBgXuJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Boston Red Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
-            },
-            "away": {
-                "name": "Atlanta Braves",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20780"
-            }
-        ]
-    },
-    {
-        "id": "st--louis-cardinals-vs-miami-marlins-2436098",
-        "title": "St. Louis Cardinals vs Miami Marlins",
-        "category": "baseball",
-        "date": 1774112700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGlgSIFJBBQYIXiCymDxkNRA6IFrCyQUH7UeL2qUPbeUbU5XviswGDa4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "St. Louis Cardinals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Miami Marlins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20783"
-            }
-        ]
-    },
-    {
-        "id": "detroit-tigers-vs-new-york-yankees-2436101",
-        "title": "Detroit Tigers vs New York Yankees",
-        "category": "baseball",
-        "date": 1774112700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoIgh45Wol4gshkFoPUQJExZAwWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Detroit Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "New York Yankees",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20781"
-            }
-        ]
-    },
-    {
-        "id": "tampa-bay-rays-vs-minnesota-twins-2436100",
-        "title": "Tampa Bay Rays vs Minnesota Twins",
-        "category": "baseball",
-        "date": 1774112700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzD9+0kLuoheILMZARDIAyTM2ULJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Tampa Bay Rays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Minnesota Twins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20784"
-            }
-        ]
-    },
-    {
-        "id": "pittsburgh-pirates-vs-toronto-blue-jays-2436102",
-        "title": "Pittsburgh Pirates vs Toronto Blue Jays",
-        "category": "baseball",
-        "date": 1774112700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdig4ht-JMGkheILMZARDIaiBJnrhlkgpYRcxijCrNHD+UbU5mviswGAe4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Pittsburgh Pirates",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA"
-            },
-            "away": {
-                "name": "Toronto Blue Jays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20782"
+                "id": "20786"
             }
         ]
     },
@@ -839,6 +659,10 @@
             {
                 "source": "admin",
                 "id": "ppv-ufc-fight-night-evloev-vs-murphy"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_ufc-fight-night-3-21-live-stream"
             },
             {
                 "source": "echo",
@@ -963,6 +787,10 @@
                 "id": "ppv-texas-a-m-aggies-vs-houston-cougars"
             },
             {
+                "source": "delta",
+                "id": "live_ncaa_houston-texas-am-live-streaming-1220513265"
+            },
+            {
                 "source": "golf",
                 "id": "20848"
             }
@@ -989,6 +817,10 @@
             {
                 "source": "admin",
                 "id": "ppv-nashville-sc-vs-orlando-city-sc"
+            },
+            {
+                "source": "delta",
+                "id": "live_mls_nashville-orlando-live-streaming-1092565341"
             },
             {
                 "source": "echo",
@@ -1150,6 +982,10 @@
                 "id": "ppv-los-angeles-lakers-vs-orlando-magic"
             },
             {
+                "source": "delta",
+                "id": "live_nba_magic-lakers-live-streaming-998546454"
+            },
+            {
                 "source": "echo",
                 "id": "orlando-magic-vs-los-angeles-lakers-basketball-470504"
             },
@@ -1180,6 +1016,10 @@
             {
                 "source": "admin",
                 "id": "ppv-memphis-grizzlies-vs-charlotte-hornets"
+            },
+            {
+                "source": "delta",
+                "id": "live_nba_hornets-grizzlies-live-streaming-998544456"
             },
             {
                 "source": "echo",
@@ -1214,6 +1054,10 @@
                 "id": "ppv-cleveland-cavaliers-vs-new-orleans-pelicans"
             },
             {
+                "source": "delta",
+                "id": "live_nba_pelicans-cavaliers-live-streaming-998545455"
+            },
+            {
                 "source": "echo",
                 "id": "new-orleans-pelicans-vs-cleveland-cavaliers-basketball-470503"
             },
@@ -1244,6 +1088,10 @@
             {
                 "source": "admin",
                 "id": "ppv-texas-longhorns-vs-gonzaga-bulldogs"
+            },
+            {
+                "source": "delta",
+                "id": "live_ncaa_gonzaga-texas-live-streaming-1220514264"
             },
             {
                 "source": "golf",
@@ -1302,6 +1150,10 @@
                 "id": "ppv-atlanta-united-fc-vs-d-c-united"
             },
             {
+                "source": "delta",
+                "id": "live_mls_atlanta-dc-united-live-streaming-1092566340"
+            },
+            {
                 "source": "echo",
                 "id": "atlanta-united-fc-vs-dc-united-football-1490169"
             }
@@ -1328,6 +1180,10 @@
             {
                 "source": "admin",
                 "id": "ppv-vcu-rams-vs-illinois-fighting-illini"
+            },
+            {
+                "source": "delta",
+                "id": "live_ncaa_illinois-vcu-live-streaming-1220515263"
             },
             {
                 "source": "golf",
