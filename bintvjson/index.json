@@ -139,19 +139,6 @@
         ]
     },
     {
-        "id": "ppv-event-06-toughman-contest-ev-06",
-        "title": "PPV EVENT 06: Toughman Contest",
-        "category": "other",
-        "date": 1774051200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-06-toughman-contest-ev-06"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-07-bkfc-87-stewart-v-gaffie-ev-07",
         "title": "PPV EVENT 07: BKFC 87 Stewart v Gaffie",
         "category": "other",
@@ -161,6 +148,19 @@
             {
                 "source": "echo",
                 "id": "ppv-event-07-bkfc-87-stewart-v-gaffie-ev-07"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-06-toughman-contest-ev-06",
+        "title": "PPV EVENT 06: Toughman Contest",
+        "category": "other",
+        "date": 1774051200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-06-toughman-contest-ev-06"
             }
         ]
     },
@@ -635,29 +635,6 @@
         ]
     },
     {
-        "id": "ufc-fight-night-evloev-vs-murphy-mma-2517",
-        "title": "Antonio Trocoli vs Mantas Kondratavicius",
-        "category": "fight",
-        "date": 1774108800000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Antonio Trocoli",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAQQi+PXIMxzYGB7wpVbqIaswWtrghA"
-            },
-            "away": {
-                "name": "Mantas Kondratavicius",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQioSBJ1yDMc2Bge8KVW6iGrMDra4IQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ufc-fight-night-evloev-vs-murphy-mma-2517"
-            }
-        ]
-    },
-    {
         "id": "ufc-fight-night-evloev-vs-murphy-mma-2510",
         "title": "Abdul-Kareem Al-Selwady vs Shem Rock",
         "category": "fight",
@@ -677,6 +654,29 @@
             {
                 "source": "echo",
                 "id": "ufc-fight-night-evloev-vs-murphy-mma-2510"
+            }
+        ]
+    },
+    {
+        "id": "ufc-fight-night-evloev-vs-murphy-mma-2517",
+        "title": "Antonio Trocoli vs Mantas Kondratavicius",
+        "category": "fight",
+        "date": 1774108800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Antonio Trocoli",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAQQi+PXIMxzYGB7wpVbqIaswWtrghA"
+            },
+            "away": {
+                "name": "Mantas Kondratavicius",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQioSBJ1yDMc2Bge8KVW6iGrMDra4IQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ufc-fight-night-evloev-vs-murphy-mma-2517"
             }
         ]
     },
