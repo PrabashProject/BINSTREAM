@@ -1,5 +1,55 @@
 [
     {
+        "id": "fijian-drua-vs-queensland-reds-2416958",
+        "title": "Fijian Drua vs Queensland Reds",
+        "category": "rugby",
+        "date": 1774064100000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiChJYCECRDcQGqSFMQjIRFZAwCwbTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Fijian Drua",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3ACADONIhuIACYgIuA8b4gYIC7oIUmfFFzBl4ReaPtNaYR2NEQgA"
+            },
+            "away": {
+                "name": "Queensland Reds",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gIIFBrFIQqkiH3r1q1QBM1IDYRjAmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "fijian-drua-vs-reds-rugby-51811"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-08-cmll-legends-tribute-ev-08",
+        "title": "PPV EVENT 08: CMLL Legends Tribute",
+        "category": "other",
+        "date": 1774063858000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-08-cmll-legends-tribute-ev-08"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-09-tx2k26-ev-09",
+        "title": "PPV EVENT 09: TX2K26",
+        "category": "other",
+        "date": 1774063800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-09-tx2k26-ev-09"
+            }
+        ]
+    },
+    {
         "id": "richmond-tigers-vs-gold-coast-suns-australian-football-3361",
         "title": "Richmond Tigers vs Gold Coast Suns",
         "category": "afl",
@@ -199,30 +249,6 @@
         ]
     },
     {
-        "id": "arizona-diamondbacks-vs-milwaukee-brewers-2393122",
-        "title": "Arizona Diamondbacks vs Milwaukee Brewers",
-        "category": "baseball",
-        "date": 1774055400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGQAZK4sChDcQfQ-pCIcMEHpKmCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Arizona Diamondbacks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Milwaukee Brewers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "arizona-diamondbacks-vs-milwaukee-brewers-baseball-180515"
-            }
-        ]
-    },
-    {
         "id": "athletics-vs-chicago-cubs-2393121",
         "title": "Athletics vs Chicago Cubs",
         "category": "baseball",
@@ -240,10 +266,6 @@
             }
         },
         "sources": [
-            {
-                "source": "echo",
-                "id": "athletics-vs-chicago-cubs-baseball-180514"
-            },
             {
                 "source": "golf",
                 "id": "20752"
@@ -297,10 +319,6 @@
         },
         "sources": [
             {
-                "source": "echo",
-                "id": "san-diego-padres-vs-colorado-rockies-baseball-180503"
-            },
-            {
                 "source": "golf",
                 "id": "20754"
             }
@@ -324,10 +342,6 @@
             }
         },
         "sources": [
-            {
-                "source": "echo",
-                "id": "texas-rangers-vs-san-francisco-giants-baseball-180516"
-            },
             {
                 "source": "golf",
                 "id": "20751"
@@ -353,14 +367,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-florida-panthers-vs-calgary-flames"
-            },
-            {
-                "source": "echo",
-                "id": "calgary-flames-vs-florida-panthers-hockey-416714"
-            },
-            {
                 "source": "golf",
                 "id": "20733"
             }
@@ -385,48 +391,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-toronto-raptors-vs-denver-nuggets"
-            },
-            {
-                "source": "echo",
-                "id": "denver-nuggets-vs-toronto-raptors-basketball-470500"
-            },
-            {
                 "source": "golf",
                 "id": "20740"
-            }
-        ]
-    },
-    {
-        "id": "chicago-blackhawks-vs-colorado-avalanche-2347978",
-        "title": "Chicago Blackhawks vs Colorado Avalanche",
-        "category": "hockey",
-        "date": 1774053000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEGxBSwKQTm4g+WkDBAoTIAzhAgFTJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Chicago Blackhawks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLBk+YFGAAm2ENxARcRmAb0hzJiYRjAmfFF1Xl680Q6a0wqsaIhA"
-            },
-            "away": {
-                "name": "Colorado Avalanche",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-colorado-avalanche-vs-chicago-blackhawks"
-            },
-            {
-                "source": "echo",
-                "id": "chicago-blackhawks-vs-colorado-avalanche-hockey-416713"
-            },
-            {
-                "source": "golf",
-                "id": "20732"
             }
         ]
     },
@@ -483,6 +449,19 @@
         ]
     },
     {
+        "id": "ppv-event-06-toughman-contest-ev-06",
+        "title": "PPV EVENT 06: Toughman Contest",
+        "category": "other",
+        "date": 1774051200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-06-toughman-contest-ev-06"
+            }
+        ]
+    },
+    {
         "id": "ppv-event-07-bkfc-87-stewart-v-gaffie-ev-07",
         "title": "PPV EVENT 07: BKFC 87 Stewart v Gaffie",
         "category": "fight",
@@ -508,37 +487,6 @@
         ]
     },
     {
-        "id": "ppv-event-06-toughman-contest-ev-06",
-        "title": "PPV EVENT 06: Toughman Contest",
-        "category": "other",
-        "date": 1774051200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-06-toughman-contest-ev-06"
-            }
-        ]
-    },
-    {
-        "id": "ppv-wwe-friday-night-smackdown",
-        "title": "WWE: Friday Night Smackdown",
-        "category": "fight",
-        "date": 1774051200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0IUkx3gWAFNp51JQw7gOBOTdxAYxCCsIGME4gSg4CWCJEKEMOG96IRHUUixs6SAWTBfbBLUpgLcOy7AC2POcLAkuPmY5sKEbezO345tmAvdgggA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-wwe-friday-night-smackdown"
-            },
-            {
-                "source": "echo",
-                "id": "wwe-friday-night-smackdown-game-11114"
-            }
-        ]
-    },
-    {
         "id": "lecot-belgian-darts-open-day-2-2428562",
         "title": "Lecot Belgian Darts Open Day 2",
         "category": "darts",
@@ -549,140 +497,6 @@
             {
                 "source": "echo",
                 "id": "belgian-darts-open-darts-1"
-            }
-        ]
-    },
-    {
-        "id": "minnesota-timberwolves-vs-portland-trail-blazers-2358383",
-        "title": "Minnesota Timberwolves vs Portland Trail Blazers",
-        "category": "basketball",
-        "date": 1774051200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBjMGIPmCkhuukCRApcIRBBAGjjYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Minnesota Timberwolves",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBlwMfsCT8Q3EABNcu1SBQgIIPpd0EKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Portland Trail Blazers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAkwAAx0Q3bDpAATECkMgIZkCWOXjBCkz4ouYMvCLzRTprTAuxoiCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-portland-trail-blazers-vs-minnesota-timberwolves"
-            },
-            {
-                "source": "golf",
-                "id": "20739"
-            }
-        ]
-    },
-    {
-        "id": "memphis-grizzlies-vs-boston-celtics-2358382",
-        "title": "Memphis Grizzlies vs Boston Celtics",
-        "category": "basketball",
-        "date": 1774051200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXtJBSEIGCG4g+IEiBS4QiCFv36CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Memphis Grizzlies",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAATEFHUQ1IbiBI6DelDr4hzKAhSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Boston Celtics",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0kIDaPn4Q3EABMDIPiBQhEhkhtMEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-boston-celtics-vs-memphis-grizzlies"
-            },
-            {
-                "source": "golf",
-                "id": "20738"
-            }
-        ]
-    },
-    {
-        "id": "houston-rockets-vs-atlanta-hawks-2358381",
-        "title": "Houston Rockets vs Atlanta Hawks",
-        "category": "basketball",
-        "date": 1774051200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBQ8wvDSBDcQfECRApcIRBBBSQMMwWBIKfYbPoowKrWy-l6WLJaTLRgXmKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Houston Rockets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSCkFEJRDcQJEChB8QEEKYAmIGLtwEKTPqrZgy8IvNGqmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Atlanta Hawks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4haWMCBAATEBBCrdiEiBg6QfPSBQhlhGMCZ8UXMGXhF5ol01pg3YqIQQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-atlanta-hawks-vs-houston-rockets"
-            },
-            {
-                "source": "golf",
-                "id": "20737"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-09-tx2k26-ev-09",
-        "title": "PPV EVENT 09: TX2K26",
-        "category": "other",
-        "date": 1774062026000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-09-tx2k26-ev-09"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-08-cmll-legends-tribute-ev-08",
-        "title": "PPV EVENT 08: CMLL Legends Tribute",
-        "category": "other",
-        "date": 1774063858000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-08-cmll-legends-tribute-ev-08"
-            }
-        ]
-    },
-    {
-        "id": "fijian-drua-vs-queensland-reds-2416958",
-        "title": "Fijian Drua vs Queensland Reds",
-        "category": "rugby",
-        "date": 1774064100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiChJYCECRDcQGqSFMQjIRFZAwCwbTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Fijian Drua",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3ACADONIhuIACYgIuA8b4gYIC7oIUmfFFzBl4ReaPtNaYR2NEQgA"
-            },
-            "away": {
-                "name": "Queensland Reds",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gIIFBrFIQqkiH3r1q1QBM1IDYRjAmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "fijian-drua-vs-reds-rugby-51811"
             }
         ]
     },
@@ -1008,6 +822,29 @@
         ]
     },
     {
+        "id": "leicester-tigers-vs-bristol-rugby-50097",
+        "title": "Leicester Tigers vs Bristol",
+        "category": "rugby",
+        "date": 1774105200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Leicester Tigers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYh49cgwHNgYHvHFUJhBqzAa2uCEA"
+            },
+            "away": {
+                "name": "Bristol",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IbCFF1yDAc2Bge8cVQmEGrMOra4IQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "leicester-tigers-vs-bristol-rugby-50097"
+            }
+        ]
+    },
+    {
         "id": "manchester-city-vs-crystal-palace-2267379",
         "title": "Manchester City vs Crystal Palace",
         "category": "football",
@@ -1112,30 +949,6 @@
             {
                 "source": "echo",
                 "id": "northampton-saints-vs-newcastle-red-bulls-rugby-50098"
-            }
-        ]
-    },
-    {
-        "id": "leicester-tigers-vs-bristol-bears-2309836",
-        "title": "Leicester Tigers vs Bristol Bears",
-        "category": "rugby",
-        "date": 1774105200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOKIAMsEOBzcQfECV2HTRk0ZQFgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Leicester Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwggSIFMCYhgYENzW4QiHAZQhVqiYRhb+mtmDLwi80Zqa0wTsaIhA"
-            },
-            "away": {
-                "name": "Bristol Bears",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzLyQ6kHD4huIACYhtGzfsM6QKAhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "leicester-tigers-vs-bristol-rugby-50097"
             }
         ]
     },
@@ -2046,34 +1859,6 @@
         ]
     },
     {
-        "id": "minnesota-wild-vs-dallas-stars-2347984",
-        "title": "Minnesota Wild vs Dallas Stars",
-        "category": "hockey",
-        "date": 1774123200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUL0JTIIGCG4g+IKbpApTBnOb4FgSCjfWz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Minnesota Wild",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+NMOETcQEXPpi79AExBnlhGMCZ8UXMGVX15ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Dallas Stars",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm7UAJmBRg+YbiD0RcRmCEM49OZYRjAmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "minnesota-wild-vs-dallas-stars-hockey-416719"
-            },
-            {
-                "source": "golf",
-                "id": "20760"
-            }
-        ]
-    },
-    {
         "id": "san-jose-sharks-vs-philadelphia-flyers-2347985",
         "title": "San Jose Sharks vs Philadelphia Flyers",
         "category": "hockey",
@@ -2126,6 +1911,34 @@
             {
                 "source": "golf",
                 "id": "20761"
+            }
+        ]
+    },
+    {
+        "id": "minnesota-wild-vs-dallas-stars-2347984",
+        "title": "Minnesota Wild vs Dallas Stars",
+        "category": "hockey",
+        "date": 1774123200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUL0JTIIGCG4g+IKbpApTBnOb4FgSCjfWz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Minnesota Wild",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+NMOETcQEXPpi79AExBnlhGMCZ8UXMGVX15ou01pgHY0RCA"
+            },
+            "away": {
+                "name": "Dallas Stars",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm7UAJmBRg+YbiD0RcRmCEM49OZYRjAmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "minnesota-wild-vs-dallas-stars-hockey-416719"
+            },
+            {
+                "source": "golf",
+                "id": "20760"
             }
         ]
     },
