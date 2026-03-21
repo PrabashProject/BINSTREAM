@@ -1,5 +1,65 @@
 [
     {
+        "id": "auxerre-vs-brest-2278343",
+        "title": "Auxerre vs Brest",
+        "category": "football",
+        "date": 1774116000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFP1IgBYENz3aQJEBBBmYZwyjMFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Auxerre",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzBgkdIvIAmIbiB0kQRviEOJEh5YRjAmfFFzBl4m0pya1VoqXSA"
+            },
+            "away": {
+                "name": "Brest",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgAJiBQNSICCG4gSmkCb7GzMXOoIUmfLWzBl4ReaK1NaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-aj-auxerre-vs-brest"
+            },
+            {
+                "source": "echo",
+                "id": "auxerre-vs-stade-brestois-29-football-1387932"
+            }
+        ]
+    },
+    {
+        "id": "nashville-predators-vs-vegas-golden-knights-2347982",
+        "title": "Nashville Predators vs Vegas Golden Knights",
+        "category": "hockey",
+        "date": 1774116000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUWhBassMFJDcQfEPpggUIM4ZwX4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Nashville Predators",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Vegas Golden Knights",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-vegas-golden-knights-vs-nashville-predators"
+            },
+            {
+                "source": "echo",
+                "id": "nashville-predators-vs-vegas-golden-knights-hockey-416717"
+            },
+            {
+                "source": "golf",
+                "id": "20759"
+            }
+        ]
+    },
+    {
         "id": "levante-vs-real-oviedo-2279679",
         "title": "Levante vs Real Oviedo",
         "category": "football",
@@ -542,30 +602,6 @@
         ]
     },
     {
-        "id": "espanyol-vs-getafe-2279678",
-        "title": "Espanyol vs Getafe",
-        "category": "football",
-        "date": 1774106100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDBJc0FGBAhuIPiBKGQEUyBi4QKCwWBIKfYbPp6VKLmDKb6WLLeTLRgvmKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Espanyol",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqAJiAGEkYJCG4gNqg3xAwQiHFYIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Getafe",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIpQuEJpQhuIACYgSh49oggzRxhSZ81bMGXhF5otU1pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-espanyol-vs-getafe"
-            }
-        ]
-    },
-    {
         "id": "atpwta-1000-miami-tn-1",
         "title": "ATP/WTA 1000: Miami \ud83c\udfbe",
         "category": "other",
@@ -575,19 +611,6 @@
             {
                 "source": "echo",
                 "id": "atpwta-1000-miami-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "valspar-championship-pga-tour-pga-526234",
-        "title": "Valspar Championship | PGA Tour",
-        "category": "other",
-        "date": 1774093500000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "valspar-championship-pga-tour-pga-526234"
             }
         ]
     },
@@ -620,89 +643,6 @@
             {
                 "source": "echo",
                 "id": "belgian-darts-open-darts-1"
-            }
-        ]
-    },
-    {
-        "id": "ufc-fight-night-evloev-vs-murphy-mma-2510",
-        "title": "Abdul-Kareem Al-Selwady vs Shem Rock",
-        "category": "fight",
-        "date": 1774115100000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Abdul-Kareem Al-Selwady",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQQkGOX1yDMc2Bge8KVW6iGrMDra4IQA"
-            },
-            "away": {
-                "name": "Shem Rock",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQixEzrkGY5sDA94Uqt1ENWYbW1wQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ufc-fight-night-evloev-vs-murphy-mma-2510"
-            }
-        ]
-    },
-    {
-        "id": "auxerre-vs-brest-2278343",
-        "title": "Auxerre vs Brest",
-        "category": "football",
-        "date": 1774116000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFP1IgBYENz3aQJEBBBmYZwyjMFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Auxerre",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzBgkdIvIAmIbiB0kQRviEOJEh5YRjAmfFFzBl4m0pya1VoqXSA"
-            },
-            "away": {
-                "name": "Brest",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgAJiBQNSICCG4gSmkCb7GzMXOoIUmfLWzBl4ReaK1NaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-aj-auxerre-vs-brest"
-            },
-            {
-                "source": "echo",
-                "id": "auxerre-vs-stade-brestois-29-football-1387932"
-            }
-        ]
-    },
-    {
-        "id": "nashville-predators-vs-vegas-golden-knights-2347982",
-        "title": "Nashville Predators vs Vegas Golden Knights",
-        "category": "hockey",
-        "date": 1774116000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUWhBassMFJDcQfEPpggUIM4ZwX4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Nashville Predators",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Vegas Golden Knights",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-vegas-golden-knights-vs-nashville-predators"
-            },
-            {
-                "source": "echo",
-                "id": "nashville-predators-vs-vegas-golden-knights-hockey-416717"
-            },
-            {
-                "source": "golf",
-                "id": "20759"
             }
         ]
     },
