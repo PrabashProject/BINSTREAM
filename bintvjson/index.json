@@ -156,32 +156,6 @@
         ]
     },
     {
-        "id": "ppv-event-07-medieval-cage-fighting-championship-ppv-07",
-        "title": "Medieval Cage Fighting Championship",
-        "category": "other",
-        "date": 1774137600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-07-medieval-cage-fighting-championship-ppv-07"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-05-toughman-contest-ppv-05",
-        "title": "Toughman Contest",
-        "category": "other",
-        "date": 1774137600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-05-toughman-contest-ppv-05"
-            }
-        ]
-    },
-    {
         "id": "lecot-belgian-darts-open-day-3-2428563",
         "title": "Lecot Belgian Darts Open Day 3",
         "category": "darts",
@@ -401,6 +375,10 @@
                 "id": "ppv-bologna-vs-lazio"
             },
             {
+                "source": "delta",
+                "id": "live_serie-a_bologna-lazio-live-streaming-1092790116"
+            },
+            {
                 "source": "echo",
                 "id": "bologna-vs-lazio-football-1378155"
             }
@@ -507,19 +485,6 @@
         ]
     },
     {
-        "id": "atpwta-1000-miami-tn-1",
-        "title": "ATP/WTA 1000: Miami \ud83c\udfbe",
-        "category": "other",
-        "date": 1774191600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "atpwta-1000-miami-tn-1"
-            }
-        ]
-    },
-    {
         "id": "leicester-tigers-vs-bristol-rugby-50097",
         "title": "Leicester Tigers vs Bristol",
         "category": "rugby",
@@ -539,6 +504,19 @@
             {
                 "source": "echo",
                 "id": "leicester-tigers-vs-bristol-rugby-50097"
+            }
+        ]
+    },
+    {
+        "id": "atpwta-1000-miami-tn-1",
+        "title": "ATP/WTA 1000: Miami \ud83c\udfbe",
+        "category": "other",
+        "date": 1774191600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atpwta-1000-miami-tn-1"
             }
         ]
     },
@@ -933,10 +911,6 @@
             {
                 "source": "admin",
                 "id": "ppv-new-york-city-fc-vs-inter-miami-cf"
-            },
-            {
-                "source": "delta",
-                "id": "live_mls_ny-city-inter-miami-live-streaming-1092827079"
             },
             {
                 "source": "echo",
@@ -1499,6 +1473,10 @@
                 "id": "ppv-fiorentina-vs-inter-milan"
             },
             {
+                "source": "delta",
+                "id": "live_serie-a_fiorentina-inter-live-streaming-1092793113"
+            },
+            {
                 "source": "echo",
                 "id": "fiorentina-vs-inter-football-1378158"
             }
@@ -1525,6 +1503,10 @@
             {
                 "source": "admin",
                 "id": "ppv-real-madrid-vs-atl-tico-madrid"
+            },
+            {
+                "source": "delta",
+                "id": "live_laliga_real-madrid-atl-madrid-live-streaming-1092806100"
             }
         ]
     },
