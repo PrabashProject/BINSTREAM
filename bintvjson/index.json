@@ -13,19 +13,6 @@
         ]
     },
     {
-        "id": "ppv-event-05-uwc-57-ev-05",
-        "title": "PPV EVENT 05: UWC 57",
-        "category": "other",
-        "date": 1774224383000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-05-uwc-57-ev-05"
-            }
-        ]
-    },
-    {
         "id": "philadelphia-phillies-vs-tampa-bay-rays-2444920",
         "title": "Philadelphia Phillies vs Tampa Bay Rays",
         "category": "baseball",
@@ -54,38 +41,6 @@
             {
                 "source": "golf",
                 "id": "20892"
-            }
-        ]
-    },
-    {
-        "id": "boston-red-sox-vs-minnesota-twins-2444921",
-        "title": "Boston Red Sox vs Minnesota Twins",
-        "category": "baseball",
-        "date": 1774285500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu3whGSEIIghee4waPUQJbcekskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Boston Red Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
-            },
-            "away": {
-                "name": "Minnesota Twins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_red-sox-twins-live-streaming-1197299502"
-            },
-            {
-                "source": "echo",
-                "id": "boston-red-sox-vs-minnesota-twins-baseball-184444"
-            },
-            {
-                "source": "golf",
-                "id": "20893"
             }
         ]
     },
@@ -150,6 +105,38 @@
             {
                 "source": "golf",
                 "id": "20895"
+            }
+        ]
+    },
+    {
+        "id": "boston-red-sox-vs-minnesota-twins-2444921",
+        "title": "Boston Red Sox vs Minnesota Twins",
+        "category": "baseball",
+        "date": 1774285500000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu3whGSEIIghee4waPUQJbcekskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Boston Red Sox",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
+            },
+            "away": {
+                "name": "Minnesota Twins",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_red-sox-twins-live-streaming-1197299502"
+            },
+            {
+                "source": "echo",
+                "id": "boston-red-sox-vs-minnesota-twins-baseball-184444"
+            },
+            {
+                "source": "golf",
+                "id": "20893"
             }
         ]
     },
