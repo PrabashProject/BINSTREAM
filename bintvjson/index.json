@@ -1,5 +1,37 @@
 [
     {
+        "id": "milwaukee-brewers-vs-cincinnati-reds-2444938",
+        "title": "Milwaukee Brewers vs Cincinnati Reds",
+        "category": "baseball",
+        "date": 1774386600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkjAkQKYEhBleII1hCmIxkNQMgLKEPBaaYAkXMYotHXRy3lG1HK6+KzAYF6MYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Milwaukee Brewers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Cincinnati Reds",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_brewers-reds-live-streaming-1197332469"
+            },
+            {
+                "source": "echo",
+                "id": "milwaukee-brewers-vs-cincinnati-reds-baseball-184461"
+            },
+            {
+                "source": "golf",
+                "id": "20929"
+            }
+        ]
+    },
+    {
         "id": "real-madrid-baloncesto-vs-hapoel-tel-aviv-bc-2345475",
         "title": "Real Madrid Baloncesto vs Hapoel Tel Aviv BC",
         "category": "basketball",
@@ -80,54 +112,6 @@
         ]
     },
     {
-        "id": "valencia-basket-vs-olympiacos-bc-2345474",
-        "title": "Valencia Basket vs Olympiacos BC",
-        "category": "basketball",
-        "date": 1774380600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcPFhaYDENxB8QUgyETGQpkClwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Valencia Basket",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow3MCma4QibiBK6QAEyMoQFi6dWEYwJny1swZeEXmitTWmBdjREEA"
-            },
-            "away": {
-                "name": "Olympiacos BC",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBREosGFF8Q3EABMQOwyRBm9OHDAIUmfFFy3l680Q6a1NoqXSA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "valencia-vs-olympiacos-basketball-454604"
-            }
-        ]
-    },
-    {
-        "id": "fc-barcelona-basquet-vs-anadolu-efes-sk-2345472",
-        "title": "FC Barcelona Basquet vs Anadolu Efes SK",
-        "category": "basketball",
-        "date": 1774380600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUShApgSMOE3cQfEFKMhEpkOa0gYBHRT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "FC Barcelona Basquet",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwoSXCAAmwDdxB9NKVSGOGIIC-AIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Anadolu Efes SK",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzBgUufrhCJuIPiBIgjhxPv26+BCk0tcwZeEXmiUwJrVWipdIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "barcelona-vs-anadolu-efes-basketball-454602"
-            }
-        ]
-    },
-    {
         "id": "colorado-rockies-vs-detroit-tigers-2444936",
         "title": "Colorado Rockies vs Detroit Tigers",
         "category": "baseball",
@@ -178,10 +162,6 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_cubs-yankees-live-streaming-1197331470"
-            },
-            {
                 "source": "echo",
                 "id": "chicago-cubs-vs-new-york-yankees-baseball-184458"
             },
@@ -210,36 +190,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-kansas-city-royals-vs-texas-rangers"
-            },
-            {
                 "source": "golf",
                 "id": "20925"
-            }
-        ]
-    },
-    {
-        "id": "minnesota-twins-vs-boston-red-sox-2444933",
-        "title": "Minnesota Twins vs Boston Red Sox",
-        "category": "baseball",
-        "date": 1774371900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoxkMQUaiF4gshnfpB6SJkFZZIKWEXMYowqlDxflG1OW-ytgYC7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Minnesota Twins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Boston Red Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20924"
             }
         ]
     },
@@ -253,38 +205,6 @@
             {
                 "source": "echo",
                 "id": "atpwta-1000-miami-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "milwaukee-brewers-vs-cincinnati-reds-2444938",
-        "title": "Milwaukee Brewers vs Cincinnati Reds",
-        "category": "baseball",
-        "date": 1774386600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkjAkQKYEhBleII1hCmIxkNQMgLKEPBaaYAkXMYotHXRy3lG1HK6+KzAYF6MYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Milwaukee Brewers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Cincinnati Reds",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_brewers-reds-live-streaming-1197332469"
-            },
-            {
-                "source": "echo",
-                "id": "milwaukee-brewers-vs-cincinnati-reds-baseball-184461"
-            },
-            {
-                "source": "golf",
-                "id": "20929"
             }
         ]
     },
