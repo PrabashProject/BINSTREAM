@@ -171,6 +171,10 @@
                 "id": "ppv-netherlands-vs-norway"
             },
             {
+                "source": "delta",
+                "id": "live_int-friendly-games_netherlands-norway-live-streaming-1230216552"
+            },
+            {
                 "source": "echo",
                 "id": "netherlands-vs-norway-football-1503005"
             }
@@ -225,6 +229,10 @@
             {
                 "source": "admin",
                 "id": "ppv-england-vs-uruguay"
+            },
+            {
+                "source": "delta",
+                "id": "live_int-friendly-games_england-uruguay-live-streaming-1230215553"
             },
             {
                 "source": "echo",
@@ -304,152 +312,6 @@
         ]
     },
     {
-        "id": "panathinaikos-bc-vs-as-monaco-basket-2345484",
-        "title": "Panathinaikos BC vs AS Monaco Basket",
-        "category": "basketball",
-        "date": 1774638900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJknYheIECm0g+IKYZCITuiCBi6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Panathinaikos BC",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADa9JGD5gkIbqpAATA4mPGUIS3wIUm1rmDLwi80SmBNaYR2NEQgA"
-            },
-            "away": {
-                "name": "AS Monaco Basket",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmwMLiIoQMENxAqQEENv2GQJvSGWEYwJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "panathinaikos-vs-monaco-basketball-454614"
-            }
-        ]
-    },
-    {
-        "id": "greece-vs-paraguay-2438962",
-        "title": "Greece vs Paraguay",
-        "category": "football",
-        "date": 1774638000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdELEJxKMKg4CRAR+IbiBgzJ4kMuESs2bDOBTl3bWKn1h9Tr2BtwnHsAIaU58klwBje1w4I2ezvdv0wHNoiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Greece",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBRVNENxAQQJXdpAATfcZiaCFJnxRcwZeEXmibTWmDtjREIA"
-            },
-            "away": {
-                "name": "Paraguay",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMxAdzAATEBBDcQJQyER6DKfSAvLCMYEz4ouYMvCLzRTprTAuxoiCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-greece-vs-paraguay"
-            },
-            {
-                "source": "echo",
-                "id": "greece-vs-paraguay-football-1527858"
-            }
-        ]
-    },
-    {
-        "id": "kolner-vs-schwenninger-hockey-423294",
-        "title": "Kolner vs Schwenninger",
-        "category": "hockey",
-        "date": 1774636200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Kolner",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIEnXIMAxs2Bge8SVSmEGrMDra4IQA"
-            },
-            "away": {
-                "name": "Schwenninger",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsi+uQYBjZsDA94kqlMINWYbW1wQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "kolner-vs-schwenninger-hockey-423294"
-            }
-        ]
-    },
-    {
-        "id": "bremerhaven-vs-adler-mannheim-hockey-423167",
-        "title": "Bremerhaven vs Adler Mannheim",
-        "category": "hockey",
-        "date": 1774636200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Bremerhaven",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA"
-            },
-            "away": {
-                "name": "Adler Mannheim",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIePXIMAxs2Bge8SVSmEGrMDra4IQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "bremerhaven-vs-adler-mannheim-hockey-423167"
-            }
-        ]
-    },
-    {
-        "id": "eisb-ren-berlin-vs-straubing-tigers-2449657",
-        "title": "Eisb\u00e4ren Berlin vs Straubing Tigers",
-        "category": "hockey",
-        "date": 1774636200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGDIhgMtCAghuIPiBLH9IGCCmWQiKQWBIKfYbPopNbFF03l6WLI+TLRgXvSiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Eisb\u00e4ren Berlin",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjswAgaxAhuIACYhEfEBH0gSuEzoIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Straubing Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24gUdWGCRgUIVQBMQEEHxCHEp3abWEYwJn3VswZeEXmj1TWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "eisbaren-berlin-vs-straubing-tigers-hockey-422931"
-            }
-        ]
-    },
-    {
-        "id": "erc-ingolstadt-vs-ehc-red-bull-m-nchen-2449658",
-        "title": "ERC Ingolstadt vs EHC Red Bull M\u00fcnchen",
-        "category": "hockey",
-        "date": 1774636200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjCiqMEDL4huIAyWMgIIXaakhrBYEgp9hs+ppUouW8vSyzPTLRgWmKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "ERC Ingolstadt",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhRKMKpRqQ3EABMQiPiAgGdOExMIxgTPii6by9eervNgYTWNEQgA"
-            },
-            "away": {
-                "name": "EHC Red Bull M\u00fcnchen",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw6YFKtIhE3EABMdIPiAgGQJIyGsEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "erc-ingolstadt-vs-munchen-hockey-422932"
-            }
-        ]
-    },
-    {
         "id": "atpwta-1000-miami-tn-1",
         "title": "ATP/WTA 1000: Miami \ud83c\udfbe",
         "category": "other",
@@ -480,19 +342,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-03-aca-201-silva-v-podlesniy-ev-03"
-            }
-        ]
-    },
-    {
-        "id": "world-sbk-portugal-round-racing-0059",
-        "title": "World SBK Portugal Round",
-        "category": "motor-sports",
-        "date": 1774618200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "world-sbk-portugal-round-racing-0059"
             }
         ]
     },
