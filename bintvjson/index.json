@@ -13,6 +13,36 @@
         ]
     },
     {
+        "id": "ufc-fight-night-271-adesanya-vs-pyfer-2391890",
+        "title": "UFC Fight Night 271 Adesanya vs Pyfer",
+        "category": "fight",
+        "date": 1774688400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBA5NMJmE28tRiCGmaQJxGekskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "UFC Fight Night 271 Adesanya"
+            },
+            "away": {
+                "name": "Pyfer"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-ufc-fight-night-adesanya-vs-pyfer"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_ufc-fight-night-3-28-live-stream"
+            },
+            {
+                "source": "golf",
+                "id": "21083"
+            }
+        ]
+    },
+    {
         "id": "essendon-bombers-vs-north-melbourne-kangaroos-australian-football-3370",
         "title": "Essendon Bombers vs North Melbourne Kangaroos",
         "category": "afl",
@@ -60,30 +90,6 @@
         ]
     },
     {
-        "id": "western-force-vs-chiefs-super-rugby-2416964",
-        "title": "Western Force vs Chiefs Super Rugby",
-        "category": "rugby",
-        "date": 1774686900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECRB8EdMCjCbuWkFJBmIxxIk3wCwJBT7DZ9fSpRcD5ellkemtGAGYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Western Force",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjhLgYUCBIhuWkHxCIYIExB0gUOghSZ8UXMGXhF5o+01phHY0RCA"
-            },
-            "away": {
-                "name": "Chiefs Super Rugby",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIQQKZrDBIQ3ECX2G9anCF3qCFJnw1swZeEXmiNTWmHtjREIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "western-force-vs-chiefs-rugby-51818"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-11-thunders-friday-night-fights-night-of-champions-ix-game-11",
         "title": "PPV EVENT 11: Thunders Friday Night Fights Night of Champions IX",
         "category": "other",
@@ -119,73 +125,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-10-urijah-fabers-a1-combat-34-game-10"
-            }
-        ]
-    },
-    {
-        "id": "japanese-grand-prix-practice-3-2408119",
-        "title": "Japanese Grand Prix Practice 3",
-        "category": "motor-sports",
-        "date": 1774665000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEEck2eSES9NRxCRCmY+kIZQsdMASLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "golf",
-                "id": "20798"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-09-9pm-mafaud-v-farias-en-espanol-game-09",
-        "title": "PPV EVENT 09: 9pm Mafaud v Farias (En Espanol)",
-        "category": "other",
-        "date": 1774663257000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-09-9pm-mafaud-v-farias-en-espanol-game-09"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-20-kkm-challenge-series-plaza-park-game-20",
-        "title": "PPV EVENT 20: KKM Challenge Series Plaza Park",
-        "category": "other",
-        "date": 1774663225000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-20-kkm-challenge-series-plaza-park-game-20"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-08-cage-fury-fc-152-ev-08",
-        "title": "PPV EVENT 08: Cage Fury FC 152",
-        "category": "other",
-        "date": 1774663219000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-08-cage-fury-fc-152-ev-08"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-12-pdra-carolina-nationals-game-12",
-        "title": "PPV EVENT 12: PDRA Carolina Nationals",
-        "category": "other",
-        "date": 1774663209000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-12-pdra-carolina-nationals-game-12"
             }
         ]
     },
@@ -279,7 +218,7 @@
         "title": "San Marino vs Faroe Islands",
         "category": "football",
         "date": 1774706400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdECCiERYQJbEJDdGwMVmDdRgkiADGwCCE2dEmhVI0iBIlZpAxqQlMDbhOPYAWx5r5JLhVWuHBGymcrjvRgHOrSEEA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkhCyosnDBC8QWIyAhaQKENQsGQ8FkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -479,6 +418,90 @@
             {
                 "source": "echo",
                 "id": "atpwta-1000-miami-tn-1"
+            }
+        ]
+    },
+    {
+        "id": "scotland-vs-japan-2422313",
+        "title": "Scotland vs Japan",
+        "category": "football",
+        "date": 1774717200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgqgUkECRC8QWIyAghpIFCGqXr1lppgCRcxjtUoeYMvCLU5nviswGDe4mIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Scotland",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIAJiBQheW7tpAkDuTSAhG9ZtQQpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "Japan",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmwFeRRhwSENxAkQKPUZBnjZiCHgEKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-scotland-vs-japan"
+            },
+            {
+                "source": "echo",
+                "id": "scotland-vs-japan-football-1511777"
+            }
+        ]
+    },
+    {
+        "id": "hungary-vs-slovenia-2424074",
+        "title": "Hungary vs Slovenia",
+        "category": "football",
+        "date": 1774717200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsFz0QwaSAgheILMf0g9KENRCXr0lkgpYRcxijCqUPD+UbU5Xvismh7iYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Hungary",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTFerFJBDcQfbbpCIAJiBIGdKAhSZ9VbMGXhF5o1U1pgHY0RCA"
+            },
+            "away": {
+                "name": "Slovenia",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkQCADCG5gQIEpt0GcKEDBDGdAExAQCFJnxRcwZeEXmjHTWmGdjREIA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-hungary-vs-slovenia"
+            },
+            {
+                "source": "echo",
+                "id": "hungary-vs-slovenia-football-1514071"
+            }
+        ]
+    },
+    {
+        "id": "canada-vs-iceland-2423006",
+        "title": "Canada vs Iceland",
+        "category": "football",
+        "date": 1774717200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAZgSATTAowJELxBZTICCGkgUIajbsh4LJBSwi5jA6pQ9D5Rmo5X3xWYDBDcTEIIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Canada",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyQQAExCJem7iBIgU+kHoMQQFzXwIUm1rmDLwi80SmBNaYR2NEQgA"
+            },
+            "away": {
+                "name": "Iceland",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDMQAE2AAGMGRQhuIPiAi4Q+kGcSHGFJnxRdd5evNGOmtMLrGiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-canada-vs-iceland"
+            },
+            {
+                "source": "echo",
+                "id": "canada-vs-iceland-football-1512760"
             }
         ]
     },
@@ -765,6 +788,34 @@
             {
                 "source": "golf",
                 "id": "21037"
+            }
+        ]
+    },
+    {
+        "id": "usa-vs-belgium-2409129",
+        "title": "USA vs Belgium",
+        "category": "football",
+        "date": 1774726200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKuGlEcvSCF4gshkBBDSQKENQshEMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "USA",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwheAExAxK7NSBIgUIPoZAQQF7qeWFtTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Belgium",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDgQwMGAAmYcFpDcQJEClwgYIfThz7lhGMCZ8UXMGXhF5ol01qbRUnRAA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-united-states-vs-belgium"
+            },
+            {
+                "source": "echo",
+                "id": "usa-vs-belgium-football-1503003"
             }
         ]
     },
