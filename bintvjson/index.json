@@ -228,30 +228,6 @@
         ]
     },
     {
-        "id": "wigan-warriors-vs-huddersfield-giants-2395879",
-        "title": "Wigan Warriors vs Huddersfield Giants",
-        "category": "rugby",
-        "date": 1774710000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGFFJKYPiBghuIPVJAkQFizkQWJTJBT7DZ9FJrYoum8vSyzPTLRg7vSiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Wigan Warriors",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmzUCGkg+IbiBXaQiEiAggUIS3vgEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Huddersfield Giants",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjAADGBTAkoECRDcQAExAQDIC2ZjHTuAhSZ8tbMGXhF5orU1phXY0QggA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "wigan-warriors-vs-huddersfield-game-184842"
-            }
-        ]
-    },
-    {
         "id": "sale-sharks-vs-bath-rugby-2309839",
         "title": "Sale Sharks vs Bath Rugby",
         "category": "rugby",
@@ -320,6 +296,30 @@
             {
                 "source": "echo",
                 "id": "saracens-vs-northampton-saints-rugby-50102"
+            }
+        ]
+    },
+    {
+        "id": "wigan-warriors-vs-huddersfield-giants-2395879",
+        "title": "Wigan Warriors vs Huddersfield Giants",
+        "category": "rugby",
+        "date": 1774710000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGFFJKYPiBghuIPVJAkQFizkQWJTJBT7DZ9FJrYoum8vSyzPTLRg7vSiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Wigan Warriors",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmzUCGkg+IbiBXaQiEiAggUIS3vgEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Huddersfield Giants",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjAADGBTAkoECRDcQAExAQDIC2ZjHTuAhSZ8tbMGXhF5orU1phXY0QggA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "wigan-warriors-vs-huddersfield-game-184842"
             }
         ]
     },
@@ -579,6 +579,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_itauma-vs-franklin-jr-live-stream"
+            },
             {
                 "source": "golf",
                 "id": "21087"
