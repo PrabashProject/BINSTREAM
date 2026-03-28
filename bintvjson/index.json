@@ -1,5 +1,41 @@
 [
     {
+        "id": "ppv-event-09-11am-adcc-phoenix-open-ev-009",
+        "title": "PPV EVENT 09: 11am ADCC Phoenix Open",
+        "category": "other",
+        "date": 1774713621000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-09-11am-adcc-phoenix-open-ev-009"
+            }
+        ]
+    },
+    {
+        "id": "ufc-fight-night-adesanya-vs-pyfer-mma-2455",
+        "title": "Joe Pyfer vs Israel Adesanya",
+        "category": "fight",
+        "date": 1774713600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Joe Pyfer",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBj5IIfXIMxzYGB7wpVbqIaswWtrghA"
+            },
+            "away": {
+                "name": "Israel Adesanya",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBiQMeuQZjmwMD3hSq3UQ1ZhNbXBCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ufc-fight-night-adesanya-vs-pyfer-mma-2455"
+            }
+        ]
+    },
+    {
         "id": "bristol-bears-vs-harlequins-2309842",
         "title": "Bristol Bears vs Harlequins",
         "category": "rugby",
@@ -146,30 +182,6 @@
         ]
     },
     {
-        "id": "connacht-vs-ospreys-2268115",
-        "title": "Connacht vs Ospreys",
-        "category": "rugby",
-        "date": 1774707300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXmFjQBfENxBSQJEDAO4QEEFdPwCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Connacht",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBQk7MCgZg+IbiAAmqkLv1GQhvSGWEYwJny1swZeEXmitTWmBdjREEA"
-            },
-            "away": {
-                "name": "Ospreys",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTNo3XKBAaSIXThgg+ICNtwh4BCkz4ouYMvCLzRdprTAOxoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "connacht-vs-ospreys-rugby-49651"
-            }
-        ]
-    },
-    {
         "id": "san-marino-vs-faroe-islands-2454905",
         "title": "San Marino vs Faroe Islands",
         "category": "football",
@@ -190,10 +202,6 @@
             {
                 "source": "admin",
                 "id": "ppv-san-marino-vs-faroe-islands"
-            },
-            {
-                "source": "echo",
-                "id": "san-marino-vs-faroe-islands-football-1536916"
             }
         ]
     },
@@ -283,42 +291,6 @@
             {
                 "source": "echo",
                 "id": "nq-cowboys-vs-melbourne-storm-game-576373"
-            }
-        ]
-    },
-    {
-        "id": "ufc-fight-night-adesanya-vs-pyfer-mma-2455",
-        "title": "Joe Pyfer vs Israel Adesanya",
-        "category": "fight",
-        "date": 1774713600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Joe Pyfer",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBj5IIfXIMxzYGB7wpVbqIaswWtrghA"
-            },
-            "away": {
-                "name": "Israel Adesanya",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBiQMeuQZjmwMD3hSq3UQ1ZhNbXBCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ufc-fight-night-adesanya-vs-pyfer-mma-2455"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-09-11am-adcc-phoenix-open-ev-009",
-        "title": "PPV EVENT 09: 11am ADCC Phoenix Open",
-        "category": "other",
-        "date": 1774713621000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-09-11am-adcc-phoenix-open-ev-009"
             }
         ]
     },
