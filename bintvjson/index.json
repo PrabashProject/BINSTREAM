@@ -1,5 +1,41 @@
 [
     {
+        "id": "atlanta-hawks-vs-sacramento-kings-2358441",
+        "title": "Atlanta Hawks vs Sacramento Kings",
+        "category": "basketball",
+        "date": 1774740600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWBAgWXCCG4g+IEiBS5tIPVNMgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Atlanta Hawks",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4haWMCBAATEBBCrdiEiBg6QfPSBQhlhGMCZ8UXMGXhF5ol01pg3YqIQQA"
+            },
+            "away": {
+                "name": "Sacramento Kings",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiIIWlDhIQ3EABNdRkKpApTJvgQpMrXMGXhF5olMCa0wDsWqA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-sacramento-kings-vs-atlanta-hawks"
+            },
+            {
+                "source": "delta",
+                "id": "live_nba_hawks-kings-live-streaming-1076620302"
+            },
+            {
+                "source": "echo",
+                "id": "atlanta-hawks-vs-sacramento-kings-basketball-470557"
+            },
+            {
+                "source": "golf",
+                "id": "21032"
+            }
+        ]
+    },
+    {
         "id": "san-francisco-giants-vs-new-york-yankees-2386899",
         "title": "San Francisco Giants vs New York Yankees",
         "category": "baseball",
@@ -311,52 +347,6 @@
         ]
     },
     {
-        "id": "ufc-fight-night-adesanya-vs-pyfer-mma-2497",
-        "title": "Lance Gibson Jr. vs Chase Hooper",
-        "category": "fight",
-        "date": 1774737600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Lance Gibson Jr.",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQiiCBj1yDMc2Bge8KVW6iGrMDra4IQA"
-            },
-            "away": {
-                "name": "Chase Hooper",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBCQi7PXIMxzYGB7wpVbqIaswWtrghA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ufc-fight-night-adesanya-vs-pyfer-mma-2497"
-            }
-        ]
-    },
-    {
-        "id": "ufc-fight-night-adesanya-vs-pyfer-mma-2621",
-        "title": "Tyrell Fortune vs Marcin Tybura",
-        "category": "fight",
-        "date": 1774736400000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Tyrell Fortune",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQixSTrkGY5sDA94Uqt1ENWYbW1wQgA"
-            },
-            "away": {
-                "name": "Marcin Tybura",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQYkDHrkGY5sDA94Uqt1ENWYbW1wQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ufc-fight-night-adesanya-vs-pyfer-mma-2621"
-            }
-        ]
-    },
-    {
         "id": "illinois-vs-iowa-2457384",
         "title": "Illinois vs Iowa",
         "category": "basketball",
@@ -568,14 +558,6 @@
                 "id": "ppv-san-jose-sharks-vs-columbus-blue-jackets"
             },
             {
-                "source": "delta",
-                "id": "live_nhl_blue-jackets-sharks-live-streaming-1223776998"
-            },
-            {
-                "source": "echo",
-                "id": "columbus-blue-jackets-vs-san-jose-sharks-hockey-416774"
-            },
-            {
                 "source": "golf",
                 "id": "21020"
             }
@@ -602,14 +584,6 @@
             {
                 "source": "admin",
                 "id": "ppv-new-jersey-devils-vs-carolina-hurricanes"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl_hurricanes-devils-live-streaming-1223775999"
-            },
-            {
-                "source": "echo",
-                "id": "carolina-hurricanes-vs-new-jersey-devils-hockey-416773"
             },
             {
                 "source": "golf",
@@ -642,10 +616,6 @@
             {
                 "source": "delta",
                 "id": "live_nhl_bruins-wild-live-streaming-1223775000"
-            },
-            {
-                "source": "echo",
-                "id": "boston-bruins-vs-minnesota-wild-hockey-416772"
             },
             {
                 "source": "golf",
@@ -719,14 +689,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-pittsburgh-pirates-vs-new-york-mets"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_mets-pirates-live-streaming-1197714087"
-            },
-            {
                 "source": "golf",
                 "id": "21042"
             }
@@ -750,10 +712,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-colorado-rockies-vs-miami-marlins"
-            },
             {
                 "source": "golf",
                 "id": "21041"
@@ -779,16 +737,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-boston-red-sox-vs-cincinnati-reds"
-            },
-            {
                 "source": "delta",
                 "id": "live_mlb_reds-red-sox-live-streaming-1197712089"
-            },
-            {
-                "source": "echo",
-                "id": "cincinnati-reds-vs-boston-red-sox-baseball-178041"
             },
             {
                 "source": "golf",
@@ -815,14 +765,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-texas-rangers-vs-philadelphia-phillies"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_phillies-rangers-live-streaming-1197711090"
-            },
-            {
                 "source": "golf",
                 "id": "21039"
             }
@@ -846,10 +788,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-minnesota-twins-vs-baltimore-orioles"
-            },
             {
                 "source": "golf",
                 "id": "21038"
@@ -989,42 +927,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-09-11am-adcc-phoenix-open-ev-009"
-            }
-        ]
-    },
-    {
-        "id": "atlanta-hawks-vs-sacramento-kings-2358441",
-        "title": "Atlanta Hawks vs Sacramento Kings",
-        "category": "basketball",
-        "date": 1774740600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWBAgWXCCG4g+IEiBS5tIPVNMgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Atlanta Hawks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4haWMCBAATEBBCrdiEiBg6QfPSBQhlhGMCZ8UXMGXhF5ol01pg3YqIQQA"
-            },
-            "away": {
-                "name": "Sacramento Kings",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiIIWlDhIQ3EABNdRkKpApTJvgQpMrXMGXhF5olMCa0wDsWqA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-sacramento-kings-vs-atlanta-hawks"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_hawks-kings-live-streaming-1076620302"
-            },
-            {
-                "source": "echo",
-                "id": "atlanta-hawks-vs-sacramento-kings-basketball-470557"
-            },
-            {
-                "source": "golf",
-                "id": "21032"
             }
         ]
     }
