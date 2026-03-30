@@ -1,31 +1,5 @@
 [
     {
-        "id": "ppv-event-04-anthony-pettis-fc-23-ppv-004",
-        "title": "Anthony Pettis FC 23",
-        "category": "other",
-        "date": 1774832400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-04-anthony-pettis-fc-23-ppv-004"
-            }
-        ]
-    },
-    {
-        "id": "wwe-monday-night-raw-wwe-2025",
-        "title": "WWE: Monday Night RAW",
-        "category": "fight",
-        "date": 1774828800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "wwe-monday-night-raw-wwe-2025"
-            }
-        ]
-    },
-    {
         "id": "atp-wta-bucharest-houston-marrakech-bogota-charleston-tn-1",
         "title": "ATP / WTA: Bucharest / Houston / Marrakech / Bogota / Charleston \ud83c\udfbe",
         "category": "other",
@@ -35,6 +9,58 @@
             {
                 "source": "echo",
                 "id": "atp-wta-bucharest-houston-marrakech-bogota-charleston-tn-1"
+            }
+        ]
+    },
+    {
+        "id": "rajasthan-royals-vs-chennai-super-kings-2447877",
+        "title": "Rajasthan Royals vs Chennai Super Kings",
+        "category": "cricket",
+        "date": 1774879200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAQAZIIXiFA6QUkMZghTKEBdMkQCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Rajasthan Royals",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzCliTACZg+IbiAghDOjSBi7DIExAIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Chennai Super Kings",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1YAGZqVAgSIbiAghDfEABMQMXeZApDBCkz4ouYMvCLzRTprTAuxoiCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-rajasthan-royals-vs-chennai-super-kings"
+            }
+        ]
+    },
+    {
+        "id": "germany-vs-ghana-2407712",
+        "title": "Germany vs Ghana",
+        "category": "football",
+        "date": 1774896300000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtXEow-AAzBdIXiCwmQEENJAoQ1a5ZDX8wJBSwi5jbapQ8wZeCJNMV9nejB-cTEIIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Germany",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcw4FAnYgSqkH1wgAJnpMHuO3AQpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "Ghana",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgSIDSjDg+IbiF3r96nABM9uEBAIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-germany-vs-ghana"
+            },
+            {
+                "source": "echo",
+                "id": "germany-vs-ghana-football-1501816"
             }
         ]
     },
