@@ -18,18 +18,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-detroit-tigers-vs-arizona-diamondbacks"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_diamondbacks-tigers-live-streaming-1198123677"
-            },
-            {
-                "source": "echo",
-                "id": "arizona-diamondbacks-vs-detroit-tigers-baseball-178065"
-            },
-            {
                 "source": "golf",
                 "id": "21147"
             }
@@ -54,156 +42,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-cleveland-guardians-vs-los-angeles-dodgers"
-            },
-            {
                 "source": "golf",
                 "id": "21146"
-            }
-        ]
-    },
-    {
-        "id": "vegas-golden-knights-vs-vancouver-canucks-2348059",
-        "title": "Vegas Golden Knights vs Vancouver Canucks",
-        "category": "hockey",
-        "date": 1774922400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqxgZOEiBQhuIPiCkgY+84ZART5gsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Vegas Golden Knights",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Vancouver Canucks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcw4cHD4huICLh0gj2kiFO6UBCkz4ouYMvCLzRdprTAOxoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21093"
-            }
-        ]
-    },
-    {
-        "id": "anaheim-ducks-vs-toronto-maple-leafs-2348057",
-        "title": "Anaheim Ducks vs Toronto Maple Leafs",
-        "category": "hockey",
-        "date": 1774922400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCLmBIwIYDsTcQfEFJAwQKMyEMaSJglop9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Anaheim Ducks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8IIdQBMQZddxB9VIFDoMhEhk5oIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Toronto Maple Leafs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLAhOfEFBghuIEiA3bdOFCETa+BCk0tcwZeEXmiUwJrTD2xoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21094"
-            }
-        ]
-    },
-    {
-        "id": "san-jose-sharks-vs-st--louis-blues-2348058",
-        "title": "San Jose Sharks vs St. Louis Blues",
-        "category": "hockey",
-        "date": 1774922400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXlRy9CWkHxBSQMECiMhuICCBIgTTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "San Jose Sharks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRKEHxDat3ECRAQQAExB6NiGCCvGCFJnxRc15evPXAmtMGrGiIQA"
-            },
-            "away": {
-                "name": "St. Louis Blues",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlu0PmBAhuICLgMwQJEIj47jBCkz4ouYMvCLzRdprTAOxoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21095"
-            }
-        ]
-    },
-    {
-        "id": "los-angeles-lakers-vs-washington-wizards-2358461",
-        "title": "Los Angeles Lakers vs Washington Wizards",
-        "category": "basketball",
-        "date": 1774922400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDEpgkxRIm4g+IEiBS4QiCIZAG+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Los Angeles Lakers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwghwoquD4huIbbtU4SIVcd0TCMYEz4ouYMvCLzRdprTAOxoiEA"
-            },
-            "away": {
-                "name": "Washington Wizards",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnngQ7ECjB8Q3EABNcukCU0gIIHThQEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21116"
-            }
-        ]
-    },
-    {
-        "id": "seattle-mariners-vs-new-york-yankees-2386926",
-        "title": "Seattle Mariners vs New York Yankees",
-        "category": "baseball",
-        "date": 1774921200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGG4heVEiCnb9RrSCOIcphUw0x+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Seattle Mariners",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA"
-            },
-            "away": {
-                "name": "New York Yankees",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21144"
-            }
-        ]
-    },
-    {
-        "id": "san-diego-padres-vs-san-francisco-giants-2386927",
-        "title": "San Diego Padres vs San Francisco Giants",
-        "category": "baseball",
-        "date": 1774921200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDrUQwAAzApIbiD4gSICBpCGQZixoLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "San Diego Padres",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "San Francisco Giants",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLDcQ67mBQMQakrl3qQKEABMzBxhSZ9tbMGXhF5o7U1pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21145"
             }
         ]
     },
@@ -228,31 +68,19 @@
             {
                 "source": "echo",
                 "id": "oklahoma-city-thunder-vs-detroit-pistons-basketball-470576"
-            },
-            {
-                "source": "golf",
-                "id": "21115"
             }
         ]
     },
     {
-        "id": "live-event_monday-night-raw-live-stream",
-        "title": "Monday Night Raw",
+        "id": "wwe-monday-night-raw-wwe-2025",
+        "title": "WWE: Monday Night RAW",
         "category": "fight",
         "date": 1774915200000,
         "popular": true,
         "sources": [
             {
-                "source": "delta",
-                "id": "live-event_monday-night-raw-live-stream"
-            },
-            {
                 "source": "echo",
                 "id": "wwe-monday-night-raw-wwe-2025"
-            },
-            {
-                "source": "golf",
-                "id": "21182"
             }
         ]
     },
