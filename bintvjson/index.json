@@ -51,7 +51,7 @@
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-players-championship-board-4"
+                "id": "ppv-players-championship-board-2"
             }
         ]
     },
@@ -417,30 +417,6 @@
         ]
     },
     {
-        "id": "ppv-czechia-vs-denmark",
-        "title": "Czechia vs. Denmark",
-        "category": "football",
-        "date": 1774982700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTCYbiCzAIIQfwYgAxiBIhOkqQJAwhK9cPqTujEHoUjpKinunYUwNuE49gBbHkvkkuKRa4cEbHZwv36YBwijCJAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Czechia",
-                "badge": ""
-            },
-            "away": {
-                "name": "Denmark",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-czechia-vs-denmark"
-            }
-        ]
-    },
-    {
         "id": "ppv-kosovo-vs-t-rkiye",
         "title": "Kosovo vs. T\u00fcrkiye",
         "category": "football",
@@ -465,6 +441,30 @@
             {
                 "source": "echo",
                 "id": "kosovo-vs-turkiye-football-1537580"
+            }
+        ]
+    },
+    {
+        "id": "ppv-czechia-vs-denmark",
+        "title": "Czechia vs. Denmark",
+        "category": "football",
+        "date": 1774982700000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTCYbiCzAIIQfwYgAxiBIhOkqQJAwhK9cPqTujEHoUjpKinunYUwNuE49gBbHkvkkuKRa4cEbHZwv36YBwijCJAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Czechia",
+                "badge": ""
+            },
+            "away": {
+                "name": "Denmark",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-czechia-vs-denmark"
             }
         ]
     },
