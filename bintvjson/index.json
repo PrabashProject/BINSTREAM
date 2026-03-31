@@ -1,5 +1,29 @@
 [
     {
+        "id": "dr-congo-vs-jamaica-2457070",
+        "title": "DR Congo vs Jamaica",
+        "category": "football",
+        "date": 1774990800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTCERDBDcQJYPxQDg3bCAbCFKCsBJTVqrCE0g5O8SADGjQ1uqKlbcJx7AC2PMDDkkuA0q4cEbGZyV36YBzijOJAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "DR Congo",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkQgQopMCRg+IbiF041uiCBQgYuXAQpM+KLmDLwi80Q6a0wTsaIhA"
+            },
+            "away": {
+                "name": "Jamaica",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIFVwAMIKDm4gSIFDpCI9IPrlwEKTPii5gy8IvNEOmtME7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-congo-dr-vs-jamaica"
+            }
+        ]
+    },
+    {
         "id": "spain-vs-egypt-2422314",
         "title": "Spain vs Egypt",
         "category": "football",
@@ -24,6 +48,30 @@
             {
                 "source": "echo",
                 "id": "spain-vs-egypt-football-1511778"
+            }
+        ]
+    },
+    {
+        "id": "ppv-kosovo-vs-t-rkiye",
+        "title": "Kosovo vs. T\u00fcrkiye",
+        "category": "football",
+        "date": 1774982700000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEbkAGNGIBiAgiBibsBIUQiQSBKjZ44BOkb5WEDFUQFCkUpTKUwNuE49gBbHkvkkuQRa4cEbGZwv36YBzanBBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Kosovo",
+                "badge": ""
+            },
+            "away": {
+                "name": "T\u00fcrkiye",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-kosovo-vs-t-rkiye"
             }
         ]
     },
@@ -56,38 +104,6 @@
         ]
     },
     {
-        "id": "ppv-kosovo-vs-t-rkiye",
-        "title": "Kosovo vs. T\u00fcrkiye",
-        "category": "football",
-        "date": 1774982700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEbkAGNGIBiAgiBibsBIUQiQSBKjZ44BOkb5WEDFUQFCkUpTKUwNuE49gBbHkvkkuQRa4cEbGZwv36YBzanBBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Kosovo",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgii5STrkGAY2bie8EVW4EurMGFz5zQA"
-            },
-            "away": {
-                "name": "T\u00fcrkiye",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkqX1yDRc3E94IqtwJdWYMLnxmgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-kosovo-vs-t-rkiye"
-            },
-            {
-                "source": "delta",
-                "id": "live_world-championship-qual-uefa-playoffs_kosovo-turkiye-live-streaming-1238951808"
-            },
-            {
-                "source": "echo",
-                "id": "kosovo-vs-turkiye-football-1537580"
-            }
-        ]
-    },
-    {
         "id": "austria-vs-south-korea-2421790",
         "title": "Austria vs South Korea",
         "category": "football",
@@ -108,10 +124,6 @@
             {
                 "source": "admin",
                 "id": "ppv-austria-vs-south-korea"
-            },
-            {
-                "source": "echo",
-                "id": "austria-vs-south-korea-football-1511732"
             }
         ]
     },
@@ -136,10 +148,6 @@
             {
                 "source": "admin",
                 "id": "ppv-slovakia-vs-romania"
-            },
-            {
-                "source": "echo",
-                "id": "slovakia-vs-romania-football-1538308"
             }
         ]
     },
@@ -164,10 +172,6 @@
             {
                 "source": "admin",
                 "id": "ppv-wales-vs-northern-ireland"
-            },
-            {
-                "source": "echo",
-                "id": "wales-vs-northern-ireland-football-1538309"
             }
         ]
     },
@@ -224,14 +228,6 @@
             {
                 "source": "admin",
                 "id": "ppv-sweden-vs-poland"
-            },
-            {
-                "source": "delta",
-                "id": "live_world-championship-qual-uefa-playoffs_sweden-poland-live-streaming-1238952807"
-            },
-            {
-                "source": "echo",
-                "id": "sweden-vs-poland-football-1537581"
             }
         ]
     },
@@ -256,10 +252,6 @@
             {
                 "source": "admin",
                 "id": "ppv-ukraine-vs-albania"
-            },
-            {
-                "source": "echo",
-                "id": "ukraine-vs-albania-football-1537646"
             }
         ]
     },
@@ -284,10 +276,6 @@
             {
                 "source": "admin",
                 "id": "ppv-england-vs-japan"
-            },
-            {
-                "source": "echo",
-                "id": "england-vs-japan-football-1502473"
             }
         ]
     },
@@ -336,34 +324,6 @@
             {
                 "source": "admin",
                 "id": "ppv-netherlands-vs-ecuador"
-            },
-            {
-                "source": "echo",
-                "id": "netherlands-vs-ecuador-football-1503007"
-            }
-        ]
-    },
-    {
-        "id": "virtus-pallacanestro-bologna-vs-paris-basketball-2345476",
-        "title": "Virtus Pallacanestro Bologna vs Paris Basketball",
-        "category": "basketball",
-        "date": 1774982700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBC5KpEFJDcQfPUZCJ9WxChAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Virtus Pallacanestro Bologna",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgBoGAvwhuIPiEQoQAExAkQR3buMEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Paris Basketball",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow3EDDogAJmBAgNfXLtMGNEEMZ0EKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "virtus-bologna-vs-paris-basketball-454606"
             }
         ]
     },
@@ -388,10 +348,6 @@
             {
                 "source": "admin",
                 "id": "ppv-ivory-coast-vs-scotland"
-            },
-            {
-                "source": "echo",
-                "id": "scotland-vs-ivory-coast-football-1528278"
             }
         ]
     },
@@ -415,54 +371,6 @@
             {
                 "source": "echo",
                 "id": "kolner-vs-schwenninger-hockey-423296"
-            }
-        ]
-    },
-    {
-        "id": "erc-ingolstadt-vs-ehc-red-bull-m-nchen-2449662",
-        "title": "ERC Ingolstadt vs EHC Red Bull M\u00fcnchen",
-        "category": "hockey",
-        "date": 1774978200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjCiqMEDL4huIAyWMgIIXaakhrBYEgp9hs+ppUouW8vSyzPTLRgWmKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "ERC Ingolstadt",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhRKMKpRqQ3EABMQiPiAgGdOExMIxgTPii6by9eervNgYTWNEQgA"
-            },
-            "away": {
-                "name": "EHC Red Bull M\u00fcnchen",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw6YFKtIhE3EABMdIPiAgGQJIyGsEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "erc-ingolstadt-vs-munchen-hockey-422936"
-            }
-        ]
-    },
-    {
-        "id": "dr-congo-vs-jamaica-2457070",
-        "title": "DR Congo vs Jamaica",
-        "category": "football",
-        "date": 1774990800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTCERDBDcQJYPxQDg3bCAbCFKCsBJTVqrCE0g5O8SADGjQ1uqKlbcJx7AC2PMDDkkuA0q4cEbGZyV36YBzijOJAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "DR Congo",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkQgQopMCRg+IbiF041uiCBQgYuXAQpM+KLmDLwi80Q6a0wTsaIhA"
-            },
-            "away": {
-                "name": "Jamaica",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIFVwAMIKDm4gSIFDpCI9IPrlwEKTPii5gy8IvNEOmtME7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-congo-dr-vs-jamaica"
             }
         ]
     },
