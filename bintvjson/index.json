@@ -18,14 +18,6 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_nba_clippers-trail-blazers-live-streaming-1077200721"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-clippers-vs-portland-trail-blazers-basketball-470583"
-            },
-            {
                 "source": "golf",
                 "id": "21123"
             }
@@ -49,14 +41,6 @@
             }
         },
         "sources": [
-            {
-                "source": "delta",
-                "id": "live_nba_lakers-cavaliers-live-streaming-1077199722"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-lakers-vs-cleveland-cavaliers-basketball-470582"
-            },
             {
                 "source": "golf",
                 "id": "21122"
@@ -82,14 +66,6 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_dodgers-guardians-live-streaming-1198162638"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-dodgers-vs-cleveland-guardians-baseball-178086"
-            },
-            {
                 "source": "golf",
                 "id": "21161"
             }
@@ -113,14 +89,6 @@
             }
         },
         "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_padres-giants-live-streaming-1198160640"
-            },
-            {
-                "source": "echo",
-                "id": "san-diego-padres-vs-san-francisco-giants-baseball-178077"
-            },
             {
                 "source": "golf",
                 "id": "21160"
@@ -146,14 +114,6 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_diamondbacks-tigers-live-streaming-1198159641"
-            },
-            {
-                "source": "echo",
-                "id": "arizona-diamondbacks-vs-detroit-tigers-baseball-178083"
-            },
-            {
                 "source": "golf",
                 "id": "21158"
             }
@@ -178,60 +138,8 @@
         },
         "sources": [
             {
-                "source": "echo",
-                "id": "seattle-mariners-vs-new-york-yankees-baseball-178076"
-            },
-            {
                 "source": "golf",
                 "id": "21159"
-            }
-        ]
-    },
-    {
-        "id": "edmonton-oilers-vs-seattle-kraken-2348069",
-        "title": "Edmonton Oilers vs Seattle Kraken",
-        "category": "hockey",
-        "date": 1775005200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiAibQYAXxAb9UkDBAoTBzSGvwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Edmonton Oilers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLhw8MCjB8Q3EBFy6QAEyMh9hkAQpM+KLmDIb680faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Seattle Kraken",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTkQICCBRsQ3ECS36QfY0fWIAJgQpM+2tmDLwi80dqa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21105"
-            }
-        ]
-    },
-    {
-        "id": "houston-astros-vs-boston-red-sox-2386946",
-        "title": "Houston Astros vs Boston Red Sox",
-        "category": "baseball",
-        "date": 1775002200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rZexApYIKSG4g+IEiAggYukFYNmFTJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Houston Astros",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA"
-            },
-            "away": {
-                "name": "Boston Red Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21157"
             }
         ]
     },
