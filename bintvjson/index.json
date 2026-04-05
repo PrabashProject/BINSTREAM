@@ -61,45 +61,6 @@
         ]
     },
     {
-        "id": "ppv-event-07-armored-mma-medieval-cage-fighting-ppv-07",
-        "title": "Armored MMA Medieval Cage Fighting",
-        "category": "other",
-        "date": 1775350800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-07-armored-mma-medieval-cage-fighting-ppv-07"
-            }
-        ]
-    },
-    {
-        "id": "tim-tszyu-vs-denis-nurja-2461506",
-        "title": "Tim Tszyu vs Denis Nurja",
-        "category": "fight",
-        "date": 1775350800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDjUQ-Rik46QWIyBIhExiCCsWWSClhFy9YVfo6vyjanP35WwGCu4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Tim Tszyu"
-            },
-            "away": {
-                "name": "Denis Nurja"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_tim-tszyu-vs-denis-nurja-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-03-tszyu-v-nurja-ppv-3"
-            }
-        ]
-    },
-    {
         "id": "sunrisers-hyderabad-vs-lucknow-super-giants-2447884",
         "title": "Sunrisers Hyderabad vs Lucknow Super Giants",
         "category": "cricket",
@@ -133,25 +94,6 @@
             {
                 "source": "echo",
                 "id": "atp-wta-bucharest-houston-marrakech-bogota-charleston-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "german-darts-grand-prix--day-2-2454993",
-        "title": "German Darts Grand Prix  Day 2",
-        "category": "darts",
-        "date": 1775386800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTEi6iE5YQAYxDcQU8SJjAIIGCAjZBUqSgkhEKCsH7cBoxgKmIGutuE49gBbHmBhySXKN1cOCNoc6779GAc8iYQQA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-german-darts-grand-prix-day-2-afternoon"
-            },
-            {
-                "source": "echo",
-                "id": "german-darts-grand-prix-darts-1"
             }
         ]
     },
@@ -647,21 +589,6 @@
         ]
     },
     {
-        "id": "german-darts-grand-prix--day-3-2454994",
-        "title": "German Darts Grand Prix  Day 3",
-        "category": "darts",
-        "date": 1775408400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTEi6iE5YQAYxDcQU8SJjAIIGCAjZBUqSgkhEKCsH7cBoxgKmIGutuE49gBbHmBhySXKN1cOCNoc6779GAc8iYQQA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-german-darts-grand-prix-day-2-evening"
-            }
-        ]
-    },
-    {
         "id": "detroit-red-wings-vs-minnesota-wild-2348104",
         "title": "Detroit Red Wings vs Minnesota Wild",
         "category": "hockey",
@@ -694,6 +621,25 @@
             {
                 "source": "golf",
                 "id": "21312"
+            }
+        ]
+    },
+    {
+        "id": "german-darts-grand-prix--day-2-2454993",
+        "title": "German Darts Grand Prix  Day 2",
+        "category": "darts",
+        "date": 1775408400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTEi6iE5YQAYxDcQU8SJjAIIGCAjZBUqSgkhEKCsH7cBoxgKmIGutuE49gBbHmBhySXKN1cOCNoc6779GAc8iYQQA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-german-darts-grand-prix-day-2-afternoon"
+            },
+            {
+                "source": "echo",
+                "id": "german-darts-grand-prix-darts-1"
             }
         ]
     },
