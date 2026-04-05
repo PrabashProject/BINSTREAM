@@ -1,5 +1,61 @@
 [
     {
+        "id": "angers-vs-lyon-2278352",
+        "title": "Angers vs Lyon",
+        "category": "football",
+        "date": 1775394000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPAQgZrEGxDcQfECRAQQFmBeuIYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Angers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRgQIACZhuIKHxA6NIfevUxT5oygIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Lyon",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lhgABhAoQfHSG4gAJiBJGtIRDhAgIJghSZ8UXMGXhF5o501phXY0QggA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-angers-vs-lyon"
+            },
+            {
+                "source": "echo",
+                "id": "angers-vs-lyon-football-1387941"
+            }
+        ]
+    },
+    {
+        "id": "cremonese-vs-bologna-2265336",
+        "title": "Cremonese vs Bologna",
+        "category": "football",
+        "date": 1775394000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rELjnAkwAAwgYIbiD4gSZkChCIIGu5aZIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Cremonese",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATYEz64wqsChDcQJEFv1aYISzn0TCMDfxRcwZeEXminTWmBdjREEA"
+            },
+            "away": {
+                "name": "Bologna",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxheKENzAkQibiAAmIHSZAaciIwYIUmfFF23l680Q6a0w2saIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-cremonese-vs-bologna"
+            },
+            {
+                "source": "echo",
+                "id": "cremonese-vs-bologna-football-1378164"
+            }
+        ]
+    },
+    {
         "id": "getafe-vs-athletic-bilbao-2279687",
         "title": "Getafe vs Athletic Bilbao",
         "category": "football",
@@ -69,30 +125,6 @@
         ]
     },
     {
-        "id": "western-bulldogs-vs-essendon-football-club-2399844",
-        "title": "Western Bulldogs vs Essendon Football Club",
-        "category": "afl",
-        "date": 1775377200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNgAZOhKQhDcQUkBBB8Q5szBAljIeAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Western Bulldogs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhaIfiFWruIACYgIIPiFMmYxrcYIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Essendon Football Club",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnB8wZOHETcQEEH10gYIRChAlDEwjGBM+KLuvL15oh01ph1Y0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "western-bulldogs-vs-essendon-bombers-australian-football-3379"
-            }
-        ]
-    },
-    {
         "id": "newcastle-knights-vs-canberra-raiders-2417194",
         "title": "Newcastle Knights vs Canberra Raiders",
         "category": "rugby",
@@ -113,75 +145,6 @@
             {
                 "source": "echo",
                 "id": "newcastle-knights-vs-canberra-raiders-game-2737723"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-08-gcw-maniac-2026-ppv-08",
-        "title": "GCW Maniac 2026",
-        "category": "other",
-        "date": 1775361600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-08-gcw-maniac-2026-ppv-08"
-            }
-        ]
-    },
-    {
-        "id": "angers-vs-lyon-2278352",
-        "title": "Angers vs Lyon",
-        "category": "football",
-        "date": 1775394000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPAQgZrEGxDcQfECRAQQFmBeuIYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Angers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRgQIACZhuIKHxA6NIfevUxT5oygIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Lyon",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lhgABhAoQfHSG4gAJiBJGtIRDhAgIJghSZ8UXMGXhF5o501phXY0QggA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-angers-vs-lyon"
-            },
-            {
-                "source": "echo",
-                "id": "angers-vs-lyon-football-1387941"
-            }
-        ]
-    },
-    {
-        "id": "cremonese-vs-bologna-2265336",
-        "title": "Cremonese vs Bologna",
-        "category": "football",
-        "date": 1775394000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rELjnAkwAAwgYIbiD4gSZkChCIIGu5aZIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Cremonese",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATYEz64wqsChDcQJEFv1aYISzn0TCMDfxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Bologna",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxheKENzAkQibiAAmIHSZAaciIwYIUmfFF23l680Q6a0w2saIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cremonese-vs-bologna"
-            },
-            {
-                "source": "echo",
-                "id": "cremonese-vs-bologna-football-1378164"
             }
         ]
     },
@@ -680,42 +643,6 @@
         ]
     },
     {
-        "id": "new-york-yankees-vs-miami-marlins-2387005",
-        "title": "New York Yankees vs Miami Marlins",
-        "category": "baseball",
-        "date": 1775410500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE3Vi+EFCwheIAwZKGQiauZQgSLJBSwi5jFGFUoe78o21jP+KzAYO7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New York Yankees",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Miami Marlins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-miami-marlins-vs-new-york-yankees"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_yankees-marlins-live-streaming-1199050749"
-            },
-            {
-                "source": "echo",
-                "id": "new-york-yankees-vs-miami-marlins-baseball-178140"
-            },
-            {
-                "source": "golf",
-                "id": "21332"
-            }
-        ]
-    },
-    {
         "id": "pittsburgh-pirates-vs-baltimore-orioles-2387004",
         "title": "Pittsburgh Pirates vs Baltimore Orioles",
         "category": "baseball",
@@ -748,6 +675,42 @@
             {
                 "source": "golf",
                 "id": "21330"
+            }
+        ]
+    },
+    {
+        "id": "new-york-yankees-vs-miami-marlins-2387005",
+        "title": "New York Yankees vs Miami Marlins",
+        "category": "baseball",
+        "date": 1775410500000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE3Vi+EFCwheIAwZKGQiauZQgSLJBSwi5jFGFUoe78o21jP+KzAYO7iYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "New York Yankees",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Miami Marlins",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-miami-marlins-vs-new-york-yankees"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_yankees-marlins-live-streaming-1199050749"
+            },
+            {
+                "source": "echo",
+                "id": "new-york-yankees-vs-miami-marlins-baseball-178140"
+            },
+            {
+                "source": "golf",
+                "id": "21332"
             }
         ]
     },
