@@ -1,50 +1,5 @@
 [
     {
-        "id": "udinese-vs-como-2265344",
-        "title": "Udinese vs Como",
-        "category": "football",
-        "date": 1775471400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBQ8wIEIhghuIPiBKnNekBpSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Udinese",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPmDXxoObiAj6QRozBArjeiYRjAmfFFzBlt9eaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Como",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcYEJpDdI2kABNcIPiAiqQJLWYmEYwJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-udinese-vs-como"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_udinese-como-live-streaming-1093482423"
-            },
-            {
-                "source": "echo",
-                "id": "udinese-vs-como-football-1378172"
-            }
-        ]
-    },
-    {
-        "id": "atp-1000-monte-carlo-tn-1",
-        "title": "ATP 1000: Monte Carlo \ud83c\udfbe",
-        "category": "tennis",
-        "date": 1775466000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "atp-1000-monte-carlo-tn-1"
-            }
-        ]
-    },
-    {
         "id": "lecce-vs-atalanta-2265340",
         "title": "Lecce vs Atalanta",
         "category": "football",
@@ -73,6 +28,38 @@
             {
                 "source": "echo",
                 "id": "lecce-vs-atalanta-football-1378168"
+            }
+        ]
+    },
+    {
+        "id": "german-darts-grand-prix--day-3-2454994",
+        "title": "German Darts Grand Prix  Day 3",
+        "category": "darts",
+        "date": 1775473200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTEi6iE5YQAYxDcQU8SJjAIIGCAjZBUqSgkhEKCsH7cBoxgKmIGutuE49gBbHmBhySXKN1cOCNoc6779GAc8iYQQA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-german-darts-grand-prix-day-3-afternoon"
+            },
+            {
+                "source": "echo",
+                "id": "german-darts-grand-prix-darts-1"
+            }
+        ]
+    },
+    {
+        "id": "atp-1000-monte-carlo-tn-1",
+        "title": "ATP 1000: Monte Carlo \ud83c\udfbe",
+        "category": "tennis",
+        "date": 1775466000000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atp-1000-monte-carlo-tn-1"
             }
         ]
     },
@@ -133,21 +120,16 @@
         ]
     },
     {
-        "id": "german-darts-grand-prix--day-3-2454994",
-        "title": "German Darts Grand Prix  Day 3",
+        "id": "ppv-german-darts-grand-prix-day-3-evening",
+        "title": "German Darts Grand Prix | Day 3 - Evening",
         "category": "darts",
         "date": 1775494800000,
         "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTEi6iE5YQAYxDcQU8SJjAIIGCAjZBUqSgkhEKCsH7cBoxgKmIGutuE49gBbHmBhySXKN1cOCNoc6779GAc8iYQQA.webp",
         "popular": true,
-        "teams": null,
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-german-darts-grand-prix-day-3-afternoon"
-            },
-            {
-                "source": "echo",
-                "id": "german-darts-grand-prix-darts-1"
+                "id": "ppv-german-darts-grand-prix-day-3-evening"
             }
         ]
     },
