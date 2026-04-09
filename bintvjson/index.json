@@ -18,18 +18,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-edmonton-oilers-vs-san-jose-sharks"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl_sharks-oilers-live-streaming-1234184580"
-            },
-            {
-                "source": "echo",
-                "id": "san-jose-sharks-vs-edmonton-oilers-hockey-416863"
-            },
-            {
                 "source": "golf",
                 "id": "21405"
             }
@@ -53,18 +41,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-dallas-mavericks-vs-phoenix-suns"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_suns-mavericks-live-streaming-1083957957"
-            },
-            {
-                "source": "echo",
-                "id": "phoenix-suns-vs-dallas-mavericks-basketball-473315"
-            },
             {
                 "source": "golf",
                 "id": "21412"
@@ -90,18 +66,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-oklahoma-city-thunder-vs-la-clippers"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_clippers-thunder-live-streaming-1083956958"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-clippers-vs-oklahoma-city-thunder-basketball-473314"
-            },
-            {
                 "source": "golf",
                 "id": "21411"
             }
@@ -126,56 +90,34 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-portland-trail-blazers-vs-san-antonio-spurs"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_spurs-trail-blazers-live-streaming-1083954960"
-            },
-            {
-                "source": "echo",
-                "id": "san-antonio-spurs-vs-portland-trail-blazers-basketball-473312"
-            },
-            {
                 "source": "golf",
                 "id": "21410"
             }
         ]
     },
     {
-        "id": "denver-nuggets-vs-memphis-grizzlies-2370357",
-        "title": "Denver Nuggets vs Memphis Grizzlies",
-        "category": "basketball",
-        "date": 1775696400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reijAyIIGfhDcQfECRApcIRDpxSjBYEgp9hsjWBUou78vSyzPTLRg7mKiEEA.webp",
+        "id": "world-snooker-championship-game-298775",
+        "title": "World Snooker Championship  \ud83c\udfb1",
+        "category": "other",
+        "date": 1775725200000,
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Denver Nuggets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhKq4EhCiADCG7aQEEABMQMfadwg+RghSZ8UXMGXhF5o501phXY0QggA"
-            },
-            "away": {
-                "name": "Memphis Grizzlies",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAATEFHUQ1IbiBI6DelDr4hzKAhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-memphis-grizzlies-vs-denver-nuggets"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_nuggets-grizzlies-live-streaming-1083955959"
-            },
+                "source": "echo",
+                "id": "world-snooker-championship-game-298775"
+            }
+        ]
+    },
+    {
+        "id": "atp-1000-monte-carlo-tn-1",
+        "title": "ATP 1000: Monte Carlo \ud83c\udfbe",
+        "category": "other",
+        "date": 1775725200000,
+        "popular": true,
+        "sources": [
             {
                 "source": "echo",
-                "id": "denver-nuggets-vs-memphis-grizzlies-basketball-473313"
-            },
-            {
-                "source": "golf",
-                "id": "21409"
+                "id": "atp-1000-monte-carlo-tn-1"
             }
         ]
     },
@@ -199,6 +141,43 @@
             {
                 "source": "echo",
                 "id": "adelaide-crows-vs-carlton-blues-australian-football-3381"
+            }
+        ]
+    },
+    {
+        "id": "canterbury-bankstown-bulldogs-vs-penrith-panthers-2417196",
+        "title": "Canterbury Bankstown Bulldogs vs Penrith Panthers",
+        "category": "rugby",
+        "date": 1775728200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKFJCI+YHZu4g+hkAYggUIErmONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Canterbury Bankstown Bulldogs",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmPMNxAxg+EIk0qQEEIcTG+JkCisEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Penrith Panthers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwhEKYEgYgIIbiBIHVMEHzWm9uAhSZ8NbMGXhF5ojU1phHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "canterbury-bulldogs-vs-penrith-panthers-game-576373"
+            }
+        ]
+    },
+    {
+        "id": "the-masters-mens-golf-major-pga-526234",
+        "title": "The Masters | Men's Golf Major",
+        "category": "other",
+        "date": 1775739600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "the-masters-mens-golf-major-pga-526234"
             }
         ]
     },
@@ -244,6 +223,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-cincinnati-reds-vs-miami-marlins"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_marlins-reds-live-streaming-1199497302"
@@ -329,6 +312,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-athletics-vs-new-york-yankees"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_yankees-athletics-live-streaming-1199498301"
             },
@@ -360,6 +347,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-detroit-tigers-vs-minnesota-twins"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_twins-tigers-live-streaming-1199499300"
@@ -408,6 +399,10 @@
             {
                 "source": "admin",
                 "id": "ppv-premier-league-brighton"
+            },
+            {
+                "source": "echo",
+                "id": "premier-league-darts-brighton-darts-1"
             }
         ]
     },
@@ -708,6 +703,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-toronto-maple-leafs-vs-new-york-islanders"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl_islanders-maple-leafs-live-streaming-1234225539"
+            },
+            {
                 "source": "echo",
                 "id": "new-york-islanders-vs-toronto-maple-leafs-hockey-416868"
             },
@@ -735,6 +738,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-columbus-blue-jackets-vs-buffalo-sabres"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl_sabres-blue-jackets-live-streaming-1234226538"
+            },
             {
                 "source": "echo",
                 "id": "buffalo-sabres-vs-columbus-blue-jackets-hockey-416865"
@@ -764,6 +775,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-pittsburgh-penguins-vs-new-jersey-devils"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl_devils-penguins-live-streaming-1234229535"
+            },
+            {
                 "source": "echo",
                 "id": "new-jersey-devils-vs-pittsburgh-penguins-hockey-416867"
             },
@@ -791,6 +810,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-philadelphia-flyers-vs-detroit-red-wings"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl_red-wings-flyers-live-streaming-1234227537"
+            },
             {
                 "source": "echo",
                 "id": "detroit-red-wings-vs-philadelphia-flyers-hockey-416864"
@@ -820,6 +847,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-tampa-bay-lightning-vs-montreal-canadiens"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl_canadiens-lightning-live-streaming-1234228536"
+            },
+            {
                 "source": "echo",
                 "id": "montreal-canadiens-vs-tampa-bay-lightning-hockey-416866"
             },
@@ -847,6 +882,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-florida-panthers-vs-ottawa-senators"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl_senators-panthers-live-streaming-1234230534"
+            },
             {
                 "source": "echo",
                 "id": "ottawa-senators-vs-florida-panthers-hockey-416869"
@@ -876,6 +919,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-chicago-bulls-vs-washington-wizards"
+            },
+            {
+                "source": "delta",
+                "id": "live_nba_wizards-bulls-live-streaming-1084014900"
+            },
+            {
                 "source": "echo",
                 "id": "washington-wizards-vs-chicago-bulls-basketball-473317"
             },
@@ -904,6 +955,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-miami-heat-vs-toronto-raptors"
+            },
+            {
+                "source": "delta",
+                "id": "live_nba_raptors-heat-live-streaming-1084013901"
+            },
+            {
                 "source": "echo",
                 "id": "toronto-raptors-vs-miami-heat-basketball-473316"
             },
@@ -931,6 +990,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-arizona-diamondbacks-vs-new-york-mets"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_mets-diamondbacks-live-streaming-1199500299"
@@ -964,6 +1027,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-boston-celtics-vs-new-york-knicks"
+            },
+            {
+                "source": "delta",
+                "id": "live_nba_knicks-celtics-live-streaming-1084016898"
+            },
+            {
                 "source": "echo",
                 "id": "new-york-knicks-vs-boston-celtics-basketball-473319"
             },
@@ -992,6 +1063,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-indiana-pacers-vs-brooklyn-nets"
+            },
+            {
+                "source": "delta",
+                "id": "live_nba_nets-pacers-live-streaming-1084015899"
+            },
+            {
                 "source": "echo",
                 "id": "brooklyn-nets-vs-indiana-pacers-basketball-473318"
             },
@@ -1019,6 +1098,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-chicago-white-sox-vs-kansas-city-royals"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_royals-white-sox-live-streaming-1199501298"
