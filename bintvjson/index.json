@@ -1,97 +1,5 @@
 [
     {
-        "id": "ppv-premier-league-brighton",
-        "title": "Premier League: Brighton",
-        "category": "darts",
-        "date": 1775757600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEbkDGqNswAQGNgEEBGyDhsrCE6cswEsLWJOiFDJAaB0+tKVlgbcJx7AColBfJJc4h1w4I23EQ7v0wHFIiEEA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-premier-league-brighton"
-            },
-            {
-                "source": "echo",
-                "id": "premier-league-darts-brighton-darts-1"
-            }
-        ]
-    },
-    {
-        "id": "minnesota-twins-vs-detroit-tigers-2387060",
-        "title": "Minnesota Twins vs Detroit Tigers",
-        "category": "baseball",
-        "date": 1775756400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmUSywYFGBAheILMZAlDIRNRDXzk-MCQUsIuYz2qUPMJqLU5Xg70OmKMoUA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Minnesota Twins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Detroit Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21477"
-            }
-        ]
-    },
-    {
-        "id": "new-york-yankees-vs-athletics-2387059",
-        "title": "New York Yankees vs Athletics",
-        "category": "baseball",
-        "date": 1775756100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHhhZSMLoghDvEFhMgSIY4mogbFmC10wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New York Yankees",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Athletics",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21476"
-            }
-        ]
-    },
-    {
-        "id": "osleys-iglesias-vs-pavel-silyagin-2461903",
-        "title": "Osleys Iglesias vs Pavel Silyagin",
-        "category": "fight",
-        "date": 1775773800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoLACwZJJBC8QWIyBIgIpkFZiXJ+YHpgCRcxih0cUPHeUbU5Xvb0YB6MYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Osleys Iglesias"
-            },
-            "away": {
-                "name": "Pavel Silyagin"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-iglesias-vs-silyagin"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_osleys-iglesias-vs-pavel-silyagin-live-stream"
-            }
-        ]
-    },
-    {
         "id": "new-york-islanders-vs-toronto-maple-leafs-2348133",
         "title": "New York Islanders vs Toronto Maple Leafs",
         "category": "hockey",
@@ -124,6 +32,45 @@
             {
                 "source": "golf",
                 "id": "21455"
+            }
+        ]
+    },
+    {
+        "id": "osleys-iglesias-vs-pavel-silyagin-2461903",
+        "title": "Osleys Iglesias vs Pavel Silyagin",
+        "category": "fight",
+        "date": 1775773800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoLACwZJJBC8QWIyBIgIpkFZiXJ+YHpgCRcxih0cUPHeUbU5Xvb0YB6MYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Osleys Iglesias"
+            },
+            "away": {
+                "name": "Pavel Silyagin"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-iglesias-vs-silyagin"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_osleys-iglesias-vs-pavel-silyagin-live-stream"
+            }
+        ]
+    },
+    {
+        "id": "premier-league-darts-brighton-darts-1",
+        "title": "Premier League Darts: Brighton \ud83c\udfaf",
+        "category": "other",
+        "date": 1775757600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "premier-league-darts-brighton-darts-1"
             }
         ]
     },
