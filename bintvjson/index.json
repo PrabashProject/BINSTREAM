@@ -1,5 +1,28 @@
 [
     {
+        "id": "pfl-africa-1-pretoria-2452703",
+        "title": "PFL Africa 1 Pretoria",
+        "category": "fight",
+        "date": 1775836800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEGCQAsClIhem4yUMgI5yyHMskFLCLmMUYVfo6vyjanP35WwGCu4mIQQA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_2026-pfl-africa-1-pretoria-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-02-pfl-africa-ppv-02"
+            },
+            {
+                "source": "golf",
+                "id": "21604"
+            }
+        ]
+    },
+    {
         "id": "rajasthan-royals-vs-royal-challengers-bangalore-2447890",
         "title": "Rajasthan Royals vs Royal Challengers Bangalore",
         "category": "cricket",
@@ -101,30 +124,6 @@
         ]
     },
     {
-        "id": "st--george-illawara-dragons-vs-manly-sea-eagles-2417197",
-        "title": "St. George Illawara Dragons vs Manly Sea Eagles",
-        "category": "rugby",
-        "date": 1775808000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRHCRgkIFMAAMIbiD4gpICySO4TIGHYLAtMfsNn0UYFXrZfy9LFk9JlowLzFRCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "St. George Illawara Dragons",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxj4CEABMwKENy0gIBxEb4hzZmAQpM+KLmDLr680faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Manly Sea Eagles",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC9WABhCIAJiF3c9ICIcTG+Ic8ZgEKTPii5gy8IvNEOmtME7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "dragons-vs-manly-sea-eagles-game-17u3262"
-            }
-        ]
-    },
-    {
         "id": "live-event_world-rally-championship-2026-rally-croatia-live-stream",
         "title": "World Rally Championship 2026 - Rally Croatia",
         "category": "motor-sports",
@@ -138,29 +137,6 @@
             {
                 "source": "echo",
                 "id": "world-rally-championship-croatia-racing-0059"
-            }
-        ]
-    },
-    {
-        "id": "pfl-africa-1-pretoria-2452703",
-        "title": "PFL Africa 1 Pretoria",
-        "category": "fight",
-        "date": 1775836800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEGCQAsClIhem4yUMgI5yyHMskFLCLmMUYVfo6vyjanP35WwGCu4mIQQA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_2026-pfl-africa-1-pretoria-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-02-pfl-africa-ppv-02"
-            },
-            {
-                "source": "golf",
-                "id": "21604"
             }
         ]
     },
@@ -324,19 +300,6 @@
         ]
     },
     {
-        "id": "ppv-event-03-ares-40-ppv-03",
-        "title": "Ares 40 \u2b50",
-        "category": "other",
-        "date": 1775845800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-03-ares-40-ppv-03"
-            }
-        ]
-    },
-    {
         "id": "partizan-mozzart-bet-vs-zalgiris-kaunas-basketball-454646",
         "title": "Partizan Mozzart Bet vs Zalgiris Kaunas",
         "category": "basketball",
@@ -356,6 +319,19 @@
             {
                 "source": "echo",
                 "id": "partizan-mozzart-bet-vs-zalgiris-kaunas-basketball-454646"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-03-ares-40-ppv-03",
+        "title": "Ares 40 \u2b50",
+        "category": "other",
+        "date": 1775845800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-03-ares-40-ppv-03"
             }
         ]
     },
@@ -630,6 +606,32 @@
         ]
     },
     {
+        "id": "ppv-event-10-the-funny-car-chaos-classic-ppv-10",
+        "title": "The Funny Car Chaos Classic",
+        "category": "other",
+        "date": 1775851200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-10-the-funny-car-chaos-classic-ppv-10"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-11-race-for-the-million-five-flags-ppv-11",
+        "title": "Race for the Million Five Flags",
+        "category": "other",
+        "date": 1775854800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-11-race-for-the-million-five-flags-ppv-11"
+            }
+        ]
+    },
+    {
         "id": "detroit-tigers-vs-miami-marlins-2387074",
         "title": "Detroit Tigers vs Miami Marlins",
         "category": "baseball",
@@ -888,6 +890,19 @@
             {
                 "source": "golf",
                 "id": "21500"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-12-grassroots-race-revival-w-va-ppv-12",
+        "title": "Grassroots Race Revival W VA",
+        "category": "other",
+        "date": 1775862600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-12-grassroots-race-revival-w-va-ppv-12"
             }
         ]
     },
