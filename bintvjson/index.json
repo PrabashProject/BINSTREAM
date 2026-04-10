@@ -1,5 +1,18 @@
 [
     {
+        "id": "ppv-event-11-race-for-the-million-five-flags-ppv-11",
+        "title": "Race for the Million Five Flags",
+        "category": "other",
+        "date": 1775854800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-11-race-for-the-million-five-flags-ppv-11"
+            }
+        ]
+    },
+    {
         "id": "ppv-event-10-the-funny-car-chaos-classic-ppv-10",
         "title": "The Funny Car Chaos Classic",
         "category": "other",
@@ -33,14 +46,6 @@
             {
                 "source": "admin",
                 "id": "ppv-marseille-vs-metz"
-            },
-            {
-                "source": "delta",
-                "id": "live_ligue-1_marseille-metz-live-streaming-1094328576"
-            },
-            {
-                "source": "echo",
-                "id": "marseille-vs-metz-football-1387954"
             }
         ]
     },
@@ -79,70 +84,6 @@
         ]
     },
     {
-        "id": "real-madrid-vs-girona-2279701",
-        "title": "Real Madrid vs Girona",
-        "category": "football",
-        "date": 1775847600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECtx0wKDSG4g+egxD0wQiHHwLAkFa6xFiUYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Real Madrid",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPmDUas6kNxAQQfEIhIgYuEChAqrBCkz4ouYMvCLzRzprTCuxohBAA"
-            },
-            "away": {
-                "name": "Girona",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwACZgSIPmCRaQ3EOpDaUIC+b4gIIcygIUmfFFy3l680a6a0wWsVEIIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-real-madrid-vs-girona"
-            },
-            {
-                "source": "delta",
-                "id": "live_laliga_real-madrid-girona-live-streaming-1094323581"
-            },
-            {
-                "source": "echo",
-                "id": "real-madrid-vs-girona-football-1391126"
-            }
-        ]
-    },
-    {
-        "id": "west-ham-united-vs-wolverhampton-wanderers-2267392",
-        "title": "West Ham United vs Wolverhampton Wanderers",
-        "category": "football",
-        "date": 1775847600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBhywKEHwQgNfECU0hEOGCF05rTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "West Ham United",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgyUVeETcQEEABMQfXSBIgU50wYIUmfFFzXl680Q6a0wasaIhA"
-            },
-            "away": {
-                "name": "Wolverhampton Wanderers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgUYbthAwQibiAAmuEPtUpdFnHwIUm1rmDLwi80SmBNaYR2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-west-ham-united-vs-wolverhampton-wanderers"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_west-ham-wolves-live-streaming-1094074830"
-            },
-            {
-                "source": "golf",
-                "id": "21445"
-            }
-        ]
-    },
-    {
         "id": "bath-rugby-vs-northampton-saints-2461807",
         "title": "Bath Rugby vs Northampton Saints",
         "category": "rugby",
@@ -163,62 +104,6 @@
             {
                 "source": "admin",
                 "id": "ppv-bath-rugby-vs-northampton-saints"
-            },
-            {
-                "source": "echo",
-                "id": "bath-vs-northampton-saints-rugby-52983"
-            }
-        ]
-    },
-    {
-        "id": "roma-vs-pisa-2265354",
-        "title": "Roma vs Pisa",
-        "category": "football",
-        "date": 1775846700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNgAYwIEHxBwYIbrpBSQJEBEu5T50wWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Roma",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRg+2SrgQhuIPiAAmIGCFM4TR-RAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Pisa",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyCWIFGD4huIEiG0oDIGCDOJTKAhSZ8UXMGXhF5o+01phHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-as-roma-vs-pisa"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_roma-pisa-live-streaming-1094312592"
-            }
-        ]
-    },
-    {
-        "id": "lyon-villeurbanne-vs-kk-crvena-zvezda-2345515",
-        "title": "Lyon-Villeurbanne vs KK Crvena zvezda",
-        "category": "basketball",
-        "date": 1775846700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHBBDgsYGWhDcQfEFKMhEprZpJaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Lyon-Villeurbanne",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl7zerFDxDcQAExAxcIPgb1nEKAhSZ9NbMGXhF5ozU1pgHY0RCA"
-            },
-            "away": {
-                "name": "KK Crvena zvezda",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBl6YQUhCJuIPiAAme7YdMQQ5mAQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "lyon-villeurbanne-vs-crvena-zvezda-meridianbet-basketball-454645"
             }
         ]
     },
@@ -232,30 +117,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-03-ares-40-ppv-03"
-            }
-        ]
-    },
-    {
-        "id": "fc-augsburg-vs-hoffenheim-2276890",
-        "title": "FC Augsburg vs Hoffenheim",
-        "category": "football",
-        "date": 1775845800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGxCiSIGKBDcQfLSAi7TBkFZhWCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "FC Augsburg",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcwKdWAAmYbiD0QQfEIkMkTuC-AIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Hoffenheim",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApQYPmAAmDXCG4gtegyVUhEKfaoIUmfNWzBl4ReaLVNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-fc-augsburg-vs-tsg-hoffenheim"
             }
         ]
     },
@@ -282,65 +143,8 @@
                 "id": "ppv-pittsburgh-pirates-vs-chicago-cubs"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_cubs-pirates-live-streaming-1199588211"
-            },
-            {
-                "source": "echo",
-                "id": "chicago-cubs-vs-pittsburgh-pirates-baseball-178211"
-            },
-            {
                 "source": "golf",
                 "id": "21496"
-            }
-        ]
-    },
-    {
-        "id": "pfl-africa-1-pretoria-2452703",
-        "title": "PFL Africa 1 Pretoria",
-        "category": "fight",
-        "date": 1775836800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEGCQAsClIhem4yUMgI5yyHMskFLCLmMUYVfo6vyjanP35WwGCu4mIQQA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_2026-pfl-africa-1-pretoria-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-02-pfl-africa-ppv-02"
-            },
-            {
-                "source": "golf",
-                "id": "21604"
-            }
-        ]
-    },
-    {
-        "id": "the-masters-mens-golf-major-pga-526234",
-        "title": "The Masters | Men's Golf Major",
-        "category": "other",
-        "date": 1775826000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "the-masters-mens-golf-major-pga-526234"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-11-race-for-the-million-five-flags-ppv-11",
-        "title": "Race for the Million Five Flags",
-        "category": "other",
-        "date": 1775854800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-11-race-for-the-million-five-flags-ppv-11"
             }
         ]
     },
