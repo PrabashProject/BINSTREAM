@@ -1,5 +1,75 @@
 [
     {
+        "id": "chicago-cubs-vs-pittsburgh-pirates-2387091",
+        "title": "Chicago Cubs vs Pittsburgh Pirates",
+        "category": "baseball",
+        "date": 1775931600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdklghtMEGxC8QWIyBIG9Iape2WWmmAJFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Chicago Cubs",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA"
+            },
+            "away": {
+                "name": "Pittsburgh Pirates",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-pittsburgh-pirates-vs-chicago-cubs"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_cubs-pirates-live-streaming-1199686113"
+            },
+            {
+                "source": "echo",
+                "id": "chicago-cubs-vs-pittsburgh-pirates-baseball-178226"
+            },
+            {
+                "source": "golf",
+                "id": "21528"
+            }
+        ]
+    },
+    {
+        "id": "tyson-fury-vs-arslanbek-makhmudov-2436331",
+        "title": "Tyson Fury vs Arslanbek Makhmudov",
+        "category": "fight",
+        "date": 1775930400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhAQQ4eju28QWIyBJbTJw4mkskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Tyson Fury"
+            },
+            "away": {
+                "name": "Arslanbek Makhmudov"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-tyson-fury-vs-arslanbek-makhmudov"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_tyson-fury-vs-arslanbek-makhmudov-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-03-fury-v-makhmudov-ev-3"
+            },
+            {
+                "source": "golf",
+                "id": "21608"
+            }
+        ]
+    },
+    {
         "id": "detroit-tigers-vs-miami-marlins-2387089",
         "title": "Detroit Tigers vs Miami Marlins",
         "category": "baseball",
@@ -362,14 +432,6 @@
             {
                 "source": "admin",
                 "id": "ppv-ac-milan-vs-udinese"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_milan-udinese-live-streaming-1094310594"
-            },
-            {
-                "source": "echo",
-                "id": "ac-milan-vs-udinese-football-1378180"
             }
         ]
     },
@@ -406,30 +468,6 @@
         ]
     },
     {
-        "id": "chennai-super-kings-vs-delhi-capitals-2447892",
-        "title": "Chennai Super Kings vs Delhi Capitals",
-        "category": "cricket",
-        "date": 1775916000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBDNgUkLQ3cQuzTBCmUIC6d0kCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Chennai Super Kings",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1YAGZqVAgSIbiAghDfEABMQMXeZApDBCkz4ouYMvCLzRTprTAuxoiCA"
-            },
-            "away": {
-                "name": "Delhi Capitals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3p8QqkHCQhuIEiANrEiCJr3qCFJnxRcwZeEXmjbTWmHtjREIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-chennai-super-kings-vs-delhi-capitals"
-            }
-        ]
-    },
-    {
         "id": "ppv-supercross-nashville",
         "title": "Supercross: Nashville",
         "category": "motor-sports",
@@ -440,76 +478,6 @@
             {
                 "source": "admin",
                 "id": "ppv-supercross-nashville"
-            }
-        ]
-    },
-    {
-        "id": "tyson-fury-vs-arslanbek-makhmudov-2436331",
-        "title": "Tyson Fury vs Arslanbek Makhmudov",
-        "category": "fight",
-        "date": 1775930400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhAQQ4eju28QWIyBJbTJw4mkskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Tyson Fury"
-            },
-            "away": {
-                "name": "Arslanbek Makhmudov"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-tyson-fury-vs-arslanbek-makhmudov"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_tyson-fury-vs-arslanbek-makhmudov-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-03-fury-v-makhmudov-ev-3"
-            },
-            {
-                "source": "golf",
-                "id": "21608"
-            }
-        ]
-    },
-    {
-        "id": "chicago-cubs-vs-pittsburgh-pirates-2387091",
-        "title": "Chicago Cubs vs Pittsburgh Pirates",
-        "category": "baseball",
-        "date": 1775931600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdklghtMEGxC8QWIyBIG9Iape2WWmmAJFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Chicago Cubs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA"
-            },
-            "away": {
-                "name": "Pittsburgh Pirates",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-pittsburgh-pirates-vs-chicago-cubs"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_cubs-pirates-live-streaming-1199686113"
-            },
-            {
-                "source": "echo",
-                "id": "chicago-cubs-vs-pittsburgh-pirates-baseball-178226"
-            },
-            {
-                "source": "golf",
-                "id": "21528"
             }
         ]
     },
@@ -1127,6 +1095,19 @@
             {
                 "source": "golf",
                 "id": "21533"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-01-prelims-ufc-327-ev-001",
+        "title": "PPV EVENT 01: Prelims UFC 327",
+        "category": "other",
+        "date": 1775946641000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-01-prelims-ufc-327-ev-001"
             }
         ]
     },
