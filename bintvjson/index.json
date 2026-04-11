@@ -1,5 +1,35 @@
 [
     {
+        "id": "ufc-327-proch-zka-vs-ulberg-2429047",
+        "title": "UFC 327 Proch\u00e1zka vs Ulberg",
+        "category": "fight",
+        "date": 1775943000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtWBJx8MGRAheILMZAkDFxDBCIULJBSwi5jFHo4oee8o01jP+KzAYO6MYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "UFC 327 Proch\u00e1zka"
+            },
+            "away": {
+                "name": "Ulberg"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-ufc-327-proch-zka-vs-ulberg"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_ufc-327-prochazka-vs-ulberg-live-stream"
+            },
+            {
+                "source": "golf",
+                "id": "21607"
+            }
+        ]
+    },
+    {
         "id": "utah-mammoth-vs-carolina-hurricanes-2348151",
         "title": "Utah Mammoth vs Carolina Hurricanes",
         "category": "hockey",
@@ -312,6 +342,19 @@
         ]
     },
     {
+        "id": "ppv-event-13-ama-supercross-championship-ppv-13",
+        "title": "AMA Supercross Championship",
+        "category": "other",
+        "date": 1775937600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-13-ama-supercross-championship-ppv-13"
+            }
+        ]
+    },
+    {
         "id": "los-angeles-kings-vs-edmonton-oilers-2348146",
         "title": "Los Angeles Kings vs Edmonton Oilers",
         "category": "hockey",
@@ -370,40 +413,12 @@
                 "id": "ppv-minnesota-twins-vs-toronto-blue-jays"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_blue-jays-twins-live-streaming-1199687112"
-            },
-            {
                 "source": "echo",
                 "id": "toronto-blue-jays-vs-minnesota-twins-baseball-178215"
             },
             {
                 "source": "golf",
                 "id": "21529"
-            }
-        ]
-    },
-    {
-        "id": "ppv-stade-rennais-vs-angers",
-        "title": "Stade Rennais vs. Angers",
-        "category": "football",
-        "date": 1775934300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTbkGBQEgsIAMbASIBuMkh6iFI2wgI1YWJBSY09d0bDBakMH46WwNuE49gBbHkvkkuMUq4cEbfZyX36YBzAEMoQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Stade Rennais",
-                "badge": ""
-            },
-            "away": {
-                "name": "Angers",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-stade-rennais-vs-angers"
             }
         ]
     },
@@ -417,34 +432,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-06-wow-fc-29-ev-6"
-            }
-        ]
-    },
-    {
-        "id": "sevilla-vs-atl-tico-madrid-2279703",
-        "title": "Sevilla vs Atl\u00e9tico Madrid",
-        "category": "football",
-        "date": 1775934000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRIigDVIbiD4gSukBEMgYIDeYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Sevilla",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmsctzCaQIbiAgg+IRCRAxcIFIcMEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Atl\u00e9tico Madrid",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBxRYUCHhhuIXXz0gURkKYhbDywjGBM+KLmDLb680Q6a0wTsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-sevilla-vs-atl-tico-madrid"
-            },
-            {
-                "source": "delta",
-                "id": "live_laliga_sevilla-atl-madrid-live-streaming-1094325579"
             }
         ]
     },
@@ -485,78 +472,6 @@
         ]
     },
     {
-        "id": "atalanta-vs-juventus-2265346",
-        "title": "Atalanta vs Juventus",
-        "category": "football",
-        "date": 1775933100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXkiJtCMENxB8QJIyBQhEEU7nMFgmmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Atalanta",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDUAJmBD8QfENxAkQiCCFO7EKIyBgEKTPii5gy8IvNGOmtVaKl0gA"
-            },
-            "away": {
-                "name": "Juventus",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIhgAExAx+2ENxB8QEXCBQhziQzj4EKTG1zBl4ReaJTAmtME7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-atalanta-vs-juventus"
-            }
-        ]
-    },
-    {
-        "id": "cf-montr-al-vs-philadelphia-union-2406809",
-        "title": "CF Montr\u00e9al vs Philadelphia Union",
-        "category": "football",
-        "date": 1775932200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYOQggS24EhDcQfEDBBSjBkIhwgTBPRT7DZ9FGBUou7zQ1memtGDuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "CF Montr\u00e9al",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDswAEzFgQibiHUg+IFDpAQzx3CGWEYwJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Philadelphia Union",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz5gUYJMEIpKIbiAAmIGLj3GQiIyFwEKTPjrZgy8IvNE6mtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cf-montr-al-vs-philadelphia-union"
-            }
-        ]
-    },
-    {
-        "id": "austin-fc-vs-la-galaxy-2406797",
-        "title": "Austin FC vs LA Galaxy",
-        "category": "football",
-        "date": 1775932200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWm3kgBobtv16+IEiESI9JAsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Austin FC",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24ha9MPxAATEKpIgUIAxDUhTOPiD4EKTG1zBl4ReaJTAmtME7GiIQA"
-            },
-            "away": {
-                "name": "LA Galaxy",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlVq+NhDcQEXCBj6cfbSDMgCFJnxRcwZTfXmjbTWmHtjREIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-austin-fc-vs-la-galaxy"
-            }
-        ]
-    },
-    {
         "id": "chicago-cubs-vs-pittsburgh-pirates-2387091",
         "title": "Chicago Cubs vs Pittsburgh Pirates",
         "category": "baseball",
@@ -581,10 +496,6 @@
             {
                 "source": "delta",
                 "id": "live_mlb_cubs-pirates-live-streaming-1199686113"
-            },
-            {
-                "source": "echo",
-                "id": "chicago-cubs-vs-pittsburgh-pirates-baseball-178226"
             },
             {
                 "source": "golf",
@@ -702,19 +613,6 @@
         ]
     },
     {
-        "id": "ppv-event-13-ama-supercross-championship-ppv-13",
-        "title": "AMA Supercross Championship",
-        "category": "other",
-        "date": 1775916000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-13-ama-supercross-championship-ppv-13"
-            }
-        ]
-    },
-    {
         "id": "ppv-supercross-nashville",
         "title": "Supercross: Nashville",
         "category": "motor-sports",
@@ -725,36 +623,6 @@
             {
                 "source": "admin",
                 "id": "ppv-supercross-nashville"
-            }
-        ]
-    },
-    {
-        "id": "ufc-327-proch-zka-vs-ulberg-2429047",
-        "title": "UFC 327 Proch\u00e1zka vs Ulberg",
-        "category": "fight",
-        "date": 1775943000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtWBJx8MGRAheILMZAkDFxDBCIULJBSwi5jFHo4oee8o01jP+KzAYO6MYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "UFC 327 Proch\u00e1zka"
-            },
-            "away": {
-                "name": "Ulberg"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-ufc-327-proch-zka-vs-ulberg"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_ufc-327-prochazka-vs-ulberg-live-stream"
-            },
-            {
-                "source": "golf",
-                "id": "21607"
             }
         ]
     },
@@ -796,7 +664,7 @@
     },
     {
         "id": "ppv-event-01-prelims-ufc-327-ev-001",
-        "title": "PPV EVENT 01: Prelims UFC 327",
+        "title": "PPV EVENT 01: Prelims UFC 327 \ud83d\udd25 \u2b50 \ud83d\udca5",
         "category": "other",
         "date": 1775946641000,
         "popular": true,
