@@ -1,5 +1,18 @@
 [
     {
+        "id": "the-masters-mens-golf-major-pga-526234",
+        "title": "The Masters | Men's Golf Major",
+        "category": "golf",
+        "date": 1775921400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "the-masters-mens-golf-major-pga-526234"
+            }
+        ]
+    },
+    {
         "id": "elche-vs-valencia-2279697",
         "title": "Elche vs Valencia",
         "category": "football",
@@ -28,6 +41,19 @@
             {
                 "source": "echo",
                 "id": "elche-vs-valencia-football-1391122"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-13-ama-supercross-championship-ppv-13",
+        "title": "AMA Supercross Championship",
+        "category": "other",
+        "date": 1775916000000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-13-ama-supercross-championship-ppv-13"
             }
         ]
     },
@@ -172,14 +198,6 @@
             {
                 "source": "admin",
                 "id": "ppv-1-fc-heidenheim-1846-vs-1-fc-union-berlin"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_heidenheim-union-berlin-live-streaming-1094075829"
-            },
-            {
-                "source": "echo",
-                "id": "1-fc-heidenheim-vs-union-berlin-football-1388563"
             }
         ]
     },
@@ -204,14 +222,6 @@
             {
                 "source": "admin",
                 "id": "ppv-vf-l-wolfsburg-vs-eintracht-frankfurt"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_wolfsburg-frankfurt-live-streaming-1094083821"
-            },
-            {
-                "source": "echo",
-                "id": "vfl-wolfsburg-vs-eintracht-frankfurt-football-1388568"
             }
         ]
     },
@@ -236,14 +246,6 @@
             {
                 "source": "admin",
                 "id": "ppv-borussia-dortmund-vs-bayer-leverkusen"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_dortmund-leverkusen-live-streaming-1094078826"
-            },
-            {
-                "source": "echo",
-                "id": "borussia-dortmund-vs-bayer-leverkusen-football-1388561"
             }
         ]
     },
@@ -268,14 +270,6 @@
             {
                 "source": "admin",
                 "id": "ppv-rb-leipzig-vs-borussia-m-nchengladbach"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_leipzig-mgladbach-live-streaming-1094081823"
-            },
-            {
-                "source": "echo",
-                "id": "rb-leipzig-vs-borussia-monchengladbach-football-1388565"
             }
         ]
     },
@@ -294,70 +288,6 @@
         ]
     },
     {
-        "id": "torino-vs-hellas-verona-2265355",
-        "title": "Torino vs Hellas Verona",
-        "category": "football",
-        "date": 1775912400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBQIQIOtu4g+IEsc0hEGlKZIFgSCn2Gz6WlSi5gy8IllnumtGCeYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Torino",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDg4WaChDcQEXSAMGYIACaHjjCkz4ouYMvCLzRtprTD2xoiEA"
-            },
-            "away": {
-                "name": "Hellas Verona",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggAJswVs1IbiBIgUIRBH0g+54+YIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-torino-vs-hellas-verona"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_torino-verona-live-streaming-1094314590"
-            },
-            {
-                "source": "echo",
-                "id": "torino-vs-hellas-verona-football-1378183"
-            }
-        ]
-    },
-    {
-        "id": "cagliari-vs-cremonese-2265348",
-        "title": "Cagliari vs Cremonese",
-        "category": "football",
-        "date": 1775912400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFJTnAkDMNxD6+IEsZAoQiCGYsgYBbRT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Cagliari",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gAJuQ3gIIbiB06+IEiEQGQRiYRjAmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Cremonese",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATYEz64wqsChDcQJEFv1aYISzn0TCMDfxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cagliari-vs-cremonese"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_cagliari-cremonese-live-streaming-1094306598"
-            },
-            {
-                "source": "echo",
-                "id": "cagliari-vs-cremonese-football-1378176"
-            }
-        ]
-    },
-    {
         "id": "atp-1000-monte-carlo-tn-1",
         "title": "ATP 1000: Monte Carlo \ud83c\udfbe",
         "category": "tennis",
@@ -367,19 +297,6 @@
             {
                 "source": "echo",
                 "id": "atp-1000-monte-carlo-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "the-masters-mens-golf-major-pga-526234",
-        "title": "The Masters | Men's Golf Major",
-        "category": "golf",
-        "date": 1775921400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "the-masters-mens-golf-major-pga-526234"
             }
         ]
     },
