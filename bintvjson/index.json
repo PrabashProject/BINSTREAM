@@ -196,14 +196,6 @@
             {
                 "source": "admin",
                 "id": "ppv-como-vs-inter-milan"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_como-inter-live-streaming-1094307597"
-            },
-            {
-                "source": "echo",
-                "id": "como-vs-inter-football-1378177"
             }
         ]
     },
@@ -228,10 +220,6 @@
             {
                 "source": "admin",
                 "id": "ppv-lyon-vs-lorient"
-            },
-            {
-                "source": "echo",
-                "id": "lyon-vs-lorient-football-1387953"
             }
         ]
     },
@@ -308,38 +296,6 @@
         ]
     },
     {
-        "id": "kansas-city-royals-vs-chicago-white-sox-2387102",
-        "title": "Kansas City Royals vs Chicago White Sox",
-        "category": "baseball",
-        "date": 1776017400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdv34kQjFKRC8QWIyG2HE1EJZQh4LJBSwi5usKr0c35RtTl78rMBgbuJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Kansas City Royals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Chicago White Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-chicago-white-sox-vs-kansas-city-royals"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_royals-white-sox-live-streaming-1199806992"
-            },
-            {
-                "source": "golf",
-                "id": "21569"
-            }
-        ]
-    },
-    {
         "id": "milwaukee-brewers-vs-washington-nationals-2387101",
         "title": "Milwaukee Brewers vs Washington Nationals",
         "category": "baseball",
@@ -372,6 +328,38 @@
             {
                 "source": "golf",
                 "id": "21570"
+            }
+        ]
+    },
+    {
+        "id": "kansas-city-royals-vs-chicago-white-sox-2387102",
+        "title": "Kansas City Royals vs Chicago White Sox",
+        "category": "baseball",
+        "date": 1776017400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdv34kQjFKRC8QWIyG2HE1EJZQh4LJBSwi5usKr0c35RtTl78rMBgbuJiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Kansas City Royals",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Chicago White Sox",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-chicago-white-sox-vs-kansas-city-royals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_royals-white-sox-live-streaming-1199806992"
+            },
+            {
+                "source": "golf",
+                "id": "21569"
             }
         ]
     },
@@ -424,14 +412,6 @@
             {
                 "source": "admin",
                 "id": "ppv-los-angeles-angels-vs-cincinnati-reds"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_reds-angels-live-streaming-1199802996"
-            },
-            {
-                "source": "echo",
-                "id": "cincinnati-reds-vs-los-angeles-angels-baseball-178239"
             },
             {
                 "source": "golf",
@@ -518,14 +498,6 @@
                 "id": "ppv-minnesota-twins-vs-toronto-blue-jays"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_blue-jays-twins-live-streaming-1199801997"
-            },
-            {
-                "source": "echo",
-                "id": "toronto-blue-jays-vs-minnesota-twins-baseball-178230"
-            },
-            {
                 "source": "golf",
                 "id": "21564"
             }
@@ -554,14 +526,6 @@
                 "id": "ppv-arizona-diamondbacks-vs-philadelphia-phillies"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_phillies-diamondbacks-live-streaming-1199800998"
-            },
-            {
-                "source": "echo",
-                "id": "philadelphia-phillies-vs-arizona-diamondbacks-baseball-178234"
-            },
-            {
                 "source": "golf",
                 "id": "21562"
             }
@@ -588,10 +552,6 @@
             {
                 "source": "admin",
                 "id": "ppv-san-francisco-giants-vs-baltimore-orioles"
-            },
-            {
-                "source": "echo",
-                "id": "baltimore-orioles-vs-san-francisco-giants-baseball-178241"
             },
             {
                 "source": "golf",
@@ -709,42 +669,6 @@
         ]
     },
     {
-        "id": "toronto-raptors-vs-brooklyn-nets-2371643",
-        "title": "Toronto Raptors vs Brooklyn Nets",
-        "category": "basketball",
-        "date": 1776031200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEANFTszMHxDcNIEiBS4QiSyGswCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Toronto Raptors",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25gQIRABMw2pCG4hNGkCRAwQfM1dN8CFJra5gy8IvNEpgTWmGdjREEA"
-            },
-            "away": {
-                "name": "Brooklyn Nets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAADAoAmpEJpDcQfEIhQhTEEJcR6JhGMCZ8UXMGXhF5o501phXY0QggA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-brooklyn-nets-vs-toronto-raptors"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_raptors-nets-live-streaming-1084409505"
-            },
-            {
-                "source": "echo",
-                "id": "toronto-raptors-vs-brooklyn-nets-basketball-473570"
-            },
-            {
-                "source": "golf",
-                "id": "21553"
-            }
-        ]
-    },
-    {
         "id": "boston-celtics-vs-orlando-magic-2371637",
         "title": "Boston Celtics vs Orlando Magic",
         "category": "basketball",
@@ -849,6 +773,42 @@
             {
                 "source": "golf",
                 "id": "21552"
+            }
+        ]
+    },
+    {
+        "id": "toronto-raptors-vs-brooklyn-nets-2371643",
+        "title": "Toronto Raptors vs Brooklyn Nets",
+        "category": "basketball",
+        "date": 1776031200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEANFTszMHxDcNIEiBS4QiSyGswCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Toronto Raptors",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25gQIRABMw2pCG4hNGkCRAwQfM1dN8CFJra5gy8IvNEpgTWmGdjREEA"
+            },
+            "away": {
+                "name": "Brooklyn Nets",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAADAoAmpEJpDcQfEIhQhTEEJcR6JhGMCZ8UXMGXhF5o501phXY0QggA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-brooklyn-nets-vs-toronto-raptors"
+            },
+            {
+                "source": "delta",
+                "id": "live_nba_raptors-nets-live-streaming-1084409505"
+            },
+            {
+                "source": "echo",
+                "id": "toronto-raptors-vs-brooklyn-nets-basketball-473570"
+            },
+            {
+                "source": "golf",
+                "id": "21553"
             }
         ]
     },
