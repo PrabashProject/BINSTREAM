@@ -24,30 +24,6 @@
         ]
     },
     {
-        "id": "greater-western-sydney-giants-vs-richmond-football-club-2399853",
-        "title": "Greater Western Sydney Giants vs Richmond Football Club",
-        "category": "afl",
-        "date": 1775970900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDAbAp5LGD4huIKSAMljpkBEMWFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Greater Western Sydney Giants",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1EATEKurcEIbhpAQQfECeMwTIRCgIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Richmond Football Club",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAADGF5gwAEwYhuIHSAgg+IC+ZhmQKXAQpM+KLmDLwi80S6a1toqTogA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "greater-western-sydney-giants-vs-richmond-tigers-australian-football-3388"
-            }
-        ]
-    },
-    {
         "id": "ppv-rizin-landmark-13",
         "title": "RIZIN Landmark 13",
         "category": "fight",
@@ -422,6 +398,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-bordeaux-begles-vs-stade-toulousain"
+            },
             {
                 "source": "echo",
                 "id": "bordeaux-begles-vs-stade-toulousain-rugby-52987"
