@@ -1,18 +1,5 @@
 [
     {
-        "id": "ppv-event-17-masters-green-jacket-presentation-ceremony-game-19964",
-        "title": "Masters Green Jacket Presentation Ceremony",
-        "category": "other",
-        "date": 1776038400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-17-masters-green-jacket-presentation-ceremony-game-19964"
-            }
-        ]
-    },
-    {
         "id": "atp-wta-barcelona-munich-rouen-stuttgart-tn-1",
         "title": "ATP / WTA: Barcelona / Munich / Rouen / Stuttgart \ud83c\udfbe",
         "category": "tennis",
@@ -72,6 +59,10 @@
                 "id": "ppv-fiorentina-vs-lazio"
             },
             {
+                "source": "delta",
+                "id": "live_serie-a_fiorentina-lazio-live-streaming-1094308596"
+            },
+            {
                 "source": "echo",
                 "id": "fiorentina-vs-lazio-football-1378178"
             }
@@ -98,6 +89,10 @@
             {
                 "source": "admin",
                 "id": "ppv-manchester-united-vs-leeds-united"
+            },
+            {
+                "source": "delta",
+                "id": "live_premier-league_man-utd-leeds-live-streaming-1094071833"
             },
             {
                 "source": "echo",
@@ -130,6 +125,10 @@
             {
                 "source": "admin",
                 "id": "ppv-levante-vs-getafe"
+            },
+            {
+                "source": "delta",
+                "id": "live_laliga_levante-getafe-live-streaming-1094320584"
             },
             {
                 "source": "echo",
@@ -386,42 +385,6 @@
             {
                 "source": "golf",
                 "id": "21577"
-            }
-        ]
-    },
-    {
-        "id": "new-york-yankees-vs-los-angeles-angels-2387114",
-        "title": "New York Yankees vs Los Angeles Angels",
-        "category": "baseball",
-        "date": 1776121500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH68wSeSHhhemkFhMgSxxNX0gYIECyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New York Yankees",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Los Angeles Angels",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-new-york-mets-vs-los-angeles-dodgers"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_yankees-angels-live-streaming-1199948850"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-dodgers-vs-new-york-mets-baseball-178250"
-            },
-            {
-                "source": "golf",
-                "id": "21591"
             }
         ]
     },
