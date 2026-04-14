@@ -1,70 +1,5 @@
 [
     {
-        "id": "los-angeles-dodgers-vs-new-york-mets-2387115",
-        "title": "Los Angeles Dodgers vs New York Mets",
-        "category": "baseball",
-        "date": 1776132600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoNC8w2lKBC8QWIyBIGQiahZAwQKFkgpYRcxijCq9HD+UbU5eviswGAe4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Los Angeles Dodgers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5KwJCAAmIRN20HEIYyBQg+J+AQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "New York Mets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21596"
-            }
-        ]
-    },
-    {
-        "id": "athletics-vs-texas-rangers-2387118",
-        "title": "Athletics vs Texas Rangers",
-        "category": "baseball",
-        "date": 1776130800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRCNaKEPVC8QWIyE2HE1PSEPN8wJBSwi5jFGFUoe78trme79GDu4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Athletics",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA"
-            },
-            "away": {
-                "name": "Texas Rangers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21595"
-            }
-        ]
-    },
-    {
-        "id": "live-event_monday-night-raw-live-stream",
-        "title": "Monday Night Raw",
-        "category": "fight",
-        "date": 1776124800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_monday-night-raw-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "wwe-monday-night-raw-wwe-2025"
-            }
-        ]
-    },
-    {
         "id": "atp-wta-barcelona-munich-rouen-stuttgart-tn-1",
         "title": "ATP / WTA: Barcelona / Munich / Rouen / Stuttgart \ud83c\udfbe",
         "category": "tennis",
@@ -146,6 +81,10 @@
             {
                 "source": "admin",
                 "id": "ppv-atl-tico-madrid-vs-barcelona"
+            },
+            {
+                "source": "delta",
+                "id": "live_uefa-champions-league-knockout-stage_atl-madrid-barcelona-live-streaming-1239575184"
             },
             {
                 "source": "golf",
@@ -554,12 +493,12 @@
         "popular": true,
         "teams": {
             "home": {
-                "name": "Miami Heat",
-                "badge": ""
+                "name": "Charlotte Hornets",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiETZ65BgGNmknvDFVuBLqzBhc+S0A"
             },
             "away": {
-                "name": "Charlotte Hornets",
-                "badge": ""
+                "name": "Miami Heat",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggAxvXINNWST3hiq3Al1ZgwufFaA"
             }
         },
         "sources": [
@@ -570,6 +509,10 @@
             {
                 "source": "delta",
                 "id": "live_nba_hornets-heat-live-streaming-1269733995"
+            },
+            {
+                "source": "echo",
+                "id": "charlotte-hornets-vs-miami-heat-basketball-497760"
             },
             {
                 "source": "golf",
