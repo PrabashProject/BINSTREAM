@@ -22,10 +22,6 @@
                 "id": "ppv-atl-tico-madrid-vs-barcelona"
             },
             {
-                "source": "delta",
-                "id": "live_uefa-champions-league-knockout-stage_atl-madrid-barcelona-live-streaming-1239575184"
-            },
-            {
                 "source": "golf",
                 "id": "21613"
             }
@@ -52,14 +48,6 @@
             {
                 "source": "admin",
                 "id": "ppv-liverpool-vs-paris-saint-germain"
-            },
-            {
-                "source": "delta",
-                "id": "live_uefa-champions-league-knockout-stage_liverpool-psg-live-streaming-1239576183"
-            },
-            {
-                "source": "echo",
-                "id": "liverpool-vs-paris-saint-germain-football-1534912"
             },
             {
                 "source": "golf",
@@ -436,6 +424,42 @@
             {
                 "source": "golf",
                 "id": "21626"
+            }
+        ]
+    },
+    {
+        "id": "new-york-yankees-vs-los-angeles-angels-2387124",
+        "title": "New York Yankees vs Los Angeles Angels",
+        "category": "baseball",
+        "date": 1776207900000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFnSQEEIMH4QvPSZJGQiahfMgWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "New York Yankees",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Los Angeles Angels",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-new-york-mets-vs-los-angeles-dodgers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_yankees-angels-live-streaming-1199975823"
+            },
+            {
+                "source": "echo",
+                "id": "los-angeles-dodgers-vs-new-york-mets-baseball-178262"
+            },
+            {
+                "source": "golf",
+                "id": "21656"
             }
         ]
     },
