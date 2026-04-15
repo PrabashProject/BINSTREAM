@@ -1,18 +1,5 @@
 [
     {
-        "id": "atp-wta-barcelona-munich-rouen-stuttgart-tn-1",
-        "title": "ATP / WTA: Barcelona / Munich / Rouen / Stuttgart \ud83c\udfbe",
-        "category": "tennis",
-        "date": 1776243600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "atp-wta-barcelona-munich-rouen-stuttgart-tn-1"
-            }
-        ]
-    },
-    {
         "id": "royal-challengers-bangalore-vs-lucknow-super-giants-2464248",
         "title": "Royal Challengers Bangalore vs Lucknow Super Giants",
         "category": "cricket",
@@ -33,6 +20,19 @@
             {
                 "source": "admin",
                 "id": "ppv-royal-challengers-bengaluru-vs-lucknow-super-giants"
+            }
+        ]
+    },
+    {
+        "id": "atp-wta-barcelona-munich-rouen-stuttgart-tn-1",
+        "title": "ATP / WTA: Barcelona / Munich / Rouen / Stuttgart \ud83c\udfbe",
+        "category": "tennis",
+        "date": 1776243600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atp-wta-barcelona-munich-rouen-stuttgart-tn-1"
             }
         ]
     },
@@ -504,42 +504,6 @@
             {
                 "source": "golf",
                 "id": "21635"
-            }
-        ]
-    },
-    {
-        "id": "new-york-yankees-vs-los-angeles-angels-2387138",
-        "title": "New York Yankees vs Los Angeles Angels",
-        "category": "baseball",
-        "date": 1776294300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCG5g+uMKPyaQOnSUOIciSwWBIKfYbPoo9bFFz3l6WWW6a0wLvSiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New York Yankees",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Los Angeles Angels",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-new-york-mets-vs-los-angeles-dodgers"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_yankees-angels-live-streaming-1200068730"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-dodgers-vs-new-york-mets-baseball-178277"
-            },
-            {
-                "source": "golf",
-                "id": "21673"
             }
         ]
     },
