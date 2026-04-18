@@ -345,26 +345,18 @@
         "popular": true,
         "teams": {
             "home": {
-                "name": "Union Berlin",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZUzrkGAY2bie8EVW4EurMGFz5zQA"
+                "name": "1. FC Union Berlin",
+                "badge": ""
             },
             "away": {
                 "name": "VfL Wolfsburg",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfovrkGAY2bie8EVW4EurMGFz5zQA"
+                "badge": ""
             }
         },
         "sources": [
             {
                 "source": "admin",
                 "id": "ppv-1-fc-union-berlin-vs-vf-l-wolfsburg"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_union-berlin-wolfsburg-live-streaming-1094607297"
-            },
-            {
-                "source": "echo",
-                "id": "union-berlin-vs-vfl-wolfsburg-football-1388576"
             }
         ]
     },
@@ -389,14 +381,6 @@
             {
                 "source": "admin",
                 "id": "ppv-bayer-leverkusen-vs-fc-augsburg"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_leverkusen-augsburg-live-streaming-1094608296"
-            },
-            {
-                "source": "echo",
-                "id": "bayer-leverkusen-vs-fc-augsburg-football-1388569"
             }
         ]
     },
@@ -421,14 +405,6 @@
             {
                 "source": "admin",
                 "id": "ppv-werder-bremen-vs-hamburg-sv"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_bremen-hsv-live-streaming-1094614290"
-            },
-            {
-                "source": "echo",
-                "id": "werder-bremen-vs-hamburger-sv-football-1388577"
             }
         ]
     },
@@ -453,14 +429,6 @@
             {
                 "source": "admin",
                 "id": "ppv-tsg-hoffenheim-vs-borussia-dortmund"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_hoffenheim-dortmund-live-streaming-1094615289"
-            },
-            {
-                "source": "echo",
-                "id": "1899-hoffenheim-vs-borussia-dortmund-football-1388574"
             }
         ]
     },
@@ -483,82 +451,6 @@
         ]
     },
     {
-        "id": "ppv-mamelodi-sundowns-vs-esperance-sportive-de-tunis",
-        "title": "Mamelodi Sundowns vs. Esperance Sportive de Tunis",
-        "category": "football",
-        "date": 1776517200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEE4CRCcswCCHFYQIMYwkVpEkAGMV1BdxCjug6mphb5iTfQEMUwNuE49gBbHkvkkuZRa4cEbHZwv36YByynBBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Mamelodi Sundowns",
-                "badge": ""
-            },
-            "away": {
-                "name": "Esperance Sportive de Tunis",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-mamelodi-sundowns-vs-esperance-sportive-de-tunis"
-            }
-        ]
-    },
-    {
-        "id": "udinese-vs-parma-2265364",
-        "title": "Udinese vs Parma",
-        "category": "football",
-        "date": 1776517200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELwAMYECCgoGGkHxAlTIFCEQQLuiwWBIKfYbPoowKg20-l6WWQMmWjBPMVEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Udinese",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPmDXxoObiAj6QRozBArjeiYRjAmfFFzBlt9eaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Parma",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMCnFhwibmtwg+ICCBj6zqkPAIUmfTWzBl4ReaM1NaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-udinese-vs-parma"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_udinese-parma-live-streaming-1094846058"
-            }
-        ]
-    },
-    {
-        "id": "sirius-vs-v-ster-s-2398774",
-        "title": "Sirius vs V\u00e4ster\u00e5s",
-        "category": "football",
-        "date": 1776517200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTTrYBBCdEJEGJggAxsG7iQ9MWLkgQWaquzAxqsQ3kRBjQWuNYUwNuE49gBLRbDkkuKRa4cEbbsYv36YBxGnBBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Sirius",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTVVqgCbYQ3EBFwgUhkHxAaTIEjoIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "V\u00e4ster\u00e5s",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksITNi3EABMQG7RBD6SIY9qMblhGMCZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-ik-sirius-vs-v-ster-s-sk"
-            }
-        ]
-    },
-    {
         "id": "rbc-heritage-pga-tour-pga-526234",
         "title": "RBC Heritage | PGA Tour",
         "category": "other",
@@ -568,6 +460,19 @@
             {
                 "source": "echo",
                 "id": "rbc-heritage-pga-tour-pga-526234"
+            }
+        ]
+    },
+    {
+        "id": "atp-wta-barcelona-munich-rouen-stuttgart-tn-1",
+        "title": "ATP / WTA: Barcelona / Munich / Rouen / Stuttgart \ud83c\udfbe",
+        "category": "tennis",
+        "date": 1776508200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atp-wta-barcelona-munich-rouen-stuttgart-tn-1"
             }
         ]
     },
@@ -606,67 +511,6 @@
             {
                 "source": "echo",
                 "id": "wests-tigers-vs-brisbane-broncos-game-17u3262"
-            }
-        ]
-    },
-    {
-        "id": "atp-wta-barcelona-munich-rouen-stuttgart-tn-1",
-        "title": "ATP / WTA: Barcelona / Munich / Rouen / Stuttgart \ud83c\udfbe",
-        "category": "tennis",
-        "date": 1776502800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "atp-wta-barcelona-munich-rouen-stuttgart-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "south-sydney-rabbitohs-vs-st--george-illawara-dragons-2417208",
-        "title": "South Sydney Rabbitohs vs St. George Illawara Dragons",
-        "category": "rugby",
-        "date": 1776497400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDBkYzHsCQhuIPiCkhzJQ7mMhLJAvop9hs+ii1sUXLeXpZZXky0YB70ohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "South Sydney Rabbitohs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw2IKKMIwQ3ECX25VIPkYAmJkwQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "St. George Illawara Dragons",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxj4CEABMwKENy0gIBxEb4hzZmAQpM+KLmDLr680faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "south-sydney-rabbitohs-vs-dragons-game-2737723"
-            }
-        ]
-    },
-    {
-        "id": "chiefs-super-rugby-vs-hurricanes-super-rugby-2416976",
-        "title": "Chiefs Super Rugby vs Hurricanes Super Rugby",
-        "category": "rugby",
-        "date": 1776495900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPWBgZABi1gQIbiD4gphjSZCIIRkCQLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Chiefs Super Rugby",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIQQKZrDBIQ3ECX2G9anCF3qCFJnw1swZeEXmiNTWmHtjREIA"
-            },
-            "away": {
-                "name": "Hurricanes Super Rugby",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnlgQMMSBCJuIEnpARDIXTC0g+hghSZ8UXMGXhF5o+01phHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "chiefs-vs-hurricanes-rugby-51829"
             }
         ]
     },
