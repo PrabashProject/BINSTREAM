@@ -1,5 +1,42 @@
 [
     {
+        "id": "ppv-event-05-world-of-outlaws-sprint-cars-tri-state-ppv-05",
+        "title": "World of Outlaws Sprint Cars Tri State",
+        "category": "other",
+        "date": 1776640500000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-05-world-of-outlaws-sprint-cars-tri-state-ppv-05"
+            }
+        ]
+    },
+    {
+        "id": "ppv-lafc-vs-san-jose-earthquakes",
+        "title": "LAFC vs. San Jose Earthquakes",
+        "category": "football",
+        "date": 1776639600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEekiAggYIbsGHcQWCmOrT+IAMZyUIBgqz9gUrcI2iUFRjvVmGRtuE49gBbHmBhySXEqNcOCNuM5H79GAcEiYQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "LAFC",
+                "badge": ""
+            },
+            "away": {
+                "name": "San Jose Earthquakes",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-lafc-vs-san-jose-earthquakes"
+            }
+        ]
+    },
+    {
         "id": "detroit-pistons-vs-orlando-magic-2467153",
         "title": "Detroit Pistons vs Orlando Magic",
         "category": "basketball",
@@ -148,14 +185,6 @@
                 "id": "ppv-texas-rangers-vs-seattle-mariners"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_mariners-rangers-live-streaming-1200451347"
-            },
-            {
-                "source": "echo",
-                "id": "seattle-mariners-vs-texas-rangers-baseball-178326"
-            },
-            {
                 "source": "golf",
                 "id": "21774"
             }
@@ -182,14 +211,6 @@
             {
                 "source": "admin",
                 "id": "ppv-toronto-blue-jays-vs-arizona-diamondbacks"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_diamondbacks-blue-jays-live-streaming-1200450348"
-            },
-            {
-                "source": "echo",
-                "id": "arizona-diamondbacks-vs-toronto-blue-jays-baseball-178338"
             },
             {
                 "source": "golf",
@@ -220,14 +241,6 @@
                 "id": "ppv-san-diego-padres-vs-los-angeles-angels"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_angels-padres-live-streaming-1200449349"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-angels-vs-san-diego-padres-baseball-178332"
-            },
-            {
                 "source": "golf",
                 "id": "21773"
             }
@@ -254,14 +267,6 @@
             {
                 "source": "admin",
                 "id": "ppv-chicago-white-sox-vs-athletics"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_athletics-white-sox-live-streaming-1200448350"
-            },
-            {
-                "source": "echo",
-                "id": "athletics-vs-chicago-white-sox-baseball-178337"
             },
             {
                 "source": "golf",
@@ -325,112 +330,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-los-angeles-dodgers-vs-colorado-rockies"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_rockies-dodgers-live-streaming-1200447351"
-            },
-            {
                 "source": "golf",
                 "id": "21771"
-            }
-        ]
-    },
-    {
-        "id": "colorado-avalanche-vs-los-angeles-kings-2466549",
-        "title": "Colorado Avalanche vs Los Angeles Kings",
-        "category": "hockey",
-        "date": 1776625200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMtxAQQmqWCQ6QfEFJAwQKM1ZymSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Colorado Avalanche",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA"
-            },
-            "away": {
-                "name": "Los Angeles Kings",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gIIGCHDzV3ELpApcxzavWHCMYEz4ouYMvCLzRdprTAOxoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21747"
-            }
-        ]
-    },
-    {
-        "id": "chicago-cubs-vs-new-york-mets-2387200",
-        "title": "Chicago Cubs vs New York Mets",
-        "category": "baseball",
-        "date": 1776622800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGHAh+wGSRDcQfIyH2HEORChBSCwJBT7DZ9DSpRcwZeESyyPTLRgXmKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Chicago Cubs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA"
-            },
-            "away": {
-                "name": "New York Mets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21770"
-            }
-        ]
-    },
-    {
-        "id": "minnesota-twins-vs-cincinnati-reds-2387195",
-        "title": "Minnesota Twins vs Cincinnati Reds",
-        "category": "baseball",
-        "date": 1776622200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQoggg4MBiG4g+hkCX0hEORCn0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Minnesota Twins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Cincinnati Reds",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21768"
-            }
-        ]
-    },
-    {
-        "id": "houston-astros-vs-st--louis-cardinals-2387198",
-        "title": "Houston Astros vs St. Louis Cardinals",
-        "category": "baseball",
-        "date": 1776622200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBRgU7MDL4huIAwZKGQiHIhQgFTJBT7DZ9LSp1swZeESyydTLRgXmKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Houston Astros",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA"
-            },
-            "away": {
-                "name": "St. Louis Cardinals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21769"
             }
         ]
     },
@@ -449,34 +350,6 @@
         ]
     },
     {
-        "id": "new-york-yankees-vs-kansas-city-royals-2387194",
-        "title": "New York Yankees vs Kansas City Royals",
-        "category": "baseball",
-        "date": 1776620100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXESxgUzOSG4g+hkCX0hEORChAwCwJBT7DZ9FGBU6278vSyydTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New York Yankees",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Kansas City Royals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_yankees-royals-live-streaming-1200439359"
-            },
-            {
-                "source": "echo",
-                "id": "new-york-yankees-vs-kansas-city-royals-baseball-178329"
-            }
-        ]
-    },
-    {
         "id": "ppv-2026-adcc-west-coast-trials",
         "title": "2026 ADCC West Coast Trials",
         "category": "fight",
@@ -487,43 +360,6 @@
             {
                 "source": "admin",
                 "id": "ppv-2026-adcc-west-coast-trials"
-            }
-        ]
-    },
-    {
-        "id": "ppv-lafc-vs-san-jose-earthquakes",
-        "title": "LAFC vs. San Jose Earthquakes",
-        "category": "football",
-        "date": 1776639600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEekiAggYIbsGHcQWCmOrT+IAMZyUIBgqz9gUrcI2iUFRjvVmGRtuE49gBbHmBhySXEqNcOCNuM5H79GAcEiYQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "LAFC",
-                "badge": ""
-            },
-            "away": {
-                "name": "San Jose Earthquakes",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-lafc-vs-san-jose-earthquakes"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-05-world-of-outlaws-sprint-cars-tri-state-ppv-05",
-        "title": "World of Outlaws Sprint Cars Tri State",
-        "category": "other",
-        "date": 1776640500000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-05-world-of-outlaws-sprint-cars-tri-state-ppv-05"
             }
         ]
     },
