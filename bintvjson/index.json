@@ -61,29 +61,6 @@
         ]
     },
     {
-        "id": "melbourne-demons-vs-brisbane-lions-australian-football-3397",
-        "title": "Melbourne Demons vs Brisbane Lions",
-        "category": "afl",
-        "date": 1776575700000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Melbourne Demons",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQKeuQYBjZsJ7wxVcYQaswYXPn1A"
-            },
-            "away": {
-                "name": "Brisbane Lions",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQTOuQYBjZsJ7wxVcYQaswYXPn1A"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "melbourne-demons-vs-brisbane-lions-australian-football-3397"
-            }
-        ]
-    },
-    {
         "id": "sydney-roosters-vs-newcastle-knights-2417210",
         "title": "Sydney Roosters vs Newcastle Knights",
         "category": "rugby",
@@ -143,51 +120,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-07-royal-combat-muay-thai-series-30-ppv-07"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-23-high-limit-racing-lucas-oil-ppv-32",
-        "title": "High Limit Racing Lucas Oil",
-        "category": "other",
-        "date": 1776556800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-23-high-limit-racing-lucas-oil-ppv-32"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-22-nascar-weekly-racing-hickory-ppv-22",
-        "title": "Nascar Weekly Racing Hickory",
-        "category": "other",
-        "date": 1776556800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-22-nascar-weekly-racing-hickory-ppv-22"
-            }
-        ]
-    },
-    {
-        "id": "european-darts-grand-prix-day-3-2455001",
-        "title": "European Darts Grand Prix Day 3",
-        "category": "darts",
-        "date": 1776592800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHAEsQ8MCRDcQUkPsSHjMECiMmCwJBT7DZ9FHrYoue8vSyzPTLRg7vSiEEA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-european-darts-grand-prix-day-3-afternoon-session"
-            },
-            {
-                "source": "echo",
-                "id": "european-darts-grand-prix-darts-1"
             }
         ]
     },
@@ -678,20 +610,6 @@
         ]
     },
     {
-        "id": "ppv-european-darts-grand-prix-day-3-evening-session",
-        "title": "European Darts Grand Prix | Day 3 - Evening Session",
-        "category": "darts",
-        "date": 1776614400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTEi6iE5YQAYxDcQU8SJjAIIGCAjZBUqSgkhEKCsH7cBoxgKmIGutuE49gBbHmBhySXKN1cOCNoc6779GAc8iYQQA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-european-darts-grand-prix-day-3-evening-session"
-            }
-        ]
-    },
-    {
         "id": "pisa-vs-genoa-2265361",
         "title": "Pisa vs Genoa",
         "category": "football",
@@ -716,6 +634,25 @@
             {
                 "source": "echo",
                 "id": "pisa-vs-genoa-football-1378189"
+            }
+        ]
+    },
+    {
+        "id": "european-darts-grand-prix-day-3-2455001",
+        "title": "European Darts Grand Prix Day 3",
+        "category": "darts",
+        "date": 1776614400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHAEsQ8MCRDcQUkPsSHjMECiMmCwJBT7DZ9FHrYoue8vSyzPTLRg7vSiEEA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-european-darts-grand-prix-day-3-afternoon-session"
+            },
+            {
+                "source": "echo",
+                "id": "european-darts-grand-prix-darts-1"
             }
         ]
     },
