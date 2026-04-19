@@ -1,5 +1,55 @@
 [
     {
+        "id": "ppv-2026-adcc-west-coast-trials",
+        "title": "2026 ADCC West Coast Trials",
+        "category": "fight",
+        "date": 1776618000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdECYNxD0s-ECEEgSkgMbZs1RhWAQpIGSBjD14tShXBpiLI21H9bcJx7AC8i+SS4Z+rhwRtuS-XfpgOBpwQQA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-2026-adcc-west-coast-trials"
+            }
+        ]
+    },
+    {
+        "id": "boston-celtics-vs-philadelphia-76ers-2466016",
+        "title": "Boston Celtics vs Philadelphia 76ers",
+        "category": "basketball",
+        "date": 1776618000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbtn64wfEBBDcQukiBS4QiffpimCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Boston Celtics",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0kIDaPn4Q3EABMDIPiBQhEhkhtMEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Philadelphia 76ers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8Q3ECRARNwACbrNhkNpAGdJnSgIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-philadelphia-76-ers-vs-boston-celtics"
+            },
+            {
+                "source": "delta",
+                "id": "live_nba_celtics-76ers-live-streaming-1271785941"
+            },
+            {
+                "source": "echo",
+                "id": "boston-celtics-vs-philadelphia-76ers-basketball-497900"
+            },
+            {
+                "source": "golf",
+                "id": "21755"
+            }
+        ]
+    },
+    {
         "id": "ppv-european-darts-grand-prix-day-3-evening-session",
         "title": "European Darts Grand Prix | Day 3 - Evening Session",
         "category": "darts",
@@ -34,6 +84,10 @@
             {
                 "source": "admin",
                 "id": "ppv-pisa-vs-genoa"
+            },
+            {
+                "source": "delta",
+                "id": "live_serie-a_pisa-genoa-live-streaming-1094843061"
             },
             {
                 "source": "echo",
@@ -154,10 +208,6 @@
             {
                 "source": "admin",
                 "id": "ppv-metz-vs-paris-fc"
-            },
-            {
-                "source": "echo",
-                "id": "metz-vs-paris-fc-football-1387963"
             }
         ]
     },
@@ -186,30 +236,6 @@
             {
                 "source": "echo",
                 "id": "nantes-vs-stade-brestois-29-football-1387965"
-            }
-        ]
-    },
-    {
-        "id": "wigan-warriors-vs-castleford-tigers-2395896",
-        "title": "Wigan Warriors vs Castleford Tigers",
-        "category": "rugby",
-        "date": 1776607200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFJB8QtfLhDctITSRBmzOU4YlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Wigan Warriors",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmzUCGkg+IbiBXaQiEiAggUIS3vgEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Castleford Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJlu0FCC3cQfEABMQOnYYghEe5YRjAmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "wigan-warriors-vs-castleford-tigers-game-37322"
             }
         ]
     },
@@ -318,56 +344,6 @@
             {
                 "source": "echo",
                 "id": "european-darts-grand-prix-darts-1"
-            }
-        ]
-    },
-    {
-        "id": "ppv-2026-adcc-west-coast-trials",
-        "title": "2026 ADCC West Coast Trials",
-        "category": "fight",
-        "date": 1776618000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdECYNxD0s-ECEEgSkgMbZs1RhWAQpIGSBjD14tShXBpiLI21H9bcJx7AC8i+SS4Z+rhwRtuS-XfpgOBpwQQA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-2026-adcc-west-coast-trials"
-            }
-        ]
-    },
-    {
-        "id": "boston-celtics-vs-philadelphia-76ers-2466016",
-        "title": "Boston Celtics vs Philadelphia 76ers",
-        "category": "basketball",
-        "date": 1776618000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbtn64wfEBBDcQukiBS4QiffpimCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Boston Celtics",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0kIDaPn4Q3EABMDIPiBQhEhkhtMEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Philadelphia 76ers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8Q3ECRARNwACbrNhkNpAGdJnSgIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-philadelphia-76-ers-vs-boston-celtics"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_celtics-76ers-live-streaming-1271785941"
-            },
-            {
-                "source": "echo",
-                "id": "boston-celtics-vs-philadelphia-76ers-basketball-497900"
-            },
-            {
-                "source": "golf",
-                "id": "21755"
             }
         ]
     },
@@ -580,6 +556,20 @@
         ]
     },
     {
+        "id": "ppv-nascar-cup-series-jack-links-500",
+        "title": "NASCAR Cup Series: Jack Links 500",
+        "category": "motor-sports",
+        "date": 1776621600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEBkIO4gIILPxAlBErNhCIpMEAGNgw4cvnVtSmMBL612wXs7CIKYG3CcewAtjxXySXMstcOCNt0ZOH9GAcwBB+EEA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-nascar-cup-series-jack-links-500"
+            }
+        ]
+    },
+    {
         "id": "houston-astros-vs-stlouis-cardinals-baseball-178333",
         "title": "Houston Astros vs St.Louis Cardinals",
         "category": "baseball",
@@ -599,38 +589,6 @@
             {
                 "source": "echo",
                 "id": "houston-astros-vs-stlouis-cardinals-baseball-178333"
-            }
-        ]
-    },
-    {
-        "id": "houston-astros-vs-st--louis-cardinals-2387198",
-        "title": "Houston Astros vs St. Louis Cardinals",
-        "category": "baseball",
-        "date": 1776622200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBRgU7MDL4huIAwZKGQiHIhQgFTJBT7DZ9LSp1swZeESyydTLRgXmKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Houston Astros",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA"
-            },
-            "away": {
-                "name": "St. Louis Cardinals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-st-louis-cardinals-vs-houston-astros"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_astros-cardinals-live-streaming-1200444354"
-            },
-            {
-                "source": "golf",
-                "id": "21769"
             }
         ]
     },
@@ -667,6 +625,38 @@
             {
                 "source": "golf",
                 "id": "21768"
+            }
+        ]
+    },
+    {
+        "id": "houston-astros-vs-st--louis-cardinals-2387198",
+        "title": "Houston Astros vs St. Louis Cardinals",
+        "category": "baseball",
+        "date": 1776622200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBRgU7MDL4huIAwZKGQiHIhQgFTJBT7DZ9LSp1swZeESyydTLRgXmKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Houston Astros",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA"
+            },
+            "away": {
+                "name": "St. Louis Cardinals",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-st-louis-cardinals-vs-houston-astros"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_astros-cardinals-live-streaming-1200444354"
+            },
+            {
+                "source": "golf",
+                "id": "21769"
             }
         ]
     },
@@ -992,42 +982,6 @@
         ]
     },
     {
-        "id": "arizona-diamondbacks-vs-toronto-blue-jays-2387203",
-        "title": "Arizona Diamondbacks vs Toronto Blue Jays",
-        "category": "baseball",
-        "date": 1776629400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCDjwwJEPRzcQfIyF2HEORChAoCwJBT7DZ9FDrYouO8vtmemtGDu9KIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Arizona Diamondbacks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Toronto Blue Jays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-toronto-blue-jays-vs-arizona-diamondbacks"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_diamondbacks-blue-jays-live-streaming-1200450348"
-            },
-            {
-                "source": "echo",
-                "id": "arizona-diamondbacks-vs-toronto-blue-jays-baseball-178338"
-            },
-            {
-                "source": "golf",
-                "id": "21775"
-            }
-        ]
-    },
-    {
         "id": "seattle-mariners-vs-texas-rangers-2387191",
         "title": "Seattle Mariners vs Texas Rangers",
         "category": "baseball",
@@ -1060,6 +1014,42 @@
             {
                 "source": "golf",
                 "id": "21774"
+            }
+        ]
+    },
+    {
+        "id": "arizona-diamondbacks-vs-toronto-blue-jays-2387203",
+        "title": "Arizona Diamondbacks vs Toronto Blue Jays",
+        "category": "baseball",
+        "date": 1776629400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCDjwwJEPRzcQfIyF2HEORChAoCwJBT7DZ9FDrYouO8vtmemtGDu9KIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Arizona Diamondbacks",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "Toronto Blue Jays",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-toronto-blue-jays-vs-arizona-diamondbacks"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_diamondbacks-blue-jays-live-streaming-1200450348"
+            },
+            {
+                "source": "echo",
+                "id": "arizona-diamondbacks-vs-toronto-blue-jays-baseball-178338"
+            },
+            {
+                "source": "golf",
+                "id": "21775"
             }
         ]
     },
@@ -1145,7 +1135,7 @@
             },
             {
                 "source": "echo",
-                "id": "ppv-event-01-wrestlemania-42-night-2-ppv-001"
+                "id": "ppv-event-02-sd-wrestlemania-42-night-2-ppv-02"
             },
             {
                 "source": "golf",
