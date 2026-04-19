@@ -1,5 +1,43 @@
 [
     {
+        "id": "mxgp-of-trentino-2420468",
+        "title": "MXGP of Trentino",
+        "category": "motor-sports",
+        "date": 1776584100000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGBTNmmuSG4g+IRCmMgYISxamGCwJBT7DZ9DSq1swZeESyytTLRgXmKiEEA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-mxgp-of-trentino-ita-day-2"
+            }
+        ]
+    },
+    {
+        "id": "west-coast-eagles-vs-fremantle-dockers-australian-football-3398",
+        "title": "West Coast Eagles vs Fremantle Dockers",
+        "category": "afl",
+        "date": 1776582600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "West Coast Eagles",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRENnrkGAY2bCe8MVXGEGrMGFz5DQA"
+            },
+            "away": {
+                "name": "Fremantle Dockers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQA+uQYBjZsJ7wxVcYQaswYXPn1A"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "west-coast-eagles-vs-fremantle-dockers-australian-football-3398"
+            }
+        ]
+    },
+    {
         "id": "parramatta-eels-vs-canterbury-bulldogs-game-17u3262",
         "title": "Parramatta Eels vs Canterbury Bulldogs",
         "category": "rugby",
@@ -83,19 +121,6 @@
         ]
     },
     {
-        "id": "ppv-event-07-royal-combat-muay-thai-series-30-ppv-07",
-        "title": "Royal Combat Muay Thai Series 30",
-        "category": "other",
-        "date": 1776560400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-07-royal-combat-muay-thai-series-30-ppv-07"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-04-raf-08-ppv-004",
         "title": "RAF 08",
         "category": "other",
@@ -109,15 +134,15 @@
         ]
     },
     {
-        "id": "ppv-event-22-nascar-weekly-racing-hickory-ppv-22",
-        "title": "Nascar Weekly Racing Hickory",
+        "id": "ppv-event-07-royal-combat-muay-thai-series-30-ppv-07",
+        "title": "Royal Combat Muay Thai Series 30",
         "category": "other",
-        "date": 1776556800000,
+        "date": 1776560400000,
         "popular": true,
         "sources": [
             {
                 "source": "echo",
-                "id": "ppv-event-22-nascar-weekly-racing-hickory-ppv-22"
+                "id": "ppv-event-07-royal-combat-muay-thai-series-30-ppv-07"
             }
         ]
     },
@@ -135,64 +160,34 @@
         ]
     },
     {
-        "id": "ppv-raf-08-dvalishvili-vs-cejudo",
-        "title": "RAF 08: Dvalishvili vs. Cejudo",
-        "category": "fight",
+        "id": "ppv-event-22-nascar-weekly-racing-hickory-ppv-22",
+        "title": "Nascar Weekly Racing Hickory",
+        "category": "other",
         "date": 1776556800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdakLCBAUQAYzHVg3EVmAQpIBiBjZGC+hEUjuIDRJKLlc1QZgpgbcJx7ACq82HJJco81w4I20zubv0wHMacEEA.webp",
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "RAF 08: Dvalishvili",
-                "badge": ""
-            },
-            "away": {
-                "name": "Cejudo",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-raf-08-dvalishvili-vs-cejudo"
-            }
-        ]
-    },
-    {
-        "id": "west-coast-eagles-vs-fremantle-dockers-australian-football-3398",
-        "title": "West Coast Eagles vs Fremantle Dockers",
-        "category": "afl",
-        "date": 1776582600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "West Coast Eagles",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRENnrkGAY2bCe8MVXGEGrMGFz5DQA"
-            },
-            "away": {
-                "name": "Fremantle Dockers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQA+uQYBjZsJ7wxVcYQaswYXPn1A"
-            }
-        },
         "sources": [
             {
                 "source": "echo",
-                "id": "west-coast-eagles-vs-fremantle-dockers-australian-football-3398"
+                "id": "ppv-event-22-nascar-weekly-racing-hickory-ppv-22"
             }
         ]
     },
     {
-        "id": "mxgp-of-trentino-2420468",
-        "title": "MXGP of Trentino",
-        "category": "motor-sports",
-        "date": 1776584100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGBTNmmuSG4g+IRCmMgYISxamGCwJBT7DZ9DSq1swZeESyytTLRgXmKiEEA.webp",
+        "id": "european-darts-grand-prix-day-3-2455001",
+        "title": "European Darts Grand Prix Day 3",
+        "category": "darts",
+        "date": 1776592800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHAEsQ8MCRDcQUkPsSHjMECiMmCwJBT7DZ9FHrYoue8vSyzPTLRg7vSiEEA.webp",
         "popular": true,
         "teams": null,
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-mxgp-of-trentino-ita-day-2"
+                "id": "ppv-european-darts-grand-prix-day-3-afternoon-session"
+            },
+            {
+                "source": "echo",
+                "id": "european-darts-grand-prix-darts-1"
             }
         ]
     },
@@ -467,30 +462,6 @@
         ]
     },
     {
-        "id": "wigan-warriors-vs-castleford-tigers-2395896",
-        "title": "Wigan Warriors vs Castleford Tigers",
-        "category": "rugby",
-        "date": 1776607200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFJB8QtfLhDctITSRBmzOU4YlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Wigan Warriors",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmzUCGkg+IbiBXaQiEiAggUIS3vgEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Castleford Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJlu0FCC3cQfEABMQOnYYghEe5YRjAmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "wigan-warriors-vs-castleford-tigers-game-37322"
-            }
-        ]
-    },
-    {
         "id": "sale-sharks-vs-saracens-2309847",
         "title": "Sale Sharks vs Saracens",
         "category": "rugby",
@@ -511,6 +482,30 @@
             {
                 "source": "echo",
                 "id": "sale-sharks-vs-saracens-rugby-50108"
+            }
+        ]
+    },
+    {
+        "id": "wigan-warriors-vs-castleford-tigers-2395896",
+        "title": "Wigan Warriors vs Castleford Tigers",
+        "category": "rugby",
+        "date": 1776607200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFJB8QtfLhDctITSRBmzOU4YlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Wigan Warriors",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmzUCGkg+IbiBXaQiEiAggUIS3vgEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Castleford Tigers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJlu0FCC3cQfEABMQOnYYghEe5YRjAmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "wigan-warriors-vs-castleford-tigers-game-37322"
             }
         ]
     },
@@ -683,6 +678,20 @@
         ]
     },
     {
+        "id": "ppv-european-darts-grand-prix-day-3-evening-session",
+        "title": "European Darts Grand Prix | Day 3 - Evening Session",
+        "category": "darts",
+        "date": 1776614400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTEi6iE5YQAYxDcQU8SJjAIIGCAjZBUqSgkhEKCsH7cBoxgKmIGutuE49gBbHmBhySXKN1cOCNoc6779GAc8iYQQA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-european-darts-grand-prix-day-3-evening-session"
+            }
+        ]
+    },
+    {
         "id": "pisa-vs-genoa-2265361",
         "title": "Pisa vs Genoa",
         "category": "football",
@@ -707,25 +716,6 @@
             {
                 "source": "echo",
                 "id": "pisa-vs-genoa-football-1378189"
-            }
-        ]
-    },
-    {
-        "id": "european-darts-grand-prix-day-3-2455001",
-        "title": "European Darts Grand Prix Day 3",
-        "category": "darts",
-        "date": 1776614400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHAEsQ8MCRDcQUkPsSHjMECiMmCwJBT7DZ9FHrYoue8vSyzPTLRg7vSiEEA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-european-darts-grand-prix-day-3-afternoon-session"
-            },
-            {
-                "source": "echo",
-                "id": "european-darts-grand-prix-darts-1"
             }
         ]
     },
@@ -790,6 +780,42 @@
             {
                 "source": "echo",
                 "id": "borussia-monchengladbach-vs-fsv-mainz-05-football-1388571"
+            }
+        ]
+    },
+    {
+        "id": "new-york-yankees-vs-kansas-city-royals-2387194",
+        "title": "New York Yankees vs Kansas City Royals",
+        "category": "baseball",
+        "date": 1776620100000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXESxgUzOSG4g+hkCX0hEORChAwCwJBT7DZ9FGBU6278vSyydTLRg7mKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "New York Yankees",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Kansas City Royals",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-kansas-city-royals-vs-new-york-yankees"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_yankees-royals-live-streaming-1200439359"
+            },
+            {
+                "source": "echo",
+                "id": "new-york-yankees-vs-kansas-city-royals-baseball-178329"
+            },
+            {
+                "source": "golf",
+                "id": "21763"
             }
         ]
     },
@@ -862,42 +888,6 @@
             {
                 "source": "golf",
                 "id": "21765"
-            }
-        ]
-    },
-    {
-        "id": "new-york-yankees-vs-kansas-city-royals-2387194",
-        "title": "New York Yankees vs Kansas City Royals",
-        "category": "baseball",
-        "date": 1776620100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXESxgUzOSG4g+hkCX0hEORChAwCwJBT7DZ9FGBU6278vSyydTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New York Yankees",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Kansas City Royals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-kansas-city-royals-vs-new-york-yankees"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_yankees-royals-live-streaming-1200439359"
-            },
-            {
-                "source": "echo",
-                "id": "new-york-yankees-vs-kansas-city-royals-baseball-178329"
-            },
-            {
-                "source": "golf",
-                "id": "21763"
             }
         ]
     },
@@ -997,6 +987,38 @@
         ]
     },
     {
+        "id": "houston-astros-vs-st--louis-cardinals-2387198",
+        "title": "Houston Astros vs St. Louis Cardinals",
+        "category": "baseball",
+        "date": 1776622200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBRgU7MDL4huIAwZKGQiHIhQgFTJBT7DZ9LSp1swZeESyydTLRgXmKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Houston Astros",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA"
+            },
+            "away": {
+                "name": "St. Louis Cardinals",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-st-louis-cardinals-vs-houston-astros"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_astros-cardinals-live-streaming-1200444354"
+            },
+            {
+                "source": "golf",
+                "id": "21769"
+            }
+        ]
+    },
+    {
         "id": "minnesota-twins-vs-cincinnati-reds-2387195",
         "title": "Minnesota Twins vs Cincinnati Reds",
         "category": "baseball",
@@ -1029,38 +1051,6 @@
             {
                 "source": "golf",
                 "id": "21768"
-            }
-        ]
-    },
-    {
-        "id": "houston-astros-vs-st--louis-cardinals-2387198",
-        "title": "Houston Astros vs St. Louis Cardinals",
-        "category": "baseball",
-        "date": 1776622200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBRgU7MDL4huIAwZKGQiHIhQgFTJBT7DZ9LSp1swZeESyydTLRgXmKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Houston Astros",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA"
-            },
-            "away": {
-                "name": "St. Louis Cardinals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-st-louis-cardinals-vs-houston-astros"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_astros-cardinals-live-streaming-1200444354"
-            },
-            {
-                "source": "golf",
-                "id": "21769"
             }
         ]
     },
@@ -1151,6 +1141,10 @@
                 "id": "ppv-juventus-vs-bologna"
             },
             {
+                "source": "delta",
+                "id": "live_serie-a_juventus-bologna-live-streaming-1094840064"
+            },
+            {
                 "source": "echo",
                 "id": "juventus-vs-bologna-football-1378186"
             }
@@ -1237,12 +1231,12 @@
         "popular": true,
         "teams": {
             "home": {
-                "name": "Phoenix Suns",
-                "badge": ""
+                "name": "Oklahoma City Thunder",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgmdcgwDGzST3hiq3Al1ZgwufFaA"
             },
             "away": {
-                "name": "Oklahoma City Thunder",
-                "badge": ""
+                "name": "Phoenix Suns",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGyr65BgGNmknvDFVuBLqzBhc+S0A"
             }
         },
         "sources": [
@@ -1253,6 +1247,10 @@
             {
                 "source": "delta",
                 "id": "live_nba_thunder-suns-live-streaming-1274417307"
+            },
+            {
+                "source": "echo",
+                "id": "oklahoma-city-thunder-vs-phoenix-suns-basketball-498067"
             },
             {
                 "source": "golf",
@@ -1511,6 +1509,10 @@
             {
                 "source": "admin",
                 "id": "ppv-wrestle-mania-42-night-2"
+            },
+            {
+                "source": "golf",
+                "id": "21811"
             }
         ]
     },
@@ -1523,12 +1525,12 @@
         "popular": true,
         "teams": {
             "home": {
-                "name": "Orlando Magic",
-                "badge": ""
+                "name": "Detroit Pistons",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggY9cgwDGzST3hiq3Al1ZgwufFaA"
             },
             "away": {
-                "name": "Detroit Pistons",
-                "badge": ""
+                "name": "Orlando Magic",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwhFdcgwDGzST3hiq3Al1ZgwufFaA"
             }
         },
         "sources": [
@@ -1539,6 +1541,10 @@
             {
                 "source": "delta",
                 "id": "live_nba_pistons-magic-live-streaming-1274418306"
+            },
+            {
+                "source": "echo",
+                "id": "detroit-pistons-vs-orlando-magic-basketball-498068"
             },
             {
                 "source": "golf",
