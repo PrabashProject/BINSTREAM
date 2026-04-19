@@ -349,14 +349,6 @@
             {
                 "source": "admin",
                 "id": "ppv-paris-saint-germain-vs-lyon"
-            },
-            {
-                "source": "delta",
-                "id": "live_ligue-1_psg-lyon-live-streaming-1094863041"
-            },
-            {
-                "source": "echo",
-                "id": "paris-saint-germain-vs-lyon-football-1387966"
             }
         ]
     },
@@ -381,14 +373,6 @@
             {
                 "source": "admin",
                 "id": "ppv-juventus-vs-bologna"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_juventus-bologna-live-streaming-1094840064"
-            },
-            {
-                "source": "echo",
-                "id": "juventus-vs-bologna-football-1378186"
             }
         ]
     },
@@ -415,39 +399,8 @@
                 "id": "ppv-new-york-mets-vs-chicago-cubs"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_cubs-mets-live-streaming-1200446352"
-            },
-            {
-                "source": "echo",
-                "id": "chicago-cubs-vs-new-york-mets-baseball-178335"
-            },
-            {
                 "source": "golf",
                 "id": "21770"
-            }
-        ]
-    },
-    {
-        "id": "houston-astros-vs-stlouis-cardinals-baseball-178333",
-        "title": "Houston Astros vs St.Louis Cardinals",
-        "category": "baseball",
-        "date": 1776622200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Houston Astros",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EERDZ65BgGNmonvElUhhBqzBhc+E0A"
-            },
-            "away": {
-                "name": "St.Louis Cardinals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EIll1yDAMbNRPeJKpDCDVmDC58xoA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "houston-astros-vs-stlouis-cardinals-baseball-178333"
             }
         ]
     },
@@ -476,10 +429,6 @@
             {
                 "source": "delta",
                 "id": "live_mlb_twins-reds-live-streaming-1200445353"
-            },
-            {
-                "source": "echo",
-                "id": "minnesota-twins-vs-cincinnati-reds-baseball-178330"
             },
             {
                 "source": "golf",
@@ -552,10 +501,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-baltimore-orioles-vs-cleveland-guardians"
-            },
-            {
                 "source": "golf",
                 "id": "21766"
             }
@@ -580,18 +525,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-milwaukee-brewers-vs-miami-marlins"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_marlins-brewers-live-streaming-1200443355"
-            },
-            {
-                "source": "echo",
-                "id": "miami-marlins-vs-milwaukee-brewers-baseball-178324"
-            },
-            {
                 "source": "golf",
                 "id": "21767"
             }
@@ -615,10 +548,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-kansas-city-royals-vs-new-york-yankees"
-            },
             {
                 "source": "delta",
                 "id": "live_mlb_yankees-royals-live-streaming-1200439359"
@@ -652,10 +581,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-san-francisco-giants-vs-washington-nationals"
-            },
-            {
                 "source": "golf",
                 "id": "21764"
             }
@@ -680,10 +605,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-tampa-bay-rays-vs-pittsburgh-pirates"
-            },
-            {
                 "source": "golf",
                 "id": "21765"
             }
@@ -700,30 +621,6 @@
             {
                 "source": "admin",
                 "id": "ppv-2026-adcc-west-coast-trials"
-            }
-        ]
-    },
-    {
-        "id": "boston-celtics-vs-philadelphia-76ers-2466016",
-        "title": "Boston Celtics vs Philadelphia 76ers",
-        "category": "basketball",
-        "date": 1776618000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbtn64wfEBBDcQukiBS4QiffpimCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Boston Celtics",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0kIDaPn4Q3EABMDIPiBQhEhkhtMEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Philadelphia 76ers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8Q3ECRARNwACbrNhkNpAGdJnSgIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21755"
             }
         ]
     },
