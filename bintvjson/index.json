@@ -1,57 +1,5 @@
 [
     {
-        "id": "atpwta-1000-madrid-tn-1",
-        "title": "ATP/WTA 1000: Madrid \ud83c\udfbe",
-        "category": "other",
-        "date": 1776936600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "atpwta-1000-madrid-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "western-bulldogs-vs-sydney-swans-2399864",
-        "title": "Western Bulldogs vs Sydney Swans",
-        "category": "afl",
-        "date": 1776936600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLAlAgY2kHxDcQUkBD0hz+nSVzmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Western Bulldogs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhaIfiFWruIACYgIIPiFMmYxrcYIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Sydney Swans",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZT22EChDcQAExAQQfECeMw9BkwQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "western-bulldogs-vs-sydney-swans-australian-football-3399"
-            }
-        ]
-    },
-    {
-        "id": "zurich-classic-of-new-orleans--2328893",
-        "title": "Zurich Classic of New Orleans ",
-        "category": "golf",
-        "date": 1776902400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOLxSUQKMHxDcQ+kiCkhzEXDusSmSCn2Gz6ulVrZgy8IlllamtGCeYqIQQA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "zurich-classic-of-new-orleans-pga-tour-pga-526234"
-            }
-        ]
-    },
-    {
         "id": "mumbai-indians-vs-chennai-super-kings-2464258",
         "title": "Mumbai Indians vs Chennai Super Kings",
         "category": "cricket",
@@ -72,6 +20,34 @@
             {
                 "source": "admin",
                 "id": "ppv-mumbai-indians-vs-chennai-super-kings"
+            }
+        ]
+    },
+    {
+        "id": "atpwta-1000-madrid-tn-1",
+        "title": "ATP/WTA 1000: Madrid \ud83c\udfbe",
+        "category": "other",
+        "date": 1776936600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atpwta-1000-madrid-tn-1"
+            }
+        ]
+    },
+    {
+        "id": "zurich-classic-of-new-orleans--2328893",
+        "title": "Zurich Classic of New Orleans ",
+        "category": "golf",
+        "date": 1776902400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOLxSUQKMHxDcQ+kiCkhzEXDusSmSCn2Gz6ulVrZgy8IlllamtGCeYqIQQA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "zurich-classic-of-new-orleans-pga-tour-pga-526234"
             }
         ]
     },
