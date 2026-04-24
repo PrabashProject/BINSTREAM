@@ -1,5 +1,22 @@
 [
     {
+        "id": "live-event_world-boxing-cup-brazil-live-stream",
+        "title": "World Boxing Cup Brazil",
+        "category": "fight",
+        "date": 1777060800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_world-boxing-cup-brazil-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-02-world-boxing-cup-brazil-ppv-02"
+            }
+        ]
+    },
+    {
         "id": "real-betis-vs-real-madrid-2279706",
         "title": "Real Betis vs Real Madrid",
         "category": "football",
@@ -24,14 +41,6 @@
             {
                 "source": "delta",
                 "id": "live_laliga_real-betis-real-madrid-live-streaming-1094853051"
-            },
-            {
-                "source": "echo",
-                "id": "real-betis-vs-real-madrid-football-1391131"
-            },
-            {
-                "source": "golf",
-                "id": "21938"
             }
         ]
     },
@@ -60,14 +69,6 @@
             {
                 "source": "delta",
                 "id": "live_premier-league_sunderland-forest-live-streaming-1095167736"
-            },
-            {
-                "source": "echo",
-                "id": "sunderland-vs-nottingham-forest-football-1379306"
-            },
-            {
-                "source": "golf",
-                "id": "21864"
             }
         ]
     },
@@ -144,135 +145,6 @@
         ]
     },
     {
-        "id": "brest-vs-lens-2278380",
-        "title": "Brest vs Lens",
-        "category": "football",
-        "date": 1777056300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKZNWSWCG4g+IEiAghzMcyBSnrBYLpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Brest",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgAJiBQNSICCG4gSmkCb7GzMXOoIUmfLWzBl4ReaK1NaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Lens",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDxYYEJTCjQ3ECRAoQxvoZCm9R5YRjAmfFF23l680Y6a0w2saIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-brest-vs-lens"
-            },
-            {
-                "source": "echo",
-                "id": "stade-brestois-29-vs-lens-football-1387969"
-            }
-        ]
-    },
-    {
-        "id": "napoli-vs-cremonese-2265372",
-        "title": "Napoli vs Cremonese",
-        "category": "football",
-        "date": 1777056300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMDDAADDxCISIbiD4hDhlPrMgYRkCALAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Napoli",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhw3MClVgAJiG4g+ICLhAo1pksf0EKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Cremonese",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATYEz64wqsChDcQJEFv1aYISzn0TCMDfxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-napoli-vs-cremonese"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_napoli-cremonese-live-streaming-1095371532"
-            },
-            {
-                "source": "echo",
-                "id": "napoli-vs-cremonese-football-1378200"
-            }
-        ]
-    },
-    {
-        "id": "newcastle-red-bulls-vs-bristol-bears-2309852",
-        "title": "Newcastle Red Bulls vs Bristol Bears",
-        "category": "rugby",
-        "date": 1777056300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKiGAAGEEpBSQ3EHxAkQ5kxf0hEUgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Newcastle Red Bulls",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksOBIQ6snxAQQ3EFpL6QhnFoAmxkPAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Bristol Bears",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzLyQ6kHD4huIACYhtGzfsM6QKAhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "newcastle-red-bulls-vs-bristol-rugby-50111"
-            }
-        ]
-    },
-    {
-        "id": "rb-leipzig-vs-union-berlin-2276914",
-        "title": "RB Leipzig vs Union Berlin",
-        "category": "football",
-        "date": 1777055400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGBDNqSYEhDcQfECRAQQMMwZA2UIKQT0U+w2fQ0qUXMGXhEssl5MtGA+YqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "RB Leipzig",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTBVA7hTQhuIEiBQgIuI6cP6JhGMCZ8UXMGXhF5o+01phHY0RCA"
-            },
-            "away": {
-                "name": "Union Berlin",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gYlECTXbVWlCH0ATEHwMmzywuqZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-rb-leipzig-vs-1-fc-union-berlin"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_leipzig-union-berlin-live-streaming-1095176727"
-            },
-            {
-                "source": "echo",
-                "id": "rb-leipzig-vs-union-berlin-football-1388584"
-            }
-        ]
-    },
-    {
-        "id": "zurich-classic-of-new-orleans-pga-tour-pga-526234",
-        "title": "Zurich Classic of New Orleans | PGA Tour",
-        "category": "other",
-        "date": 1777034700000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "zurich-classic-of-new-orleans-pga-tour-pga-526234"
-            }
-        ]
-    },
-    {
         "id": "cincinnati-reds-vs-detroit-tigers-2387264",
         "title": "Cincinnati Reds vs Detroit Tigers",
         "category": "baseball",
@@ -305,6 +177,19 @@
             {
                 "source": "golf",
                 "id": "21900"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-11-usac-kokomo-grand-prix-kokomo-ppv-11",
+        "title": "USAC Kokomo Grand Prix Kokomo",
+        "category": "other",
+        "date": 1777071600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-11-usac-kokomo-grand-prix-kokomo-ppv-11"
             }
         ]
     },
@@ -579,6 +464,19 @@
             {
                 "source": "golf",
                 "id": "21905"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-14-attica-sprints-ppv14",
+        "title": "Attica Sprints",
+        "category": "other",
+        "date": 1777073400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-14-attica-sprints-ppv14"
             }
         ]
     },
