@@ -18,18 +18,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-colorado-avalanche-vs-los-angeles-kings"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl-playoffs_kings-avalanche-live-streaming-1276289433"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-kings-vs-colorado-avalanche-hockey-424267"
-            },
-            {
                 "source": "golf",
                 "id": "21873"
             }
@@ -54,83 +42,16 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-denver-nuggets-vs-minnesota-timberwolves"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_timberwolves-nuggets-live-streaming-1275426297"
-            },
-            {
-                "source": "echo",
-                "id": "minnesota-timberwolves-vs-denver-nuggets-basketball-497909"
-            },
-            {
                 "source": "golf",
                 "id": "21870"
             }
         ]
     },
     {
-        "id": "ppv-tna-impact",
-        "title": "TNA: Impact",
-        "category": "fight",
-        "date": 1776992400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEAYxAhgJEAyEgsjRiFFYxElNgGyRq7hWARp3EDGpi1KQ4nm9gbcJx7AC2PBfJJc-JVw4I2Gzkrv0wHFrSEEA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-tna-impact"
-            },
-            {
-                "source": "echo",
-                "id": "tna-impact-tna-1"
-            }
-        ]
-    },
-    {
-        "id": "texas-rangers-vs-pittsburgh-pirates-2387246",
-        "title": "Texas Rangers vs Pittsburgh Pirates",
-        "category": "baseball",
-        "date": 1776989100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPWAUpIbpF0g+hkCQOIcEDRoLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Texas Rangers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Pittsburgh Pirates",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-pittsburgh-pirates-vs-texas-rangers"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_rangers-pirates-live-streaming-1200948849"
-            },
-            {
-                "source": "echo",
-                "id": "texas-rangers-vs-pittsburgh-pirates-baseball-178381"
-            },
-            {
-                "source": "golf",
-                "id": "21882"
-            }
-        ]
-    },
-    {
-        "id": "ppv-2026-nfl-draft-day-1",
-        "title": "2026 NFL Draft - Day 1",
+        "id": "live-event_2026-nfl-draft-live-stream",
+        "title": "2026 NFL Draft",
         "category": "american-football",
         "date": 1776988800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTe77CCEpGwEmLEgAxiE4MQMRiAggSqwQPERJ88VhD6Yy5YP1YRbcJx7AC2PMDDkkuKSK4cEbAZxF36YBzA2pwQQA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -142,10 +63,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-2026-nfl-draft-day-1"
-            },
-            {
                 "source": "delta",
                 "id": "live-event_2026-nfl-draft-live-stream"
             },
@@ -156,38 +73,15 @@
         ]
     },
     {
-        "id": "toronto-raptors-vs-cleveland-cavaliers-2466024",
-        "title": "Toronto Raptors vs Cleveland Cavaliers",
-        "category": "basketball",
-        "date": 1776988800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCE0owA0CRDcQfEPpS4QiS5qMFgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
+        "id": "motogp-spanish-grand-prix-game-122273",
+        "title": "MotoGP Spanish Grand Prix",
+        "category": "other",
+        "date": 1777014000000,
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Toronto Raptors",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25gQIRABMw2pCG4hNGkCRAwQfM1dN8CFJra5gy8IvNEpgTWmGdjREEA"
-            },
-            "away": {
-                "name": "Cleveland Cavaliers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAoEIPiFEAGENxAATQyAgmNIC0ZK4CFJnxRcwZeEXmjHTWmGdjREIA"
-            }
-        },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-cleveland-cavaliers-vs-toronto-raptors"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_raptors-cavaliers-live-streaming-1275425298"
-            },
-            {
                 "source": "echo",
-                "id": "toronto-raptors-vs-cleveland-cavaliers-basketball-497908"
-            },
-            {
-                "source": "golf",
-                "id": "21869"
+                "id": "motogp-spanish-grand-prix-game-122273"
             }
         ]
     },
@@ -216,6 +110,19 @@
         ]
     },
     {
+        "id": "atpwta-1000-madrid-tn-1",
+        "title": "ATP/WTA 1000: Madrid \ud83c\udfbe",
+        "category": "other",
+        "date": 1777021200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atpwta-1000-madrid-tn-1"
+            }
+        ]
+    },
+    {
         "id": "richmond-tigers-vs-melbourne-demons-australian-football-3400",
         "title": "Richmond Tigers vs Melbourne Demons",
         "category": "afl",
@@ -235,6 +142,42 @@
             {
                 "source": "echo",
                 "id": "richmond-tigers-vs-melbourne-demons-australian-football-3400"
+            }
+        ]
+    },
+    {
+        "id": "brisbane-broncos-vs-canterbury-bulldogs-game-576373",
+        "title": "Brisbane Broncos vs Canterbury Bulldogs",
+        "category": "rugby",
+        "date": 1777024800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Brisbane Broncos",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuAUxAQxQKwiIAmIWwEwwhw8wa16YAnGBQMbBsrBjbBcwDu2yYWgysOwJ0eEChAs5ZEHkKxgBYb2rsEkbgN7b6YUVQoQgA"
+            },
+            "away": {
+                "name": "Canterbury Bulldogs",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuAUxAQxQKwiIAmIWwEwwhw8wa16YAnGBQMbBsrBjbBcwDu2yYWgysOwJ0eEChAs5OFnkKxgBYb2rsEkbgN7b6YUVQoQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "brisbane-broncos-vs-canterbury-bulldogs-game-576373"
+            }
+        ]
+    },
+    {
+        "id": "zurich-classic-of-new-orleans-pga-tour-pga-526234",
+        "title": "Zurich Classic of New Orleans | PGA Tour",
+        "category": "other",
+        "date": 1777034700000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "zurich-classic-of-new-orleans-pga-tour-pga-526234"
             }
         ]
     },
@@ -550,6 +493,78 @@
         ]
     },
     {
+        "id": "leeds-rhinos-vs-catalans-dragons-2395899",
+        "title": "Leeds Rhinos vs Catalans Dragons",
+        "category": "rugby",
+        "date": 1777057200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBTRuYECAghuIDVJAk9FnOcQKmSCn2Gz6WlSi5gy8IllnumtGCeYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Leeds Rhinos",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgUYbmD5gAJrpDcQEIyD4hzZkqZOMKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Catalans Dragons",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOoATMOBQaQ3EBFwhVIFCER8D+5YRjAmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "leeds-rhinos-vs-catalans-dragons-game-184842"
+            }
+        ]
+    },
+    {
+        "id": "warrington-wolves-vs-wigan-warriors-2395900",
+        "title": "Warrington Wolves vs Wigan Warriors",
+        "category": "rugby",
+        "date": 1777057200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWtzAg5IFGCQhuIPiCkgSIS5ZwWIuAsCQU+w2fT0qUXMGXhEssl5MtGA+YqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Warrington Wolves",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplq8UXJMAAMIbiAAmIEgZB8Q5lCb36CFJn3VswZeEXmj1TWmGdjREIA"
+            },
+            "away": {
+                "name": "Wigan Warriors",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmzUCGkg+IbiBXaQiEiAggUIS3vgEKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "warrington-wolves-vs-wigan-warriors-game-37322"
+            }
+        ]
+    },
+    {
+        "id": "castleford-tigers-vs-hull-f-c--2395901",
+        "title": "Castleford Tigers vs Hull F.C.",
+        "category": "rugby",
+        "date": 1777057200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCBQht2gQAYQ3EHxBSQJHdpwWImgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Castleford Tigers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJlu0FCC3cQfEABMQOnYYghEe5YRjAmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Hull F.C.",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4ATfsCa0kIbiD4hVu40YggSIGOYIUmfFFzBl4ReaIdbgYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "castleford-tigers-vs-hull-fc-game-182283"
+            }
+        ]
+    },
+    {
         "id": "cincinnati-reds-vs-detroit-tigers-2387264",
         "title": "Cincinnati Reds vs Detroit Tigers",
         "category": "baseball",
@@ -567,6 +582,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-detroit-tigers-vs-cincinnati-reds"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_reds-tigers-live-streaming-1201028769"
+            },
             {
                 "source": "echo",
                 "id": "cincinnati-reds-vs-detroit-tigers-baseball-178399"
@@ -622,6 +645,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-tampa-bay-lightning-vs-montreal-canadiens"
+            },
+            {
                 "source": "echo",
                 "id": "montreal-canadiens-vs-tampa-bay-lightning-hockey-424204"
             },
@@ -649,6 +676,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-boston-celtics-vs-philadelphia-76-ers"
+            },
+            {
+                "source": "delta",
+                "id": "live_nba_76ers-celtics-live-streaming-1276315407"
+            },
             {
                 "source": "echo",
                 "id": "philadelphia-76ers-vs-boston-celtics-basketball-497910"
@@ -678,6 +713,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-boston-red-sox-vs-baltimore-orioles"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_orioles-red-sox-live-streaming-1201029768"
+            },
+            {
                 "source": "echo",
                 "id": "baltimore-orioles-vs-boston-red-sox-baseball-178401"
             },
@@ -705,6 +748,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-cleveland-guardians-vs-toronto-blue-jays"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_blue-jays-guardians-live-streaming-1201030767"
+            },
             {
                 "source": "echo",
                 "id": "toronto-blue-jays-vs-cleveland-guardians-baseball-178389"
@@ -734,6 +785,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-colorado-rockies-vs-new-york-mets"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_mets-rockies-live-streaming-1201031766"
+            },
+            {
                 "source": "echo",
                 "id": "new-york-mets-vs-colorado-rockies-baseball-178393"
             },
@@ -761,6 +820,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-minnesota-twins-vs-tampa-bay-rays"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_rays-twins-live-streaming-1201032765"
+            },
             {
                 "source": "echo",
                 "id": "tampa-bay-rays-vs-minnesota-twins-baseball-178391"
@@ -790,6 +857,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-philadelphia-phillies-vs-atlanta-braves"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_braves-phillies-live-streaming-1201033764"
+            },
+            {
                 "source": "echo",
                 "id": "atlanta-braves-vs-philadelphia-phillies-baseball-178397"
             },
@@ -817,6 +892,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-pittsburgh-pirates-vs-milwaukee-brewers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_brewers-pirates-live-streaming-1201036761"
+            },
             {
                 "source": "echo",
                 "id": "milwaukee-brewers-vs-pittsburgh-pirates-baseball-178388"
@@ -846,6 +929,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-los-angeles-angels-vs-kansas-city-royals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_royals-angels-live-streaming-1201035762"
+            },
+            {
                 "source": "echo",
                 "id": "kansas-city-royals-vs-los-angeles-angels-baseball-178396"
             },
@@ -873,6 +964,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-washington-nationals-vs-chicago-white-sox"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_white-sox-nationals-live-streaming-1201034763"
+            },
             {
                 "source": "echo",
                 "id": "chicago-white-sox-vs-washington-nationals-baseball-178400"
