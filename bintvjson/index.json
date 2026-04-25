@@ -1,5 +1,48 @@
 [
     {
+        "id": "ppv-event-02-world-boxing-cup-brazil-ppv-02",
+        "title": "World Boxing Cup Brazil  \ud83d\udd25",
+        "category": "other",
+        "date": 1777150800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-02-world-boxing-cup-brazil-ppv-02"
+            }
+        ]
+    },
+    {
+        "id": "ufc-fight-night-274-sterling-vs-zalal-2449563",
+        "title": "UFC Fight Night 274 Sterling vs Zalal",
+        "category": "fight",
+        "date": 1777150800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiGAAGTiBkheBkFmMhpIFKYggYNkBfzAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "UFC Fight Night 274 Sterling"
+            },
+            "away": {
+                "name": "Zalal"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-ufc-fight-night-sterling-vs-zalal"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_ufc-fight-night-sterling-vs-zalal-live-stream"
+            },
+            {
+                "source": "golf",
+                "id": "21968"
+            }
+        ]
+    },
+    {
         "id": "new-york-mets-vs-colorado-rockies-2387272",
         "title": "New York Mets vs Colorado Rockies",
         "category": "baseball",
@@ -281,10 +324,6 @@
             {
                 "source": "admin",
                 "id": "ppv-toulouse-vs-as-monaco"
-            },
-            {
-                "source": "echo",
-                "id": "toulouse-vs-monaco-football-1387976"
             }
         ]
     },
@@ -334,10 +373,6 @@
             {
                 "source": "admin",
                 "id": "ppv-atl-tico-madrid-vs-athletic-club"
-            },
-            {
-                "source": "delta",
-                "id": "live_laliga_atl-madrid-athletic-club-live-streaming-1094847057"
             }
         ]
     },
@@ -430,38 +465,6 @@
         ]
     },
     {
-        "id": "hellas-verona-vs-lecce-2265375",
-        "title": "Hellas Verona vs Lecce",
-        "category": "football",
-        "date": 1777142700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKKZIQMULBDcQfDSZQhEJHSAhGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Hellas Verona",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggAJswVs1IbiBIgUIRBH0g+54+YIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Lecce",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgoAEzBJghHNxAkQ6kHxCJjhnBBAoCFJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-hellas-verona-vs-lecce"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_verona-lecce-live-streaming-1095368535"
-            },
-            {
-                "source": "echo",
-                "id": "hellas-verona-vs-lecce-football-1378203"
-            }
-        ]
-    },
-    {
         "id": "cf-montr-al-vs-new-york-city-fc-2406851",
         "title": "CF Montr\u00e9al vs New York City FC",
         "category": "football",
@@ -482,10 +485,6 @@
             {
                 "source": "admin",
                 "id": "ppv-cf-montr-al-vs-new-york-city-fc"
-            },
-            {
-                "source": "delta",
-                "id": "live_mls_montreal-ny-city-live-streaming-1118085795"
             }
         ]
     },
@@ -624,30 +623,6 @@
         ]
     },
     {
-        "id": "orlando-magic-vs-detroit-pistons-2467179",
-        "title": "Orlando Magic vs Detroit Pistons",
-        "category": "basketball",
-        "date": 1777136400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjCikYATr4huIAyQ24QiCCCtGJTHTH7DZ9TSpRct5ellkemtGBaYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Orlando Magic",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplpJyAExC0c3EHxAQQRlHoO4tICYRjAmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Detroit Pistons",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8QfMN2zMQ3EABNcukCRAoQEdSd0EKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21914"
-            }
-        ]
-    },
-    {
         "id": "baltimore-orioles-vs-boston-red-sox-2387279",
         "title": "Baltimore Orioles vs Boston Red Sox",
         "category": "baseball",
@@ -667,7 +642,7 @@
         "sources": [
             {
                 "source": "golf",
-                "id": "21951"
+                "id": "21924"
             }
         ]
     },
@@ -712,62 +687,6 @@
             {
                 "source": "golf",
                 "id": "21867"
-            }
-        ]
-    },
-    {
-        "id": "zurich-classic-of-new-orleans-pga-tour-pga-526234",
-        "title": "Zurich Classic of New Orleans | PGA Tour",
-        "category": "other",
-        "date": 1777122000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "zurich-classic-of-new-orleans-pga-tour-pga-526234"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-02-world-boxing-cup-brazil-ppv-02",
-        "title": "World Boxing Cup Brazil  \ud83d\udd25",
-        "category": "other",
-        "date": 1777150800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-02-world-boxing-cup-brazil-ppv-02"
-            }
-        ]
-    },
-    {
-        "id": "ufc-fight-night-274-sterling-vs-zalal-2449563",
-        "title": "UFC Fight Night 274 Sterling vs Zalal",
-        "category": "fight",
-        "date": 1777150800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiGAAGTiBkheBkFmMhpIFKYggYNkBfzAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "UFC Fight Night 274 Sterling"
-            },
-            "away": {
-                "name": "Zalal"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-ufc-fight-night-sterling-vs-zalal"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_ufc-fight-night-sterling-vs-zalal-live-stream"
-            },
-            {
-                "source": "golf",
-                "id": "21968"
             }
         ]
     },
@@ -970,42 +889,6 @@
         ]
     },
     {
-        "id": "milwaukee-brewers-vs-pittsburgh-pirates-2387273",
-        "title": "Milwaukee Brewers vs Pittsburgh Pirates",
-        "category": "baseball",
-        "date": 1777158600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLAzoJgSYAAYQ3EH2MgShkIhwRTjHRT7DZ9FGBUoub8vQ2iPTWjA3MVEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Milwaukee Brewers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Pittsburgh Pirates",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-pittsburgh-pirates-vs-milwaukee-brewers"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_brewers-pirates-live-streaming-1235298465"
-            },
-            {
-                "source": "echo",
-                "id": "milwaukee-brewers-vs-pittsburgh-pirates-baseball-178408"
-            },
-            {
-                "source": "golf",
-                "id": "21933"
-            }
-        ]
-    },
-    {
         "id": "kansas-city-royals-vs-los-angeles-angels-2387275",
         "title": "Kansas City Royals vs Los Angeles Angels",
         "category": "baseball",
@@ -1074,6 +957,42 @@
             {
                 "source": "golf",
                 "id": "21932"
+            }
+        ]
+    },
+    {
+        "id": "milwaukee-brewers-vs-pittsburgh-pirates-2387273",
+        "title": "Milwaukee Brewers vs Pittsburgh Pirates",
+        "category": "baseball",
+        "date": 1777158600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLAzoJgSYAAYQ3EH2MgShkIhwRTjHRT7DZ9FGBUoub8vQ2iPTWjA3MVEIIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Milwaukee Brewers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Pittsburgh Pirates",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-pittsburgh-pirates-vs-milwaukee-brewers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_brewers-pirates-live-streaming-1235298465"
+            },
+            {
+                "source": "echo",
+                "id": "milwaukee-brewers-vs-pittsburgh-pirates-baseball-178408"
+            },
+            {
+                "source": "golf",
+                "id": "21933"
             }
         ]
     },
