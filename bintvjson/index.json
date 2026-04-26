@@ -1,5 +1,41 @@
 [
     {
+        "id": "kansas-city-royals-vs-los-angeles-angels-2387293",
+        "title": "Kansas City Royals vs Los Angeles Angels",
+        "category": "baseball",
+        "date": 1777245600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKJSyksMFJDcQfIxoMhEOCCBS4CwHTH7DZ9FGBVa278vSyytTLRg7mKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Kansas City Royals",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Los Angeles Angels",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-los-angeles-angels-vs-kansas-city-royals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_royals-angels-live-streaming-1255757985"
+            },
+            {
+                "source": "echo",
+                "id": "kansas-city-royals-vs-los-angeles-angels-baseball-178428"
+            },
+            {
+                "source": "golf",
+                "id": "21966"
+            }
+        ]
+    },
+    {
         "id": "la-galaxy-vs-real-salt-lake-2406852",
         "title": "LA Galaxy vs Real Salt Lake",
         "category": "football",
@@ -118,14 +154,6 @@
                 "id": "ppv-colorado-rockies-vs-new-york-mets"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_mets-rockies-live-streaming-1286842869"
-            },
-            {
-                "source": "echo",
-                "id": "new-york-mets-vs-colorado-rockies-baseball-178407"
-            },
-            {
                 "source": "golf",
                 "id": "21981"
             }
@@ -149,18 +177,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-colorado-avalanche-vs-los-angeles-kings"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl-playoffs_kings-avalanche-live-streaming-1276432290"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-kings-vs-colorado-avalanche-hockey-424269"
-            },
             {
                 "source": "golf",
                 "id": "21948"
@@ -186,10 +202,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-chicago-cubs-vs-los-angeles-dodgers"
-            },
-            {
                 "source": "golf",
                 "id": "21965"
             }
@@ -213,10 +225,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-miami-marlins-vs-san-francisco-giants"
-            },
             {
                 "source": "golf",
                 "id": "21963"
@@ -242,44 +250,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-san-diego-padres-vs-arizona-diamondbacks"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_diamondbacks-padres-live-streaming-1255754988"
-            },
-            {
-                "source": "echo",
-                "id": "arizona-diamondbacks-vs-san-diego-padres-baseball-178427"
-            },
-            {
                 "source": "golf",
                 "id": "21964"
-            }
-        ]
-    },
-    {
-        "id": "portland-trail-blazers-vs-san-antonio-spurs-2466032",
-        "title": "Portland Trail Blazers vs San Antonio Spurs",
-        "category": "basketball",
-        "date": 1777231800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBRgkFMGD4gNBkptwhEiCIZB8CwHTH7DZ9LSpRcwZeESyyPTLR6ovQhQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Portland Trail Blazers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAkwAAx0Q3bDpAATECkMgIZkCWOXjBCkz4ouYMvCLzRTprTAuxoiCA"
-            },
-            "away": {
-                "name": "San Antonio Spurs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzlhRtXvhDcQAE20GQIEiBTGQiPgQpMrXNeXrzRKYE1pg1Y0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21944"
             }
         ]
     },
@@ -299,66 +271,6 @@
             {
                 "source": "echo",
                 "id": "nascar-cup-series-jack-links-500-game-4u8337"
-            }
-        ]
-    },
-    {
-        "id": "texas-rangers-vs-athletics-2387283",
-        "title": "Texas Rangers vs Athletics",
-        "category": "baseball",
-        "date": 1777228500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLA2AAGMN1ghE3EH2MgSII4hwQQtxsCQU+w2fRRgVKLh-L0NoryZaMA8xUQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Texas Rangers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Athletics",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "21962"
-            }
-        ]
-    },
-    {
-        "id": "kansas-city-royals-vs-los-angeles-angels-2387293",
-        "title": "Kansas City Royals vs Los Angeles Angels",
-        "category": "baseball",
-        "date": 1777245600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKJSyksMFJDcQfIxoMhEOCCBS4CwHTH7DZ9FGBVa278vSyytTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Kansas City Royals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Los Angeles Angels",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-los-angeles-angels-vs-kansas-city-royals"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_royals-angels-live-streaming-1255757985"
-            },
-            {
-                "source": "echo",
-                "id": "kansas-city-royals-vs-los-angeles-angels-baseball-178428"
-            },
-            {
-                "source": "golf",
-                "id": "21966"
             }
         ]
     }
