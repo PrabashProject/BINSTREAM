@@ -1,18 +1,5 @@
 [
     {
-        "id": "1st-sprint-shootout-miami-international-autodrome-formula-1-2641",
-        "title": "1st Sprint Shootout | Miami International Autodrome |",
-        "category": "motor-sports",
-        "date": 1777667400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "1st-sprint-shootout-miami-international-autodrome-formula-1-2641"
-            }
-        ]
-    },
-    {
         "id": "miami-grand-prix-practice-1-2408132",
         "title": "Miami Grand Prix Practice 1",
         "category": "motor-sports",
@@ -28,6 +15,23 @@
             {
                 "source": "golf",
                 "id": "21889"
+            }
+        ]
+    },
+    {
+        "id": "live-event_tsendbaatar-erdenebat-vs-cobia-breedy-live-stream",
+        "title": "Tsendbaatar Erdenebat vs Cobia Breedy",
+        "category": "fight",
+        "date": 1777665600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_tsendbaatar-erdenebat-vs-cobia-breedy-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-05-erdenebat-v-breedy-ppv-05"
             }
         ]
     },
@@ -75,14 +79,6 @@
             {
                 "source": "admin",
                 "id": "ppv-girona-vs-mallorca"
-            },
-            {
-                "source": "delta",
-                "id": "live_laliga_girona-mallorca-live-streaming-1095829074"
-            },
-            {
-                "source": "echo",
-                "id": "girona-vs-mallorca-football-1391154"
             }
         ]
     },
@@ -107,18 +103,6 @@
             {
                 "source": "admin",
                 "id": "ppv-leeds-united-vs-burnley"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_leeds-burnley-live-streaming-1095619284"
-            },
-            {
-                "source": "echo",
-                "id": "leeds-vs-burnley-football-1379315"
-            },
-            {
-                "source": "golf",
-                "id": "22044"
             }
         ]
     },
@@ -147,61 +131,6 @@
         ]
     },
     {
-        "id": "pisa-vs-lecce-2265382",
-        "title": "Pisa vs Lecce",
-        "category": "football",
-        "date": 1777661100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VONzCapWyCG4g+IEsZAoQiEzBA2UBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Pisa",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyCWIFGD4huIEiG0oDIGCDOJTKAhSZ8UXMGXhF5o+01phHY0RCA"
-            },
-            "away": {
-                "name": "Lecce",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgoAEzBJghHNxAkQ6kHxCJjhnBBAoCFJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-pisa-vs-lecce"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_pisa-lecce-live-streaming-1095821082"
-            },
-            {
-                "source": "echo",
-                "id": "pisa-vs-lecce-football-1378210"
-            }
-        ]
-    },
-    {
-        "id": "real-madrid-baloncesto-vs-hapoel-tel-aviv-bc-2466678",
-        "title": "Real Madrid Baloncesto vs Hapoel Tel Aviv BC",
-        "category": "basketball",
-        "date": 1777661100000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Real Madrid Baloncesto",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gpYACa5mIbiBK5De1QZQgYuAhSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Hapoel Tel Aviv BC",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTUsCLmBDcQfEABNdIRIcOIYIZYRjAmfFJrLwi80Q6a0wYUVLpA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "real-madrid-vs-hapoel-tel-aviv-basketball-497987"
-            }
-        ]
-    },
-    {
         "id": "chicago-cubs-vs-arizona-diamondbacks-2387356",
         "title": "Chicago Cubs vs Arizona Diamondbacks",
         "category": "baseball",
@@ -222,14 +151,6 @@
             {
                 "source": "admin",
                 "id": "ppv-arizona-diamondbacks-vs-chicago-cubs"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_cubs-diamondbacks-live-streaming-1265869863"
-            },
-            {
-                "source": "echo",
-                "id": "chicago-cubs-vs-arizona-diamondbacks-baseball-178491"
             },
             {
                 "source": "golf",
