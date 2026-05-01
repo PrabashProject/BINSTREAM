@@ -1,5 +1,18 @@
 [
     {
+        "id": "cadillac-championship-pga-tour-pga-526234",
+        "title": "Cadillac Championship | PGA Tour",
+        "category": "other",
+        "date": 1777647600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "cadillac-championship-pga-tour-pga-526234"
+            }
+        ]
+    },
+    {
         "id": "rajasthan-royals-vs-delhi-capitals-2464268",
         "title": "Rajasthan Royals vs Delhi Capitals",
         "category": "cricket",
@@ -46,19 +59,6 @@
             {
                 "source": "echo",
                 "id": "atpwta-1000-madrid-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "cadillac-championship-pga-tour-pga-526234",
-        "title": "Cadillac Championship | PGA Tour",
-        "category": "other",
-        "date": 1777647600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "cadillac-championship-pga-tour-pga-526234"
             }
         ]
     },
@@ -110,13 +110,25 @@
     {
         "id": "ppv-event-03-efe-v-portable-ppv-03",
         "title": " Efe v Portable \u2b50",
-        "category": "other",
+        "category": "fight",
         "date": 1777658400000,
         "popular": true,
+        "teams": {
+            "home": {
+                "name": "Portable"
+            },
+            "away": {
+                "name": "Carter Efe"
+            }
+        },
         "sources": [
             {
                 "source": "echo",
                 "id": "ppv-event-03-efe-v-portable-ppv-03"
+            },
+            {
+                "source": "golf",
+                "id": "22121"
             }
         ]
     },
@@ -745,19 +757,6 @@
         ]
     },
     {
-        "id": "ppv-event-12-lucas-oil-late-models-circle-city-ppv-12",
-        "title": "Lucas Oil Late Models Circle City",
-        "category": "other",
-        "date": 1777679100000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-12-lucas-oil-late-models-circle-city-ppv-12"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-11-world-of-outlaws-late-models-mississippi-ppv-11",
         "title": "World of Outlaws Late Models Mississippi",
         "category": "other",
@@ -767,6 +766,19 @@
             {
                 "source": "echo",
                 "id": "ppv-event-11-world-of-outlaws-late-models-mississippi-ppv-11"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-12-lucas-oil-late-models-circle-city-ppv-12",
+        "title": "Lucas Oil Late Models Circle City",
+        "category": "other",
+        "date": 1777679100000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-12-lucas-oil-late-models-circle-city-ppv-12"
             }
         ]
     }
