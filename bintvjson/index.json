@@ -1,5 +1,18 @@
 [
     {
+        "id": "ppv-event-01-ufc-fight-night-maddalena-v-prates-ppv-01",
+        "title": "UFC Fight Night Maddalena v Prates \ud83d\udd25 \u2b50 \ud83d\udca5",
+        "category": "other",
+        "date": 1777712400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-01-ufc-fight-night-maddalena-v-prates-ppv-01"
+            }
+        ]
+    },
+    {
         "id": "ufc-fight-night-275-della-maddalena-vs-prates-2449565",
         "title": "UFC Fight Night 275 Della Maddalena vs Prates",
         "category": "fight",
@@ -129,30 +142,6 @@
             {
                 "source": "echo",
                 "id": "west-coast-eagles-vs-richmond-tigers-australian-football-3412"
-            }
-        ]
-    },
-    {
-        "id": "west-coast-eagles-vs-richmond-football-club-2399877",
-        "title": "West Coast Eagles vs Richmond Football Club",
-        "category": "afl",
-        "date": 1777702500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYORIgUwJHRDcQUkBBB8QF8zBBbTEpkgp9hs+ijAqdbD+XpZZOky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "West Coast Eagles",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAxmsXMAAmIbiB0QQfECeMwjIQ1oIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Richmond Football Club",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAADGF5gwAEwYhuIHSAgg+IC+ZhmQKXAQpM+KLmDLwi80S6a1toqTogA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-richmond-vs-west-coast-eagles"
             }
         ]
     },
@@ -344,19 +333,6 @@
             {
                 "source": "echo",
                 "id": "houston-rockets-vs-los-angeles-lakers-basketball-498773"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-01-ufc-fight-night-maddalena-v-prates-ppv-01",
-        "title": "UFC Fight Night Maddalena v Prates \ud83d\udd25 \u2b50 \ud83d\udca5",
-        "category": "other",
-        "date": 1777712400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-01-ufc-fight-night-maddalena-v-prates-ppv-01"
             }
         ]
     },
@@ -855,7 +831,7 @@
         "title": "Leinster vs RC Toulonnais",
         "category": "rugby",
         "date": 1777730400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTEkBiCEQhILCERCAxiBiiUIGePH8UwEtgqzZjMVpFrO3ECMQQ1bcJx7ACmi+SS4parhwRtujPLYrAwHMAQ3hBAA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvTAgogqkhC8QWIyeOGYIagZDwWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -1813,6 +1789,10 @@
             {
                 "source": "admin",
                 "id": "ppv-real-salt-lake-vs-portland-timbers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mls_salt-lake-portland-live-streaming-1240758000"
             },
             {
                 "source": "echo",
