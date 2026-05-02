@@ -1,5 +1,104 @@
 [
     {
+        "id": "sprint-miami-international-autodrome-formula-1-2540",
+        "title": "Sprint | Miami International Autodrome |",
+        "category": "motor-sports",
+        "date": 1777737600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "sprint-miami-international-autodrome-formula-1-2540"
+            }
+        ]
+    },
+    {
+        "id": "como-vs-napoli-2265378",
+        "title": "Como vs Napoli",
+        "category": "football",
+        "date": 1777737600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgZUWupAQQ3EHxAlTIFCERmY5vgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Como",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcYEJpDdI2kABNcIPiAiqQJLWYmEYwJnxRcwZeEXminTWmBdjREEA"
+            },
+            "away": {
+                "name": "Napoli",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhw3MClVgAJiG4g+ICLhAo1pksf0EKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-como-vs-napoli"
+            },
+            {
+                "source": "delta",
+                "id": "live_serie-a_como-napoli-live-streaming-1095817086"
+            },
+            {
+                "source": "echo",
+                "id": "como-vs-napoli-football-1378206"
+            }
+        ]
+    },
+    {
+        "id": "miami-grand-prix-sprint-2408134",
+        "title": "Miami Grand Prix Sprint",
+        "category": "motor-sports",
+        "date": 1777737600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGCQgQsgAxgSIbiD4mQEEClwgYNo9oLAkFPsNn0UBtii4Hy9LFkfJlowL3pRCCA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Miami Grand Prix"
+            },
+            "away": {
+                "name": "Qualifying"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-miami-grand-prix-qualifying"
+            },
+            {
+                "source": "golf",
+                "id": "21890"
+            }
+        ]
+    },
+    {
+        "id": "dc-defenders-vs-dallas-renegades-2432117",
+        "title": "DC Defenders vs Dallas Renegades",
+        "category": "american-football",
+        "date": 1777737600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHr8SICCBQhqIXiCynzJmCCtW9MFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "DC Defenders",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQ8MGpw4YIbiAAmIPoZBmUqkBaMGCFJnxRdN5evNFOmtMJrGiIQA"
+            },
+            "away": {
+                "name": "Dallas Renegades",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphAhukXCDIo1IPnpAwQAEwPdNOmAQpM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-dallas-renegades-vs-dc-defenders"
+            },
+            {
+                "source": "delta",
+                "id": "live_ufl_dc-defenders-dallas-renegades-live-streaming-1266162570"
+            }
+        ]
+    },
+    {
         "id": "cadillac-championship-pga-tour-pga-526234",
         "title": "Cadillac Championship | PGA Tour",
         "category": "other",
@@ -150,14 +249,6 @@
             {
                 "source": "admin",
                 "id": "ppv-newcastle-united-vs-brighton-hove-albion"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_newcastle-brighton-live-streaming-1095621282"
-            },
-            {
-                "source": "golf",
-                "id": "22062"
             }
         ]
     },
@@ -200,10 +291,6 @@
             {
                 "source": "admin",
                 "id": "ppv-mansfield-town-vs-cardiff-city"
-            },
-            {
-                "source": "echo",
-                "id": "mansfield-town-vs-cardiff-football-1387654"
             }
         ]
     },
@@ -228,14 +315,6 @@
             {
                 "source": "admin",
                 "id": "ppv-wolverhampton-wanderers-vs-sunderland"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_wolves-sunderland-live-streaming-1095622281"
-            },
-            {
-                "source": "golf",
-                "id": "22063"
             }
         ]
     },
@@ -260,18 +339,6 @@
             {
                 "source": "admin",
                 "id": "ppv-brentford-vs-west-ham-united"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_brentford-west-ham-live-streaming-1095616287"
-            },
-            {
-                "source": "echo",
-                "id": "brentford-vs-west-ham-football-1379312"
-            },
-            {
-                "source": "golf",
-                "id": "22061"
             }
         ]
     },
@@ -396,14 +463,6 @@
             {
                 "source": "admin",
                 "id": "ppv-werder-bremen-vs-fc-augsburg"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_bremen-augsburg-live-streaming-1095630273"
-            },
-            {
-                "source": "echo",
-                "id": "werder-bremen-vs-fc-augsburg-football-1388595"
             }
         ]
     },
@@ -428,14 +487,6 @@
             {
                 "source": "admin",
                 "id": "ppv-tsg-hoffenheim-vs-vf-b-stuttgart"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_hoffenheim-stuttgart-live-streaming-1095631272"
-            },
-            {
-                "source": "echo",
-                "id": "1899-hoffenheim-vs-vfb-stuttgart-football-1388592"
             }
         ]
     },
@@ -460,14 +511,6 @@
             {
                 "source": "admin",
                 "id": "ppv-eintracht-frankfurt-vs-hamburg-sv"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_frankfurt-hsv-live-streaming-1095626277"
-            },
-            {
-                "source": "echo",
-                "id": "eintracht-frankfurt-vs-hamburger-sv-football-1388590"
             }
         ]
     },
@@ -492,14 +535,6 @@
             {
                 "source": "admin",
                 "id": "ppv-bayern-munich-vs-1-fc-heidenheim-1846"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_bayern-heidenheim-live-streaming-1095627276"
-            },
-            {
-                "source": "echo",
-                "id": "bayern-munchen-vs-1-fc-heidenheim-football-1388588"
             }
         ]
     },
@@ -733,28 +768,6 @@
         ]
     },
     {
-        "id": "naoya-inoue-vs-junto-nakatani-2469440",
-        "title": "Naoya Inoue vs Junto Nakatani",
-        "category": "fight",
-        "date": 1777714800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBrAADJBDwwJELxBZT5szBARrx6yyQUsIuYxSGOKHofKNqcr3xWYE0xRjCgA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Naoya Inoue"
-            },
-            "away": {
-                "name": "Junto Nakatani"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-naoya-inoue-vs-junto-nakatani"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-01-ufc-fight-night-maddalena-v-prates-ppv-01",
         "title": "UFC Fight Night Maddalena v Prates \ud83d\udd25 \u2b50 \ud83d\udca5",
         "category": "other",
@@ -764,101 +777,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-01-ufc-fight-night-maddalena-v-prates-ppv-01"
-            }
-        ]
-    },
-    {
-        "id": "ufc-fight-night-275-della-maddalena-vs-prates-2449565",
-        "title": "UFC Fight Night 275 Della Maddalena vs Prates",
-        "category": "fight",
-        "date": 1777708800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvDApgABjCy9MELxBZT5s0ZIgj04yyQUsIuYxRhV2jh-KNqc7XxWYDAPcTEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "UFC Fight Night 275 Della Maddalena"
-            },
-            "away": {
-                "name": "Prates"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-ufc-fight-night-della-maddalena-vs-prates"
-            }
-        ]
-    },
-    {
-        "id": "sprint-miami-international-autodrome-formula-1-2540",
-        "title": "Sprint | Miami International Autodrome |",
-        "category": "motor-sports",
-        "date": 1777737600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "sprint-miami-international-autodrome-formula-1-2540"
-            }
-        ]
-    },
-    {
-        "id": "como-vs-napoli-2265378",
-        "title": "Como vs Napoli",
-        "category": "football",
-        "date": 1777737600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgZUWupAQQ3EHxAlTIFCERmY5vgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Como",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcYEJpDdI2kABNcIPiAiqQJLWYmEYwJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Napoli",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhw3MClVgAJiG4g+ICLhAo1pksf0EKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-como-vs-napoli"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_como-napoli-live-streaming-1095817086"
-            },
-            {
-                "source": "echo",
-                "id": "como-vs-napoli-football-1378206"
-            }
-        ]
-    },
-    {
-        "id": "dc-defenders-vs-dallas-renegades-2432117",
-        "title": "DC Defenders vs Dallas Renegades",
-        "category": "american-football",
-        "date": 1777737600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHr8SICCBQhqIXiCynzJmCCtW9MFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "DC Defenders",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQ8MGpw4YIbiAAmIPoZBmUqkBaMGCFJnxRdN5evNFOmtMJrGiIQA"
-            },
-            "away": {
-                "name": "Dallas Renegades",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphAhukXCDIo1IPnpAwQAEwPdNOmAQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-dallas-renegades-vs-dc-defenders"
-            },
-            {
-                "source": "delta",
-                "id": "live_ufl_dc-defenders-dallas-renegades-live-streaming-1266162570"
             }
         ]
     },
@@ -1369,32 +1287,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-05-petrosyanmania-milan-ppv-05"
-            }
-        ]
-    },
-    {
-        "id": "miami-grand-prix-sprint-2408134",
-        "title": "Miami Grand Prix Sprint",
-        "category": "motor-sports",
-        "date": 1777752000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGCQgQsgAxgSIbiD4mQEEClwgYNo9oLAkFPsNn0UBtii4Hy9LFkfJlowL3pRCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Miami Grand Prix"
-            },
-            "away": {
-                "name": "Qualifying"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-miami-grand-prix-sprint"
-            },
-            {
-                "source": "golf",
-                "id": "21890"
             }
         ]
     },
