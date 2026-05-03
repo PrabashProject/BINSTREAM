@@ -1,5 +1,46 @@
 [
     {
+        "id": "ppv-event-04-mark-balzano-memorial-wvms-ppv-004",
+        "title": "Mark Balzano Memorial WVMS",
+        "category": "other",
+        "date": 1777842000000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-04-mark-balzano-memorial-wvms-ppv-004"
+            }
+        ]
+    },
+    {
+        "id": "connecticut-sun-vs-new-york-liberty-2448979",
+        "title": "Connecticut Sun vs New York Liberty",
+        "category": "basketball",
+        "date": 1777842000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBA1g+IXqBS6QUkCUMGDIDSZDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Connecticut Sun",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggo4JM1IhuIEntwgAJiD4gU5kKuWEYwJnxRcwZeEXminTWmBdjREEA"
+            },
+            "away": {
+                "name": "New York Liberty",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTwwKEKPAgQ3EHxAxc+zSZ0GJhGMCZ8UXMGTX15o+01phHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-new-york-liberty-vs-connecticut-sun"
+            },
+            {
+                "source": "delta",
+                "id": "live_wnba-preseason_connecticut-liberty-live-streaming-1290803904"
+            }
+        ]
+    },
+    {
         "id": "san-diego-padres-vs-chicago-white-sox-2387378",
         "title": "San Diego Padres vs Chicago White Sox",
         "category": "baseball",
@@ -298,10 +339,6 @@
                 "id": "ppv-espanyol-vs-real-madrid"
             },
             {
-                "source": "delta",
-                "id": "live_laliga_espanyol-real-madrid-live-streaming-1095827076"
-            },
-            {
                 "source": "echo",
                 "id": "espanyol-vs-real-madrid-football-1391152"
             },
@@ -386,10 +423,6 @@
                 "id": "ppv-inter-milan-vs-parma"
             },
             {
-                "source": "delta",
-                "id": "live_serie-a_inter-parma-live-streaming-1095819084"
-            },
-            {
                 "source": "echo",
                 "id": "inter-vs-parma-football-1378208"
             }
@@ -458,29 +491,6 @@
         ]
     },
     {
-        "id": "stlouis-cardinals-vs-los-angeles-dodgers-baseball-178515",
-        "title": "St.Louis Cardinals vs Los Angeles Dodgers",
-        "category": "baseball",
-        "date": 1777832100000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "St.Louis Cardinals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EIll1yDAMbNRPeJKpDCDVmDC58xoA"
-            },
-            "away": {
-                "name": "Los Angeles Dodgers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EERAh65BgGNmonvElUhhBqzBhc+E0A"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "stlouis-cardinals-vs-los-angeles-dodgers-baseball-178515"
-            }
-        ]
-    },
-    {
         "id": "st--louis-cardinals-vs-los-angeles-dodgers-2387380",
         "title": "St. Louis Cardinals vs Los Angeles Dodgers",
         "category": "baseball",
@@ -503,40 +513,8 @@
                 "id": "ppv-los-angeles-dodgers-vs-st-louis-cardinals"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_cardinals-dodgers-live-streaming-1266437295"
-            },
-            {
                 "source": "golf",
                 "id": "22140"
-            }
-        ]
-    },
-    {
-        "id": "aston-villa-vs-tottenham-hotspur-2267414",
-        "title": "Aston Villa vs Tottenham Hotspur",
-        "category": "football",
-        "date": 1777831200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPTI4+IUSBDcQOkiBghEOMyn1GCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Aston Villa",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRgUwAAzU4AExDcQffYZCIYIFCCuWJhGMCZ91bMGXhF5o9U1phXY0QggA"
-            },
-            "away": {
-                "name": "Tottenham Hotspur",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3oATMCmCriYENxCqQMEBCMgUJvWZQEKTPprZgy8IvNGamtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-aston-villa-vs-tottenham-hotspur"
-            },
-            {
-                "source": "echo",
-                "id": "aston-villa-vs-tottenham-football-1379310"
             }
         ]
     },
@@ -561,14 +539,6 @@
             {
                 "source": "admin",
                 "id": "ppv-philadelphia-phillies-vs-miami-marlins"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_marlins-phillies-live-streaming-1266435297"
-            },
-            {
-                "source": "echo",
-                "id": "miami-marlins-vs-philadelphia-phillies-baseball-178520"
             },
             {
                 "source": "golf",
@@ -597,10 +567,6 @@
             {
                 "source": "admin",
                 "id": "ppv-san-francisco-giants-vs-tampa-bay-rays"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_rays-giants-live-streaming-1266436296"
             },
             {
                 "source": "golf",
@@ -633,10 +599,6 @@
             {
                 "source": "delta",
                 "id": "live_mlb_red-sox-astros-live-streaming-1266431301"
-            },
-            {
-                "source": "echo",
-                "id": "boston-red-sox-vs-houston-astros-baseball-178518"
             },
             {
                 "source": "golf",
@@ -721,14 +683,6 @@
             {
                 "source": "admin",
                 "id": "ppv-baltimore-orioles-vs-new-york-yankees"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_yankees-orioles-live-streaming-1266432300"
-            },
-            {
-                "source": "echo",
-                "id": "new-york-yankees-vs-baltimore-orioles-baseball-178509"
             },
             {
                 "source": "golf",
@@ -818,47 +772,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-01-amsoil-championship-off-road-ppv-01"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-04-mark-balzano-memorial-wvms-ppv-004",
-        "title": "Mark Balzano Memorial WVMS",
-        "category": "other",
-        "date": 1777842000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-04-mark-balzano-memorial-wvms-ppv-004"
-            }
-        ]
-    },
-    {
-        "id": "connecticut-sun-vs-new-york-liberty-2448979",
-        "title": "Connecticut Sun vs New York Liberty",
-        "category": "basketball",
-        "date": 1777842000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBA1g+IXqBS6QUkCUMGDIDSZDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Connecticut Sun",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggo4JM1IhuIEntwgAJiD4gU5kKuWEYwJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "New York Liberty",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTwwKEKPAgQ3EHxAxc+zSZ0GJhGMCZ8UXMGTX15o+01phHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-new-york-liberty-vs-connecticut-sun"
-            },
-            {
-                "source": "delta",
-                "id": "live_wnba-preseason_connecticut-liberty-live-streaming-1290803904"
             }
         ]
     },
