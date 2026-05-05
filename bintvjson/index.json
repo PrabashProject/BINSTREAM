@@ -1,42 +1,24 @@
 [
     {
-        "id": "players-championship-14-2469310",
-        "title": "Players Championship 14",
-        "category": "darts",
-        "date": 1777978800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBCJGYEFhC8De4-ukhqIFJZAQtLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+        "id": "hapoel-tel-aviv-bc-vs-real-madrid-baloncesto-2466679",
+        "title": "Hapoel Tel Aviv BC vs Real Madrid Baloncesto",
+        "category": "basketball",
+        "date": 1777996800000,
         "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-players-championship-14"
+        "teams": {
+            "home": {
+                "name": "Hapoel Tel Aviv BC",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTUsCLmBDcQfEABNdIRIcOIYIZYRjAmfFJrLwi80Q6a0wYUVLpA"
+            },
+            "away": {
+                "name": "Real Madrid Baloncesto",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gpYACa5mIbiBK5De1QZQgYuAhSZ8UXMGXhF5ou01pgHY0RCA"
             }
-        ]
-    },
-    {
-        "id": "atpwta-1000-rome-tn-1",
-        "title": "ATP/WTA 1000: Rome \ud83c\udfbe",
-        "category": "tennis",
-        "date": 1777971600000,
-        "popular": true,
+        },
         "sources": [
             {
                 "source": "echo",
-                "id": "atpwta-1000-rome-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "uci-vuelta-a-espana-uci-world-tour-game-13622",
-        "title": "UCI Vuelta a Espana | UCI World Tour",
-        "category": "other",
-        "date": 1777987800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "uci-vuelta-a-espana-uci-world-tour-game-13622"
+                "id": "hapoel-tel-aviv-vs-real-madrid-basketball-497988"
             }
         ]
     },
@@ -65,25 +47,43 @@
         ]
     },
     {
-        "id": "hapoel-tel-aviv-bc-vs-real-madrid-baloncesto-2466679",
-        "title": "Hapoel Tel Aviv BC vs Real Madrid Baloncesto",
-        "category": "basketball",
-        "date": 1777996800000,
+        "id": "uci-vuelta-a-espana-uci-world-tour-game-13622",
+        "title": "UCI Vuelta a Espana | UCI World Tour",
+        "category": "other",
+        "date": 1777987800000,
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Hapoel Tel Aviv BC",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTUsCLmBDcQfEABNdIRIcOIYIZYRjAmfFJrLwi80Q6a0wYUVLpA"
-            },
-            "away": {
-                "name": "Real Madrid Baloncesto",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gpYACa5mIbiBK5De1QZQgYuAhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
         "sources": [
             {
                 "source": "echo",
-                "id": "hapoel-tel-aviv-vs-real-madrid-basketball-497988"
+                "id": "uci-vuelta-a-espana-uci-world-tour-game-13622"
+            }
+        ]
+    },
+    {
+        "id": "players-championship-14-2469310",
+        "title": "Players Championship 14",
+        "category": "darts",
+        "date": 1777978800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBCJGYEFhC8De4-ukhqIFJZAQtLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-players-championship-14"
+            }
+        ]
+    },
+    {
+        "id": "atpwta-1000-rome-tn-1",
+        "title": "ATP/WTA 1000: Rome \ud83c\udfbe",
+        "category": "tennis",
+        "date": 1777971600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atpwta-1000-rome-tn-1"
             }
         ]
     },
