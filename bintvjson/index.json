@@ -94,10 +94,6 @@
                 "id": "ppv-strasbourg-vs-rayo-vallecano"
             },
             {
-                "source": "delta",
-                "id": "live_uefa-europa-conference-league-knockout-stage_strasbourg-rayo-vallecano-live-streaming-1301816880"
-            },
-            {
                 "source": "echo",
                 "id": "strasbourg-vs-rayo-vallecano-football-1540882"
             }
@@ -124,10 +120,6 @@
             {
                 "source": "admin",
                 "id": "ppv-crystal-palace-vs-shakhtar-donetsk"
-            },
-            {
-                "source": "delta",
-                "id": "live_uefa-europa-conference-league-knockout-stage_crystal-palace-shakhtar-live-streaming-1301815881"
             },
             {
                 "source": "echo",
@@ -158,10 +150,6 @@
                 "id": "ppv-sc-freiburg-vs-braga"
             },
             {
-                "source": "delta",
-                "id": "live_uefa-europa-league-knockout-stage_freiburg-braga-live-streaming-1301814882"
-            },
-            {
                 "source": "echo",
                 "id": "sc-freiburg-vs-sc-braga-football-1540874"
             }
@@ -188,10 +176,6 @@
             {
                 "source": "admin",
                 "id": "ppv-aston-villa-vs-nottingham-forest"
-            },
-            {
-                "source": "delta",
-                "id": "live_uefa-europa-league-knockout-stage_aston-villa-forest-live-streaming-1301813883"
             },
             {
                 "source": "echo",
@@ -272,19 +256,6 @@
         ]
     },
     {
-        "id": "truist-championship-pga-tour-pga-526234",
-        "title": "Truist Championship | PGA Tour",
-        "category": "golf",
-        "date": 1778176800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "truist-championship-pga-tour-pga-526234"
-            }
-        ]
-    },
-    {
         "id": "ppv-premier-league-darts-leeds",
         "title": "Premier League Darts: Leeds",
         "category": "darts",
@@ -321,29 +292,6 @@
         ]
     },
     {
-        "id": "hapoel-tel-aviv-bc-vs-real-madrid-baloncesto-2470473",
-        "title": "Hapoel Tel Aviv BC vs Real Madrid Baloncesto",
-        "category": "basketball",
-        "date": 1778176800000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Hapoel Tel Aviv BC",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTUsCLmBDcQfEABNdIRIcOIYIZYRjAmfFJrLwi80Q6a0wYUVLpA"
-            },
-            "away": {
-                "name": "Real Madrid Baloncesto",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gpYACa5mIbiBK5De1QZQgYuAhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "hapoel-tel-aviv-vs-real-madrid-basketball-499127"
-            }
-        ]
-    },
-    {
         "id": "liv-golf-virginia-championship-course-game-162626",
         "title": "LIV Golf Virginia - Championship Course",
         "category": "other",
@@ -375,18 +323,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-minnesota-twins-vs-washington-nationals"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_nationals-twins-live-streaming-1266862869"
-            },
-            {
-                "source": "echo",
-                "id": "washington-nationals-vs-minnesota-twins-baseball-178569"
-            },
-            {
                 "source": "golf",
                 "id": "22211"
             }
@@ -411,44 +347,21 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-texas-rangers-vs-new-york-yankees"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_yankees-rangers-live-streaming-1266861870"
-            },
-            {
-                "source": "echo",
-                "id": "new-york-yankees-vs-texas-rangers-baseball-178566"
-            },
-            {
                 "source": "golf",
                 "id": "22210"
             }
         ]
     },
     {
-        "id": "ppv-lucknow-super-giants-vs-royal-challengers-bengaluru",
-        "title": "Lucknow Super Giants vs. Royal Challengers Bengaluru",
-        "category": "cricket",
-        "date": 1778162400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEEkAGNsIegxAhGIbsG79RwARKWiQEeQJjyZO6RVkiss+YJTA24Tj2AFsec+SS5TXc00oQDnM7fpgOwJ6cEEA.webp",
+        "id": "truist-championship-pga-tour-pga-526234",
+        "title": "Truist Championship | PGA Tour",
+        "category": "golf",
+        "date": 1778171400000,
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Lucknow Super Giants",
-                "badge": ""
-            },
-            "away": {
-                "name": "Royal Challengers Bengaluru",
-                "badge": ""
-            }
-        },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-lucknow-super-giants-vs-royal-challengers-bengaluru"
+                "source": "echo",
+                "id": "truist-championship-pga-tour-pga-526234"
             }
         ]
     },
