@@ -1,35 +1,5 @@
 [
     {
-        "id": "live-event_world-rally-championship-2026-rally-de-portugal-live-stream",
-        "title": "World Rally Championship 2026 - Rally de Portugal",
-        "category": "motor-sports",
-        "date": 1778134260000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_world-rally-championship-2026-rally-de-portugal-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "world-rally-championship-portugal-racing-0059"
-            }
-        ]
-    },
-    {
-        "id": "atpwta-1000-rome-tn-1",
-        "title": "ATP/WTA 1000: Rome \ud83c\udfbe",
-        "category": "other",
-        "date": 1778144400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "atpwta-1000-rome-tn-1"
-            }
-        ]
-    },
-    {
         "id": "dolphins-vs-canterbury-bankstown-bulldogs-2417228",
         "title": "Dolphins vs Canterbury Bankstown Bulldogs",
         "category": "rugby",
@@ -50,6 +20,36 @@
             {
                 "source": "admin",
                 "id": "ppv-dolphins-vs-bulldogs"
+            }
+        ]
+    },
+    {
+        "id": "atpwta-1000-rome-tn-1",
+        "title": "ATP/WTA 1000: Rome \ud83c\udfbe",
+        "category": "other",
+        "date": 1778144400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atpwta-1000-rome-tn-1"
+            }
+        ]
+    },
+    {
+        "id": "live-event_world-rally-championship-2026-rally-de-portugal-live-stream",
+        "title": "World Rally Championship 2026 - Rally de Portugal",
+        "category": "motor-sports",
+        "date": 1778134260000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_world-rally-championship-2026-rally-de-portugal-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "world-rally-championship-portugal-racing-0059"
             }
         ]
     },
@@ -134,19 +134,6 @@
             {
                 "source": "admin",
                 "id": "ppv-lucknow-super-giants-vs-royal-challengers-bengaluru"
-            }
-        ]
-    },
-    {
-        "id": "truist-championship-pga-tour-pga-526234",
-        "title": "Truist Championship | PGA Tour",
-        "category": "golf",
-        "date": 1778171400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "truist-championship-pga-tour-pga-526234"
             }
         ]
     },
@@ -236,12 +223,30 @@
         ]
     },
     {
-        "id": "premier-league-darts-leeds-darts-1",
-        "title": "Premier League Darts: Leeds \ud83c\udfaf",
-        "category": "other",
+        "id": "truist-championship-pga-tour-pga-526234",
+        "title": "Truist Championship | PGA Tour",
+        "category": "golf",
         "date": 1778176800000,
         "popular": true,
         "sources": [
+            {
+                "source": "echo",
+                "id": "truist-championship-pga-tour-pga-526234"
+            }
+        ]
+    },
+    {
+        "id": "ppv-premier-league-darts-leeds",
+        "title": "Premier League Darts: Leeds",
+        "category": "darts",
+        "date": 1778176800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEbkDGqNswAQGNgEEBGyDhsrCE6cswEsLWJOiFDJAaB0+tKVlgbcJx7AColBfJJc4h1w4I23EQ7v0wHFIiEEA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-premier-league-darts-leeds"
+            },
             {
                 "source": "echo",
                 "id": "premier-league-darts-leeds-darts-1"
@@ -357,6 +362,10 @@
                 "id": "ppv-strasbourg-vs-rayo-vallecano"
             },
             {
+                "source": "delta",
+                "id": "live_uefa-europa-conference-league-knockout-stage_strasbourg-rayo-vallecano-live-streaming-1301816880"
+            },
+            {
                 "source": "echo",
                 "id": "strasbourg-vs-rayo-vallecano-football-1540882"
             }
@@ -439,6 +448,10 @@
             {
                 "source": "admin",
                 "id": "ppv-aston-villa-vs-nottingham-forest"
+            },
+            {
+                "source": "delta",
+                "id": "live_uefa-europa-league-knockout-stage_aston-villa-forest-live-streaming-1301813883"
             },
             {
                 "source": "echo",
