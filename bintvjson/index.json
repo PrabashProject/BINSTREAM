@@ -1,5 +1,71 @@
 [
     {
+        "id": "22303",
+        "title": "Dyson - Gavino",
+        "category": "fight",
+        "date": 1778342400000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Dyson"
+            },
+            "away": {
+                "name": "Gavino"
+            }
+        },
+        "sources": [
+            {
+                "source": "golf",
+                "id": "22303"
+            }
+        ]
+    },
+    {
+        "id": "truist-championship-pga-tour-pga-526234",
+        "title": "Truist Championship | PGA Tour",
+        "category": "other",
+        "date": 1778342400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "truist-championship-pga-tour-pga-526234"
+            }
+        ]
+    },
+    {
+        "id": "lazio-vs-inter-milan-2265389",
+        "title": "Lazio vs Inter Milan",
+        "category": "football",
+        "date": 1778342400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKLSmwwfMFJDcQfECRMgUIRKcOGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Lazio",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbmBRgAJghDcQEIyFOmYIHZZAWQBCkz4ouYMvCLzRzprTCuxohBAA"
+            },
+            "away": {
+                "name": "Inter Milan",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgUoMCRAATOiG479IPkYOIDMEPAIUmfdW03l680eqa0wmsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-lazio-vs-inter-milan"
+            },
+            {
+                "source": "delta",
+                "id": "live_serie-a_lazio-inter-live-streaming-1096209693"
+            },
+            {
+                "source": "echo",
+                "id": "lazio-vs-inter-football-1378217"
+            }
+        ]
+    },
+    {
         "id": "ppv-event-07-uae-warriors-71-ppv-07",
         "title": "UAE Warriors 71",
         "category": "other",
@@ -176,10 +242,6 @@
             {
                 "source": "admin",
                 "id": "ppv-stevenage-vs-stockport-county"
-            },
-            {
-                "source": "echo",
-                "id": "stevenage-vs-stockport-county-football-1544061"
             }
         ]
     },
@@ -228,14 +290,6 @@
             {
                 "source": "admin",
                 "id": "ppv-sunderland-vs-manchester-united"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_sunderland-man-utd-live-streaming-1096059843"
-            },
-            {
-                "source": "echo",
-                "id": "sunderland-vs-manchester-united-football-1379326"
             },
             {
                 "source": "golf",
@@ -300,222 +354,6 @@
             {
                 "source": "admin",
                 "id": "ppv-rajasthan-royals-vs-gujarat-titans"
-            }
-        ]
-    },
-    {
-        "id": "stuttgart-vs-bayer-leverkusen-2276933",
-        "title": "Stuttgart vs Bayer Leverkusen",
-        "category": "football",
-        "date": 1778333400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VemBB8QyuiG5aQJEBBAwTuM1YlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Stuttgart",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSw1qsiBDcQEEHxCI9JXSBhaQywjGBM+KLmDLwi80Q6a0wTsaIhA"
-            },
-            "away": {
-                "name": "Bayer Leverkusen",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwIECmAAGDSBIhuIPrhAATY+ZAxDt+AQpM+WtmDJr680Vqa0wbsVEIIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-vf-b-stuttgart-vs-bayer-leverkusen"
-            },
-            {
-                "source": "echo",
-                "id": "vfb-stuttgart-vs-bayer-leverkusen-football-1388603"
-            }
-        ]
-    },
-    {
-        "id": "rb-leipzig-vs-st-pauli-2276932",
-        "title": "RB Leipzig vs St Pauli",
-        "category": "football",
-        "date": 1778333400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiHq14CEBu4g+ezSBgmDKEJatMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "RB Leipzig",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTBVA7hTQhuIEiBQgIuI6cP6JhGMCZ8UXMGXhF5o+01phHY0RCA"
-            },
-            "away": {
-                "name": "St Pauli",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBluYMnBA8Q3EABMQMECZyI+R3SHgEKTPii4by9eaMdNaYDWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-rb-leipzig-vs-st-pauli"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_leipzig-st-pauli-live-streaming-1096067835"
-            },
-            {
-                "source": "echo",
-                "id": "rb-leipzig-vs-fc-st-pauli-football-1388602"
-            }
-        ]
-    },
-    {
-        "id": "hoffenheim-vs-werder-bremen-2276930",
-        "title": "Hoffenheim vs Werder Bremen",
-        "category": "football",
-        "date": 1778333400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHPDAowMmdxD6+IEiAggYpgyBTWDBYEgp9hs+tpUouYMpvpZZnky0YN5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Hoffenheim",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApQYPmAAmDXCG4gtegyVUhEKfaoIUmfNWzBl4ReaLVNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Werder Bremen",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOAAGMABMwvXvhDcQffSA0gUJkDBAQQJawQpM+KLmDLwi80S6a0wbsVEIIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-tsg-hoffenheim-vs-werder-bremen"
-            },
-            {
-                "source": "delta",
-                "id": "live_bundesliga_hoffenheim-bremen-live-streaming-1096068834"
-            },
-            {
-                "source": "echo",
-                "id": "1899-hoffenheim-vs-werder-bremen-football-1388600"
-            }
-        ]
-    },
-    {
-        "id": "fc-augsburg-vs-borussia-m-nchengladbach-2276926",
-        "title": "FC Augsburg vs Borussia M\u00f6nchengladbach",
-        "category": "football",
-        "date": 1778333400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOHBxZ+ICCG4g+IErpAxTBlIZBSCwJBT7DZ9FGBUou78vW2jPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "FC Augsburg",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcwKdWAAmYbiD0QQfEIkMkTuC-AIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Borussia M\u00f6nchengladbach",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgU5MljB8Q3EBBA7EBkiESIQIGAQpM+KLmDKr680Q6a0wTsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-fc-augsburg-vs-borussia-m-nchengladbach"
-            },
-            {
-                "source": "echo",
-                "id": "fc-augsburg-vs-borussia-monchengladbach-football-1388596"
-            }
-        ]
-    },
-    {
-        "id": "v-ster-s-vs-gais-2398806",
-        "title": "V\u00e4ster\u00e5s vs GAIS",
-        "category": "football",
-        "date": 1778331600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdakEgOCCQ-CCBiN+iRKJDCQ3Cdn4pRwcSg2KQMqRGEKWwNuE49gBbHhPkkuAMZauHBG26MbV+mA4bPEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "V\u00e4ster\u00e5s",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksITNi3EABMQG7RBD6SIY9qMblhGMCZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "GAIS",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwKvEMAAMCENxAATVSBQg+Zk3uMoCFJnxRcwZNfXmjHTWmGdjREIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-v-ster-s-sk-vs-gais"
-            }
-        ]
-    },
-    {
-        "id": "ifk-g-teborg-vs-hammarby-2398802",
-        "title": "IFK G\u00f6teborg vs Hammarby",
-        "category": "football",
-        "date": 1778331600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEbkAGNg3bP34UQESVhHUQnEpPoCS86dPpKGIehAXBpArOJgpgbcJx7AC2PBfJJcg81w4I2ozubv0wHIaMhkA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "IFK G\u00f6teborg",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRg+YVeCgwQ3EBFwgU+kHxA6ShlAQpM+KLmDLwi80Q6a0wTsaIhA"
-            },
-            "away": {
-                "name": "Hammarby",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0ADP34hRObtpApcIPRBCmAJge0EKTPii5gy8IvNEOmtME7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-ifk-g-teborg-vs-hammarby-if"
-            }
-        ]
-    },
-    {
-        "id": "degerfors-vs-mj-llby-2398800",
-        "title": "Degerfors vs Mj\u00e4llby",
-        "category": "football",
-        "date": 1778331600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKEjDdyvfCG4gpIPiBKGQFxChAwQ8AsE0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Degerfors",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7UU0ACZhuIHRFwgUhkHxPHEKAhSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Mj\u00e4llby",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgyfMNzDgAJiG4gIIRDFzGQKfVcYUmfFFzXl680Q6a0wasaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-degerfors-if-vs-mj-llby-aif"
-            }
-        ]
-    },
-    {
-        "id": "cagliari-vs-udinese-2265386",
-        "title": "Cagliari vs Udinese",
-        "category": "football",
-        "date": 1778331600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXmAYgpYHVJDcQfECRMgUIRKcMwQCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Cagliari",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gAJuQ3gIIbiB06+IEiEQGQRiYRjAmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Udinese",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPmDXxoObiAj6QRozBArjeiYRjAmfFFzBlt9eaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cagliari-vs-udinese"
             }
         ]
     },
@@ -608,19 +446,6 @@
         ]
     },
     {
-        "id": "motogp-french-grand-prix-game-122273",
-        "title": "MotoGP French Grand Prix \ud83c\udfc1",
-        "category": "other",
-        "date": 1778313600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "motogp-french-grand-prix-game-122273"
-            }
-        ]
-    },
-    {
         "id": "austrian-darts-open-day-2-2470479",
         "title": "Austrian Darts Open Day 2",
         "category": "darts",
@@ -632,72 +457,6 @@
             {
                 "source": "echo",
                 "id": "austrian-darts-open-darts-1"
-            }
-        ]
-    },
-    {
-        "id": "22303",
-        "title": "Dyson - Gavino",
-        "category": "fight",
-        "date": 1778342400000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Dyson"
-            },
-            "away": {
-                "name": "Gavino"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22303"
-            }
-        ]
-    },
-    {
-        "id": "truist-championship-pga-tour-pga-526234",
-        "title": "Truist Championship | PGA Tour",
-        "category": "other",
-        "date": 1778342400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "truist-championship-pga-tour-pga-526234"
-            }
-        ]
-    },
-    {
-        "id": "lazio-vs-inter-milan-2265389",
-        "title": "Lazio vs Inter Milan",
-        "category": "football",
-        "date": 1778342400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKLSmwwfMFJDcQfECRMgUIRKcOGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Lazio",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbmBRgAJghDcQEIyFOmYIHZZAWQBCkz4ouYMvCLzRzprTCuxohBAA"
-            },
-            "away": {
-                "name": "Inter Milan",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgUoMCRAATOiG479IPkYOIDMEPAIUmfdW03l680eqa0wmsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-lazio-vs-inter-milan"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_lazio-inter-live-streaming-1096209693"
-            },
-            {
-                "source": "echo",
-                "id": "lazio-vs-inter-football-1378217"
             }
         ]
     },
