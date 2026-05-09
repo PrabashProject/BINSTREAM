@@ -1,5 +1,18 @@
 [
     {
+        "id": "ppv-event-06-zfn-04-ppv-06",
+        "title": "ZFN 04",
+        "category": "other",
+        "date": 1778320800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-06-zfn-04-ppv-06"
+            }
+        ]
+    },
+    {
         "id": "ppv-collingwood-vs-geelong-cats",
         "title": "Collingwood vs. Geelong Cats",
         "category": "afl",
@@ -157,30 +170,6 @@
         ]
     },
     {
-        "id": "south-sydney-rabbitohs-vs-cronulla-sharks-2417232",
-        "title": "South Sydney Rabbitohs vs Cronulla Sharks",
-        "category": "rugby",
-        "date": 1778311800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGKDAo6IbiH16+IKfpAlduECgskCwJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "South Sydney Rabbitohs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw2IKKMIwQ3ECX25VIPkYAmJkwQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Cronulla Sharks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-rabbitohs-vs-sharks"
-            }
-        ]
-    },
-    {
         "id": "world-rally-championship-portugal-racing-0059",
         "title": "World Rally Championship Portugal \ud83c\udfc1",
         "category": "motor-sports",
@@ -190,25 +179,6 @@
             {
                 "source": "echo",
                 "id": "world-rally-championship-portugal-racing-0059"
-            }
-        ]
-    },
-    {
-        "id": "austrian-darts-open-day-2-2470479",
-        "title": "Austrian Darts Open Day 2",
-        "category": "darts",
-        "date": 1778324400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdozCQQKbJxC8QWIyFOHTJEIgghF+YEgpYRcxrtUoeYMvCLU5nvb0WmKMoUA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-austrian-darts-open-day-2-afternoon"
-            },
-            {
-                "source": "echo",
-                "id": "austrian-darts-open-darts-1"
             }
         ]
     },
@@ -732,6 +702,32 @@
         ]
     },
     {
+        "id": "ppv-event-10-usac-road-racing-cota-ppv-10",
+        "title": "USAC Road Racing COTA",
+        "category": "other",
+        "date": 1778337900000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-10-usac-road-racing-cota-ppv-10"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-07-uae-warriors-71-ppv-07",
+        "title": "UAE Warriors 71",
+        "category": "other",
+        "date": 1778338800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-07-uae-warriors-71-ppv-07"
+            }
+        ]
+    },
+    {
         "id": "truist-championship-pga-tour-pga-526234",
         "title": "Truist Championship | PGA Tour",
         "category": "other",
@@ -897,20 +893,6 @@
         ]
     },
     {
-        "id": "ppv-austrian-darts-open-day-2-evening",
-        "title": "Austrian Darts Open | Day 2 - Evening",
-        "category": "darts",
-        "date": 1778346000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTEi6iE5YQAYxDcQU8SJjAIIGCAjZBUqSgkhEKCsH7cBoxgKmIGutuE49gBbHmBhySXKN1cOCNoc6779GAc8iYQQA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-austrian-darts-open-day-2-evening"
-            }
-        ]
-    },
-    {
         "id": "ppv-supercross-salt-lake-city",
         "title": "Supercross: Salt Lake City",
         "category": "motor-sports",
@@ -921,6 +903,10 @@
             {
                 "source": "admin",
                 "id": "ppv-supercross-salt-lake-city"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-11-supercross-championship-salt-lake-city-ppv-11"
             }
         ]
     },
@@ -953,6 +939,25 @@
             {
                 "source": "echo",
                 "id": "toronto-fc-vs-inter-miami-football-1490267"
+            }
+        ]
+    },
+    {
+        "id": "austrian-darts-open-day-2-2470479",
+        "title": "Austrian Darts Open Day 2",
+        "category": "darts",
+        "date": 1778346000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdozCQQKbJxC8QWIyFOHTJEIgghF+YEgpYRcxrtUoeYMvCLU5nvb0WmKMoUA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-austrian-darts-open-day-2-afternoon"
+            },
+            {
+                "source": "echo",
+                "id": "austrian-darts-open-darts-1"
             }
         ]
     },
@@ -1005,8 +1010,16 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-wardley-vs-dubois"
+            },
+            {
                 "source": "delta",
                 "id": "live-event_fabio-wardley-vs-daniel-dubois-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-08-wardley-v-dubois-ppv-08"
             },
             {
                 "source": "golf",
@@ -1272,6 +1285,10 @@
                 "id": "live-event_ufc-328-chimaev-vs-strickland-live-stream"
             },
             {
+                "source": "echo",
+                "id": "ppv-event-02-ufc-328-chimaev-v-strickland-ppv-02"
+            },
+            {
                 "source": "golf",
                 "id": "22275"
             }
@@ -1450,6 +1467,33 @@
         ]
     },
     {
+        "id": "ppv-event-01-prelims-ufc-328-ppv-01",
+        "title": "Prelims UFC 328 \ud83d\udd25 \u2b50 \ud83d\udca5",
+        "category": "other",
+        "date": 1778360400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-01-prelims-ufc-328-ppv-01"
+            }
+        ]
+    },
+    {
+        "id": "ppv-wwe-backlash-tampa",
+        "title": "WWE Backlash Tampa",
+        "category": "fight",
+        "date": 1778364000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTeiRiAghOWECGDCAxtWrBu4oeOwhEM-iJAkQMEFknASh+UoY6hKYG3CcewAtjxXySXFMtcOCNt0ZOH9GAcBpwQQA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-wwe-backlash-tampa"
+            }
+        ]
+    },
+    {
         "id": "philadelphia-flyers-vs-carolina-hurricanes-2469664",
         "title": "Philadelphia Flyers vs Carolina Hurricanes",
         "category": "hockey",
@@ -1494,6 +1538,10 @@
         "popular": true,
         "teams": null,
         "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-03-wwe-backlash-ppv-03"
+            },
             {
                 "source": "golf",
                 "id": "22276"
