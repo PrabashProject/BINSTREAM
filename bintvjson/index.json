@@ -1,5 +1,46 @@
 [
     {
+        "id": "ppv-event-01-prelims-ufc-328-ppv-01",
+        "title": "Prelims UFC 328 \ud83d\udd25 \u2b50 \ud83d\udca5",
+        "category": "other",
+        "date": 1778360400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-01-prelims-ufc-328-ppv-01"
+            }
+        ]
+    },
+    {
+        "id": "cf-montr-al-vs-orlando-city-2406879",
+        "title": "CF Montr\u00e9al vs Orlando City",
+        "category": "football",
+        "date": 1778358600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGBUhaYXCG4g+IGCCmH92i2cbANMfsNn0Umtii6by9LLPdMdrvSiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "CF Montr\u00e9al",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDswAEzFgQibiHUg+IFDpAQzx3CGWEYwJnxRcwZeEXminTWmBdjREEA"
+            },
+            "away": {
+                "name": "Orlando City",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5gUsDeD4huICLhCIQhg4hwATAhSZ8UXMGXhF5ou01pgHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-cf-montr-al-vs-orlando-city-sc"
+            },
+            {
+                "source": "delta",
+                "id": "live_mls_montreal-orlando-live-streaming-1241412345"
+            }
+        ]
+    },
+    {
         "id": "boston-red-sox-vs-tampa-bay-rays-2387466",
         "title": "Boston Red Sox vs Tampa Bay Rays",
         "category": "baseball",
@@ -262,10 +303,6 @@
             {
                 "source": "admin",
                 "id": "ppv-bolton-wanderers-vs-bradford-city"
-            },
-            {
-                "source": "echo",
-                "id": "bolton-vs-bradford-football-1544062"
             }
         ]
     },
@@ -290,14 +327,6 @@
             {
                 "source": "admin",
                 "id": "ppv-real-sociedad-vs-real-betis"
-            },
-            {
-                "source": "delta",
-                "id": "live_laliga_real-sociedad-real-betis-live-streaming-1096223679"
-            },
-            {
-                "source": "echo",
-                "id": "real-sociedad-vs-real-betis-football-1391166"
             }
         ]
     },
@@ -358,14 +387,6 @@
             {
                 "source": "admin",
                 "id": "ppv-lecce-vs-juventus"
-            },
-            {
-                "source": "delta",
-                "id": "live_serie-a_lecce-juventus-live-streaming-1096210692"
-            },
-            {
-                "source": "echo",
-                "id": "lecce-vs-juventus-football-1378218"
             }
         ]
     },
@@ -441,30 +462,15 @@
         ]
     },
     {
-        "id": "dc-defenders-vs-louisville-kings-2432120",
-        "title": "DC Defenders vs Louisville Kings",
-        "category": "american-football",
-        "date": 1778347800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCCwgU2EHBAhEvTSa3GYeyxEMskFLCLmMdqlDzBl4RanLf5WwGAe4mIQQA.webp",
+        "id": "austrian-darts-open-darts-1",
+        "title": "Austrian Darts Open \ud83c\udfaf",
+        "category": "other",
+        "date": 1778346000000,
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "DC Defenders",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQ8MGpw4YIbiAAmIPoZBmUqkBaMGCFJnxRdN5evNFOmtMJrGiIQA"
-            },
-            "away": {
-                "name": "Louisville Kings",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBQUCSm1ghuIPnpAwQAEwNGcIEPAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-louisville-kings-vs-dc-defenders"
-            },
-            {
-                "source": "delta",
-                "id": "live_ufl_dc-defenders-louisville-kings-live-streaming-1267105626"
+                "source": "echo",
+                "id": "austrian-darts-open-darts-1"
             }
         ]
     },
@@ -490,24 +496,6 @@
             {
                 "source": "golf",
                 "id": "22303"
-            }
-        ]
-    },
-    {
-        "id": "ppv-austrian-darts-open-day-2-evening",
-        "title": "Austrian Darts Open | Day 2 - Evening",
-        "category": "darts",
-        "date": 1778346000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOTEi6iE5YQAYxDcQU8SJjAIIGCAjZBUqSgkhEKCsH7cBoxgKmIGutuE49gBbHmBhySXKN1cOCNoc6779GAc8iYQQA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-austrian-darts-open-day-2-evening"
-            },
-            {
-                "source": "echo",
-                "id": "austrian-darts-open-darts-1"
             }
         ]
     },
@@ -565,47 +553,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-10-usac-road-racing-cota-ppv-10"
-            }
-        ]
-    },
-    {
-        "id": "cf-montr-al-vs-orlando-city-2406879",
-        "title": "CF Montr\u00e9al vs Orlando City",
-        "category": "football",
-        "date": 1778358600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGBUhaYXCG4g+IGCCmH92i2cbANMfsNn0Umtii6by9LLPdMdrvSiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "CF Montr\u00e9al",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDswAEzFgQibiHUg+IFDpAQzx3CGWEYwJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Orlando City",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5gUsDeD4huICLhCIQhg4hwATAhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cf-montr-al-vs-orlando-city-sc"
-            },
-            {
-                "source": "delta",
-                "id": "live_mls_montreal-orlando-live-streaming-1241412345"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-01-prelims-ufc-328-ppv-01",
-        "title": "Prelims UFC 328 \ud83d\udd25 \u2b50 \ud83d\udca5",
-        "category": "other",
-        "date": 1778360400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-01-prelims-ufc-328-ppv-01"
             }
         ]
     },
