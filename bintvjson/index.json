@@ -1,74 +1,5 @@
 [
     {
-        "id": "ppv-event-01-husets-speedway-opener-ec-1",
-        "title": "PPV EVENT 01: Huset's Speedway Opener",
-        "category": "other",
-        "date": 1778457654000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-01-husets-speedway-opener-ec-1"
-            }
-        ]
-    },
-    {
-        "id": "golden-state-valkyries-vs-phoenix-mercury-2448988",
-        "title": "Golden State Valkyries vs Phoenix Mercury",
-        "category": "basketball",
-        "date": 1778459400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdECEFkEhuITiWzYRIekJDUQE+ohSSl84KO7AIFRoMZ6hnBqrbhOPYAUlnySXAGNVXDgjbbOqm-TAcdhhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Golden State Valkyries",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgoMXMAAmwJCG4g+IRCGP6QJC6uWEYwJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Phoenix Mercury",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3m0kDYEjAoQ3EHxAATfbpA69xkiGWEYwJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-phoenix-mercury-vs-golden-state-valkyries"
-            },
-            {
-                "source": "delta",
-                "id": "live_wnba_valkyries-mercury-live-streaming-1210310478"
-            },
-            {
-                "source": "golf",
-                "id": "22285"
-            }
-        ]
-    },
-    {
-        "id": "ppv-lafc-vs-houston-dynamo-fc",
-        "title": "LAFC vs. Houston Dynamo FC",
-        "category": "football",
-        "date": 1778461200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEGEJwggRKQY34gAxsG7SQwrNIoiFILMBIVZ1EHJQSSIehu7BhY6sDbhOPYAWx5r5JLikGuHBGzOcDjvRgHOaM5kA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "LAFC",
-                "badge": ""
-            },
-            "away": {
-                "name": "Houston Dynamo FC",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-lafc-vs-houston-dynamo-fc"
-            }
-        ]
-    },
-    {
         "id": "anaheim-ducks-vs-vegas-golden-knights-2469667",
         "title": "Anaheim Ducks vs Vegas Golden Knights",
         "category": "hockey",
@@ -97,17 +28,26 @@
             {
                 "source": "echo",
                 "id": "anaheim-ducks-vs-vegas-golden-knights-hockey-425110"
-            },
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-01-husets-speedway-opener-ec-1",
+        "title": "PPV EVENT 01: Huset's Speedway Opener",
+        "category": "other",
+        "date": 1778457654000,
+        "popular": true,
+        "sources": [
             {
-                "source": "golf",
-                "id": "22287"
+                "source": "echo",
+                "id": "ppv-event-01-husets-speedway-opener-ec-1"
             }
         ]
     },
     {
         "id": "atpwta-1000-rome-tn-1",
         "title": "ATP/WTA 1000: Rome \ud83c\udfbe",
-        "category": "other",
+        "category": "tennis",
         "date": 1778490000000,
         "popular": true,
         "sources": [
@@ -274,10 +214,6 @@
             {
                 "source": "echo",
                 "id": "tottenham-vs-leeds-football-1379327"
-            },
-            {
-                "source": "golf",
-                "id": "22274"
             }
         ]
     },
@@ -300,12 +236,12 @@
         },
         "sources": [
             {
-                "source": "echo",
-                "id": "cleveland-guardians-vs-los-angeles-angels-baseball-178625"
+                "source": "delta",
+                "id": "live_mlb_guardians-angels-live-streaming-1267405326"
             },
             {
-                "source": "golf",
-                "id": "22308"
+                "source": "echo",
+                "id": "cleveland-guardians-vs-los-angeles-angels-baseball-178625"
             }
         ]
     },
@@ -328,12 +264,12 @@
         },
         "sources": [
             {
-                "source": "echo",
-                "id": "baltimore-orioles-vs-new-york-yankees-baseball-178624"
+                "source": "delta",
+                "id": "live_mlb_orioles-yankees-live-streaming-1267406325"
             },
             {
-                "source": "golf",
-                "id": "22309"
+                "source": "echo",
+                "id": "baltimore-orioles-vs-new-york-yankees-baseball-178624"
             }
         ]
     },
@@ -356,12 +292,12 @@
         },
         "sources": [
             {
-                "source": "echo",
-                "id": "toronto-blue-jays-vs-tampa-bay-rays-baseball-178620"
+                "source": "delta",
+                "id": "live_mlb_blue-jays-rays-live-streaming-1267407324"
             },
             {
-                "source": "golf",
-                "id": "22310"
+                "source": "echo",
+                "id": "toronto-blue-jays-vs-tampa-bay-rays-baseball-178620"
             }
         ]
     }
