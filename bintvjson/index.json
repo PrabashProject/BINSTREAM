@@ -1,37 +1,5 @@
 [
     {
-        "id": "anaheim-ducks-vs-vegas-golden-knights-2469667",
-        "title": "Anaheim Ducks vs Vegas Golden Knights",
-        "category": "hockey",
-        "date": 1778463000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAPA4pIFGCQhuGkDpi6QZs33ONgSCn2Gz6elSi5gy8IllnumtGCeYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Anaheim Ducks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8IIdQBMQZddxB9VIFDoMhEhk5oIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Vegas Golden Knights",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-vegas-golden-knights-vs-anaheim-ducks"
-            },
-            {
-                "source": "delta",
-                "id": "live_nhl-playoffs_ducks-golden-knights-live-streaming-1296954747"
-            },
-            {
-                "source": "echo",
-                "id": "anaheim-ducks-vs-vegas-golden-knights-hockey-425110"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-01-husets-speedway-opener-ec-1",
         "title": "PPV EVENT 01: Huset's Speedway Opener",
         "category": "other",
@@ -128,6 +96,10 @@
                 "id": "ppv-napoli-vs-bologna"
             },
             {
+                "source": "delta",
+                "id": "live_serie-a_napoli-bologna-live-streaming-1096212690"
+            },
+            {
                 "source": "echo",
                 "id": "napoli-vs-bologna-football-1378220"
             }
@@ -184,6 +156,10 @@
                 "id": "ppv-rayo-vallecano-vs-girona"
             },
             {
+                "source": "delta",
+                "id": "live_laliga_rayo-vallecano-girona-live-streaming-1096221681"
+            },
+            {
                 "source": "echo",
                 "id": "rayo-vallecano-vs-girona-football-1391165"
             }
@@ -212,6 +188,10 @@
                 "id": "ppv-tottenham-hotspur-vs-leeds-united"
             },
             {
+                "source": "delta",
+                "id": "live_premier-league_tottenham-leeds-live-streaming-1096060842"
+            },
+            {
                 "source": "echo",
                 "id": "tottenham-vs-leeds-football-1379327"
             }
@@ -235,6 +215,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-los-angeles-angels-vs-cleveland-guardians"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_guardians-angels-live-streaming-1267405326"
@@ -264,6 +248,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-new-york-yankees-vs-baltimore-orioles"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_orioles-yankees-live-streaming-1267406325"
             },
@@ -291,6 +279,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-tampa-bay-rays-vs-toronto-blue-jays"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_blue-jays-rays-live-streaming-1267407324"
