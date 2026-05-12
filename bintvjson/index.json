@@ -1,98 +1,5 @@
 [
     {
-        "id": "los-angeles-lakers-vs-oklahoma-city-thunder-2469474",
-        "title": "Los Angeles Lakers vs Oklahoma City Thunder",
-        "category": "basketball",
-        "date": 1778553000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAw9gSWCBSUQ3EHxAk9uEIggXEJAtop9hs+ijAr9bd+XpZZ+plowdzFRCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Los Angeles Lakers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwghwoquD4huIbbtU4SIVcd0TCMYEz4ouYMvCLzRdprTAOxoiEA"
-            },
-            "away": {
-                "name": "Oklahoma City Thunder",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS4KADMSQgyMELxBYDIY-pQgzu3QBMCFfAJQ8wZeEQVjH9+mGfixEIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-oklahoma-city-thunder-vs-los-angeles-lakers"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_lakers-thunder-live-streaming-1297289412"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-lakers-vs-oklahoma-city-thunder-basketball-498803"
-            },
-            {
-                "source": "golf",
-                "id": "22305"
-            }
-        ]
-    },
-    {
-        "id": "los-angeles-dodgers-vs-san-francisco-giants-2387488",
-        "title": "Los Angeles Dodgers vs San Francisco Giants",
-        "category": "baseball",
-        "date": 1778551800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihAx5IQYggheu41hAkQB6SZAoWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Los Angeles Dodgers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSXQhEtMiGD4Q1ELxBZDIE3oAmIFCAggS+ghXwCUPMGXhEFYl0-pg34mIQQA"
-            },
-            "away": {
-                "name": "San Francisco Giants",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS5UAJiHhh+KEBBC8QWIyFOHE1EJZJ6CFfAJQ8wZLYwVinD+mBfixEEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-san-francisco-giants-vs-los-angeles-dodgers"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_dodgers-giants-live-streaming-1267410321"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-dodgers-vs-san-francisco-giants-baseball-178623"
-            },
-            {
-                "source": "golf",
-                "id": "22313"
-            }
-        ]
-    },
-    {
-        "id": "live-event_monday-night-raw-live-stream",
-        "title": "Monday Night Raw",
-        "category": "fight",
-        "date": 1778544000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_monday-night-raw-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "wwe-monday-night-raw-wwe-2025"
-            },
-            {
-                "source": "golf",
-                "id": "22342"
-            }
-        ]
-    },
-    {
         "id": "atpwta-1000-rome-tn-1",
         "title": "ATP/WTA 1000: Rome \ud83c\udfbe",
         "category": "other",
@@ -256,6 +163,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-los-angeles-angels-vs-cleveland-guardians"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_guardians-angels-live-streaming-1276856865"
             },
@@ -287,6 +198,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-new-york-yankees-vs-baltimore-orioles"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_orioles-yankees-live-streaming-1276858863"
@@ -320,6 +235,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-washington-nationals-vs-cincinnati-reds"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_reds-nationals-live-streaming-1276859862"
             },
@@ -351,6 +270,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-colorado-rockies-vs-pittsburgh-pirates"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_pirates-rockies-live-streaming-1276857864"
@@ -384,6 +307,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-philadelphia-phillies-vs-boston-red-sox"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_red-sox-phillies-live-streaming-1276860861"
             },
@@ -415,6 +342,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-buffalo-sabres-vs-montreal-canadiens"
+            },
             {
                 "source": "delta",
                 "id": "live_nhl-playoffs_canadiens-sabres-live-streaming-1302244452"
@@ -448,6 +379,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-tampa-bay-rays-vs-toronto-blue-jays"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_blue-jays-rays-live-streaming-1276861860"
             },
@@ -479,6 +414,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-detroit-tigers-vs-new-york-mets"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_mets-tigers-live-streaming-1276862859"
@@ -512,6 +451,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-chicago-cubs-vs-atlanta-braves"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_braves-cubs-live-streaming-1276863858"
             },
@@ -543,6 +486,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-kansas-city-royals-vs-chicago-white-sox"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_white-sox-royals-live-streaming-1276864857"
@@ -576,6 +523,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-san-diego-padres-vs-milwaukee-brewers"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_brewers-padres-live-streaming-1276865856"
             },
@@ -607,6 +558,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-miami-marlins-vs-minnesota-twins"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_twins-marlins-live-streaming-1276866855"
