@@ -64,29 +64,6 @@
         ]
     },
     {
-        "id": "valencia-vs-panathinaikos-basketball-499237",
-        "title": "Valencia vs Panathinaikos",
-        "category": "basketball",
-        "date": 1778698800000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Valencia",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IKiEQQQJOuQYBjZpJ7wxVbgS6swYXPmtA"
-            },
-            "away": {
-                "name": "Panathinaikos",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IACYgiICPXIMAxs0k94YqtwJdWYMLnzWgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "valencia-vs-panathinaikos-basketball-499237"
-            }
-        ]
-    },
-    {
         "id": "stockport-county-vs-stevenage-2470018",
         "title": "Stockport County vs Stevenage",
         "category": "football",
@@ -107,10 +84,6 @@
             {
                 "source": "admin",
                 "id": "ppv-stockport-county-vs-stevenage"
-            },
-            {
-                "source": "echo",
-                "id": "stockport-county-vs-stevenage-football-1544063"
             }
         ]
     },
@@ -135,10 +108,6 @@
             {
                 "source": "admin",
                 "id": "ppv-lazio-vs-inter-milan"
-            },
-            {
-                "source": "echo",
-                "id": "lazio-vs-inter-football-1542548"
             }
         ]
     },
@@ -163,10 +132,6 @@
             {
                 "source": "admin",
                 "id": "ppv-motherwell-vs-celtic"
-            },
-            {
-                "source": "echo",
-                "id": "motherwell-vs-celtic-football-1540030"
             }
         ]
     },
@@ -191,10 +156,6 @@
             {
                 "source": "admin",
                 "id": "ppv-heart-of-midlothian-vs-falkirk"
-            },
-            {
-                "source": "echo",
-                "id": "heart-of-midlothian-vs-falkirk-football-1540029"
             }
         ]
     },
@@ -219,14 +180,6 @@
             {
                 "source": "admin",
                 "id": "ppv-lens-vs-paris-saint-germain"
-            },
-            {
-                "source": "delta",
-                "id": "live_ligue-1_lens-psg-live-streaming-1241782974"
-            },
-            {
-                "source": "echo",
-                "id": "lens-vs-paris-saint-germain-football-1387952"
             }
         ]
     },
@@ -251,18 +204,6 @@
             {
                 "source": "admin",
                 "id": "ppv-manchester-city-vs-crystal-palace"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_man-city-crystal-palace-live-streaming-1314399285"
-            },
-            {
-                "source": "echo",
-                "id": "manchester-city-vs-crystal-palace-football-1379275"
-            },
-            {
-                "source": "golf",
-                "id": "22314"
             }
         ]
     },
@@ -284,10 +225,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-los-angeles-angels-vs-cleveland-guardians"
-            },
             {
                 "source": "golf",
                 "id": "22353"
@@ -312,18 +249,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-new-york-yankees-vs-baltimore-orioles"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_orioles-yankees-live-streaming-1276960761"
-            },
-            {
-                "source": "echo",
-                "id": "baltimore-orioles-vs-new-york-yankees-baseball-178653"
-            },
             {
                 "source": "golf",
                 "id": "22373"
@@ -680,6 +605,10 @@
                 "id": "ppv-cf-montr-al-vs-portland-timbers"
             },
             {
+                "source": "delta",
+                "id": "live_mls_montreal-portland-live-streaming-1241787969"
+            },
+            {
                 "source": "echo",
                 "id": "cf-montreal-vs-portland-timbers-football-1490286"
             }
@@ -706,6 +635,10 @@
             {
                 "source": "admin",
                 "id": "ppv-new-england-revolution-vs-nashville-sc"
+            },
+            {
+                "source": "delta",
+                "id": "live_mls_new-england-nashville-live-streaming-1241790966"
             },
             {
                 "source": "echo",
@@ -794,6 +727,10 @@
             {
                 "source": "admin",
                 "id": "ppv-fc-cincinnati-vs-inter-miami-cf"
+            },
+            {
+                "source": "delta",
+                "id": "live_mls_cincinnati-inter-miami-live-streaming-1241789967"
             },
             {
                 "source": "echo",
