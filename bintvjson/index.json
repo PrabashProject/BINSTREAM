@@ -1,69 +1,5 @@
 [
     {
-        "id": "ppv-nashville-sc-vs-lafc",
-        "title": "Nashville SC vs. LAFC",
-        "category": "football",
-        "date": 1779062400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOda7EA37cQWYCVGSAxoxCIIICTGARZy+vVUiFUkHqx6QMECKEps5tuE49gBbHmBhySXFPNcOCNt0aP79GAcKn4QQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Nashville SC",
-                "badge": ""
-            },
-            "away": {
-                "name": "LAFC",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-nashville-sc-vs-lafc"
-            },
-            {
-                "source": "golf",
-                "id": "22493"
-            }
-        ]
-    },
-    {
-        "id": "detroit-pistons-vs-cleveland-cavaliers-2474278",
-        "title": "Detroit Pistons vs Cleveland Cavaliers",
-        "category": "basketball",
-        "date": 1779062400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOA1kBtDdxB8QJEClwhEEcxtwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Detroit Pistons",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8QfMN2zMQ3EABNcukCRAoQEdSd0EKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Cleveland Cavaliers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSUwxWoEClaQQvEFn0gjelCBJGQ1IwQr4BWjmDLwiCsVrv0wT8WIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cleveland-cavaliers-vs-detroit-pistons"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_pistons-cavaliers-live-streaming-1307318373"
-            },
-            {
-                "source": "echo",
-                "id": "detroit-pistons-vs-cleveland-cavaliers-basketball-499566"
-            },
-            {
-                "source": "golf",
-                "id": "22429"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-10-primos-pro-wrestling-alpha-9-ppv-10",
         "title": "Primos Pro Wrestling Alpha 9",
         "category": "other",
@@ -73,6 +9,19 @@
             {
                 "source": "echo",
                 "id": "ppv-event-10-primos-pro-wrestling-alpha-9-ppv-10"
+            }
+        ]
+    },
+    {
+        "id": "atp-wta-hamburg-geneva-strasbourg-rabat-tn-1",
+        "title": "ATP / WTA: Hamburg / Geneva / Strasbourg / Rabat \ud83c\udfbe",
+        "category": "other",
+        "date": 1779094800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atp-wta-hamburg-geneva-strasbourg-rabat-tn-1"
             }
         ]
     },
@@ -119,6 +68,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-canada-vs-denmark"
+            },
+            {
                 "source": "delta",
                 "id": "live_world-championship-group-b_canada-denmark-live-streaming-1277631090"
             },
@@ -146,6 +99,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-finland-vs-united-states"
+            },
             {
                 "source": "delta",
                 "id": "live_world-championship-group-a_finland-usa-live-streaming-1277629092"
@@ -175,6 +132,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-sweden-vs-czech-republic"
+            },
+            {
                 "source": "echo",
                 "id": "sweden-vs-czech-republic-hockey-396684"
             }
@@ -198,6 +159,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-germany-vs-switzerland"
+            },
             {
                 "source": "delta",
                 "id": "live_world-championship-group-a_germany-switzerland-live-streaming-1277630091"
@@ -259,6 +224,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-cleveland-guardians-vs-detroit-tigers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_tigers-guardians-live-streaming-1277603118"
+            },
+            {
                 "source": "echo",
                 "id": "detroit-tigers-vs-cleveland-guardians-baseball-178722"
             },
@@ -286,6 +259,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-atlanta-braves-vs-miami-marlins"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_marlins-braves-live-streaming-1277604117"
+            },
             {
                 "source": "echo",
                 "id": "miami-marlins-vs-atlanta-braves-baseball-178718"
@@ -315,6 +296,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-cincinnati-reds-vs-philadelphia-phillies"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_phillies-reds-live-streaming-1277605116"
+            },
+            {
                 "source": "echo",
                 "id": "philadelphia-phillies-vs-cincinnati-reds-baseball-178717"
             },
@@ -342,6 +331,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-baltimore-orioles-vs-tampa-bay-rays"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_rays-orioles-live-streaming-1277606115"
+            },
             {
                 "source": "echo",
                 "id": "tampa-bay-rays-vs-baltimore-orioles-baseball-178714"
@@ -371,6 +368,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-new-york-mets-vs-washington-nationals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_nationals-mets-live-streaming-1277607114"
+            },
+            {
                 "source": "echo",
                 "id": "washington-nationals-vs-new-york-mets-baseball-178713"
             },
@@ -398,6 +403,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-toronto-blue-jays-vs-new-york-yankees"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_yankees-blue-jays-live-streaming-1277608113"
+            },
             {
                 "source": "echo",
                 "id": "new-york-yankees-vs-toronto-blue-jays-baseball-178712"
@@ -427,8 +440,16 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-montreal-canadiens-vs-buffalo-sabres"
+            },
+            {
                 "source": "delta",
                 "id": "live_nhl-playoffs_sabres-canadiens-live-streaming-1307317374"
+            },
+            {
+                "source": "echo",
+                "id": "buffalo-sabres-vs-montreal-canadiens-hockey-425583"
             },
             {
                 "source": "golf",
@@ -454,6 +475,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-milwaukee-brewers-vs-chicago-cubs"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_cubs-brewers-live-streaming-1277609112"
+            },
             {
                 "source": "echo",
                 "id": "chicago-cubs-vs-milwaukee-brewers-baseball-178724"
@@ -483,6 +512,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-boston-red-sox-vs-kansas-city-royals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_royals-red-sox-live-streaming-1277610111"
+            },
+            {
                 "source": "echo",
                 "id": "kansas-city-royals-vs-boston-red-sox-baseball-178721"
             },
@@ -510,6 +547,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-houston-astros-vs-minnesota-twins"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_twins-astros-live-streaming-1277611110"
+            },
             {
                 "source": "echo",
                 "id": "minnesota-twins-vs-houston-astros-baseball-178719"
