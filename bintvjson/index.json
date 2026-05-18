@@ -1,31 +1,5 @@
 [
     {
-        "id": "atp-wta-hamburg-geneva-strasbourg-rabat-tn-1",
-        "title": "ATP / WTA: Hamburg / Geneva / Strasbourg / Rabat \ud83c\udfbe",
-        "category": "other",
-        "date": 1779094800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "atp-wta-hamburg-geneva-strasbourg-rabat-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-10-primos-pro-wrestling-alpha-9-ppv-10",
-        "title": "Primos Pro Wrestling Alpha 9",
-        "category": "other",
-        "date": 1779069600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-10-primos-pro-wrestling-alpha-9-ppv-10"
-            }
-        ]
-    },
-    {
         "id": "players-championship-17-2470484",
         "title": "Players Championship 17",
         "category": "darts",
@@ -37,6 +11,19 @@
             {
                 "source": "admin",
                 "id": "ppv-2026-players-championship-17"
+            }
+        ]
+    },
+    {
+        "id": "atp-wta-hamburg-geneva-strasbourg-rabat-tn-1",
+        "title": "ATP / WTA: Hamburg / Geneva / Strasbourg / Rabat \ud83c\udfbe",
+        "category": "other",
+        "date": 1779094800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atp-wta-hamburg-geneva-strasbourg-rabat-tn-1"
             }
         ]
     },
@@ -138,6 +125,30 @@
             {
                 "source": "echo",
                 "id": "baller-league-2026-game-1636262"
+            }
+        ]
+    },
+    {
+        "id": "djurg-rden-vs-sirius-2398808",
+        "title": "Djurg\u00e5rden vs Sirius",
+        "category": "football",
+        "date": 1779123600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEekhRDdgJaiBggG4zpywh5nEfJhCIw-tWDcp2icOyiQAYwXaUwNuE49gBQxbDkkuYxa4cEbEZwv36YBzAEIzBQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Djurg\u00e5rden",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgyZPtRIhuICLhDb9u3fpQh4BCkz4oua8vXmi7TWmDVjREIA"
+            },
+            "away": {
+                "name": "Sirius",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTVVqgCbYQ3EBFwgUhkHxAaTIEjoIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-djurg-rden-vs-ik-sirius"
             }
         ]
     },
