@@ -18,18 +18,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-san-francisco-giants-vs-arizona-diamondbacks"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_diamondbacks-giants-live-streaming-1277614107"
-            },
-            {
-                "source": "echo",
-                "id": "arizona-diamondbacks-vs-san-francisco-giants-baseball-178725"
-            },
-            {
                 "source": "golf",
                 "id": "22486"
             }
@@ -53,18 +41,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-los-angeles-dodgers-vs-san-diego-padres"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_padres-dodgers-live-streaming-1277615106"
-            },
-            {
-                "source": "echo",
-                "id": "san-diego-padres-vs-los-angeles-dodgers-baseball-178716"
-            },
             {
                 "source": "golf",
                 "id": "22485"
@@ -90,18 +66,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-chicago-white-sox-vs-seattle-mariners"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_mariners-white-sox-live-streaming-1277616105"
-            },
-            {
-                "source": "echo",
-                "id": "seattle-mariners-vs-chicago-white-sox-baseball-178715"
-            },
-            {
                 "source": "golf",
                 "id": "22484"
             }
@@ -126,56 +90,21 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-athletics-vs-los-angeles-angels"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_angels-athletics-live-streaming-1277613108"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-angels-vs-athletics-baseball-178720"
-            },
-            {
                 "source": "golf",
                 "id": "22483"
             }
         ]
     },
     {
-        "id": "colorado-rockies-vs-texas-rangers-2387588",
-        "title": "Colorado Rockies vs Texas Rangers",
-        "category": "baseball",
-        "date": 1779151200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlWkgxs0Il4gsh4yRAQQWkCBTaWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+        "id": "ppv-event-01-wwe-monday-night-raw-ppv-01",
+        "title": "WWE Monday Night RAW  \ud83d\udd25 \u2b50 \ud83d\udca5",
+        "category": "other",
+        "date": 1779152400000,
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Colorado Rockies",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA"
-            },
-            "away": {
-                "name": "Texas Rangers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-texas-rangers-vs-colorado-rockies"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_rockies-rangers-live-streaming-1277612109"
-            },
-            {
                 "source": "echo",
-                "id": "colorado-rockies-vs-texas-rangers-baseball-178723"
-            },
-            {
-                "source": "golf",
-                "id": "22482"
+                "id": "ppv-event-01-wwe-monday-night-raw-ppv-01"
             }
         ]
     },
@@ -198,118 +127,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-san-antonio-spurs-vs-oklahoma-city-thunder"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba_thunder-spurs-live-streaming-1317621060"
-            },
-            {
                 "source": "echo",
                 "id": "oklahoma-city-thunder-vs-san-antonio-spurs-basketball-499634"
-            },
-            {
-                "source": "golf",
-                "id": "22469"
-            }
-        ]
-    },
-    {
-        "id": "ppv-wwe-monday-night-raw",
-        "title": "WWE: Monday Night RAW",
-        "category": "fight",
-        "date": 1779148800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EExA0QiRDWCSUwCCCHKKYkFjVKsE5huzrZm2UMUaQIOVPMQFfMAOENseYGHpJcxBYIcJypgIKjJRgDorMikA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "WWE"
-            },
-            "away": {
-                "name": "Monday Night RAW"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-wwe-monday-night-raw"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_monday-night-raw-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-01-wwe-monday-night-raw-ppv-01"
-            },
-            {
-                "source": "golf",
-                "id": "22511"
-            }
-        ]
-    },
-    {
-        "id": "dallas-wings-vs-washington-mystics-2449001",
-        "title": "Dallas Wings vs Washington Mystics",
-        "category": "basketball",
-        "date": 1779148800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKChB8Q3EDGY6QUkCUObNIEBBMgUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Dallas Wings",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm-ENw2wwfDSBL7chkIZQhdMAhSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Washington Mystics",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-washington-mystics-vs-dallas-wings"
-            },
-            {
-                "source": "delta",
-                "id": "live_wnba_wings-mystics-live-streaming-1210443345"
-            },
-            {
-                "source": "golf",
-                "id": "22470"
-            }
-        ]
-    },
-    {
-        "id": "portland-fire-vs-connecticut-sun-2469354",
-        "title": "Portland Fire vs Connecticut Sun",
-        "category": "basketball",
-        "date": 1779156000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EExAoQQ4DWAQQlLBJA0FzBSGIgsMkCF07VWykJVi9IeeJ3zJMOSmB8wA4Q2x4n9JLmKPBLgjk0gKOjJRgLnLMckA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Portland Fire",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw+YXvJBsQ3EHxAlchkClMgLOZYRjAmfFFzBl4ReaMdNaYZ2NEQgA"
-            },
-            "away": {
-                "name": "Connecticut Sun",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggo4JM1IhuIEntwgAJiD4gU5kKuWEYwJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-connecticut-sun-vs-portland-fire"
-            },
-            {
-                "source": "delta",
-                "id": "live_wnba_fire-connecticut-live-streaming-1210444344"
-            },
-            {
-                "source": "golf",
-                "id": "22471"
             }
         ]
     },
@@ -369,6 +188,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-italy-vs-norway"
+            },
+            {
+                "source": "delta",
+                "id": "live_world-championship-group-b_italy-norway-live-streaming-1307469222"
+            },
+            {
                 "source": "echo",
                 "id": "italy-vs-norway-hockey-396679"
             }
@@ -393,8 +220,40 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-latvia-vs-austria"
+            },
+            {
+                "source": "delta",
+                "id": "live_world-championship-group-a_latvia-austria-live-streaming-1307467224"
+            },
+            {
                 "source": "echo",
                 "id": "latvia-vs-austria-hockey-396703"
+            }
+        ]
+    },
+    {
+        "id": "ppv-hungary-vs-united-kingdom",
+        "title": "Hungary vs. United Kingdom",
+        "category": "hockey",
+        "date": 1779214800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcbEMRBZgEEChCJEMEExlKQQqdjEhF48ZSxaQazSmzMQ00xA09gfMAOEMzpsPSS5ipwQ4Tl1AqaMlGAOGgIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Hungary",
+                "badge": ""
+            },
+            "away": {
+                "name": "United Kingdom",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-hungary-vs-united-kingdom"
             }
         ]
     },
@@ -416,6 +275,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-slovenia-vs-slovakia"
+            },
+            {
+                "source": "delta",
+                "id": "live_world-championship-group-b_slovenia-slovakia-live-streaming-1307470221"
+            },
             {
                 "source": "echo",
                 "id": "slovenia-vs-slovakia-hockey-396681"
@@ -440,6 +307,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_world-championship-group-a_hungary-great-britain-live-streaming-1307468223"
+            },
             {
                 "source": "echo",
                 "id": "hungary-vs-great-britain-hockey-396718"
@@ -529,6 +400,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-atlanta-braves-vs-miami-marlins"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_marlins-braves-live-streaming-1307350341"
+            },
+            {
                 "source": "echo",
                 "id": "miami-marlins-vs-atlanta-braves-baseball-178740"
             },
@@ -556,6 +435,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-cleveland-guardians-vs-detroit-tigers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_tigers-guardians-live-streaming-1307351340"
+            },
             {
                 "source": "echo",
                 "id": "detroit-tigers-vs-cleveland-guardians-baseball-178737"
@@ -585,6 +472,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-cincinnati-reds-vs-philadelphia-phillies"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_phillies-reds-live-streaming-1307352339"
+            },
+            {
                 "source": "echo",
                 "id": "philadelphia-phillies-vs-cincinnati-reds-baseball-178731"
             },
@@ -612,6 +507,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-baltimore-orioles-vs-tampa-bay-rays"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_rays-orioles-live-streaming-1307353338"
+            },
             {
                 "source": "echo",
                 "id": "tampa-bay-rays-vs-baltimore-orioles-baseball-178728"
@@ -641,6 +544,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-new-york-mets-vs-washington-nationals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_nationals-mets-live-streaming-1307354337"
+            },
+            {
                 "source": "echo",
                 "id": "washington-nationals-vs-new-york-mets-baseball-178727"
             },
@@ -668,6 +579,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-toronto-blue-jays-vs-new-york-yankees"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_yankees-blue-jays-live-streaming-1307355336"
+            },
             {
                 "source": "echo",
                 "id": "new-york-yankees-vs-toronto-blue-jays-baseball-178726"
@@ -697,6 +616,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-milwaukee-brewers-vs-chicago-cubs"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_cubs-brewers-live-streaming-1307356335"
+            },
+            {
                 "source": "echo",
                 "id": "chicago-cubs-vs-milwaukee-brewers-baseball-178739"
             },
@@ -724,6 +651,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-boston-red-sox-vs-kansas-city-royals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_royals-red-sox-live-streaming-1307357334"
+            },
             {
                 "source": "echo",
                 "id": "kansas-city-royals-vs-boston-red-sox-baseball-178735"
@@ -753,6 +688,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-houston-astros-vs-minnesota-twins"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_twins-astros-live-streaming-1307358333"
+            },
+            {
                 "source": "echo",
                 "id": "minnesota-twins-vs-houston-astros-baseball-178733"
             },
@@ -780,6 +723,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-pittsburgh-pirates-vs-st-louis-cardinals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_cardinals-pirates-live-streaming-1307359332"
+            },
             {
                 "source": "echo",
                 "id": "stlouis-cardinals-vs-pittsburgh-pirates-baseball-178729"
