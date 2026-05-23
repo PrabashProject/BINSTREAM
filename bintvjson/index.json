@@ -1,5 +1,18 @@
 [
     {
+        "id": "atp-wta-hamburg-geneva-strasbourg-rabat-tn-1",
+        "title": "ATP / WTA: Hamburg / Geneva / Strasbourg / Rabat \ud83c\udfbe",
+        "category": "tennis",
+        "date": 1779537600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atp-wta-hamburg-geneva-strasbourg-rabat-tn-1"
+            }
+        ]
+    },
+    {
         "id": "soudal-open-dp-world-tour-atp1000",
         "title": "Soudal Open | DP World Tour",
         "category": "other",
@@ -9,25 +22,6 @@
             {
                 "source": "echo",
                 "id": "soudal-open-dp-world-tour-atp1000"
-            }
-        ]
-    },
-    {
-        "id": "international-darts-open--day2-2470488",
-        "title": "International Darts Open  Day2",
-        "category": "darts",
-        "date": 1779534000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdh2khBvENRAQQurNpAo9IS-utmWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-international-darts-open-day-2-afternoon"
-            },
-            {
-                "source": "echo",
-                "id": "international-darts-open-2026-darts-1"
             }
         ]
     },
@@ -52,14 +46,6 @@
             {
                 "source": "admin",
                 "id": "ppv-denmark-vs-slovenia"
-            },
-            {
-                "source": "delta",
-                "id": "live_world-championship-group-b_denmark-slovenia-live-streaming-1307935755"
-            },
-            {
-                "source": "echo",
-                "id": "denmark-vs-slovenia-hockey-396720"
             }
         ]
     },
@@ -96,33 +82,10 @@
         ]
     },
     {
-        "id": "port-adelaide-power-vs-carlton-blues-australian-football-3441",
-        "title": "Port Adelaide Power vs Carlton Blues",
-        "category": "afl",
-        "date": 1779528900000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Port Adelaide Power",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRGfXIMAxs2E94YquMINWYMLnwGgA"
-            },
-            "away": {
-                "name": "Carlton Blues",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQUuuQYBjZsJ7wxVcYQaswYXPn1A"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "port-adelaide-power-vs-carlton-blues-australian-football-3441"
-            }
-        ]
-    },
-    {
         "id": "manly-sea-eagles-vs-gold-coast-titans-2417247",
         "title": "Manly Sea Eagles vs Gold Coast Titans",
         "category": "rugby",
-        "date": 1779528900000,
+        "date": 1779528600000,
         "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECkrYGwJGCQhuIPiCkhzJQyEQwrMArop9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
         "popular": true,
         "teams": {
@@ -137,25 +100,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-sea-eagles-vs-titans"
-            },
-            {
                 "source": "echo",
                 "id": "manly-sea-eagles-vs-gold-coast-titans-game-3373252"
-            }
-        ]
-    },
-    {
-        "id": "atp-wta-hamburg-geneva-strasbourg-rabat-tn-1",
-        "title": "ATP / WTA: Hamburg / Geneva / Strasbourg / Rabat \ud83c\udfbe",
-        "category": "tennis",
-        "date": 1779537600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "atp-wta-hamburg-geneva-strasbourg-rabat-tn-1"
             }
         ]
     },
@@ -478,21 +424,6 @@
         ]
     },
     {
-        "id": "international-darts-open--day3-2470489",
-        "title": "International Darts Open  Day3",
-        "category": "darts",
-        "date": 1779555600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEFJg2gAwhGEEL02mUIaiCuXLJEDBZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-international-darts-open-day-2-evening"
-            }
-        ]
-    },
-    {
         "id": "toulouse-olympique-vs-wakefield-trinity-wildcats-2395922",
         "title": "Toulouse Olympique vs Wakefield Trinity Wildcats",
         "category": "rugby",
@@ -513,6 +444,25 @@
             {
                 "source": "echo",
                 "id": "toulouse-olympique-vs-wakefield-trinity-game-182283"
+            }
+        ]
+    },
+    {
+        "id": "international-darts-open--day2-2470488",
+        "title": "International Darts Open  Day2",
+        "category": "darts",
+        "date": 1779555600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdh2khBvENRAQQurNpAo9IS-utmWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-international-darts-open-day-2-afternoon"
+            },
+            {
+                "source": "echo",
+                "id": "international-darts-open-2026-darts-1"
             }
         ]
     },
@@ -541,42 +491,6 @@
             {
                 "source": "delta",
                 "id": "live_wnba_chicago-lynx-live-streaming-1210547241"
-            }
-        ]
-    },
-    {
-        "id": "cincinnati-reds-vs-st--louis-cardinals-2387638",
-        "title": "Cincinnati Reds vs St. Louis Cardinals",
-        "category": "baseball",
-        "date": 1779556200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsGwgYIcLzC7eILMdMkQEENJAoQ5yfmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Cincinnati Reds",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA"
-            },
-            "away": {
-                "name": "St. Louis Cardinals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-st-louis-cardinals-vs-cincinnati-reds"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_reds-cardinals-live-streaming-1324753920"
-            },
-            {
-                "source": "echo",
-                "id": "cincinnati-reds-vs-stlouis-cardinals-baseball-178787"
-            },
-            {
-                "source": "golf",
-                "id": "22648"
             }
         ]
     },
@@ -1674,6 +1588,42 @@
         ]
     },
     {
+        "id": "cincinnati-reds-vs-st--louis-cardinals-2387638",
+        "title": "Cincinnati Reds vs St. Louis Cardinals",
+        "category": "baseball",
+        "date": 1779578100000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsGwgYIcLzC7eILMdMkQEENJAoQ5yfmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Cincinnati Reds",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA"
+            },
+            "away": {
+                "name": "St. Louis Cardinals",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-st-louis-cardinals-vs-cincinnati-reds"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_reds-cardinals-live-streaming-1324753920"
+            },
+            {
+                "source": "echo",
+                "id": "cincinnati-reds-vs-stlouis-cardinals-baseball-178787"
+            },
+            {
+                "source": "golf",
+                "id": "22648"
+            }
+        ]
+    },
+    {
         "id": "ppv-event-17-lucas-oil-show-me-100-wheatland-game-19964",
         "title": "Lucas Oil Show Me 100 Wheatland",
         "category": "other",
@@ -1709,6 +1659,10 @@
                 "id": "ppv-d-c-united-vs-cf-montr-al"
             },
             {
+                "source": "delta",
+                "id": "live_mls_dc-united-montreal-live-streaming-1242495261"
+            },
+            {
                 "source": "golf",
                 "id": "22520"
             }
@@ -1735,6 +1689,10 @@
             {
                 "source": "admin",
                 "id": "ppv-charlotte-fc-vs-new-england-revolution"
+            },
+            {
+                "source": "delta",
+                "id": "live_mls_charlotte-new-england-live-streaming-1242494262"
             },
             {
                 "source": "echo",
@@ -1767,6 +1725,10 @@
             {
                 "source": "admin",
                 "id": "ppv-fc-cincinnati-vs-orlando-city-sc"
+            },
+            {
+                "source": "delta",
+                "id": "live_mls_cincinnati-orlando-live-streaming-1242496260"
             },
             {
                 "source": "echo",
