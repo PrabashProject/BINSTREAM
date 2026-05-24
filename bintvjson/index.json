@@ -1,5 +1,65 @@
 [
     {
+        "id": "baltimore-orioles-vs-detroit-tigers-2387655",
+        "title": "Baltimore Orioles vs Detroit Tigers",
+        "category": "baseball",
+        "date": 1779640500000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKolrwwSECiYheILMdMkQEENL1W9LJBSwi5jFGFX6O78o2pz9+KzAYO7iYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Baltimore Orioles",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA"
+            },
+            "away": {
+                "name": "Detroit Tigers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-detroit-tigers-vs-baltimore-orioles"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_orioles-tigers-live-streaming-1308172518"
+            },
+            {
+                "source": "echo",
+                "id": "baltimore-orioles-vs-detroit-tigers-baseball-178805"
+            },
+            {
+                "source": "golf",
+                "id": "22672"
+            }
+        ]
+    },
+    {
+        "id": "rasta-vechta-vs-alba-berlin-2475689",
+        "title": "Rasta Vechta vs ALBA Berlin",
+        "category": "basketball",
+        "date": 1779640200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMA1hmIelJDcQfA7pAkQ+xDhQgQBTRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Rasta Vechta",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGcvDAowJENxB89ICCF0ATXAZAWUBCkz4ouO8vXminTWmB1jREIA"
+            },
+            "away": {
+                "name": "ALBA Berlin",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQISuQAmYNd1UgIB9VpCmjMEHwIUm1rrvL15olMCa0wusaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "vechta-vs-alba-berlin-basketball-499704"
+            }
+        ]
+    },
+    {
         "id": "toronto-blue-jays-vs-pittsburgh-pirates-2387659",
         "title": "Toronto Blue Jays vs Pittsburgh Pirates",
         "category": "baseball",
@@ -85,6 +145,10 @@
                 "id": "ppv-napoli-vs-udinese"
             },
             {
+                "source": "delta",
+                "id": "live_serie-a_napoli-udinese-live-streaming-1096769133"
+            },
+            {
                 "source": "echo",
                 "id": "napoli-vs-udinese-football-1378240"
             }
@@ -125,18 +189,6 @@
             {
                 "source": "admin",
                 "id": "ppv-west-ham-united-vs-leeds-united"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_west-ham-leeds-live-streaming-1096761141"
-            },
-            {
-                "source": "echo",
-                "id": "west-ham-vs-leeds-football-1379348"
-            },
-            {
-                "source": "golf",
-                "id": "22571"
             }
         ]
     },
@@ -161,18 +213,6 @@
             {
                 "source": "admin",
                 "id": "ppv-tottenham-hotspur-vs-everton"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_tottenham-everton-live-streaming-1096760142"
-            },
-            {
-                "source": "echo",
-                "id": "tottenham-vs-everton-football-1379347"
-            },
-            {
-                "source": "golf",
-                "id": "22570"
             }
         ]
     },
@@ -197,18 +237,6 @@
             {
                 "source": "admin",
                 "id": "ppv-sunderland-vs-chelsea"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_sunderland-chelsea-live-streaming-1096759143"
-            },
-            {
-                "source": "echo",
-                "id": "sunderland-vs-chelsea-football-1379346"
-            },
-            {
-                "source": "golf",
-                "id": "22569"
             }
         ]
     },
@@ -233,18 +261,6 @@
             {
                 "source": "admin",
                 "id": "ppv-nottingham-forest-vs-afc-bournemouth"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_forest-bournemouth-live-streaming-1096758144"
-            },
-            {
-                "source": "echo",
-                "id": "nottingham-forest-vs-bournemouth-football-1379345"
-            },
-            {
-                "source": "golf",
-                "id": "22568"
             }
         ]
     },
@@ -269,18 +285,6 @@
             {
                 "source": "admin",
                 "id": "ppv-manchester-city-vs-aston-villa"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_man-city-aston-villa-live-streaming-1096757145"
-            },
-            {
-                "source": "echo",
-                "id": "manchester-city-vs-aston-villa-football-1379344"
-            },
-            {
-                "source": "golf",
-                "id": "22567"
             }
         ]
     },
@@ -305,18 +309,6 @@
             {
                 "source": "admin",
                 "id": "ppv-liverpool-vs-brentford"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_liverpool-brentford-live-streaming-1096756146"
-            },
-            {
-                "source": "echo",
-                "id": "liverpool-vs-brentford-football-1379343"
-            },
-            {
-                "source": "golf",
-                "id": "22566"
             }
         ]
     },
@@ -341,18 +333,6 @@
             {
                 "source": "admin",
                 "id": "ppv-fulham-vs-newcastle-united"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_fulham-newcastle-live-streaming-1096755147"
-            },
-            {
-                "source": "echo",
-                "id": "fulham-vs-newcastle-football-1379342"
-            },
-            {
-                "source": "golf",
-                "id": "22565"
             }
         ]
     },
@@ -377,18 +357,6 @@
             {
                 "source": "admin",
                 "id": "ppv-crystal-palace-vs-arsenal"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_crystal-palace-arsenal-live-streaming-1096754148"
-            },
-            {
-                "source": "echo",
-                "id": "crystal-palace-vs-arsenal-football-1379341"
-            },
-            {
-                "source": "golf",
-                "id": "22564"
             }
         ]
     },
@@ -413,14 +381,6 @@
             {
                 "source": "admin",
                 "id": "ppv-burnley-vs-wolverhampton-wanderers"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_burnley-wolves-live-streaming-1096753149"
-            },
-            {
-                "source": "golf",
-                "id": "22563"
             }
         ]
     },
@@ -445,65 +405,6 @@
             {
                 "source": "admin",
                 "id": "ppv-brighton-hove-albion-vs-manchester-united"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_brighton-man-utd-live-streaming-1096752150"
-            },
-            {
-                "source": "echo",
-                "id": "brighton-vs-manchester-united-football-1379339"
-            },
-            {
-                "source": "golf",
-                "id": "22562"
-            }
-        ]
-    },
-    {
-        "id": "wurzburg-vs-bonn-basketball-499677",
-        "title": "Wurzburg vs Bonn",
-        "category": "basketball",
-        "date": 1779633000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Wurzburg",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IbCBQgqIRXXIMAxs0k94YqtwJdWYMLnw2gA"
-            },
-            "away": {
-                "name": "Bonn",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IbCCogI9cgwDGzST3hiq3Al1ZgwufFaA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "wurzburg-vs-bonn-basketball-499677"
-            }
-        ]
-    },
-    {
-        "id": "ppv-united-kingdom-vs-latvia",
-        "title": "United Kingdom vs. Latvia",
-        "category": "hockey",
-        "date": 1779632400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EKSYgBElMCEgYwGrOU1JzEFhAzKEELqHZ1IPYpBzVlTTDFatMvmAHCGh+-SS5iMwY4TkDAjKMlGCOwBDM4UA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "United Kingdom",
-                "badge": ""
-            },
-            "away": {
-                "name": "Latvia",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-united-kingdom-vs-latvia"
             }
         ]
     },
@@ -525,14 +426,6 @@
             }
         },
         "sources": [
-            {
-                "source": "delta",
-                "id": "live_world-championship-group-a_great-britain-latvia-live-streaming-1308263427"
-            },
-            {
-                "source": "echo",
-                "id": "great-britain-vs-latvia-hockey-396702"
-            },
             {
                 "source": "golf",
                 "id": "22695"
@@ -557,18 +450,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-denmark-vs-italy"
-            },
-            {
-                "source": "delta",
-                "id": "live_world-championship-group-b_denmark-italy-live-streaming-1308265425"
-            },
-            {
-                "source": "echo",
-                "id": "denmark-vs-italy-hockey-396721"
-            },
             {
                 "source": "golf",
                 "id": "22696"
@@ -654,19 +535,6 @@
         ]
     },
     {
-        "id": "roland-garros-french-open-roland-2026",
-        "title": "Roland Garros French Open \ud83c\udfbe",
-        "category": "other",
-        "date": 1779613200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "roland-garros-french-open-roland-2026"
-            }
-        ]
-    },
-    {
         "id": "international-darts-open--day3-2470489",
         "title": "International Darts Open  Day3",
         "category": "darts",
@@ -678,30 +546,6 @@
             {
                 "source": "echo",
                 "id": "international-darts-open-2026-darts-1"
-            }
-        ]
-    },
-    {
-        "id": "rasta-vechta-vs-alba-berlin-2475689",
-        "title": "Rasta Vechta vs ALBA Berlin",
-        "category": "basketball",
-        "date": 1779640200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMA1hmIelJDcQfA7pAkQ+xDhQgQBTRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Rasta Vechta",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGcvDAowJENxB89ICCF0ATXAZAWUBCkz4ouO8vXminTWmB1jREIA"
-            },
-            "away": {
-                "name": "ALBA Berlin",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQISuQAmYNd1UgIB9VpCmjMEHwIUm1rrvL15olMCa0wusaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "vechta-vs-alba-berlin-basketball-499704"
             }
         ]
     },
@@ -1108,6 +952,10 @@
                 "id": "ppv-hellas-verona-vs-as-roma"
             },
             {
+                "source": "delta",
+                "id": "live_serie-a_verona-roma-live-streaming-1096765137"
+            },
+            {
                 "source": "echo",
                 "id": "hellas-verona-vs-as-roma-football-1378243"
             }
@@ -1136,6 +984,10 @@
                 "id": "ppv-torino-vs-juventus"
             },
             {
+                "source": "delta",
+                "id": "live_serie-a_torino-juventus-live-streaming-1096771131"
+            },
+            {
                 "source": "echo",
                 "id": "torino-vs-juventus-football-1378242"
             }
@@ -1162,6 +1014,10 @@
             {
                 "source": "admin",
                 "id": "ppv-ac-milan-vs-cagliari"
+            },
+            {
+                "source": "delta",
+                "id": "live_serie-a_milan-cagliari-live-streaming-1096768134"
             },
             {
                 "source": "echo",
@@ -1585,38 +1441,15 @@
         ]
     },
     {
-        "id": "baltimore-orioles-vs-detroit-tigers-2387655",
-        "title": "Baltimore Orioles vs Detroit Tigers",
-        "category": "baseball",
-        "date": 1779660300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKolrwwSECiYheILMdMkQEENL1W9LJBSwi5jFGFX6O78o2pz9+KzAYO7iYhBAA.webp",
+        "id": "ppv-event-05-super-dirtcar-series-weedsport-ppv-05",
+        "title": "Super DIRTcar Series Weedsport",
+        "category": "other",
+        "date": 1779663000000,
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Baltimore Orioles",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA"
-            },
-            "away": {
-                "name": "Detroit Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA"
-            }
-        },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-detroit-tigers-vs-baltimore-orioles"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_orioles-tigers-live-streaming-1308172518"
-            },
-            {
                 "source": "echo",
-                "id": "baltimore-orioles-vs-detroit-tigers-baseball-178805"
-            },
-            {
-                "source": "golf",
-                "id": "22672"
+                "id": "ppv-event-05-super-dirtcar-series-weedsport-ppv-05"
             }
         ]
     },
@@ -1630,19 +1463,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-06-napa-all-star-sprints-wayne-ppv-06"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-05-super-dirtcar-series-weedsport-ppv-05",
-        "title": "Super DIRTcar Series Weedsport",
-        "category": "other",
-        "date": 1779663000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-05-super-dirtcar-series-weedsport-ppv-05"
             }
         ]
     },
