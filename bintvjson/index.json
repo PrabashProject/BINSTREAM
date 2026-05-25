@@ -1,5 +1,41 @@
 [
     {
+        "id": "san-francisco-giants-vs-arizona-diamondbacks-2387676",
+        "title": "San Francisco Giants vs Arizona Diamondbacks",
+        "category": "baseball",
+        "date": 1779743100000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlEaC0IaWCQheILMdMkQEXSBTXDLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "San Francisco Giants",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS5UAJiHhh+KEBBC8QWIyFOHE1EJZJ6CFfAJQ8wZLYwVinD+mBfixEEA"
+            },
+            "away": {
+                "name": "Arizona Diamondbacks",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-arizona-diamondbacks-vs-san-francisco-giants"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_giants-diamondbacks-live-streaming-1308317373"
+            },
+            {
+                "source": "echo",
+                "id": "san-francisco-giants-vs-arizona-diamondbacks-baseball-178811"
+            },
+            {
+                "source": "golf",
+                "id": "22680"
+            }
+        ]
+    },
+    {
         "id": "new-york-mets-vs-cincinnati-reds-2387673",
         "title": "New York Mets vs Cincinnati Reds",
         "category": "baseball",
@@ -72,62 +108,6 @@
         ]
     },
     {
-        "id": "ppv-germany-vs-united-kingdom",
-        "title": "Germany vs. United Kingdom",
-        "category": "hockey",
-        "date": 1779733200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6ECmA0QMEDWYh5iaUPlzi8mSCxTsGpuoUblexFr0LgQ5uL5gBwhtjzAw9JLmLjBthOUsDxjJRgtsAQzKFAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Germany",
-                "badge": ""
-            },
-            "away": {
-                "name": "United Kingdom",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-germany-vs-united-kingdom"
-            }
-        ]
-    },
-    {
-        "id": "slovenia-ice-hockey-vs-italy-ice-hockey-2474659",
-        "title": "Slovenia Ice Hockey vs Italy Ice Hockey",
-        "category": "hockey",
-        "date": 1779733200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGohEvSCH4h9ILMcMgUIEiAimrzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Slovenia Ice Hockey",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuuMHxB8Ea7SBgGQKEKoghzAE1wEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Italy Ice Hockey",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmYUUySUQ3HSD4gV+kChBndZ08sIxgTPii7ry9eaMdNaYdWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-slovenia-vs-italy"
-            },
-            {
-                "source": "delta",
-                "id": "live_world-championship-group-b_slovenia-italy-live-streaming-1308366324"
-            },
-            {
-                "source": "echo",
-                "id": "slovenia-vs-italy-hockey-396683"
-            }
-        ]
-    },
-    {
         "id": "chicago-white-sox-vs-minnesota-twins-2387683",
         "title": "Chicago White Sox vs Minnesota Twins",
         "category": "baseball",
@@ -145,18 +125,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-minnesota-twins-vs-chicago-white-sox"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_white-sox-twins-live-streaming-1308313377"
-            },
-            {
-                "source": "echo",
-                "id": "chicago-white-sox-vs-minnesota-twins-baseball-178818"
-            },
             {
                 "source": "golf",
                 "id": "22676"
@@ -182,18 +150,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-st-louis-cardinals-vs-milwaukee-brewers"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_brewers-cardinals-live-streaming-1308314376"
-            },
-            {
-                "source": "echo",
-                "id": "milwaukee-brewers-vs-stlouis-cardinals-baseball-178814"
-            },
-            {
                 "source": "golf",
                 "id": "22677"
             }
@@ -218,16 +174,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-tampa-bay-rays-vs-baltimore-orioles"
-            },
-            {
                 "source": "delta",
                 "id": "live_mlb_orioles-rays-live-streaming-1308312378"
-            },
-            {
-                "source": "echo",
-                "id": "baltimore-orioles-vs-tampa-bay-rays-baseball-178819"
             },
             {
                 "source": "golf",
@@ -254,48 +202,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-chicago-cubs-vs-pittsburgh-pirates"
-            },
-            {
                 "source": "golf",
                 "id": "22674"
-            }
-        ]
-    },
-    {
-        "id": "san-francisco-giants-vs-arizona-diamondbacks-2387676",
-        "title": "San Francisco Giants vs Arizona Diamondbacks",
-        "category": "baseball",
-        "date": 1779743100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlEaC0IaWCQheILMdMkQEXSBTXDLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "San Francisco Giants",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS5UAJiHhh+KEBBC8QWIyFOHE1EJZJ6CFfAJQ8wZLYwVinD+mBfixEEA"
-            },
-            "away": {
-                "name": "Arizona Diamondbacks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-arizona-diamondbacks-vs-san-francisco-giants"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_giants-diamondbacks-live-streaming-1308317373"
-            },
-            {
-                "source": "echo",
-                "id": "san-francisco-giants-vs-arizona-diamondbacks-baseball-178811"
-            },
-            {
-                "source": "golf",
-                "id": "22680"
             }
         ]
     },
