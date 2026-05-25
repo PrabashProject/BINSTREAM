@@ -1,37 +1,5 @@
 [
     {
-        "id": "ppv-event-12-world-of-outlaws-sprint-cars-husets-ppv-12",
-        "title": "World of Outlaws Sprint Cars Husets",
-        "category": "other",
-        "date": 1779667800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-12-world-of-outlaws-sprint-cars-husets-ppv-12"
-            }
-        ]
-    },
-    {
-        "id": "double-or-nothing-2462403",
-        "title": "Double Or Nothing",
-        "category": "fight",
-        "date": 1779667200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo0LSQKSiBIheILMZ0hqIbQYMX4LJBSwi5jFGFW6O78o2pzd+KzAYO7iYhBAA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_aew-double-or-nothing-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-01-aew-double-or-nothing-ppv-01"
-            }
-        ]
-    },
-    {
         "id": "roland-garros-french-open-roland-2026",
         "title": "Roland Garros French Open \ud83c\udfbe",
         "category": "other",
@@ -91,6 +59,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-united-states-vs-hungary"
+            },
+            {
                 "source": "delta",
                 "id": "live_world-championship-group-a_usa-hungary-live-streaming-1308362328"
             },
@@ -119,6 +91,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-czech-republic-vs-norway"
+            },
+            {
                 "source": "echo",
                 "id": "czech-republic-vs-norway-hockey-396715"
             }
@@ -142,6 +118,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-tampa-bay-rays-vs-baltimore-orioles"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_orioles-rays-live-streaming-1308312378"
@@ -175,6 +155,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-chicago-cubs-vs-pittsburgh-pirates"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_pirates-cubs-live-streaming-1308319371"
             },
@@ -206,6 +190,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-minnesota-twins-vs-chicago-white-sox"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_white-sox-twins-live-streaming-1308313377"
@@ -239,6 +227,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-st-louis-cardinals-vs-milwaukee-brewers"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_brewers-cardinals-live-streaming-1308314376"
             },
@@ -249,6 +241,30 @@
             {
                 "source": "golf",
                 "id": "22677"
+            }
+        ]
+    },
+    {
+        "id": "ppv-germany-vs-united-kingdom",
+        "title": "Germany vs. United Kingdom",
+        "category": "hockey",
+        "date": 1779733200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6ECmA0QMEDWYh5iaUPlzi8mSCxTsGpuoUblexFr0LgQ5uL5gBwhtjzAw9JLmLjBthOUsDxjJRgtsAQzKFAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Germany",
+                "badge": ""
+            },
+            "away": {
+                "name": "United Kingdom",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-germany-vs-united-kingdom"
             }
         ]
     },
@@ -299,6 +315,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-slovenia-vs-italy"
+            },
+            {
                 "source": "delta",
                 "id": "live_world-championship-group-b_slovenia-italy-live-streaming-1308366324"
             },
@@ -326,6 +346,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-new-york-yankees-vs-kansas-city-royals"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_royals-yankees-live-streaming-1308315375"
@@ -359,6 +383,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-cincinnati-reds-vs-new-york-mets"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_mets-reds-live-streaming-1308316374"
             },
@@ -390,6 +418,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-arizona-diamondbacks-vs-san-francisco-giants"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_giants-diamondbacks-live-streaming-1308317373"
@@ -423,6 +455,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-washington-nationals-vs-cleveland-guardians"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_guardians-nationals-live-streaming-1308318372"
             },
@@ -454,6 +490,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-philadelphia-phillies-vs-san-diego-padres"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_padres-phillies-live-streaming-1308320370"
@@ -487,6 +527,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-houston-astros-vs-texas-rangers"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_rangers-astros-live-streaming-1308321369"
             },
@@ -518,6 +562,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-miami-marlins-vs-toronto-blue-jays"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_blue-jays-marlins-live-streaming-1308322368"
