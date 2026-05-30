@@ -1,5 +1,46 @@
 [
     {
+        "id": "ppv-event-06-fmw-8-popo-v-whinderson-em-portuguese-ppv-06",
+        "title": "FMW 8 Popo v Whinderson (em Portuguese)",
+        "category": "other",
+        "date": 1780178400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-06-fmw-8-popo-v-whinderson-em-portuguese-ppv-06"
+            }
+        ]
+    },
+    {
+        "id": "connecticut-sun-vs-los-angeles-sparks-2449023",
+        "title": "Connecticut Sun vs Los Angeles Sparks",
+        "category": "basketball",
+        "date": 1780178400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGF5gwAkCBQhuIKSBKH9FvYj1SCwJBT7DZ9DSpRcwZeESyyPTLTaovQhQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Connecticut Sun",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggo4JM1IhuIEntwgAJiD4gU5kKuWEYwJnxRcwZeEXminTWmBdjREEA"
+            },
+            "away": {
+                "name": "Los Angeles Sparks",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQg+IGP1yUQ3EABNcICBpCI9JlCBAEKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-los-angeles-sparks-vs-connecticut-sun"
+            },
+            {
+                "source": "delta",
+                "id": "live_wnba_connecticut-sparks-live-streaming-1309016673"
+            }
+        ]
+    },
+    {
         "id": "cleveland-guardians-vs-boston-red-sox-2387747",
         "title": "Cleveland Guardians vs Boston Red Sox",
         "category": "baseball",
@@ -345,34 +386,6 @@
         ]
     },
     {
-        "id": "birmingham-stallions-vs-houston-gamblers-2432132",
-        "title": "Birmingham Stallions vs Houston Gamblers",
-        "category": "american-football",
-        "date": 1780167600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBAgBIFGHBYQvEIdNGQMC1ZIhpLJBSwi5jPapQ8wZeEWpyP+KzAYF7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Birmingham Stallions",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIgQAsMDAgUIbiAAmICCBK4QifUZMGCFJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Houston Gamblers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyyQQiACb8wKENxB8DIGCA1H9JkCAgEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-houston-gamblers-vs-birmingham-stallions"
-            },
-            {
-                "source": "delta",
-                "id": "live_ufl_birmingham-stallions-houston-gamblers-live-streaming-1308874815"
-            }
-        ]
-    },
-    {
         "id": "chicago-white-sox-vs-detroit-tigers-2387749",
         "title": "Chicago White Sox vs Detroit Tigers",
         "category": "baseball",
@@ -390,10 +403,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-detroit-tigers-vs-chicago-white-sox"
-            },
             {
                 "source": "golf",
                 "id": "22775"
@@ -478,27 +487,12 @@
         ]
     },
     {
-        "id": "ppv-dmitry-bivol-vs-michael-eifert",
-        "title": "Dmitry Bivol vs. Michael Eifert",
+        "id": "live-event_dmitry-bivol-vs-michael-eifert-live-stream",
+        "title": "Dmitry Bivol vs Michael Eifert",
         "category": "fight",
-        "date": 1780153200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EDGYgh2EChDFJwCCCwUQNYELFzsGxRpCJKiLHMnLgNU0pAXp+YHzADhDHSgf0kuYu8FOE5FIC7oyUYE56AhBAA.webp",
+        "date": 1780156800000,
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Dmitry Bivol",
-                "badge": ""
-            },
-            "away": {
-                "name": "Michael Eifert",
-                "badge": ""
-            }
-        },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-dmitry-bivol-vs-michael-eifert"
-            },
             {
                 "source": "delta",
                 "id": "live-event_dmitry-bivol-vs-michael-eifert-live-stream"
@@ -519,152 +513,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-15-motoamerica-superbikes-road-america-pppv15"
-            }
-        ]
-    },
-    {
-        "id": "22744",
-        "title": "Rally - Roland Garros",
-        "category": "tennis",
-        "date": 1780131600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Rally"
-            },
-            "away": {
-                "name": "Roland Garros"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22744"
-            }
-        ]
-    },
-    {
-        "id": "22743",
-        "title": "Roland-Garros - Court 14",
-        "category": "tennis",
-        "date": 1780131600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Roland-Garros"
-            },
-            "away": {
-                "name": "Court 14"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22743"
-            }
-        ]
-    },
-    {
-        "id": "22742",
-        "title": "Roland-Garros - Court Simonne Mathieu",
-        "category": "tennis",
-        "date": 1780131600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Roland-Garros"
-            },
-            "away": {
-                "name": "Court Simonne Mathieu"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22742"
-            }
-        ]
-    },
-    {
-        "id": "22741",
-        "title": "Roland-Garros - Court Suzanne Lenglen",
-        "category": "tennis",
-        "date": 1780131600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Roland-Garros"
-            },
-            "away": {
-                "name": "Court Suzanne Lenglen"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22741"
-            }
-        ]
-    },
-    {
-        "id": "22740",
-        "title": "Roland-Garros - Court Philippe Chatrier",
-        "category": "tennis",
-        "date": 1780131600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Roland-Garros"
-            },
-            "away": {
-                "name": "Court Philippe Chatrier"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22740"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-06-fmw-8-popo-v-whinderson-em-portuguese-ppv-06",
-        "title": "FMW 8 Popo v Whinderson (em Portuguese)",
-        "category": "other",
-        "date": 1780178400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-06-fmw-8-popo-v-whinderson-em-portuguese-ppv-06"
-            }
-        ]
-    },
-    {
-        "id": "connecticut-sun-vs-los-angeles-sparks-2449023",
-        "title": "Connecticut Sun vs Los Angeles Sparks",
-        "category": "basketball",
-        "date": 1780178400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGF5gwAkCBQhuIKSBKH9FvYj1SCwJBT7DZ9DSpRcwZeESyyPTLTaovQhQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Connecticut Sun",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggo4JM1IhuIEntwgAJiD4gU5kKuWEYwJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Los Angeles Sparks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQg+IGP1yUQ3EABNcICBpCI9JlCBAEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-los-angeles-sparks-vs-connecticut-sun"
-            },
-            {
-                "source": "delta",
-                "id": "live_wnba_connecticut-sparks-live-streaming-1309016673"
             }
         ]
     },
