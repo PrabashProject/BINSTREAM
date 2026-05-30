@@ -1,5 +1,114 @@
 [
     {
+        "id": "live-event_stephanie-han-vs-holly-holm-live-stream",
+        "title": "Stephanie Han vs Holly Holm",
+        "category": "fight",
+        "date": 1780169400000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Stephanie Han"
+            },
+            "away": {
+                "name": "Holly Holms 2"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_stephanie-han-vs-holly-holm-live-stream"
+            },
+            {
+                "source": "golf",
+                "id": "22793"
+            }
+        ]
+    },
+    {
+        "id": "ppv-bkfc-90-tierney-vs-franco",
+        "title": "BKFC 90: Tierney vs. Franco",
+        "category": "fight",
+        "date": 1780167600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EMRAwQNECjFS546UJADEspnNkgJK5nqzBl27SmA1mMkJTWm+YAcIbY8wMPSS5ipwfYTkheqaMlGD2wBB6EEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "BKFC 90: Tierney",
+                "badge": ""
+            },
+            "away": {
+                "name": "Franco",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-bkfc-90-tierney-vs-franco"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_bkfc-tierney-v-franco-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-02-bkfc-tierney-v-franco-ppv-02"
+            }
+        ]
+    },
+    {
+        "id": "birmingham-stallions-vs-houston-gamblers-2432132",
+        "title": "Birmingham Stallions vs Houston Gamblers",
+        "category": "american-football",
+        "date": 1780167600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBAgBIFGHBYQvEIdNGQMC1ZIhpLJBSwi5jPapQ8wZeEWpyP+KzAYF7iYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Birmingham Stallions",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIgQAsMDAgUIbiAAmICCBK4QifUZMGCFJnxRcwZeEXminTWmBdjREEA"
+            },
+            "away": {
+                "name": "Houston Gamblers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyyQQiACb8wKENxB8DIGCA1H9JkCAgEKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-houston-gamblers-vs-birmingham-stallions"
+            },
+            {
+                "source": "delta",
+                "id": "live_ufl_birmingham-stallions-houston-gamblers-live-streaming-1308874815"
+            }
+        ]
+    },
+    {
+        "id": "newcastle-red-bulls-vs-sale-sharks-2309865",
+        "title": "Newcastle Red Bulls vs Sale Sharks",
+        "category": "rugby",
+        "date": 1780166700000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiHBwkYPghAa+IEppBHNRqaYlMdMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Newcastle Red Bulls",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksOBIQ6snxAQQ3EFpL6QhnFoAmxkPAIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Sale Sharks",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhybywIMlAghuGvThggAJnr4hzywjGBM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "newcastle-red-bulls-vs-sale-sharks-rugby-50126"
+            }
+        ]
+    },
+    {
         "id": "chicago-white-sox-vs-detroit-tigers-2387749",
         "title": "Chicago White Sox vs Detroit Tigers",
         "category": "baseball",
@@ -45,23 +154,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-17-ama-supercross-championship-pala-game-19964"
-            }
-        ]
-    },
-    {
-        "id": "live-event_bkfc-tierney-v-franco-live-stream",
-        "title": "BKFC Tierney vs Franco",
-        "category": "fight",
-        "date": 1780164000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_bkfc-tierney-v-franco-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-02-bkfc-tierney-v-franco-ppv-02"
             }
         ]
     },
@@ -169,10 +261,6 @@
             {
                 "source": "admin",
                 "id": "ppv-seattle-storm-vs-toronto-tempo"
-            },
-            {
-                "source": "delta",
-                "id": "live_wnba_tempo-storm-live-streaming-1210696092"
             }
         ]
     },
@@ -212,16 +300,8 @@
                 "id": "ppv-paris-saint-germain-vs-arsenal"
             },
             {
-                "source": "delta",
-                "id": "live_uefa-champions-league-knockout-stage_psg-arsenal-live-streaming-1324601073"
-            },
-            {
                 "source": "echo",
                 "id": "paris-saint-germain-vs-arsenal-football-1544371"
-            },
-            {
-                "source": "golf",
-                "id": "22561"
             }
         ]
     },
@@ -271,32 +351,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-15-motoamerica-superbikes-road-america-pppv15"
-            }
-        ]
-    },
-    {
-        "id": "austrian-alpine-open-dp-world-tour-atp1000",
-        "title": "Austrian Alpine Open | DP World Tour",
-        "category": "other",
-        "date": 1780138800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "austrian-alpine-open-dp-world-tour-atp1000"
-            }
-        ]
-    },
-    {
-        "id": "pdc-darts-elten-safety-shoes-baltic-sea-darts-open-darts-1",
-        "title": "PDC Darts Elten Safety Shoes Baltic Sea Darts Open  \ud83c\udfaf",
-        "category": "other",
-        "date": 1780138800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "pdc-darts-elten-safety-shoes-baltic-sea-darts-open-darts-1"
             }
         ]
     },
@@ -423,83 +477,6 @@
             {
                 "source": "golf",
                 "id": "22810"
-            }
-        ]
-    },
-    {
-        "id": "newcastle-red-bulls-vs-sale-sharks-2309865",
-        "title": "Newcastle Red Bulls vs Sale Sharks",
-        "category": "rugby",
-        "date": 1780166700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiHBwkYPghAa+IEppBHNRqaYlMdMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Newcastle Red Bulls",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksOBIQ6snxAQQ3EFpL6QhnFoAmxkPAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Sale Sharks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhybywIMlAghuGvThggAJnr4hzywjGBM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "newcastle-red-bulls-vs-sale-sharks-rugby-50126"
-            }
-        ]
-    },
-    {
-        "id": "birmingham-stallions-vs-houston-gamblers-2432132",
-        "title": "Birmingham Stallions vs Houston Gamblers",
-        "category": "american-football",
-        "date": 1780167600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBAgBIFGHBYQvEIdNGQMC1ZIhpLJBSwi5jPapQ8wZeEWpyP+KzAYF7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Birmingham Stallions",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIgQAsMDAgUIbiAAmICCBK4QifUZMGCFJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Houston Gamblers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyyQQiACb8wKENxB8DIGCA1H9JkCAgEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-houston-gamblers-vs-birmingham-stallions"
-            },
-            {
-                "source": "delta",
-                "id": "live_ufl_birmingham-stallions-houston-gamblers-live-streaming-1308874815"
-            }
-        ]
-    },
-    {
-        "id": "live-event_stephanie-han-vs-holly-holm-live-stream",
-        "title": "Stephanie Han vs Holly Holm",
-        "category": "fight",
-        "date": 1780169400000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Stephanie Han"
-            },
-            "away": {
-                "name": "Holly Holms 2"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_stephanie-han-vs-holly-holm-live-stream"
-            },
-            {
-                "source": "golf",
-                "id": "22793"
             }
         ]
     },
