@@ -1,5 +1,46 @@
 [
     {
+        "id": "ppv-event-05-big-block-special-utica-ppv-05",
+        "title": "Big Block Special Utica",
+        "category": "other",
+        "date": 1780264800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-05-big-block-special-utica-ppv-05"
+            }
+        ]
+    },
+    {
+        "id": "ppv-louisville-kings-vs-columbus-aviators",
+        "title": "Louisville Kings vs. Columbus Aviators",
+        "category": "american-football",
+        "date": 1780264800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EIhoghIGGJAps0ycAnymICCCwVlIYmOBDlzfZSmktZhRr0x5fMAOENseYGHpJcxeYIcJyhgLyjJRgDsAQzBFAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Louisville Kings",
+                "badge": ""
+            },
+            "away": {
+                "name": "Columbus Aviators",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-louisville-kings-vs-columbus-aviators"
+            },
+            {
+                "source": "delta",
+                "id": "live_ufl_columbus-aviators-louisville-kings-live-streaming-1309036653"
+            }
+        ]
+    },
+    {
         "id": "ppv-fury-fc-120",
         "title": "FURY FC 120",
         "category": "fight",
@@ -40,44 +81,12 @@
                 "id": "ppv-brazil-vs-panama"
             },
             {
+                "source": "delta",
+                "id": "live_int-friendly-games_brazil-panama-live-streaming-1324652022"
+            },
+            {
                 "source": "echo",
                 "id": "brazil-vs-panama-football-1536926"
-            }
-        ]
-    },
-    {
-        "id": "ppv-philadelphia-phillies-vs-los-angeles-dodgers",
-        "title": "Philadelphia Phillies vs. Los Angeles Dodgers",
-        "category": "baseball",
-        "date": 1780258200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EEJBYQiIRRAwxIYiGWIaIGsAhTNIFCAjYJs8Ynl6lMHXr0DKI4HzADhDbHgf0kuYikEOWHAYyAr6MlGBOmsyaQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Los Angeles Dodgers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EERAh65BgGNmonvElUhhBqzBhc+E0A"
-            },
-            "away": {
-                "name": "Philadelphia Phillies",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRABjeuQbKsonvElUhhBqzBhc+E0A"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-philadelphia-phillies-vs-los-angeles-dodgers"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_dodgers-phillies-live-streaming-1309049640"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-dodgers-vs-philadelphia-phillies-baseball-178887"
-            },
-            {
-                "source": "golf",
-                "id": "22808"
             }
         ]
     },
@@ -118,6 +127,42 @@
         ]
     },
     {
+        "id": "ppv-philadelphia-phillies-vs-los-angeles-dodgers",
+        "title": "Philadelphia Phillies vs. Los Angeles Dodgers",
+        "category": "baseball",
+        "date": 1780258200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EEJBYQiIRRAwxIYiGWIaIGsAhTNIFCAjYJs8Ynl6lMHXr0DKI4HzADhDbHgf0kuYikEOWHAYyAr6MlGBOmsyaQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Los Angeles Dodgers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EERAh65BgGNmonvElUhhBqzBhc+E0A"
+            },
+            "away": {
+                "name": "Philadelphia Phillies",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRABjeuQbKsonvElUhhBqzBhc+E0A"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-philadelphia-phillies-vs-los-angeles-dodgers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_dodgers-phillies-live-streaming-1309049640"
+            },
+            {
+                "source": "echo",
+                "id": "los-angeles-dodgers-vs-philadelphia-phillies-baseball-178887"
+            },
+            {
+                "source": "golf",
+                "id": "22808"
+            }
+        ]
+    },
+    {
         "id": "ppv-new-york-yankees-vs-athletics",
         "title": "New York Yankees vs. Athletics",
         "category": "baseball",
@@ -150,66 +195,6 @@
             {
                 "source": "golf",
                 "id": "22806"
-            }
-        ]
-    },
-    {
-        "id": "ppv-united-states-vs-senegal",
-        "title": "United States vs. Senegal",
-        "category": "football",
-        "date": 1780255800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EDRBMQWYEJAwKFEInGUsIWRGAQ5E3SiWLplFdmYHJJzVhTA+YAcIambYeklzEbg+wnJDmeE6UYPZaARBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "USA",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRCBAR65BgGNm4nvBFVuBLqzBhc+S0A"
-            },
-            "away": {
-                "name": "Senegal",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIePXIMAxs3E94IqtwJdWYMLnxmgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-united-states-vs-senegal"
-            },
-            {
-                "source": "delta",
-                "id": "live_int-friendly-games_usa-senegal-live-streaming-1324651023"
-            },
-            {
-                "source": "echo",
-                "id": "usa-vs-senegal-football-1503008"
-            }
-        ]
-    },
-    {
-        "id": "ppv-las-vegas-aces-vs-golden-state-valkyries",
-        "title": "Las Vegas Aces vs. Golden State Valkyries",
-        "category": "basketball",
-        "date": 1780255800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6ECmYhJNEBBBC5zbGIlCKEmCCxiQTTZOCzJq2aS3TEMCpubi+YAcIbY8wMPSS5i4wfYTlVAuKMlGD2BooQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Las Vegas Aces",
-                "badge": ""
-            },
-            "away": {
-                "name": "Golden State Valkyries",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-las-vegas-aces-vs-golden-state-valkyries"
-            },
-            {
-                "source": "delta",
-                "id": "live_wnba_valkyries-las-vegas-live-streaming-1210742046"
             }
         ]
     },
@@ -250,27 +235,20 @@
         ]
     },
     {
-        "id": "ppv-kansas-city-royals-vs-texas-rangers",
-        "title": "Kansas City Royals vs. Texas Rangers",
+        "id": "22804",
+        "title": "Texas Rangers - Kansas City Royals",
         "category": "baseball",
         "date": 1780252500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EDRAShEkDBBMQQ4FJjMxwCHJkUQGrCEQ1VeqSGCG9sxBMSUNEFMD5gBwhtjyP6SXMQeDnCOSKAg6MlGDO6szqQA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Kansas City Royals",
-                "badge": ""
+                "name": "Texas Rangers"
             },
             "away": {
-                "name": "Texas Rangers",
-                "badge": ""
+                "name": "Kansas City Royals"
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-kansas-city-royals-vs-texas-rangers"
-            },
             {
                 "source": "golf",
                 "id": "22804"
@@ -278,55 +256,20 @@
         ]
     },
     {
-        "id": "ppv-detroit-tigers-vs-chicago-white-sox",
-        "title": "Detroit Tigers vs. Chicago White Sox",
+        "id": "22803",
+        "title": "Houston Astros - Milwaukee Brewers",
         "category": "baseball",
         "date": 1780251000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmCCBDAaICJOkgh4uVNJimILCEQKazEGo06BMtVJ1DgYylZAwUwPmAHCG2PPfpJcxO4McJy5gJ2jJRgjhbMFkA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Detroit Tigers",
-                "badge": ""
+                "name": "Houston Astros"
             },
             "away": {
-                "name": "Chicago White Sox",
-                "badge": ""
+                "name": "Milwaukee Brewers"
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-detroit-tigers-vs-chicago-white-sox"
-            },
-            {
-                "source": "golf",
-                "id": "22802"
-            }
-        ]
-    },
-    {
-        "id": "ppv-milwaukee-brewers-vs-houston-astros",
-        "title": "Milwaukee Brewers vs. Houston Astros",
-        "category": "baseball",
-        "date": 1780251000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EDGzAh2EFmA0QpLCAGUVIIQpBam6kPPmUaFCUcQoQEEImJb1clMD5gBwhhIdh6SXMQeDnCORSAg6MlGDOwBDMUUA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Milwaukee Brewers",
-                "badge": ""
-            },
-            "away": {
-                "name": "Houston Astros",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-milwaukee-brewers-vs-houston-astros"
-            },
             {
                 "source": "golf",
                 "id": "22803"
@@ -334,154 +277,23 @@
         ]
     },
     {
-        "id": "ppv-wwe-clash-in-italy",
-        "title": "WWE: Clash in Italy",
-        "category": "fight",
-        "date": 1780250400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmGs2BCQUrCEpCK2bFJBiBYmTIGSUwGrPFMQMyfL0oV4+RB18wA4Q0U36SXMR2C7CcvIE7GlGB2wBDiEEA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-wwe-clash-in-italy"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_clash-in-italy-2026-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-04-wwe-clash-in-italy-ppv-004"
-            },
-            {
-                "source": "golf",
-                "id": "22821"
-            }
-        ]
-    },
-    {
-        "id": "22801",
-        "title": "New York Mets - Miami Marlins",
+        "id": "22802",
+        "title": "Chicago White Sox - Detroit Tigers",
         "category": "baseball",
-        "date": 1780249200000,
+        "date": 1780251000000,
         "popular": true,
         "teams": {
             "home": {
-                "name": "New York Mets"
+                "name": "Chicago White Sox"
             },
             "away": {
-                "name": "Miami Marlins"
+                "name": "Detroit Tigers"
             }
         },
         "sources": [
             {
                 "source": "golf",
-                "id": "22801"
-            }
-        ]
-    },
-    {
-        "id": "22800",
-        "title": "Cleveland Guardians - Boston Red Sox",
-        "category": "baseball",
-        "date": 1780249200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Cleveland Guardians"
-            },
-            "away": {
-                "name": "Boston Red Sox"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22800"
-            }
-        ]
-    },
-    {
-        "id": "22799",
-        "title": "Cincinnati Reds - Atlanta Braves",
-        "category": "baseball",
-        "date": 1780249200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Cincinnati Reds"
-            },
-            "away": {
-                "name": "Atlanta Braves"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22799"
-            }
-        ]
-    },
-    {
-        "id": "22798",
-        "title": "Tampa Bay Rays - Los Angeles Angels",
-        "category": "baseball",
-        "date": 1780249200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Tampa Bay Rays"
-            },
-            "away": {
-                "name": "Los Angeles Angels"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22798"
-            }
-        ]
-    },
-    {
-        "id": "22797",
-        "title": "Washington Nationals - San Diego Padres",
-        "category": "baseball",
-        "date": 1780248900000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Washington Nationals"
-            },
-            "away": {
-                "name": "San Diego Padres"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22797"
-            }
-        ]
-    },
-    {
-        "id": "22796",
-        "title": "Pittsburgh Pirates - Minnesota Twins",
-        "category": "baseball",
-        "date": 1780248900000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Pittsburgh Pirates"
-            },
-            "away": {
-                "name": "Minnesota Twins"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22796"
+                "id": "22802"
             }
         ]
     },
@@ -525,6 +337,27 @@
         ]
     },
     {
+        "id": "live-event_clash-in-italy-2026-live-stream",
+        "title": "Clash in Italy 2026",
+        "category": "fight",
+        "date": 1780243200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_clash-in-italy-2026-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-04-wwe-clash-in-italy-ppv-004"
+            },
+            {
+                "source": "golf",
+                "id": "22821"
+            }
+        ]
+    },
+    {
         "id": "ppv-event-02-amsoil-championship-off-road-ppv-02",
         "title": "AMSOIL Championship Off Road \ud83d\udd25",
         "category": "other",
@@ -534,165 +367,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-02-amsoil-championship-off-road-ppv-02"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-01-motoamerica-superbikes-road-america-ppv-01",
-        "title": "MotoAmerica Superbikes Road America\ud83d\udca5",
-        "category": "other",
-        "date": 1780237800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-01-motoamerica-superbikes-road-america-ppv-01"
-            }
-        ]
-    },
-    {
-        "id": "22744",
-        "title": "Rally - Roland Garros",
-        "category": "tennis",
-        "date": 1780218000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Rally"
-            },
-            "away": {
-                "name": "Roland Garros"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22744"
-            }
-        ]
-    },
-    {
-        "id": "22743",
-        "title": "Roland-Garros - Court 14",
-        "category": "tennis",
-        "date": 1780218000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Roland-Garros"
-            },
-            "away": {
-                "name": "Court 14"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22743"
-            }
-        ]
-    },
-    {
-        "id": "22742",
-        "title": "Roland-Garros - Court Simonne Mathieu",
-        "category": "tennis",
-        "date": 1780218000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Roland-Garros"
-            },
-            "away": {
-                "name": "Court Simonne Mathieu"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22742"
-            }
-        ]
-    },
-    {
-        "id": "22741",
-        "title": "Roland-Garros - Court Suzanne Lenglen",
-        "category": "tennis",
-        "date": 1780218000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Roland-Garros"
-            },
-            "away": {
-                "name": "Court Suzanne Lenglen"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22741"
-            }
-        ]
-    },
-    {
-        "id": "22740",
-        "title": "Roland-Garros - Court Philippe Chatrier",
-        "category": "tennis",
-        "date": 1780218000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Roland-Garros"
-            },
-            "away": {
-                "name": "Court Philippe Chatrier"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22740"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-05-big-block-special-utica-ppv-05",
-        "title": "Big Block Special Utica",
-        "category": "other",
-        "date": 1780264800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-05-big-block-special-utica-ppv-05"
-            }
-        ]
-    },
-    {
-        "id": "ppv-louisville-kings-vs-columbus-aviators",
-        "title": "Louisville Kings vs. Columbus Aviators",
-        "category": "american-football",
-        "date": 1780264800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EIhoghIGGJAps0ycAnymICCCwVlIYmOBDlzfZSmktZhRr0x5fMAOENseYGHpJcxeYIcJyhgLyjJRgDsAQzBFAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Louisville Kings",
-                "badge": ""
-            },
-            "away": {
-                "name": "Columbus Aviators",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-louisville-kings-vs-columbus-aviators"
-            },
-            {
-                "source": "delta",
-                "id": "live_ufl_columbus-aviators-louisville-kings-live-streaming-1309036653"
             }
         ]
     },
@@ -742,6 +416,34 @@
             {
                 "source": "golf",
                 "id": "22809"
+            }
+        ]
+    },
+    {
+        "id": "ppv-cruzeiro-vs-fluminense",
+        "title": "Cruzeiro vs. Fluminense",
+        "category": "football",
+        "date": 1780270200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EBBBZgNMSFkRmzEAOnSmIIQvFCJIStuI7Z+qeuDiUUk4nzA+YAcIbY8t+klzELg+wnIaBFoyUYPZmmkA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Cruzeiro",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNnrkGAY2bie8EVW4EurMGFz5zQA"
+            },
+            "away": {
+                "name": "Fluminense",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIKiAj1yDAMbNxPeCKrcCXVmDC58FoA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-cruzeiro-vs-fluminense"
+            },
+            {
+                "source": "echo",
+                "id": "cruzeiro-vs-fluminense-football-1492283"
             }
         ]
     }
