@@ -1,5 +1,113 @@
 [
     {
+        "id": "ppv-arizona-diamondbacks-vs-seattle-mariners",
+        "title": "Arizona Diamondbacks vs. Seattle Mariners",
+        "category": "baseball",
+        "date": 1780258200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6ECGBCQKYDRCz5MkDBBZgEMXLUhSWOUpBMDICBOabVJ9WJOyBPYHzADhDbHgf0kuYtMFOE5ELM7oyUYE5qwRBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Seattle Mariners",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EIiZ1yDAMbNRPeJKpDCDVmDC58xoA"
+            },
+            "away": {
+                "name": "Arizona Diamondbacks",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EEzrkGAY2aie8SVSGEGrMGFz4jQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-arizona-diamondbacks-vs-seattle-mariners"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_mariners-diamondbacks-live-streaming-1309050639"
+            },
+            {
+                "source": "echo",
+                "id": "seattle-mariners-vs-arizona-diamondbacks-baseball-178890"
+            },
+            {
+                "source": "golf",
+                "id": "22807"
+            }
+        ]
+    },
+    {
+        "id": "ppv-philadelphia-phillies-vs-los-angeles-dodgers",
+        "title": "Philadelphia Phillies vs. Los Angeles Dodgers",
+        "category": "baseball",
+        "date": 1780258200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EEJBYQiIRRAwxIYiGWIaIGsAhTNIFCAjYJs8Ynl6lMHXr0DKI4HzADhDbHgf0kuYikEOWHAYyAr6MlGBOmsyaQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Los Angeles Dodgers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EERAh65BgGNmonvElUhhBqzBhc+E0A"
+            },
+            "away": {
+                "name": "Philadelphia Phillies",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRABjeuQbKsonvElUhhBqzBhc+E0A"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-philadelphia-phillies-vs-los-angeles-dodgers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_dodgers-phillies-live-streaming-1309049640"
+            },
+            {
+                "source": "echo",
+                "id": "los-angeles-dodgers-vs-philadelphia-phillies-baseball-178887"
+            },
+            {
+                "source": "golf",
+                "id": "22808"
+            }
+        ]
+    },
+    {
+        "id": "ppv-new-york-yankees-vs-athletics",
+        "title": "New York Yankees vs. Athletics",
+        "category": "baseball",
+        "date": 1780257900000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6ECmwghIGCCzZmFEDSViQxEBGARVIWWokDNA5ZsSbtpbdpQgm4vmAHCG8+-SS5i4wY4TkhCuKMlGCOWgoQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Athletics",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EChAATELLrkGAY2aie8SVSGEGrMGFz5zQA"
+            },
+            "away": {
+                "name": "New York Yankees",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRDZ65BgGNmonvElUhhBqzBhc+E0A"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-new-york-yankees-vs-athletics"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_athletics-yankees-live-streaming-1309048641"
+            },
+            {
+                "source": "echo",
+                "id": "athletics-vs-new-york-yankees-baseball-178897"
+            },
+            {
+                "source": "golf",
+                "id": "22806"
+            }
+        ]
+    },
+    {
         "id": "ppv-united-states-vs-senegal",
         "title": "United States vs. Senegal",
         "category": "football",
@@ -105,11 +213,11 @@
         "teams": {
             "home": {
                 "name": "Germany",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbPXIMAxs3E94IqtwJdWYMLnxmgA"
+                "badge": ""
             },
             "away": {
                 "name": "Finland",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCBSr65BgGNm4nvBFVuBLqzBhc+S0A"
+                "badge": ""
             }
         },
         "sources": [
@@ -120,10 +228,6 @@
             {
                 "source": "delta",
                 "id": "live_int-friendly-games_germany-finland-live-streaming-1324650024"
-            },
-            {
-                "source": "echo",
-                "id": "germany-vs-finland-football-1501818"
             }
         ]
     },
@@ -196,42 +300,6 @@
         ]
     },
     {
-        "id": "ppv-detroit-tigers-vs-chicago-white-sox",
-        "title": "Detroit Tigers vs. Chicago White Sox",
-        "category": "baseball",
-        "date": 1780251000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmCCBDAaICJOkgh4uVNJimILCEQKazEGo06BMtVJ1DgYylZAwUwPmAHCG2PPfpJcxO4McJy5gJ2jJRgjhbMFkA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Chicago White Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EAGN65Boqyie8SVSGEGrMGFz4jQA"
-            },
-            "away": {
-                "name": "Detroit Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EERBM65BgGNmonvElUhhBqzBhc+E0A"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-detroit-tigers-vs-chicago-white-sox"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_white-sox-tigers-live-streaming-1309044645"
-            },
-            {
-                "source": "echo",
-                "id": "chicago-white-sox-vs-detroit-tigers-baseball-178899"
-            },
-            {
-                "source": "golf",
-                "id": "22802"
-            }
-        ]
-    },
-    {
         "id": "ppv-milwaukee-brewers-vs-houston-astros",
         "title": "Milwaukee Brewers vs. Houston Astros",
         "category": "baseball",
@@ -264,6 +332,38 @@
             {
                 "source": "golf",
                 "id": "22803"
+            }
+        ]
+    },
+    {
+        "id": "ppv-detroit-tigers-vs-chicago-white-sox",
+        "title": "Detroit Tigers vs. Chicago White Sox",
+        "category": "baseball",
+        "date": 1780251000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmCCBDAaICJOkgh4uVNJimILCEQKazEGo06BMtVJ1DgYylZAwUwPmAHCG2PPfpJcxO4McJy5gJ2jJRgjhbMFkA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Detroit Tigers",
+                "badge": ""
+            },
+            "away": {
+                "name": "Chicago White Sox",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-detroit-tigers-vs-chicago-white-sox"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_white-sox-tigers-live-streaming-1309044645"
+            },
+            {
+                "source": "golf",
+                "id": "22802"
             }
         ]
     },
@@ -302,12 +402,12 @@
         "popular": true,
         "teams": {
             "home": {
-                "name": "Tampa Bay Rays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EIgj1yDAMbNRPeJKpDCDVmDC58xoA"
+                "name": "Los Angeles Angels",
+                "badge": ""
             },
             "away": {
-                "name": "Los Angeles Angels",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EERABjeuQbKsonvElUhhBqzBhc+E0A"
+                "name": "Tampa Bay Rays",
+                "badge": ""
             }
         },
         "sources": [
@@ -316,52 +416,40 @@
                 "id": "ppv-los-angeles-angels-vs-tampa-bay-rays"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_rays-angels-live-streaming-1309043646"
-            },
-            {
-                "source": "echo",
-                "id": "tampa-bay-rays-vs-los-angeles-angels-baseball-178889"
-            },
-            {
                 "source": "golf",
                 "id": "22798"
             }
         ]
     },
     {
-        "id": "ppv-atlanta-braves-vs-cincinnati-reds",
-        "title": "Atlanta Braves vs. Cincinnati Reds",
+        "id": "ppv-boston-red-sox-vs-cleveland-guardians",
+        "title": "Boston Red Sox vs. Cleveland Guardians",
         "category": "baseball",
         "date": 1780249200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EGIjAhICCGLSQiSkxBZm0yfJrYQMMSoXAZUxFpmqpEgQJoqUwPmAHCG2PPfpJcxO4McJyQsxujJRgjoZBEEA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EEIohiIaRGDjKQkLMU0QA1dJRqQMEKpoTETEFjHbjIYLIhKrm4HzADhDbHgf0kuYikEOWHMrM7oyUYE5WwRBAA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Cincinnati Reds",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46ECHrkGAY2aie8SVSGEGrMGFz4jQA"
+                "name": "Boston Red Sox",
+                "badge": ""
             },
             "away": {
-                "name": "Atlanta Braves",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46ELLrkGAY2aie8SVSGEGrMGFz4jQA"
+                "name": "Cleveland Guardians",
+                "badge": ""
             }
         },
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-atlanta-braves-vs-cincinnati-reds"
+                "id": "ppv-boston-red-sox-vs-cleveland-guardians"
             },
             {
                 "source": "delta",
-                "id": "live_mlb_reds-braves-live-streaming-1309040649"
-            },
-            {
-                "source": "echo",
-                "id": "cincinnati-reds-vs-atlanta-braves-baseball-178900"
+                "id": "live_mlb_guardians-red-sox-live-streaming-1309041648"
             },
             {
                 "source": "golf",
-                "id": "22799"
+                "id": "22800"
             }
         ]
     },
@@ -402,38 +490,30 @@
         ]
     },
     {
-        "id": "ppv-boston-red-sox-vs-cleveland-guardians",
-        "title": "Boston Red Sox vs. Cleveland Guardians",
+        "id": "ppv-atlanta-braves-vs-cincinnati-reds",
+        "title": "Atlanta Braves vs. Cincinnati Reds",
         "category": "baseball",
         "date": 1780249200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EEIohiIaRGDjKQkLMU0QA1dJRqQMEKpoTETEFjHbjIYLIhKrm4HzADhDbHgf0kuYikEOWHMrM7oyUYE5WwRBAA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EGIjAhICCGLSQiSkxBZm0yfJrYQMMSoXAZUxFpmqpEgQJoqUwPmAHCG2PPfpJcxO4McJyQsxujJRgjoZBEEA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Cleveland Guardians",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46ECnrkGAY2aie8SVSGEGrMGFz4jQA"
+                "name": "Atlanta Braves",
+                "badge": ""
             },
             "away": {
-                "name": "Boston Red Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46ENnrkGAY2aie8SVSGEGrMGFz4jQA"
+                "name": "Cincinnati Reds",
+                "badge": ""
             }
         },
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-boston-red-sox-vs-cleveland-guardians"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_guardians-red-sox-live-streaming-1309041648"
-            },
-            {
-                "source": "echo",
-                "id": "cleveland-guardians-vs-boston-red-sox-baseball-178901"
+                "id": "ppv-atlanta-braves-vs-cincinnati-reds"
             },
             {
                 "source": "golf",
-                "id": "22800"
+                "id": "22799"
             }
         ]
     },
@@ -446,26 +526,18 @@
         "popular": true,
         "teams": {
             "home": {
-                "name": "Washington Nationals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EIgDG9cgyVZRPeJKpDCDVmDC58xoA"
+                "name": "San Diego Padres",
+                "badge": ""
             },
             "away": {
-                "name": "San Diego Padres",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EIhj1yDAMbNRPeJKpDCDVmDC58xoA"
+                "name": "Washington Nationals",
+                "badge": ""
             }
         },
         "sources": [
             {
                 "source": "admin",
                 "id": "ppv-san-diego-padres-vs-washington-nationals"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_nationals-padres-live-streaming-1309039650"
-            },
-            {
-                "source": "echo",
-                "id": "washington-nationals-vs-san-diego-padres-baseball-178893"
             },
             {
                 "source": "golf",
@@ -482,26 +554,18 @@
         "popular": true,
         "teams": {
             "home": {
-                "name": "Pittsburgh Pirates",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRAh65BgGNmonvElUhhBqzBhc+E0A"
+                "name": "Minnesota Twins",
+                "badge": ""
             },
             "away": {
-                "name": "Minnesota Twins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFXn1yDAMbNRPeJKpDCDVmDC58xoA"
+                "name": "Pittsburgh Pirates",
+                "badge": ""
             }
         },
         "sources": [
             {
                 "source": "admin",
                 "id": "ppv-minnesota-twins-vs-pittsburgh-pirates"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_pirates-twins-live-streaming-1309038651"
-            },
-            {
-                "source": "echo",
-                "id": "pittsburgh-pirates-vs-minnesota-twins-baseball-178891"
             },
             {
                 "source": "golf",
@@ -523,27 +587,20 @@
         ]
     },
     {
-        "id": "ppv-toronto-blue-jays-vs-baltimore-orioles",
-        "title": "Toronto Blue Jays vs. Baltimore Orioles",
+        "id": "22795",
+        "title": "Baltimore Orioles - Toronto Blue Jays",
         "category": "baseball",
         "date": 1780244100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmIcBoghIYiCYgYIGs2ARFs+fJWS1WELrkgK0kKqzitqmbomkmKYHzADhDbHgf0kuYvcFOE5GIC9oyUYE4qyhBAA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Toronto Blue Jays",
-                "badge": ""
+                "name": "Baltimore Orioles"
             },
             "away": {
-                "name": "Baltimore Orioles",
-                "badge": ""
+                "name": "Toronto Blue Jays"
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-toronto-blue-jays-vs-baltimore-orioles"
-            },
             {
                 "source": "golf",
                 "id": "22795"
@@ -599,30 +656,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-01-motoamerica-superbikes-road-america-ppv-01"
-            }
-        ]
-    },
-    {
-        "id": "ppv-berlin-thunder-vs-alpine-rams",
-        "title": "Berlin Thunder vs. Alpine Rams",
-        "category": "american-football",
-        "date": 1780235700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EDBBMQiSlhCkswCNmYghymiA0gQSmhWzadFCScTE524GsnmIKYHzADhDZfbD0kuYvcFOE5NZ4rpRgTorMikA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Berlin Thunder",
-                "badge": ""
-            },
-            "away": {
-                "name": "Alpine Rams",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-berlin-thunder-vs-alpine-rams"
             }
         ]
     },
@@ -745,131 +778,20 @@
         ]
     },
     {
-        "id": "22811",
-        "title": "MotoGP Italian - Grand Prix",
-        "category": "motor-sports",
-        "date": 1780214400000,
+        "id": "ppv-fury-fc-120",
+        "title": "FURY FC 120",
+        "category": "fight",
+        "date": 1780263000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcbEMRCIUwIc2kVgEZmJA0QQkCCUyZq1ShAQQMCkYNma08xoNS+YAcIbY8wMPSS5iUwfYTkZAlKMlGD2CrIQQA.webp",
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "MotoGP Italian"
-            },
-            "away": {
-                "name": "Grand Prix"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22811"
-            }
-        ]
-    },
-    {
-        "id": "ppv-new-york-yankees-vs-athletics",
-        "title": "New York Yankees vs. Athletics",
-        "category": "baseball",
-        "date": 1780257900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6ECmwghIGCCzZmFEDSViQxEBGARVIWWokDNA5ZsSbtpbdpQgm4vmAHCG8+-SS5i4wY4TkhCuKMlGCOWgoQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Athletics",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EChAATELLrkGAY2aie8SVSGEGrMGFz5zQA"
-            },
-            "away": {
-                "name": "New York Yankees",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRDZ65BgGNmonvElUhhBqzBhc+E0A"
-            }
-        },
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-new-york-yankees-vs-athletics"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_athletics-yankees-live-streaming-1309048641"
+                "id": "ppv-fury-fc-120"
             },
             {
                 "source": "echo",
-                "id": "athletics-vs-new-york-yankees-baseball-178897"
-            },
-            {
-                "source": "golf",
-                "id": "22806"
-            }
-        ]
-    },
-    {
-        "id": "ppv-philadelphia-phillies-vs-los-angeles-dodgers",
-        "title": "Philadelphia Phillies vs. Los Angeles Dodgers",
-        "category": "baseball",
-        "date": 1780258200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EEJBYQiIRRAwxIYiGWIaIGsAhTNIFCAjYJs8Ynl6lMHXr0DKI4HzADhDbHgf0kuYikEOWHAYyAr6MlGBOmsyaQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Los Angeles Dodgers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EERAh65BgGNmonvElUhhBqzBhc+E0A"
-            },
-            "away": {
-                "name": "Philadelphia Phillies",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRABjeuQbKsonvElUhhBqzBhc+E0A"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-philadelphia-phillies-vs-los-angeles-dodgers"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_dodgers-phillies-live-streaming-1309049640"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-dodgers-vs-philadelphia-phillies-baseball-178887"
-            },
-            {
-                "source": "golf",
-                "id": "22808"
-            }
-        ]
-    },
-    {
-        "id": "ppv-arizona-diamondbacks-vs-seattle-mariners",
-        "title": "Arizona Diamondbacks vs. Seattle Mariners",
-        "category": "baseball",
-        "date": 1780258200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6ECGBCQKYDRCz5MkDBBZgEMXLUhSWOUpBMDICBOabVJ9WJOyBPYHzADhDbHgf0kuYtMFOE5ELM7oyUYE5qwRBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Seattle Mariners",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EIiZ1yDAMbNRPeJKpDCDVmDC58xoA"
-            },
-            "away": {
-                "name": "Arizona Diamondbacks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EEzrkGAY2aie8SVSGEGrMGFz4jQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-arizona-diamondbacks-vs-seattle-mariners"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_mariners-diamondbacks-live-streaming-1309050639"
-            },
-            {
-                "source": "echo",
-                "id": "seattle-mariners-vs-arizona-diamondbacks-baseball-178890"
-            },
-            {
-                "source": "golf",
-                "id": "22807"
+                "id": "ppv-event-06-fury-fc-120-ppv-06"
             }
         ]
     },
@@ -911,19 +833,6 @@
             {
                 "source": "delta",
                 "id": "live_ufl_columbus-aviators-louisville-kings-live-streaming-1309036653"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-06-fury-fc-120-ppv-06",
-        "title": "Fury FC 120",
-        "category": "other",
-        "date": 1780266600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-06-fury-fc-120-ppv-06"
             }
         ]
     },
