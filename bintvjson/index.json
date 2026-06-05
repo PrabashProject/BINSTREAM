@@ -1,5 +1,34 @@
 [
     {
+        "id": "live-event_vazquez-vs-lugo-live-stream",
+        "title": "Vazquez vs Lugo",
+        "category": "fight",
+        "date": 1780695000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Edward Vazquez"
+            },
+            "away": {
+                "name": "Daniel Lugo"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_vazquez-vs-lugo-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-04-vazquez-v-lugo-ppv-004"
+            },
+            {
+                "source": "golf",
+                "id": "22930"
+            }
+        ]
+    },
+    {
         "id": "castleford-tigers-vs-leigh-leopards-2395928",
         "title": "Castleford Tigers vs Leigh Leopards",
         "category": "rugby",
@@ -90,10 +119,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-san-francisco-giants-vs-chicago-cubs"
-            },
-            {
                 "source": "delta",
                 "id": "live_mlb_cubs-giants-live-streaming-1309551138"
             },
@@ -104,52 +129,6 @@
             {
                 "source": "golf",
                 "id": "22885"
-            }
-        ]
-    },
-    {
-        "id": "ppv-wwe-friday-night-smackdown",
-        "title": "WWE: Friday Night Smackdown",
-        "category": "fight",
-        "date": 1780682400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmAYmIhJWEDGBCQNScBoUQiFCGnSxzNSCaaZcispAbFk0tMU9gfMAOENseO-SS5iKQXZYcIxgLejJRgDsABAhBAA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-wwe-friday-night-smackdown"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_friday-night-smackdown-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "wwe-friday-night-smackdown-game-11114"
-            }
-        ]
-    },
-    {
-        "id": "azerbaijan-vs-malta-2472352",
-        "title": "Azerbaijan vs Malta",
-        "category": "football",
-        "date": 1780682400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EBBApgNZsHEhZUmULEhVKEIgjAhMmquzMQpZVgV7lApiCuSewPmAHCGByWHpJcxSYMcJyOgKSjJRgjgoCEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Azerbaijan",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAM2EABNgYYGqQhuIEkdwgzxjSESHlhGMCZ8UXMGXhF5o501phXY0QggA"
-            },
-            "away": {
-                "name": "Malta",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApBtYGG4gIIbQBMQJEDBCJt2xCFUEKTPmrZgy8IvNFqmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-azerbaijan-vs-malta"
             }
         ]
     },
@@ -334,35 +313,6 @@
             {
                 "source": "golf",
                 "id": "22740"
-            }
-        ]
-    },
-    {
-        "id": "live-event_vazquez-vs-lugo-live-stream",
-        "title": "Vazquez vs Lugo",
-        "category": "fight",
-        "date": 1780695000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Edward Vazquez"
-            },
-            "away": {
-                "name": "Daniel Lugo"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_vazquez-vs-lugo-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-04-vazquez-v-lugo-ppv-004"
-            },
-            {
-                "source": "golf",
-                "id": "22930"
             }
         ]
     },
