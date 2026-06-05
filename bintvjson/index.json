@@ -1,5 +1,77 @@
 [
     {
+        "id": "castleford-tigers-vs-leigh-leopards-2395928",
+        "title": "Castleford Tigers vs Leigh Leopards",
+        "category": "rugby",
+        "date": 1780686000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWgAZgUkCjB99IbiD4gdJEJcs5TKEwWBIKfYbPp6VKLmDLwiWWS8mWjAfMVEIIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Castleford Tigers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJlu0FCC3cQfEABMQOnYYghEe5YRjAmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Leigh Leopards",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl5IuABjApcIbiAAmIPiEQkQEENuMhzBCkz4ouYMvCLzRTprTAuxoiCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "castleford-tigers-vs-leigh-leopards-game-182283"
+            }
+        ]
+    },
+    {
+        "id": "bradford-bulls-vs-york-city-knights-2395927",
+        "title": "Bradford Bulls vs York City Knights",
+        "category": "rugby",
+        "date": 1780686000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUVjAhOABjYhuIPiCkgSICxZzGLKAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Bradford Bulls",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLYhRABjAgQ3HSD4gAJiAj69MPaZQEKTPii5gy8IvNEOmtME7GiIQA"
+            },
+            "away": {
+                "name": "York City Knights",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIoQAgAzAAJghDd1IEiDXajIC4gggIBCkz4ouYMvCLzRTprTAuxoiCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "bradford-bulls-vs-york-knights-game-37322"
+            }
+        ]
+    },
+    {
+        "id": "warrington-wolves-vs-hull-f-c--2395926",
+        "title": "Warrington Wolves vs Hull F.C.",
+        "category": "rugby",
+        "date": 1780686000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGQAZIIWhpBSQ3EH30gSICxZwmLEpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Warrington Wolves",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplq8UXJMAAMIbiAAmIEgZB8Q5lCb36CFJn3VswZeEXmj1TWmGdjREIA"
+            },
+            "away": {
+                "name": "Hull F.C.",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4ATfsCa0kIbiD4hVu40YggSIGOYIUmfFFzBl4ReaIdbgYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "warrington-wolves-vs-hull-fc-game-184842"
+            }
+        ]
+    },
+    {
         "id": "chicago-cubs-vs-san-francisco-giants-2387827",
         "title": "Chicago Cubs vs San Francisco Giants",
         "category": "baseball",
@@ -48,6 +120,10 @@
                 "id": "ppv-wwe-friday-night-smackdown"
             },
             {
+                "source": "delta",
+                "id": "live-event_friday-night-smackdown-live-stream"
+            },
+            {
                 "source": "echo",
                 "id": "wwe-friday-night-smackdown-game-11114"
             }
@@ -74,14 +150,6 @@
             {
                 "source": "admin",
                 "id": "ppv-azerbaijan-vs-malta"
-            },
-            {
-                "source": "delta",
-                "id": "live_int-friendly-games_azerbaijan-malta-live-streaming-1337546115"
-            },
-            {
-                "source": "echo",
-                "id": "azerbaijan-vs-malta-football-1544810"
             }
         ]
     },
@@ -110,130 +178,6 @@
         ]
     },
     {
-        "id": "hungary-vs-finland-2434026",
-        "title": "Hungary vs Finland",
-        "category": "football",
-        "date": 1780681500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCG4hwMlKU0g+hkBBBSQKEIhhmQMAsCQU+w2fRRgVetp-L0ssnpMtGCeYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Hungary",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTFerFJBDcQfbbpCIAJiBIGdKAhSZ9VbMGXhF5o1U1pgHY0RCA"
-            },
-            "away": {
-                "name": "Finland",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgF8wAE2CaIuENxB8QiGEZAnEISyBQEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-hungary-vs-finland"
-            },
-            {
-                "source": "delta",
-                "id": "live_int-friendly-games_hungary-finland-live-streaming-1337545116"
-            },
-            {
-                "source": "echo",
-                "id": "hungary-vs-finland-football-1523007"
-            }
-        ]
-    },
-    {
-        "id": "moldova-vs-bulgaria-2464801",
-        "title": "Moldova vs Bulgaria",
-        "category": "football",
-        "date": 1780678800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6ECmA0xIaVgrAhIShEXBlMZiGKbVGrdK1MQhxAukDEy8ZOl1gfMAOENseO-SS5i4wQ4TkhzK6MlGAOOgIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Moldova",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3rww4XrQAMIbiBIgUuwyD65zRmAQpM+KLmDJr680faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Bulgaria",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwGpUiD6wQ3ECX24Qxg8eMoQ8AhSZ8UXMGXhF5o+01phHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-moldova-vs-bulgaria"
-            },
-            {
-                "source": "delta",
-                "id": "live_int-friendly-games_moldova-bulgaria-live-streaming-1337542119"
-            },
-            {
-                "source": "echo",
-                "id": "moldova-vs-bulgaria-football-1540354"
-            }
-        ]
-    },
-    {
-        "id": "san-marino-vs-bangladesh-2464800",
-        "title": "San Marino vs Bangladesh",
-        "category": "football",
-        "date": 1780678800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EIhBiQQidhA1gQ2SmA0QMCpNKJiUpSCZqQy6RFkRJy+VgrK+YAcIbY8wMPSS5iywfYTlFAsqMlGD2wKYCEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "San Marino",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwFWA0oQtJCG4gVuQ-pDacB7SgIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Bangladesh",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwHcQMEOAAmIPiDUkQKXZpCGNmtSgIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-san-marino-vs-bangladesh"
-            },
-            {
-                "source": "echo",
-                "id": "san-marino-vs-bangladesh-football-1540353"
-            }
-        ]
-    },
-    {
-        "id": "slovakia-vs-montenegro-2467593",
-        "title": "Slovakia vs Montenegro",
-        "category": "football",
-        "date": 1780677000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EFhA0xIGCBTTgNbAqmlExKUxCb1kkFpBCx2WSErihzYBFPHiKYHzADhDJfbD0kuO4IcsOEMAWAvaMlGBOVpYQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Slovakia",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZIGYPiBDB8IbiE37NiACYgSIM4hAEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Montenegro",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhygowfchpAhuIEntzaDKQwBMQ8AhSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-slovakia-vs-montenegro"
-            },
-            {
-                "source": "delta",
-                "id": "live_int-friendly-games_slovakia-montenegro-live-streaming-1337541120"
-            },
-            {
-                "source": "echo",
-                "id": "slovakia-vs-montenegro-football-1542178"
-            }
-        ]
-    },
-    {
         "id": "the-memorial-tournament-presented-by-workday-pga-tour-pga-526234",
         "title": "The Memorial Tournament presented by Workday | PGA Tour",
         "category": "other",
@@ -243,115 +187,6 @@
             {
                 "source": "echo",
                 "id": "the-memorial-tournament-presented-by-workday-pga-tour-pga-526234"
-            }
-        ]
-    },
-    {
-        "id": "belarus-vs-syria-2469955",
-        "title": "Belarus vs Syria",
-        "category": "football",
-        "date": 1780675200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EMRBYxEkBGkwQKBXJnYps2SAXAa25iso1pmyoiEUlWvmAHCG2PMDD0kuYikGOWHCMDMD3jJRg1sA+AhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Belarus",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgkIemlxsQ3ECX24Qxg3xAwQZvgQpNrXMGXhF5olMCa0wjsaIhA"
-            },
-            "away": {
-                "name": "Syria",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAQQMEFG4IQ3EH0251IFCbM4YBCkz4ouYMvCLzRdprTAOxoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-belarus-vs-syria"
-            }
-        ]
-    },
-    {
-        "id": "georgia-vs-bahrain-2467594",
-        "title": "Georgia vs Bahrain",
-        "category": "football",
-        "date": 1780675200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6ECmYghwKQKwgQwGiAjAIIOZRU1FISkPnrpy7CCYgYk0yGJjFRsxHF8wA4Q2x5gYeklzFxgi4I5DKejJRgLqrMqkA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Georgia",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3ngBVekhDcQAExAkQEXCBgHTekHwIUm1rmDLwi80SmBNaYR2NEQgA"
-            },
-            "away": {
-                "name": "Bahrain",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwEAGEHBAgUzENxAltIPloMaQEIygIUmfHWzBl4ReaJ1NaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-georgia-vs-bahrain"
-            }
-        ]
-    },
-    {
-        "id": "monaco-grand-prix-practice-1-2408142",
-        "title": "Monaco Grand Prix Practice 1",
-        "category": "motor-sports",
-        "date": 1780659000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBQNKlXCG4g+hkBBAo9MEJfMoCwJBT7DZ9FGBVa278vSyytTLQaovQhQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Monaco Grand Prix"
-            },
-            "away": {
-                "name": "Practice 2"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22877"
-            }
-        ]
-    },
-    {
-        "id": "liv-golf-andalusia-liv-golf-series-game-162626",
-        "title": "LIV Golf Andalusia | LIV Golf Series",
-        "category": "other",
-        "date": 1780658100000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "liv-golf-andalusia-liv-golf-series-game-162626"
-            }
-        ]
-    },
-    {
-        "id": "klm-open-dp-world-tour-atp1000",
-        "title": "KLM Open | DP World Tour",
-        "category": "other",
-        "date": 1780657200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "klm-open-dp-world-tour-atp1000"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-02-eternal-mma-106-ppv-02",
-        "title": "Eternal MMA 106 \ud83d\udd25",
-        "category": "other",
-        "date": 1780657200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-02-eternal-mma-106-ppv-02"
             }
         ]
     },
@@ -503,82 +338,10 @@
         ]
     },
     {
-        "id": "castleford-tigers-vs-leigh-leopards-2395928",
-        "title": "Castleford Tigers vs Leigh Leopards",
-        "category": "rugby",
-        "date": 1780686000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWgAZgUkCjB99IbiD4gdJEJcs5TKEwWBIKfYbPp6VKLmDLwiWWS8mWjAfMVEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Castleford Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJlu0FCC3cQfEABMQOnYYghEe5YRjAmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Leigh Leopards",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl5IuABjApcIbiAAmIPiEQkQEENuMhzBCkz4ouYMvCLzRTprTAuxoiCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "castleford-tigers-vs-leigh-leopards-game-182283"
-            }
-        ]
-    },
-    {
-        "id": "bradford-bulls-vs-york-city-knights-2395927",
-        "title": "Bradford Bulls vs York City Knights",
-        "category": "rugby",
-        "date": 1780686000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUVjAhOABjYhuIPiCkgSICxZzGLKAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Bradford Bulls",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLYhRABjAgQ3HSD4gAJiAj69MPaZQEKTPii5gy8IvNEOmtME7GiIQA"
-            },
-            "away": {
-                "name": "York City Knights",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIoQAgAzAAJghDd1IEiDXajIC4gggIBCkz4ouYMvCLzRTprTAuxoiCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "bradford-bulls-vs-york-knights-game-37322"
-            }
-        ]
-    },
-    {
-        "id": "warrington-wolves-vs-hull-f-c--2395926",
-        "title": "Warrington Wolves vs Hull F.C.",
-        "category": "rugby",
-        "date": 1780686000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGQAZIIWhpBSQ3EH30gSICxZwmLEpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Warrington Wolves",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplq8UXJMAAMIbiAAmIEgZB8Q5lCb36CFJn3VswZeEXmj1TWmGdjREIA"
-            },
-            "away": {
-                "name": "Hull F.C.",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4ATfsCa0kIbiD4hVu40YggSIGOYIUmfFFzBl4ReaIdbgYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "warrington-wolves-vs-hull-fc-game-184842"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-04-vazquez-v-lugo-ppv-004",
-        "title": "Vazquez v Lugo",
+        "id": "live-event_vazquez-vs-lugo-live-stream",
+        "title": "Vazquez vs Lugo",
         "category": "fight",
-        "date": 1780698600000,
+        "date": 1780695000000,
         "popular": true,
         "teams": {
             "home": {
@@ -589,6 +352,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_vazquez-vs-lugo-live-stream"
+            },
             {
                 "source": "echo",
                 "id": "ppv-event-04-vazquez-v-lugo-ppv-004"
