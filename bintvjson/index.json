@@ -1,5 +1,46 @@
 [
     {
+        "id": "ntt-indycar-series-racing-0059",
+        "title": "NTT IndyCar Series \ud83c\udfc1",
+        "category": "motor-sports",
+        "date": 1780869600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ntt-indycar-series-racing-0059"
+            }
+        ]
+    },
+    {
+        "id": "st-louis-battlehawks-vs-louisville-kings-2479078",
+        "title": "St Louis BattleHawks vs Louisville Kings",
+        "category": "american-football",
+        "date": 1780869600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcQGMQWEBNIhhskCQXKQKdevlkyEEFWlqaMxTKkzEevcfUpyEUGEEim2emELAkuCXaFPWB2FSegJgeHInYAddIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "St Louis BattleHawks",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwFoQcCCC0oQ3EABMQfA1pA7DMXCGWEYwJnxRcwZeEXminTWmBdjREEA"
+            },
+            "away": {
+                "name": "Louisville Kings",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBQUCSm1ghuIPnpAwQAEwNGcIEPAIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-louisville-kings-vs-st-louis-battlehawks"
+            },
+            {
+                "source": "delta",
+                "id": "live_ufl-knockout-stage_st-louis-battlehawks-louisville-kings-live-streaming-1338046614"
+            }
+        ]
+    },
+    {
         "id": "los-angeles-dodgers-vs-los-angeles-angels-2387854",
         "title": "Los Angeles Dodgers vs Los Angeles Angels",
         "category": "baseball",
@@ -72,34 +113,6 @@
         ]
     },
     {
-        "id": "ecuador-vs-guatemala-2467597",
-        "title": "Ecuador vs Guatemala",
-        "category": "football",
-        "date": 1780862400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNeKRABjYBElVpIYcEQwRIGNOAKpIBZppYQWdYgh6Q5tUZlGTVFOTkChIptnphCwJLimOhMG5OOWUyRwIVciDZUlkgA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Ecuador",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMBoAmuMChDcQJEPsP6QJkIhgGCFJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Guatemala",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmYNdxB8QUkJu0QQKPSBJbTJmAQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-ecuador-vs-guatemala"
-            },
-            {
-                "source": "echo",
-                "id": "ecuador-vs-guatemala-football-1542182"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-02-usac-silver-crowns-wwt-ppv-02",
         "title": "USAC Silver Crowns WWT \ud83d\udd25",
         "category": "other",
@@ -135,14 +148,6 @@
                 "id": "ppv-washington-nationals-vs-arizona-diamondbacks"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_diamondbacks-nationals-live-streaming-1309865823"
-            },
-            {
-                "source": "echo",
-                "id": "arizona-diamondbacks-vs-washington-nationals-baseball-178994"
-            },
-            {
                 "source": "golf",
                 "id": "22964"
             }
@@ -171,72 +176,8 @@
                 "id": "ppv-milwaukee-brewers-vs-colorado-rockies"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_rockies-brewers-live-streaming-1309864824"
-            },
-            {
-                "source": "echo",
-                "id": "colorado-rockies-vs-milwaukee-brewers-baseball-178991"
-            },
-            {
                 "source": "golf",
                 "id": "22963"
-            }
-        ]
-    },
-    {
-        "id": "toronto-tempo-vs-chicago-sky-2449305",
-        "title": "Toronto Tempo vs Chicago Sky",
-        "category": "basketball",
-        "date": 1780858800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGhGBUQMYBBkgAxiJAoQw9SHgrF4pSAMHdiNQe1kspECXHZrc0inKSBQkU2z0whYElyKnITBuTklhUnoCYG0wYIcyCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Toronto Tempo",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS4hKYXmBRgkfELxBZDIE9RAkTIRBEMEK+ASh5gy8IgrFOH9MC-FiIIA"
-            },
-            "away": {
-                "name": "Chicago Sky",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgpuSLhDcQJXVr2q9KLQBMCFJnxRcwZeEXmibTWmDtjREIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-chicago-sky-vs-toronto-tempo"
-            },
-            {
-                "source": "golf",
-                "id": "22951"
-            }
-        ]
-    },
-    {
-        "id": "orlando-storm-vs-dc-defenders-2479077",
-        "title": "Orlando Storm vs DC Defenders",
-        "category": "american-football",
-        "date": 1780858800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSjSQKSjRC8QWIycMwQ58yQMskFLCLmMUYVbo6vyjanN35WwGCu4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Orlando Storm",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgN2YFGG64Q2viH0wQAEwMgjEECisEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "DC Defenders",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQ8MGpw4YIbiAAmIPoZBmUqkBaMGCFJnxRdN5evNFOmtMJrGiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-dc-defenders-vs-orlando-storm"
-            },
-            {
-                "source": "delta",
-                "id": "live_ufl-knockout-stage_orlando-storm-dc-defenders-live-streaming-1338045615"
             }
         ]
     },
@@ -258,10 +199,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cleveland-guardians-vs-texas-rangers"
-            },
             {
                 "source": "golf",
                 "id": "22962"
@@ -287,10 +224,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-cincinnati-reds-vs-st-louis-cardinals"
-            },
-            {
                 "source": "golf",
                 "id": "22961"
             }
@@ -314,10 +247,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-athletics-vs-houston-astros"
-            },
             {
                 "source": "golf",
                 "id": "22959"
@@ -343,10 +272,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-kansas-city-royals-vs-minnesota-twins"
-            },
-            {
                 "source": "golf",
                 "id": "22960"
             }
@@ -366,150 +291,6 @@
         ]
     },
     {
-        "id": "detroit-tigers-vs-seattle-mariners-2387855",
-        "title": "Detroit Tigers vs Seattle Mariners",
-        "category": "baseball",
-        "date": 1780854000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrwpYQjFCES8Q2kCBghqIPXumn9LJFpFzdYVSh6vyjanPf5WwGCu4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Detroit Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Seattle Mariners",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22957"
-            }
-        ]
-    },
-    {
-        "id": "miami-marlins-vs-tampa-bay-rays-2387853",
-        "title": "Miami Marlins vs Tampa Bay Rays",
-        "category": "baseball",
-        "date": 1780854000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJBje5GCE28QWECb3UQKC-pB7J+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Miami Marlins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Tampa Bay Rays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22958"
-            }
-        ]
-    },
-    {
-        "id": "toronto-blue-jays-vs-baltimore-orioles-2387846",
-        "title": "Toronto Blue Jays vs Baltimore Orioles",
-        "category": "baseball",
-        "date": 1780853820000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiBBReIaiH4AGfSCyaQMXSBRWQJG4vzAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Toronto Blue Jays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA"
-            },
-            "away": {
-                "name": "Baltimore Orioles",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22956"
-            }
-        ]
-    },
-    {
-        "id": "atlanta-braves-vs-pittsburgh-pirates-2387858",
-        "title": "Atlanta Braves vs Pittsburgh Pirates",
-        "category": "baseball",
-        "date": 1780853700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSQCQ1ECh0heILCFMwD+-dJDnpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Atlanta Braves",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Pittsburgh Pirates",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22955"
-            }
-        ]
-    },
-    {
-        "id": "new-york-yankees-vs-boston-red-sox-2387851",
-        "title": "New York Yankees vs Boston Red Sox",
-        "category": "baseball",
-        "date": 1780853700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF4gsIGN1mItOkLpDUQKCyBJWULJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New York Yankees",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Boston Red Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22953"
-            }
-        ]
-    },
-    {
-        "id": "philadelphia-phillies-vs-chicago-white-sox-2387850",
-        "title": "Philadelphia Phillies vs Chicago White Sox",
-        "category": "baseball",
-        "date": 1780853700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzAgQ0mhzBIQvEFm0gYIaiBTWQJW9fzAkFLCLmMUYVSh7fyjNRyvk70YN7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Philadelphia Phillies",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Chicago White Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "22954"
-            }
-        ]
-    },
-    {
         "id": "the-memorial-tournament-presented-by-workday-final-round-2481995",
         "title": "The Memorial Tournament presented by Workday Final Round",
         "category": "golf",
@@ -521,34 +302,6 @@
             {
                 "source": "echo",
                 "id": "the-memorial-tournament-presented-by-workday-pga-tour-pga-526234"
-            }
-        ]
-    },
-    {
-        "id": "st-louis-battlehawks-vs-louisville-kings-2479078",
-        "title": "St Louis BattleHawks vs Louisville Kings",
-        "category": "american-football",
-        "date": 1780869600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcQGMQWEBNIhhskCQXKQKdevlkyEEFWlqaMxTKkzEevcfUpyEUGEEim2emELAkuCXaFPWB2FSegJgeHInYAddIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "St Louis BattleHawks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwFoQcCCC0oQ3EABMQfA1pA7DMXCGWEYwJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Louisville Kings",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBQUCSm1ghuIPnpAwQAEwNGcIEPAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-louisville-kings-vs-st-louis-battlehawks"
-            },
-            {
-                "source": "delta",
-                "id": "live_ufl-knockout-stage_st-louis-battlehawks-louisville-kings-live-streaming-1338046614"
             }
         ]
     },
