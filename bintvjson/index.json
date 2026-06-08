@@ -22,14 +22,6 @@
                 "id": "ppv-france-vs-northern-ireland"
             },
             {
-                "source": "delta",
-                "id": "live_int-friendly-games_france-northern-ireland-live-streaming-1344985668"
-            },
-            {
-                "source": "echo",
-                "id": "france-vs-northern-ireland-football-1542183"
-            },
-            {
                 "source": "golf",
                 "id": "23007"
             }
@@ -56,27 +48,14 @@
             {
                 "source": "admin",
                 "id": "ppv-netherlands-vs-uzbekistan"
-            },
-            {
-                "source": "delta",
-                "id": "live_int-friendly-games_netherlands-uzbekistan-live-streaming-1344984669"
-            },
-            {
-                "source": "echo",
-                "id": "netherlands-vs-uzbekistan-football-1544812"
-            },
-            {
-                "source": "golf",
-                "id": "23006"
             }
         ]
     },
     {
-        "id": "ppv-wwe-monday-night-raw",
-        "title": "WWE: Monday Night RAW",
+        "id": "live-event_monday-night-raw-live-stream",
+        "title": "Monday Night Raw",
         "category": "fight",
         "date": 1780941600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCohEiGlJTAIIYcuCIJWNSCVZJpEJt0SammsMUGQIYFMS6IC-mEEim2emELAkuAMYKhZ1YIVzIFAjVyZ0VSRSA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -88,12 +67,12 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-wwe-monday-night-raw"
-            },
-            {
                 "source": "delta",
                 "id": "live-event_monday-night-raw-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "wwe-monday-night-raw-wwe-2025"
             },
             {
                 "source": "golf",
