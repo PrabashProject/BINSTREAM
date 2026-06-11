@@ -1,5 +1,31 @@
 [
     {
+        "id": "ferrari-challenge-europe-le-mans-game-19996",
+        "title": "Ferrari Challenge Europe - Le Mans",
+        "category": "motor-sports",
+        "date": 1781196300000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ferrari-challenge-europe-le-mans-game-19996"
+            }
+        ]
+    },
+    {
+        "id": "uci-tour-auvergne-uci-world-tour-game-13622",
+        "title": "UCI Tour Auvergne | UCI World Tour \ud83c\udfc1",
+        "category": "other",
+        "date": 1781183700000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "uci-tour-auvergne-uci-world-tour-game-13622"
+            }
+        ]
+    },
+    {
         "id": "endurance-world-championship-circuit-des-24-heures-racing-0059",
         "title": "Endurance World Championship Circuit des 24 Heures \ud83c\udfc1",
         "category": "motor-sports",
@@ -60,32 +86,6 @@
             {
                 "source": "echo",
                 "id": "atp-wta-stuttgart-hertogenbosch-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "uci-tour-auvergne-uci-world-tour-game-13622",
-        "title": "UCI Tour Auvergne | UCI World Tour \ud83c\udfc1",
-        "category": "other",
-        "date": 1781183700000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "uci-tour-auvergne-uci-world-tour-game-13622"
-            }
-        ]
-    },
-    {
-        "id": "ferrari-challenge-europe-le-mans-game-19996",
-        "title": "Ferrari Challenge Europe - Le Mans",
-        "category": "motor-sports",
-        "date": 1781196300000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ferrari-challenge-europe-le-mans-game-19996"
             }
         ]
     },
@@ -225,6 +225,10 @@
                 "id": "ppv-fifa-world-cup-opening-ceremony-mexico"
             },
             {
+                "source": "delta",
+                "id": "live-event_world-cup-2026-opening-ceremony-live-stream"
+            },
+            {
                 "source": "echo",
                 "id": "fifa-world-cup-opening-ceremony-mexico-game-251515"
             }
@@ -298,7 +302,7 @@
             },
             {
                 "source": "golf",
-                "id": "23004"
+                "id": "23120"
             }
         ]
     },
@@ -363,16 +367,16 @@
         ]
     },
     {
-        "id": "ppv-24-hours-of-le-mans-practice-3",
-        "title": "24 Hours of Le Mans - Practice 3",
+        "id": "ppv-24-hours-of-le-mans-hyperpole",
+        "title": "24 Hours of Le Mans - Hyperpole",
         "category": "motor-sports",
         "date": 1781211600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFmwSQw6SGBUQ4lCBQKZS7CNKkQMVUo1qIu+YiwgAxrsS9yJgUO0EtasIWBJcltULDdOE2EdNRd4cn9gEzIIIA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEKRBUQAY2ARg04SOzjZ6mSGFqF2rCAgH1ZLKVWJpiFCFPaqKcgoFCVBbPTCFgSXDIdCwbk5dMwc3eHJA+TMIIA.webp",
         "popular": true,
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-24-hours-of-le-mans-practice-3"
+                "id": "ppv-24-hours-of-le-mans-hyperpole"
             }
         ]
     },
@@ -409,6 +413,31 @@
             {
                 "source": "golf",
                 "id": "23091"
+            }
+        ]
+    },
+    {
+        "id": "live-event_wilkens-mathieu-vs-esquiva-falcao-live-stream",
+        "title": "Wilkens Mathieu vs Esquiva Falcao",
+        "category": "fight",
+        "date": 1781218800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Wilkens Mathieu"
+            },
+            "away": {
+                "name": "Esquiva Falcao"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_wilkens-mathieu-vs-esquiva-falcao-live-stream"
+            },
+            {
+                "source": "golf",
+                "id": "23119"
             }
         ]
     },
