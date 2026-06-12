@@ -1,5 +1,31 @@
 [
     {
+        "id": "barcelona-catalunya-grand-prix-practice-1-2408147",
+        "title": "Barcelona-Catalunya Grand Prix Practice 1",
+        "category": "motor-sports",
+        "date": 1781276400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEClkQQUkAPwhue49pS4QMQyFMFgSCn2Fb2YFZravy9LLM1NaYK5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Barcelona Grand Prix"
+            },
+            "away": {
+                "name": "Practice 2"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-barcelona-grand-prix-practice-2"
+            },
+            {
+                "source": "golf",
+                "id": "23012"
+            }
+        ]
+    },
+    {
         "id": "rbc-canadian-open-round-2-2482013",
         "title": "RBC Canadian Open Round 2",
         "category": "golf",
@@ -67,83 +93,6 @@
             {
                 "source": "echo",
                 "id": "atp-wta-stuttgart-hertogenbosch-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "live-event_formula-1-2026-spain-gp-live-stream",
-        "title": "Formula 1 2026 - Spain GP",
-        "category": "motor-sports",
-        "date": 1781254200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Formula 1 2026"
-            },
-            "away": {
-                "name": "Spain GP"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_formula-1-2026-spain-gp-live-stream"
-            },
-            {
-                "source": "golf",
-                "id": "23148"
-            }
-        ]
-    },
-    {
-        "id": "world-sbk-italian-round-world-sbk-championship-season-game-4u8337",
-        "title": "World SBK Italian Round | World SBK Championship Season \ud83c\udfc1",
-        "category": "motor-sports",
-        "date": 1781252100000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "world-sbk-italian-round-world-sbk-championship-season-game-4u8337"
-            }
-        ]
-    },
-    {
-        "id": "2nd-practice-circuit-de-barcelona-catalunya-formula-1-2552",
-        "title": "2nd Practice | Circuit de Barcelona-Catalunya |",
-        "category": "motor-sports",
-        "date": 1781276400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "2nd-practice-circuit-de-barcelona-catalunya-formula-1-2552"
-            }
-        ]
-    },
-    {
-        "id": "barcelona-catalunya-grand-prix-practice-1-2408147",
-        "title": "Barcelona-Catalunya Grand Prix Practice 1",
-        "category": "motor-sports",
-        "date": 1781276400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEClkQQUkAPwhue49pS4QMQyFMFgSCn2Fb2YFZravy9LLM1NaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Barcelona Grand Prix"
-            },
-            "away": {
-                "name": "Practice 1"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-barcelona-grand-prix-practice-2"
-            },
-            {
-                "source": "golf",
-                "id": "23011"
             }
         ]
     },
