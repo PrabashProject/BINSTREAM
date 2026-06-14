@@ -1,5 +1,86 @@
 [
     {
+        "id": "boston-red-sox-vs-texas-rangers-2387949",
+        "title": "Boston Red Sox vs Texas Rangers",
+        "category": "baseball",
+        "date": 1781479200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRSCSIXom4g+IYzFwgU5kFOPGCwJBT7DZ9FGBVa278vSyytTLRg7mKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Boston Red Sox",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
+            },
+            "away": {
+                "name": "Texas Rangers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-texas-rangers-vs-boston-red-sox"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_red-sox-rangers-live-streaming-1328070600"
+            },
+            {
+                "source": "echo",
+                "id": "boston-red-sox-vs-texas-rangers-baseball-179084"
+            },
+            {
+                "source": "golf",
+                "id": "23169"
+            }
+        ]
+    },
+    {
+        "id": "ivory-coast-vs-ecuador-2391734",
+        "title": "Ivory Coast vs Ecuador",
+        "category": "football",
+        "date": 1781478000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJC8+IAThRbdRkiBggTIEIhzwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Ivory Coast",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YcGS0huICCBIG9IACZGz++AQpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "Ecuador",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMBoAmuMChDcQJEPsP6QJkIhgGCFJnxRcwZeEXminTWmBdjREEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-ivory-coast-vs-ecuador"
+            },
+            {
+                "source": "echo",
+                "id": "ivory-coast-vs-ecuador-football-1489375"
+            },
+            {
+                "source": "golf",
+                "id": "23117"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-09-usac-indiana-midget-week-kokomo-ppv-09",
+        "title": "USAC Indiana Midget Week Kokomo",
+        "category": "other",
+        "date": 1781477100000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-09-usac-indiana-midget-week-kokomo-ppv-09"
+            }
+        ]
+    },
+    {
         "id": "los-angeles-angels-vs-tampa-bay-rays-2387943",
         "title": "Los Angeles Angels vs Tampa Bay Rays",
         "category": "baseball",
@@ -20,14 +101,6 @@
             {
                 "source": "admin",
                 "id": "ppv-tampa-bay-rays-vs-los-angeles-angels"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_angels-rays-live-streaming-1328069601"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-angels-vs-tampa-bay-rays-baseball-179078"
             },
             {
                 "source": "golf",
@@ -99,14 +172,6 @@
                 "id": "ppv-colorado-rockies-vs-athletics"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_athletics-rockies-live-streaming-1328067603"
-            },
-            {
-                "source": "echo",
-                "id": "athletics-vs-colorado-rockies-baseball-179083"
-            },
-            {
                 "source": "golf",
                 "id": "23166"
             }
@@ -133,10 +198,6 @@
             {
                 "source": "admin",
                 "id": "ppv-los-angeles-dodgers-vs-chicago-white-sox"
-            },
-            {
-                "source": "golf",
-                "id": "23163"
             }
         ]
     },
@@ -161,10 +222,6 @@
             {
                 "source": "admin",
                 "id": "ppv-houston-astros-vs-kansas-city-royals"
-            },
-            {
-                "source": "golf",
-                "id": "23162"
             }
         ]
     },
@@ -189,10 +246,6 @@
             {
                 "source": "admin",
                 "id": "ppv-st-louis-cardinals-vs-minnesota-twins"
-            },
-            {
-                "source": "golf",
-                "id": "23165"
             }
         ]
     },
@@ -217,10 +270,6 @@
             {
                 "source": "admin",
                 "id": "ppv-philadelphia-phillies-vs-milwaukee-brewers"
-            },
-            {
-                "source": "golf",
-                "id": "23164"
             }
         ]
     },
@@ -369,102 +418,6 @@
             {
                 "source": "admin",
                 "id": "ppv-seattle-mariners-vs-washington-nationals"
-            }
-        ]
-    },
-    {
-        "id": "betvictor-world-cup-darts-day-4-2470565",
-        "title": "BetVictor World Cup Darts Day 4",
-        "category": "darts",
-        "date": 1781434800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCEQyQuOSG4g+O-SZwxjJQwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-world-cup-of-darts-day-4"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-09-usac-indiana-midget-week-kokomo-ppv-09",
-        "title": "USAC Indiana Midget Week Kokomo",
-        "category": "other",
-        "date": 1781477100000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-09-usac-indiana-midget-week-kokomo-ppv-09"
-            }
-        ]
-    },
-    {
-        "id": "ivory-coast-vs-ecuador-2391734",
-        "title": "Ivory Coast vs Ecuador",
-        "category": "football",
-        "date": 1781478000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJC8+IAThRbdRkiBggTIEIhzwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Ivory Coast",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YcGS0huICCBIG9IACZGz++AQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Ecuador",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMBoAmuMChDcQJEPsP6QJkIhgGCFJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-ivory-coast-vs-ecuador"
-            },
-            {
-                "source": "echo",
-                "id": "ivory-coast-vs-ecuador-football-1489375"
-            },
-            {
-                "source": "golf",
-                "id": "23117"
-            }
-        ]
-    },
-    {
-        "id": "boston-red-sox-vs-texas-rangers-2387949",
-        "title": "Boston Red Sox vs Texas Rangers",
-        "category": "baseball",
-        "date": 1781479200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRSCSIXom4g+IYzFwgU5kFOPGCwJBT7DZ9FGBVa278vSyytTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Boston Red Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
-            },
-            "away": {
-                "name": "Texas Rangers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-texas-rangers-vs-boston-red-sox"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_red-sox-rangers-live-streaming-1328070600"
-            },
-            {
-                "source": "echo",
-                "id": "boston-red-sox-vs-texas-rangers-baseball-179084"
-            },
-            {
-                "source": "golf",
-                "id": "23169"
             }
         ]
     }
