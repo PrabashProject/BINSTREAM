@@ -1,5 +1,77 @@
 [
     {
+        "id": "los-angeles-angels-vs-tampa-bay-rays-2387943",
+        "title": "Los Angeles Angels vs Tampa Bay Rays",
+        "category": "baseball",
+        "date": 1781467620000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAkQ3Iig06QfECZi4Q+-VJO4CwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Los Angeles Angels",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA"
+            },
+            "away": {
+                "name": "Tampa Bay Rays",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-tampa-bay-rays-vs-los-angeles-angels"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_angels-rays-live-streaming-1328069601"
+            },
+            {
+                "source": "echo",
+                "id": "los-angeles-angels-vs-tampa-bay-rays-baseball-179078"
+            },
+            {
+                "source": "golf",
+                "id": "23168"
+            }
+        ]
+    },
+    {
+        "id": "netherlands-vs-japan-2391735",
+        "title": "Netherlands vs Japan",
+        "category": "football",
+        "date": 1781467200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOCzAkIUWDBSQ3EHxO6QMcxsQ4FTJBT7DZ9FGBUou78vS2jPTLT6ovQhQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Netherlands",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdYIGKGwgIqkCRAoQiPiDOnuemAQpM+KLmDLwi80Q6a0wTsaIhA"
+            },
+            "away": {
+                "name": "Japan",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmwFeRRhwSENxAkQKPUZBnjZiCHgEKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-netherlands-vs-japan"
+            },
+            {
+                "source": "delta",
+                "id": "live_world-championship-gr-f_netherlands-japan-live-streaming-1243480275"
+            },
+            {
+                "source": "echo",
+                "id": "netherlands-vs-japan-football-1489376"
+            },
+            {
+                "source": "golf",
+                "id": "23116"
+            }
+        ]
+    },
+    {
         "id": "ppv-event-03-haddir-v-diarra-ev-03",
         "title": "PPV EVENT 03: Haddir v Diarra",
         "category": "other",
@@ -195,14 +267,6 @@
                 "id": "ppv-los-angeles-dodgers-vs-chicago-white-sox"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_white-sox-dodgers-live-streaming-1328063607"
-            },
-            {
-                "source": "echo",
-                "id": "chicago-white-sox-vs-los-angeles-dodgers-baseball-179082"
-            },
-            {
                 "source": "golf",
                 "id": "23163"
             }
@@ -229,14 +293,6 @@
             {
                 "source": "admin",
                 "id": "ppv-houston-astros-vs-kansas-city-royals"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_royals-astros-live-streaming-1328064606"
-            },
-            {
-                "source": "echo",
-                "id": "kansas-city-royals-vs-houston-astros-baseball-179079"
             },
             {
                 "source": "golf",
@@ -267,14 +323,6 @@
                 "id": "ppv-st-louis-cardinals-vs-minnesota-twins"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_twins-cardinals-live-streaming-1328066604"
-            },
-            {
-                "source": "echo",
-                "id": "minnesota-twins-vs-stlouis-cardinals-baseball-179076"
-            },
-            {
                 "source": "golf",
                 "id": "23165"
             }
@@ -301,14 +349,6 @@
             {
                 "source": "admin",
                 "id": "ppv-philadelphia-phillies-vs-milwaukee-brewers"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_brewers-phillies-live-streaming-1328065605"
-            },
-            {
-                "source": "echo",
-                "id": "milwaukee-brewers-vs-philadelphia-phillies-baseball-179071"
             },
             {
                 "source": "golf",
@@ -407,14 +447,6 @@
                 "id": "ppv-atlanta-braves-vs-new-york-mets"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_mets-braves-live-streaming-1328062608"
-            },
-            {
-                "source": "echo",
-                "id": "new-york-mets-vs-atlanta-braves-baseball-179075"
-            },
-            {
                 "source": "golf",
                 "id": "23160"
             }
@@ -441,14 +473,6 @@
             {
                 "source": "admin",
                 "id": "ppv-new-york-yankees-vs-toronto-blue-jays"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_blue-jays-yankees-live-streaming-1328059611"
-            },
-            {
-                "source": "echo",
-                "id": "toronto-blue-jays-vs-new-york-yankees-baseball-179073"
             },
             {
                 "source": "golf",
@@ -479,14 +503,6 @@
                 "id": "ppv-san-diego-padres-vs-baltimore-orioles"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_orioles-padres-live-streaming-1328057613"
-            },
-            {
-                "source": "echo",
-                "id": "baltimore-orioles-vs-san-diego-padres-baseball-179085"
-            },
-            {
                 "source": "golf",
                 "id": "23156"
             }
@@ -515,44 +531,8 @@
                 "id": "ppv-seattle-mariners-vs-washington-nationals"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_nationals-mariners-live-streaming-1328058612"
-            },
-            {
-                "source": "echo",
-                "id": "washington-nationals-vs-seattle-mariners-baseball-179072"
-            },
-            {
                 "source": "golf",
                 "id": "23157"
-            }
-        ]
-    },
-    {
-        "id": "pittsburgh-pirates-vs-miami-marlins-2387939",
-        "title": "Pittsburgh Pirates vs Miami Marlins",
-        "category": "baseball",
-        "date": 1781453700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmBAoQolLBDcQfECZi4tFqUa0FgSCn2Gz6elSi5gy8IllnumGp5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Pittsburgh Pirates",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA"
-            },
-            "away": {
-                "name": "Miami Marlins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-miami-marlins-vs-pittsburgh-pirates"
-            },
-            {
-                "source": "golf",
-                "id": "23155"
             }
         ]
     },
@@ -596,74 +576,15 @@
         ]
     },
     {
-        "id": "netherlands-vs-japan-2391735",
-        "title": "Netherlands vs Japan",
-        "category": "football",
-        "date": 1781467200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOCzAkIUWDBSQ3EHxO6QMcxsQ4FTJBT7DZ9FGBUou78vS2jPTLT6ovQhQA.webp",
+        "id": "ppv-event-09-usac-indiana-midget-week-kokomo-ppv-09",
+        "title": "USAC Indiana Midget Week Kokomo",
+        "category": "other",
+        "date": 1781477100000,
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Netherlands",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdYIGKGwgIqkCRAoQiPiDOnuemAQpM+KLmDLwi80Q6a0wTsaIhA"
-            },
-            "away": {
-                "name": "Japan",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmwFeRRhwSENxAkQKPUZBnjZiCHgEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-netherlands-vs-japan"
-            },
-            {
-                "source": "delta",
-                "id": "live_world-championship-gr-f_netherlands-japan-live-streaming-1243480275"
-            },
-            {
                 "source": "echo",
-                "id": "netherlands-vs-japan-football-1489376"
-            },
-            {
-                "source": "golf",
-                "id": "23116"
-            }
-        ]
-    },
-    {
-        "id": "los-angeles-angels-vs-tampa-bay-rays-2387943",
-        "title": "Los Angeles Angels vs Tampa Bay Rays",
-        "category": "baseball",
-        "date": 1781467620000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAkQ3Iig06QfECZi4Q+-VJO4CwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Los Angeles Angels",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Tampa Bay Rays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-tampa-bay-rays-vs-los-angeles-angels"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_angels-rays-live-streaming-1328069601"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-angels-vs-tampa-bay-rays-baseball-179078"
-            },
-            {
-                "source": "golf",
-                "id": "23168"
+                "id": "ppv-event-09-usac-indiana-midget-week-kokomo-ppv-09"
             }
         ]
     },
@@ -696,19 +617,6 @@
             {
                 "source": "golf",
                 "id": "23117"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-01-ufc-freedom-250-prelims-ev-01",
-        "title": "PPV EVENT 01: UFC Freedom 250 Prelims",
-        "category": "other",
-        "date": 1781478045000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-01-ufc-freedom-250-prelims-ev-01"
             }
         ]
     },
