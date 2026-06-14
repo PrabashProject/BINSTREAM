@@ -1,5 +1,46 @@
 [
     {
+        "id": "betvictor-world-cup-darts-day-4-2470565",
+        "title": "BetVictor World Cup Darts Day 4",
+        "category": "darts",
+        "date": 1781434800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCEQyQuOSG4g+O-SZwxjJQwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "world-cup-of-darts-darts-1"
+            }
+        ]
+    },
+    {
+        "id": "atp-wta-stuttgart-hertogenbosch-tn-1",
+        "title": "ATP / WTA: Stuttgart / Hertogenbosch \ud83c\udfbe",
+        "category": "tennis",
+        "date": 1781427600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atp-wta-stuttgart-hertogenbosch-tn-1"
+            }
+        ]
+    },
+    {
+        "id": "world-sbk-italian-round-world-sbk-championship-season-game-4u8337",
+        "title": "World SBK Italian Round | World SBK Championship Season \ud83c\udfc1",
+        "category": "motor-sports",
+        "date": 1781426700000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "world-sbk-italian-round-world-sbk-championship-season-game-4u8337"
+            }
+        ]
+    },
+    {
         "id": "formula-3-spain-r4-formula-2-spain-r5-game-19996",
         "title": "Formula 3: Spain -R4 | Formula 2: Spain -R5",
         "category": "motor-sports",
@@ -43,79 +84,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-wests-tigers-vs-titans"
-            },
-            {
                 "source": "echo",
                 "id": "wests-tigers-vs-gold-coast-titans-game-197832"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-13-combat-fc-13-ppv-13",
-        "title": "Combat FC 13",
-        "category": "other",
-        "date": 1781402400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-13-combat-fc-13-ppv-13"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-02-raf-10-chimaev-v-danis-ppv-02",
-        "title": "RAF 10 Chimaev v Danis  \ud83d\udd25",
-        "category": "other",
-        "date": 1781398800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-02-raf-10-chimaev-v-danis-ppv-02"
-            }
-        ]
-    },
-    {
-        "id": "world-sbk-italian-round-world-sbk-championship-season-game-4u8337",
-        "title": "World SBK Italian Round | World SBK Championship Season \ud83c\udfc1",
-        "category": "motor-sports",
-        "date": 1781426700000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "world-sbk-italian-round-world-sbk-championship-season-game-4u8337"
-            }
-        ]
-    },
-    {
-        "id": "atp-wta-stuttgart-hertogenbosch-tn-1",
-        "title": "ATP / WTA: Stuttgart / Hertogenbosch \ud83c\udfbe",
-        "category": "tennis",
-        "date": 1781427600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "atp-wta-stuttgart-hertogenbosch-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "betvictor-world-cup-darts-day-4-2470565",
-        "title": "BetVictor World Cup Darts Day 4",
-        "category": "darts",
-        "date": 1781434800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBCJZIENXkheILLsNnqIGKZLGWSClhFzGKMKpQ835RvrEf8rMBgbuJiEEA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "world-cup-of-darts-darts-1"
             }
         ]
     },
@@ -129,6 +99,27 @@
             {
                 "source": "echo",
                 "id": "rbc-canadian-open-pga-tour-pga-526234"
+            }
+        ]
+    },
+    {
+        "id": "23199",
+        "title": "Tarik Haddir - Adama Diarra",
+        "category": "fight",
+        "date": 1781442000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Tarik Haddir"
+            },
+            "away": {
+                "name": "Adama Diarra"
+            }
+        },
+        "sources": [
+            {
+                "source": "golf",
+                "id": "23199"
             }
         ]
     },
@@ -181,11 +172,11 @@
         "teams": {
             "home": {
                 "name": "London Warriors",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS7w6IemDAoQvEFn0gjJEDpN7EkwjGD4BKHmDJrGCsQ7uan4sRCA"
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3g0QtMGBQhuIPnpCGSIbcd2IJhGMCZ8UXMGVX15o+0w2OxoiEA"
             },
             "away": {
                 "name": "Firenze Red Lions",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS5hg+Aa2gQQvEFn2GQxkNRAATCyBQEKGrCh5gy8IgrGON9MM-FiIQA"
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAmA+NAghuIPnoMgjuEABMzIFAQrqUXMGU315ou01pgHY0RCA"
             }
         },
         "sources": [
@@ -248,7 +239,7 @@
         "title": "Pittsburgh Pirates vs Miami Marlins",
         "category": "baseball",
         "date": 1781453700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvTAgUIMSlgheILCFMwQ1bVenHtLJBSwi5jfapQ8wZeEWpyP+KzAYF7iYhBAA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmBAoQolLBDcQfECZi4tFqUa0FgSCn2Gz6elSi5gy8IllnumGp5iohBAA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -316,7 +307,7 @@
         "title": "Baltimore Orioles vs San Diego Padres",
         "category": "baseball",
         "date": 1781458500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmCYhBUFPJC9tIYzBDUQKCyGnHjLJBSwi5jFGFV6O78o2py9+KzAYO7iYhBAA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMAxACoKOSG5aQRmLhAozIKUaMFgSCn2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -352,7 +343,7 @@
         "title": "Washington Nationals vs Seattle Mariners",
         "category": "baseball",
         "date": 1781458500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLAowSEI0aheILCFMwQ1ECishpx4yyQUsIuY22qUPMGXhFqcl74rMBgPuJiEEA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWBRgkIevVDcQfECZi4QKCyClGjBYEgp9hs+lpUouYMvCJZZnky0YN5iohBAA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -388,7 +379,7 @@
         "title": "Toronto Blue Jays vs New York Yankees",
         "category": "baseball",
         "date": 1781458620000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBDSQ-CCEaJeILCFObqIFJa3HTLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCCkheEEPUTcQfECY04UIC1uOWmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -424,7 +415,7 @@
         "title": "Cincinnati Reds vs Arizona Diamondbacks",
         "category": "baseball",
         "date": 1781458800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEZYQKEP2rAADHpDaQIGCGo6b08yBIskFLCLmMUYVSh5fyjAzEffFZgMC9xMQggA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPT4gUIXlmAAGXSC0gQMXNqtSzIEgWBIKfYbPoowKlF0-l6+0W8mWjBPMVEIIA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -460,7 +451,7 @@
         "title": "Cleveland Guardians vs Detroit Tigers",
         "category": "baseball",
         "date": 1781458800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjiRF83aSF4gsIYzBDUQKCyD3HFOrTAEi5jFGFUoe78o2pzPOvRg7uJiEEA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmCREmKYFJDcQfECZi4QKCyH0mFTLTH7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -496,7 +487,7 @@
         "title": "New York Mets vs Atlanta Braves",
         "category": "baseball",
         "date": 1781458800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBDhpIXiHpJdILFpAwQ1ECisgdWmCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCHBSQ3ELSQ6QfTSBi4QKCyG2aYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -532,7 +523,7 @@
         "title": "Chicago White Sox vs Los Angeles Dodgers",
         "category": "baseball",
         "date": 1781460600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlHrAw-fkhC8QWECZghqIFJZDSTNlkgpYRcxijCqUPD+UbU5Xvis2h7iYhBAA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKLWBhevJCG4g+IYzFwgU5kFONWCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -541,7 +532,7 @@
             },
             "away": {
                 "name": "Los Angeles Dodgers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSXQhEtMiGD4Q1ELxBZDIE3oAmIFCAggS+ghXwCUPMGXhEFYl0-pg34mIQQA"
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA"
             }
         },
         "sources": [
@@ -568,7 +559,7 @@
         "title": "Kansas City Royals vs Houston Astros",
         "category": "baseball",
         "date": 1781460600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoMTUGIaSBQheILCFMwQ1fVb2n4LJBSwi5jFGFUoe78o21jP+KzAYO7iYhBAA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAYix0QUkChDcQfECZi49F3SfgFgSCn2Gz6KMCpRc35eltEemtGBuYqIQQA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -604,7 +595,7 @@
         "title": "Minnesota Twins vs St. Louis Cardinals",
         "category": "baseball",
         "date": 1781460600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBxIQ0kIjIoQvTSFMwQ1EIcO6zLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzBIQUkIjIoQ3DSFMxcIQ4d1mCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -640,7 +631,7 @@
         "title": "Milwaukee Brewers vs Philadelphia Phillies",
         "category": "baseball",
         "date": 1781460600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBBiwwaSEEkQvfZpAwQ1ECisg9WWyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECFFhgUkAJIhuejSBi4QKCyF19rBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -681,7 +672,7 @@
         "teams": {
             "home": {
                 "name": "Toronto Tempo",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS4hKYXmBRgkfELxBZDIE9RAkTIRBEMEK+ASh5gy8IgrFOH9MC-FiIIA"
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxCUw3MCjBIeIbiD4GQxnCWMhEEAwQpM+KLmDLwi80Q6a0wTsaIhA"
             },
             "away": {
                 "name": "Atlanta Dream",
@@ -740,7 +731,7 @@
         "title": "Athletics vs Colorado Rockies",
         "category": "baseball",
         "date": 1781463900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihohBVEiBghe2kCYPUQKCyGkntLJBSwi5jTapQ8wZeEWpyP+KzAYF7iYhBAA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFNhACqJEDBDctIY-pwoQ5qca0FgSCn2Gz6GlSi5gy8IllnumtGCeYqIQQA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -776,12 +767,12 @@
         "title": "San Francisco Giants vs Chicago Cubs",
         "category": "baseball",
         "date": 1781464200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiGBIQbGpBC8QWECZghqIFJZDSTBlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEMCQgW1CCG4g+IYzFwgU5kFOP6Cmin2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
         "popular": true,
         "teams": {
             "home": {
                 "name": "San Francisco Giants",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS5UAJiHhh+KEBBC8QWIyFOHE1EJZJ6CFfAJQ8wZLYwVinD+mBfixEEA"
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyoATEPDC8UICCG4g+hkCYOIcOEroIUmfFFzBlN9eaIdNaYJ2NEQgA"
             },
             "away": {
                 "name": "Chicago Cubs",
@@ -844,7 +835,7 @@
         "title": "Los Angeles Angels vs Tampa Bay Rays",
         "category": "baseball",
         "date": 1781467620000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHhgSIXkRSbdILCFMwQ1EAYPTTFlkgpYRcxim0cUPbeUbU5XviswGAejGIQQA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAkQ3Iig06QfECZi4Q+-VJO4CwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -912,7 +903,7 @@
         "title": "Boston Red Sox vs Texas Rangers",
         "category": "baseball",
         "date": 1781479200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHoohJEP0S8QWECZghqIFJZDSTJlkgpYRcxijCrtHD+UbU52viswGAe4mIQQA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRSCSIXom4g+IYzFwgU5kFOPGCwJBT7DZ9FGBVa278vSyytTLRg7mKiEEA.webp",
         "popular": true,
         "teams": {
             "home": {
