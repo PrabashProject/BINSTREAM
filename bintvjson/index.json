@@ -1,37 +1,5 @@
 [
     {
-        "id": "sweden-vs-tunisia-2461106",
-        "title": "Sweden vs Tunisia",
-        "category": "football",
-        "date": 1781488800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMCQ8QMOaRDcQfIyBI7TIS4mMKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Sweden",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAhpdMEn4huakCh37VhviFOMKTPii5gy8IvNE2mtMHbGiIQA"
-            },
-            "away": {
-                "name": "Tunisia",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB9sIDSmz8Q3ECVwgAJqsN8zqghSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live_world-championship-gr-f_sweden-tunisia-live-streaming-1243481274"
-            },
-            {
-                "source": "echo",
-                "id": "sweden-vs-tunisia-football-1539002"
-            },
-            {
-                "source": "golf",
-                "id": "23118"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-13-narc-fastest-5-days-grays-ppv-13",
         "title": "NARC Fastest 5 Days Grays",
         "category": "other",
@@ -58,64 +26,6 @@
         ]
     },
     {
-        "id": "vegas-golden-knights-vs-carolina-hurricanes-2483554",
-        "title": "Vegas Golden Knights vs Carolina Hurricanes",
-        "category": "hockey",
-        "date": 1781481600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reikghtfMNxD6+IKSBjaQKCyAhXGwJBT7DZGsCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Vegas Golden Knights",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Carolina Hurricanes",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIGCAGh4YECG4gSICJtwhEOI3uWEYwJnxRcwZHfXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live_nhl-playoffs_golden-knights-hurricanes-live-streaming-1335654009"
-            },
-            {
-                "source": "echo",
-                "id": "vegas-golden-knights-vs-carolina-hurricanes-hockey-428348"
-            },
-            {
-                "source": "golf",
-                "id": "23154"
-            }
-        ]
-    },
-    {
-        "id": "jonathan-gonzalez-vs-abraham-perez-2483960",
-        "title": "Jonathan Gonzalez vs Abraham Perez",
-        "category": "fight",
-        "date": 1781481600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiAiaQfHaBAbdIAyBjGQKXCCk6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Jonathan Gonzalez"
-            },
-            "away": {
-                "name": "Abraham Perez"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_gonzalez-vs-perez-live-stream"
-            },
-            {
-                "source": "golf",
-                "id": "23200"
-            }
-        ]
-    },
-    {
         "id": "ufc-freedom-250-topuria-vs-gaethje-2391891",
         "title": "UFC Freedom 250 Topuria vs Gaethje",
         "category": "fight",
@@ -132,12 +42,12 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live-event_ufc-freedom-250-topuria-vs-gaethje-live-stream"
+                "source": "admin",
+                "id": "ppv-ufc-freedom-250-topuria-vs-gaethje"
             },
             {
                 "source": "echo",
-                "id": "ppv-event-01-ufc-freedom-250-prelims-ppv-01"
+                "id": "ppv-event-02-ufc-freedom-250-ppv-02"
             },
             {
                 "source": "golf",
@@ -177,6 +87,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-spain-vs-cape-verde"
+            },
+            {
                 "source": "echo",
                 "id": "spain-vs-cape-verde-islands-football-1489380"
             },
@@ -204,6 +118,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-belgium-vs-egypt"
+            },
             {
                 "source": "echo",
                 "id": "belgium-vs-egypt-football-1489377"
@@ -233,6 +151,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-saudi-arabia-vs-uruguay"
+            },
+            {
                 "source": "echo",
                 "id": "saudi-arabia-vs-uruguay-football-1489379"
             },
@@ -260,6 +182,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-miami-marlins-vs-philadelphia-phillies"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_phillies-marlins-live-streaming-1328160510"
+            },
             {
                 "source": "echo",
                 "id": "philadelphia-phillies-vs-miami-marlins-baseball-179089"
@@ -289,6 +219,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-kansas-city-royals-vs-washington-nationals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_nationals-royals-live-streaming-1328161509"
+            },
+            {
                 "source": "echo",
                 "id": "washington-nationals-vs-kansas-city-royals-baseball-179086"
             },
@@ -317,6 +255,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-new-york-mets-vs-cincinnati-reds"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_reds-mets-live-streaming-1328162508"
+            },
+            {
                 "source": "echo",
                 "id": "cincinnati-reds-vs-new-york-mets-baseball-179092"
             },
@@ -344,6 +290,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-san-diego-padres-vs-st-louis-cardinals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_cardinals-padres-live-streaming-1328163507"
+            },
             {
                 "source": "echo",
                 "id": "stlouis-cardinals-vs-san-diego-padres-baseball-179088"
