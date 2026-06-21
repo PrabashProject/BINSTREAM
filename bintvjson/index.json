@@ -1,5 +1,66 @@
 [
     {
+        "id": "us-open-championship-atp1000",
+        "title": "U.S. Open Championship",
+        "category": "other",
+        "date": 1782050400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "us-open-championship-atp1000"
+            }
+        ]
+    },
+    {
+        "id": "st-helens-vs-huddersfield-giants-2395945",
+        "title": "St Helens vs Huddersfield Giants",
+        "category": "rugby",
+        "date": 1782050400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCDIxgYEFBAhuIPiCmaDFnBo2NgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "St Helens",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCVgYQbT4huIbTBAATI7hAGQeswQpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "Huddersfield Giants",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjAADGBTAkoECRDcQAExAQDIC2ZjHTuAhSZ8tbMGXhF5orU1phXY0QggA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "st-helens-vs-huddersfield-giants-game-182283"
+            }
+        ]
+    },
+    {
+        "id": "london-warriors-vs-vienna-vikings-2475807",
+        "title": "London Warriors vs Vienna Vikings",
+        "category": "american-football",
+        "date": 1782046800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCBEgI07KRBUQMBSOA14UjTI3DgEpcBm6SILOMOGVEKSBTlrAoaoJy7YQsCS4AxnaFhuTmtjehcNMACLMgggA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "London Warriors",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3g0QtMGBQhuIPnpCGSIbcd2IJhGMCZ8UXMGVX15o+0w2OxoiEA"
+            },
+            "away": {
+                "name": "Vienna Vikings",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gBteQAY2Ibmty6QiGCBT6QughSZ8UXMGXhF5ou01pgHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-vienna-vikings-vs-london-warriors"
+            }
+        ]
+    },
+    {
         "id": "pdc-darts-european-tour-2026-darts-1",
         "title": "PDC Darts, European Tour 2026 \ud83c\udfaf",
         "category": "other",
@@ -106,43 +167,6 @@
         ]
     },
     {
-        "id": "melbourne-storm-vs-canberra-raiders-2417282",
-        "title": "Melbourne Storm vs Canberra Raiders",
-        "category": "rugby",
-        "date": 1782021900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAxgSMCh3sQ3EHw0hzJIyETHzUgjop9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Melbourne Storm",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3Awx+EBBAwQ3EABNNBkIi18Q5kroIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Canberra Raiders",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFswYJJRDbuIACYgI+kIiN9j5iYRjAmfFFzBl4ReaIdNa60VLpA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "melbourne-storm-vs-canberra-raiders-game-3373252"
-            }
-        ]
-    },
-    {
-        "id": "v8-darwin-triple-crown-v8-supercars-championship-game-19996",
-        "title": "V8 Darwin Triple Crown | V8 Supercars Championship",
-        "category": "motor-sports",
-        "date": 1782018000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "v8-darwin-triple-crown-v8-supercars-championship-game-19996"
-            }
-        ]
-    },
-    {
         "id": "spa-francorchamps-2410139",
         "title": "Spa Francorchamps",
         "category": "motor-sports",
@@ -154,67 +178,6 @@
             {
                 "source": "echo",
                 "id": "british-gt-2026-spa-francorchamps-game-4u8337"
-            }
-        ]
-    },
-    {
-        "id": "london-warriors-vs-vienna-vikings-2475807",
-        "title": "London Warriors vs Vienna Vikings",
-        "category": "american-football",
-        "date": 1782046800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCBEgI07KRBUQMBSOA14UjTI3DgEpcBm6SILOMOGVEKSBTlrAoaoJy7YQsCS4AxnaFhuTmtjehcNMACLMgggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "London Warriors",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3g0QtMGBQhuIPnpCGSIbcd2IJhGMCZ8UXMGVX15o+0w2OxoiEA"
-            },
-            "away": {
-                "name": "Vienna Vikings",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gBteQAY2Ibmty6QiGCBT6QughSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-vienna-vikings-vs-london-warriors"
-            }
-        ]
-    },
-    {
-        "id": "us-open-championship-atp1000",
-        "title": "U.S. Open Championship",
-        "category": "other",
-        "date": 1782050400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "us-open-championship-atp1000"
-            }
-        ]
-    },
-    {
-        "id": "st-helens-vs-huddersfield-giants-2395945",
-        "title": "St Helens vs Huddersfield Giants",
-        "category": "rugby",
-        "date": 1782050400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCDIxgYEFBAhuIPiCmaDFnBo2NgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "St Helens",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCVgYQbT4huIbTBAATI7hAGQeswQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Huddersfield Giants",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjAADGBTAkoECRDcQAExAQDIC2ZjHTuAhSZ8tbMGXhF5orU1phXY0QggA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "st-helens-vs-huddersfield-giants-game-182283"
             }
         ]
     },
@@ -263,6 +226,10 @@
             {
                 "source": "admin",
                 "id": "ppv-spain-vs-saudi-arabia"
+            },
+            {
+                "source": "delta",
+                "id": "live_world-championship-gr-h_spain-saudi-arabia-live-streaming-1243726029"
             },
             {
                 "source": "echo",
@@ -621,6 +588,10 @@
                 "id": "ppv-belgium-vs-iran"
             },
             {
+                "source": "delta",
+                "id": "live_world-championship-gr-g_belgium-iran-live-streaming-1243724031"
+            },
+            {
                 "source": "echo",
                 "id": "belgium-vs-iran-football-1489395"
             },
@@ -905,6 +876,10 @@
             {
                 "source": "admin",
                 "id": "ppv-uruguay-vs-cape-verde"
+            },
+            {
+                "source": "delta",
+                "id": "live_world-championship-gr-h_uruguay-cabo-verde-live-streaming-1243727028"
             },
             {
                 "source": "echo",
