@@ -1,63 +1,29 @@
 [
     {
-        "id": "ppv-event-06-inka-mma-58-ppv-06",
-        "title": "INKA MMA 58",
-        "category": "other",
-        "date": 1782360000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-06-inka-mma-58-ppv-06"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-04-world-of-outlaws-late-models-i-94-emr-ppv-004",
-        "title": "World of Outlaws Late Models I-94 EMR",
-        "category": "other",
-        "date": 1782345600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-04-world-of-outlaws-late-models-i-94-emr-ppv-004"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-03-dirtcar-summer-nationals-quincy-ppv-03",
-        "title": "DIRTcar Summer Nationals Quincy  \u2b50",
-        "category": "other",
-        "date": 1782345600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-03-dirtcar-summer-nationals-quincy-ppv-03"
-            }
-        ]
-    },
-    {
-        "id": "england-vs-new-zealand-third-test-cricket-hundred-1",
-        "title": "England vs New Zealand",
-        "category": "other",
-        "date": 1782378000000,
+        "id": "parramatta-eels-vs-south-sydney-rabbitohs-2417284",
+        "title": "Parramatta Eels vs South Sydney Rabbitohs",
+        "category": "rugby",
+        "date": 1782381000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJlRgg4KMFJDcQfEPpAgSBkIkMojBYEgp9hs+rpUouYMvCJZZnky0YN5iohBAA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "England",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0ICCERFV9cgwDGzST3hiq3Al1ZgwufFaA"
+                "name": "Parramatta Eels",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkoAEy7dcIbepAQQ+xIb4hzh9QQpM+KLmDLwi80faa0wjsaIhA"
             },
             "away": {
-                "name": "New Zealand",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIfiADGIePXINVzcT3giq3Al1ZgwufFaA"
+                "name": "South Sydney Rabbitohs",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw2IKKMIwQ3ECX25VIPkYAmJkwQpM+KLmDLwi80faa0wjsaIhA"
             }
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-eels-vs-rabbitohs"
+            },
+            {
                 "source": "echo",
-                "id": "england-vs-new-zealand-third-test-cricket-hundred-1"
+                "id": "parramatta-eels-vs-south-sydney-game-197832"
             }
         ]
     },
@@ -99,26 +65,38 @@
         ]
     },
     {
-        "id": "parramatta-eels-vs-south-sydney-rabbitohs-2417284",
-        "title": "Parramatta Eels vs South Sydney Rabbitohs",
-        "category": "rugby",
-        "date": 1782381000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJlRgg4KMFJDcQfEPpAgSBkIkMojBYEgp9hs+rpUouYMvCJZZnky0YN5iohBAA.webp",
+        "id": "england-vs-new-zealand-third-test-cricket-hundred-1",
+        "title": "England vs New Zealand",
+        "category": "other",
+        "date": 1782378000000,
         "popular": true,
         "teams": {
             "home": {
-                "name": "Parramatta Eels",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkoAEy7dcIbepAQQ+xIb4hzh9QQpM+KLmDLwi80faa0wjsaIhA"
+                "name": "England",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0ICCERFV9cgwDGzST3hiq3Al1ZgwufFaA"
             },
             "away": {
-                "name": "South Sydney Rabbitohs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw2IKKMIwQ3ECX25VIPkYAmJkwQpM+KLmDLwi80faa0wjsaIhA"
+                "name": "New Zealand",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIfiADGIePXINVzcT3giq3Al1ZgwufFaA"
             }
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-eels-vs-rabbitohs"
+                "source": "echo",
+                "id": "england-vs-new-zealand-third-test-cricket-hundred-1"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-06-inka-mma-58-ppv-06",
+        "title": "INKA MMA 58",
+        "category": "other",
+        "date": 1782360000000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-06-inka-mma-58-ppv-06"
             }
         ]
     },
