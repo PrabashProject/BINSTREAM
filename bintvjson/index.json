@@ -13,19 +13,6 @@
         ]
     },
     {
-        "id": "ppv-event-03-mccrory-v-budera-ppv-03",
-        "title": "McCrory v Budera \u2b50",
-        "category": "other",
-        "date": 1782500400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-03-mccrory-v-budera-ppv-03"
-            }
-        ]
-    },
-    {
         "id": "senegal-vs-iraq-2461119",
         "title": "Senegal vs Iraq",
         "category": "football",
@@ -146,6 +133,23 @@
         ]
     },
     {
+        "id": "live-event_mccrory-vs-budera-live-stream",
+        "title": "McCrory vs Budera",
+        "category": "fight",
+        "date": 1782496800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_mccrory-vs-budera-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-03-mccrory-v-budera-ppv-03"
+            }
+        ]
+    },
+    {
         "id": "kent-spitfires-vs-notts-outlaws-2427829",
         "title": "Kent Spitfires vs Notts Outlaws",
         "category": "cricket",
@@ -206,41 +210,6 @@
             {
                 "source": "admin",
                 "id": "ppv-us-darts-masters-day-2"
-            }
-        ]
-    },
-    {
-        "id": "austrian-grand-prix-practice-1-2408157",
-        "title": "Austrian Grand Prix Practice 1",
-        "category": "motor-sports",
-        "date": 1782473400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSTklYECG4g+hjSBS4QMc5ZgFgWmP2Gz6KMCpRc32hrI9NaYG5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Austrian Grand Prix"
-            },
-            "away": {
-                "name": "Practice 2"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "23370"
-            }
-        ]
-    },
-    {
-        "id": "atp-wta-bad-homburg-mallorca-tn-1",
-        "title": "ATP / WTA: Bad Homburg / Mallorca \ud83c\udfbe",
-        "category": "tennis",
-        "date": 1782471600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "atp-wta-bad-homburg-mallorca-tn-1"
             }
         ]
     },
@@ -546,29 +515,6 @@
         ]
     },
     {
-        "id": "connecticut-sun-w-vs-washington-mystics-w-basketball-494909",
-        "title": "Connecticut Sun W vs Washington Mystics W",
-        "category": "basketball",
-        "date": 1782516600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Connecticut Sun W",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmICPXIMAxs0k94YqtwJdWYMLnzWgA"
-            },
-            "away": {
-                "name": "Washington Mystics W",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiADGIbPXINVzST3hiq3Al1ZgwufFaA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "connecticut-sun-w-vs-washington-mystics-w-basketball-494909"
-            }
-        ]
-    },
-    {
         "id": "chicago-sky-w-vs-portland-fire-w-basketball-494908",
         "title": "Chicago Sky W vs Portland Fire W",
         "category": "basketball",
@@ -588,6 +534,29 @@
             {
                 "source": "echo",
                 "id": "chicago-sky-w-vs-portland-fire-w-basketball-494908"
+            }
+        ]
+    },
+    {
+        "id": "connecticut-sun-w-vs-washington-mystics-w-basketball-494909",
+        "title": "Connecticut Sun W vs Washington Mystics W",
+        "category": "basketball",
+        "date": 1782516600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Connecticut Sun W",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmICPXIMAxs0k94YqtwJdWYMLnzWgA"
+            },
+            "away": {
+                "name": "Washington Mystics W",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiADGIbPXINVzST3hiq3Al1ZgwufFaA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "connecticut-sun-w-vs-washington-mystics-w-basketball-494909"
             }
         ]
     },
