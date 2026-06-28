@@ -24,79 +24,6 @@
         ]
     },
     {
-        "id": "austrian-grand-prix-2408161",
-        "title": "Austrian Grand Prix",
-        "category": "motor-sports",
-        "date": 1782651600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcw3XGBkAGLSD4mQEEClwbrFmAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Austrian Grand Prix"
-            },
-            "away": {
-                "name": "Race"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-austrian-grand-prix-race"
-            },
-            {
-                "source": "golf",
-                "id": "23373"
-            }
-        ]
-    },
-    {
-        "id": "firenze-red-lions-vs-wroc-aw-panthers-2475810",
-        "title": "Firenze Red Lions vs Wroc\u0142aw Panthers",
-        "category": "american-football",
-        "date": 1782651600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCCzYQiECBQhh0pVKpzg8bKXna1AY3HAaZEiAhmQa04nOIs8lOQigwgkUy2OwhYElx7HIVdWZyUyRwINcldgZzIIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Firenze Red Lions",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAmA+NAghuIPnoMgjuEABMzIFAQrqUXMGU315ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Wroc\u0142aw Panthers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgB4FGrDcQOgCa4QJEIgOIcOGAQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-panthers-wroclaw-vs-firenze-red-lions"
-            }
-        ]
-    },
-    {
-        "id": "england-vs-new-zealand-third-test-cricket-hundred-1",
-        "title": "England vs New Zealand",
-        "category": "other",
-        "date": 1782638100000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "England",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0ICCERFV9cgwDGzST3hiq3Al1ZgwufFaA"
-            },
-            "away": {
-                "name": "New Zealand",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIfiADGIePXINVzcT3giq3Al1ZgwufFaA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "england-vs-new-zealand-third-test-cricket-hundred-1"
-            }
-        ]
-    },
-    {
         "id": "baltimore-orioles-vs-washington-nationals-2388138",
         "title": "Baltimore Orioles vs Washington Nationals",
         "category": "baseball",
@@ -607,19 +534,6 @@
         ]
     },
     {
-        "id": "travelers-championship-pga-tour-pga-526234",
-        "title": "Travelers Championship | PGA Tour",
-        "category": "other",
-        "date": 1782676800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "travelers-championship-pga-tour-pga-526234"
-            }
-        ]
-    },
-    {
         "id": "chicago-sky-w-vs-las-vegas-aces-w-basketball-494916",
         "title": "Chicago Sky W vs Las Vegas Aces W",
         "category": "basketball",
@@ -639,6 +553,19 @@
             {
                 "source": "echo",
                 "id": "chicago-sky-w-vs-las-vegas-aces-w-basketball-494916"
+            }
+        ]
+    },
+    {
+        "id": "travelers-championship-pga-tour-pga-526234",
+        "title": "Travelers Championship | PGA Tour",
+        "category": "other",
+        "date": 1782676800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "travelers-championship-pga-tour-pga-526234"
             }
         ]
     },
