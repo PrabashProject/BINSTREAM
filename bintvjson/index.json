@@ -39,17 +39,12 @@
         ]
     },
     {
-        "id": "ppv-aew-forbidden-door-2026",
-        "title": "AEW: Forbidden Door 2026",
-        "category": "fight",
+        "id": "ppv-event-05-aew-forbidden-door-ppv-05",
+        "title": "AEW Forbidden Door",
+        "category": "other",
         "date": 1782691200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEKRAQQKYImnxgNGonHDg0gMYhhIeZOkw5MjXJF7JuqlPF7Z-MIJFNs9MIWBJcm2UMesIZzJZAjMwR1MyCCA.webp",
         "popular": true,
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-aew-forbidden-door-2026"
-            },
             {
                 "source": "echo",
                 "id": "ppv-event-05-aew-forbidden-door-ppv-05"
@@ -162,6 +157,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-chicago-white-sox-vs-baltimore-orioles"
+            },
+            {
                 "source": "echo",
                 "id": "baltimore-orioles-vs-chicago-white-sox-baseball-179283"
             },
@@ -190,12 +189,48 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-pittsburgh-pirates-vs-philadelphia-phillies"
+            },
+            {
                 "source": "echo",
                 "id": "philadelphia-phillies-vs-pittsburgh-pirates-baseball-179276"
             },
             {
                 "source": "golf",
                 "id": "23469"
+            }
+        ]
+    },
+    {
+        "id": "cleveland-guardians-vs-texas-rangers-2388151",
+        "title": "Cleveland Guardians vs Texas Rangers",
+        "category": "baseball",
+        "date": 1782774000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWBl8QG+jm4htIEDFwgU544ZAkCwJBT7DZ9FGBUou78ntmemtGDuYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Cleveland Guardians",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA"
+            },
+            "away": {
+                "name": "Texas Rangers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-texas-rangers-vs-cleveland-guardians"
+            },
+            {
+                "source": "echo",
+                "id": "cleveland-guardians-vs-texas-rangers-baseball-179286"
+            },
+            {
+                "source": "golf",
+                "id": "23470"
             }
         ]
     },
@@ -217,6 +252,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-detroit-tigers-vs-new-york-yankees"
+            },
             {
                 "source": "echo",
                 "id": "new-york-yankees-vs-detroit-tigers-baseball-179277"
@@ -246,40 +285,16 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-new-york-mets-vs-toronto-blue-jays"
+            },
+            {
                 "source": "echo",
                 "id": "toronto-blue-jays-vs-new-york-mets-baseball-179275"
             },
             {
                 "source": "golf",
                 "id": "23472"
-            }
-        ]
-    },
-    {
-        "id": "cleveland-guardians-vs-texas-rangers-2388151",
-        "title": "Cleveland Guardians vs Texas Rangers",
-        "category": "baseball",
-        "date": 1782774600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWBl8QG+jm4htIEDFwgU544ZAkCwJBT7DZ9FGBUou78ntmemtGDuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Cleveland Guardians",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA"
-            },
-            "away": {
-                "name": "Texas Rangers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "cleveland-guardians-vs-texas-rangers-baseball-179286"
-            },
-            {
-                "source": "golf",
-                "id": "23470"
             }
         ]
     },
@@ -301,6 +316,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-washington-nationals-vs-boston-red-sox"
+            },
             {
                 "source": "echo",
                 "id": "boston-red-sox-vs-washington-nationals-baseball-179282"
@@ -329,6 +348,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-cincinnati-reds-vs-milwaukee-brewers"
+            },
             {
                 "source": "echo",
                 "id": "milwaukee-brewers-vs-cincinnati-reds-baseball-179278"
