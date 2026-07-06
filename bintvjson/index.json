@@ -1,63 +1,5 @@
 [
     {
-        "id": "wimbledon-championships-2026-roland-2026",
-        "title": "Wimbledon Championships 2026 \ud83c\udfbe",
-        "category": "other",
-        "date": 1783335600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "wimbledon-championships-2026-roland-2026"
-            }
-        ]
-    },
-    {
-        "id": "uci-tour-de-france-uci-world-tour-game-13622",
-        "title": "UCI Tour de France | UCI World Tour \ud83c\udfc1",
-        "category": "other",
-        "date": 1783332900000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "uci-tour-de-france-uci-world-tour-game-13622"
-            }
-        ]
-    },
-    {
-        "id": "kansas-city-royals-vs-philadelphia-phillies-2388239",
-        "title": "Kansas City Royals vs Philadelphia Phillies",
-        "category": "baseball",
-        "date": 1783361400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXNSQh6rPiG4g9IEDFwgU5yyWMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Kansas City Royals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Philadelphia Phillies",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-philadelphia-phillies-vs-kansas-city-royals"
-            },
-            {
-                "source": "echo",
-                "id": "kansas-city-royals-vs-philadelphia-phillies-baseball-179374"
-            },
-            {
-                "source": "golf",
-                "id": "23603"
-            }
-        ]
-    },
-    {
         "id": "portugal-vs-spain-2511721",
         "title": "Portugal vs Spain",
         "category": "football",
@@ -90,6 +32,34 @@
         ]
     },
     {
+        "id": "kansas-city-royals-vs-philadelphia-phillies-2388239",
+        "title": "Kansas City Royals vs Philadelphia Phillies",
+        "category": "baseball",
+        "date": 1783361400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXNSQh6rPiG4g9IEDFwgU5yyWMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Kansas City Royals",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Philadelphia Phillies",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-philadelphia-phillies-vs-kansas-city-royals"
+            },
+            {
+                "source": "golf",
+                "id": "23603"
+            }
+        ]
+    },
+    {
         "id": "tampa-bay-rays-vs-new-york-yankees-2388234",
         "title": "Tampa Bay Rays vs New York Yankees",
         "category": "baseball",
@@ -110,10 +80,6 @@
             {
                 "source": "admin",
                 "id": "ppv-new-york-yankees-vs-tampa-bay-rays"
-            },
-            {
-                "source": "echo",
-                "id": "tampa-bay-rays-vs-new-york-yankees-baseball-179369"
             },
             {
                 "source": "golf",
@@ -142,10 +108,6 @@
             {
                 "source": "admin",
                 "id": "ppv-houston-astros-vs-washington-nationals"
-            },
-            {
-                "source": "echo",
-                "id": "washington-nationals-vs-houston-astros-baseball-179368"
             },
             {
                 "source": "golf",
@@ -204,35 +166,8 @@
                 "id": "ppv-new-york-mets-vs-atlanta-braves"
             },
             {
-                "source": "echo",
-                "id": "atlanta-braves-vs-new-york-mets-baseball-179375"
-            },
-            {
                 "source": "golf",
                 "id": "23606"
-            }
-        ]
-    },
-    {
-        "id": "washington-mystics-w-vs-golden-state-valkyries-w-basketball-494927",
-        "title": "Washington Mystics W vs Golden State Valkyries W",
-        "category": "basketball",
-        "date": 1783380600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Washington Mystics W",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiADGIbPXINVzST3hiq3Al1ZgwufFaA"
-            },
-            "away": {
-                "name": "Golden State Valkyries W",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IAMYhEVEABN65BsuaSe8MVW4EurMGFz4bQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "washington-mystics-w-vs-golden-state-valkyries-w-basketball-494927"
             }
         ]
     },
@@ -309,10 +244,6 @@
             {
                 "source": "admin",
                 "id": "ppv-milwaukee-brewers-vs-st-louis-cardinals"
-            },
-            {
-                "source": "echo",
-                "id": "stlouis-cardinals-vs-milwaukee-brewers-baseball-179370"
             },
             {
                 "source": "golf",
