@@ -1,18 +1,5 @@
 [
     {
-        "id": "ppv-event-04-iwk-250-riverside-ppv-004",
-        "title": "IWK 250 Riverside",
-        "category": "other",
-        "date": 1784161800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-04-iwk-250-riverside-ppv-004"
-            }
-        ]
-    },
-    {
         "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1",
         "title": "ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open \ud83c\udfbe",
         "category": "other",
@@ -22,6 +9,25 @@
             {
                 "source": "echo",
                 "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1"
+            }
+        ]
+    },
+    {
+        "id": "the-open-championship-round-1-2329368",
+        "title": "The Open Championship Round 1",
+        "category": "golf",
+        "date": 1784179800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVijApOABjB8Q3EAZIgpIFIZCIQIGLgLAkFPsNn1NK7WzBl4RLFltJlowXzFRCCA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-the-open-championship-round-1"
+            },
+            {
+                "source": "echo",
+                "id": "the-154th-open-round-1-the-open-championship-atp1000"
             }
         ]
     },
@@ -69,6 +75,10 @@
             {
                 "source": "admin",
                 "id": "ppv-panthers-vs-broncos"
+            },
+            {
+                "source": "echo",
+                "id": "penrith-panthers-vs-brisbane-broncos-game-236363"
             }
         ]
     },
@@ -96,6 +106,43 @@
             {
                 "source": "echo",
                 "id": "england-vs-india-second-one-day-international-game-19993637"
+            }
+        ]
+    },
+    {
+        "id": "uci-tour-de-france-uci-world-tour-game-13622",
+        "title": "UCI Tour de France | UCI World Tour \ud83c\udfc1",
+        "category": "other",
+        "date": 1784201400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "uci-tour-de-france-uci-world-tour-game-13622"
+            }
+        ]
+    },
+    {
+        "id": "bradford-bulls-vs-wakefield-trinity-wildcats-2395967",
+        "title": "Bradford Bulls vs Wakefield Trinity Wildcats",
+        "category": "rugby",
+        "date": 1784228400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBQgYwJCG7b9IPiCkgSIS5cQGTfAror3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Bradford Bulls",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLYhRABjAgQ3HSD4gAJiAj69MPaZQEKTPii5gy8IvNEOmtME7GiIQA"
+            },
+            "away": {
+                "name": "Wakefield Trinity Wildcats",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBIQIYGu5gSIbiD4gYR3KYjqLEAhSZ8UXHeXrzR9prTA6xoiEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "bradford-bulls-vs-wakefield-trinity-game-184842"
             }
         ]
     },
