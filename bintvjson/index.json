@@ -1,5 +1,55 @@
 [
     {
+        "id": "fish-o-mania-game-288064",
+        "title": "Fish-O-Mania",
+        "category": "other",
+        "date": 1784374200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "fish-o-mania-game-288064"
+            }
+        ]
+    },
+    {
+        "id": "uci-tour-de-france-uci-world-tour-game-13622",
+        "title": "UCI Tour de France | UCI World Tour \ud83c\udfc1",
+        "category": "other",
+        "date": 1784373000000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "uci-tour-de-france-uci-world-tour-game-13622"
+            }
+        ]
+    },
+    {
+        "id": "paris-lights-vs-london-warriors-2475818",
+        "title": "Paris Lights vs London Warriors",
+        "category": "american-football",
+        "date": 1784372400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkDBAQQiEiHkBjEFhHLgNKiBTZSITTGDTp44aTPxgFxIgXqtlw9v5hBIpjqeFgSXAu1CXVgg3Mm0CBzAXQzMIIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Paris Lights",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkT02A0BBDcQfXfpCHcRnXwIUmZrmDLwi80SmBNaYG2NEQgA"
+            },
+            "away": {
+                "name": "London Warriors",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3g0QtMGBQhuIPnpCGSIbcd2IJhGMCZ8UXMGVX15o+0w2OxoiEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-london-warriors-vs-paris-lights"
+            }
+        ]
+    },
+    {
         "id": "tour-de-france-stage-14-2447761",
         "title": "Tour de France Stage 14",
         "category": "other",
@@ -11,19 +61,6 @@
             {
                 "source": "admin",
                 "id": "ppv-tour-de-france-stage-14"
-            }
-        ]
-    },
-    {
-        "id": "3rd-practice-circuit-de-spa-francorchamps-formula-1-2567",
-        "title": "3rd Practice | Circuit de Spa-Francorchamps |",
-        "category": "motor-sports",
-        "date": 1784370600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "3rd-practice-circuit-de-spa-francorchamps-formula-1-2567"
             }
         ]
     },
@@ -168,30 +205,6 @@
         ]
     },
     {
-        "id": "japan-rugby-vs-france-rugby-2449597",
-        "title": "Japan Rugby vs France Rugby",
-        "category": "rugby",
-        "date": 1784364000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkmCyogsVhC8Q+kCAghqIGCGkgUpgyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Japan Rugby",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLACADJBC8QWkCRAATQyER8QZnEb4EKTa1zBl4ReaJTAmtMI7GiIQA"
-            },
-            "away": {
-                "name": "France Rugby",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBlw9LGBIgUIbqpCGYIACYg+IYxYsoCFJnxRct5DaU5NaYLWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-japan-vs-france"
-            }
-        ]
-    },
-    {
         "id": "new-zealand-warriors-vs-st--george-illawara-dragons-2417310",
         "title": "New Zealand Warriors vs St. George Illawara Dragons",
         "category": "rugby",
@@ -229,44 +242,6 @@
         ]
     },
     {
-        "id": "rizin-landmark-15-in-hiroshima-2475851",
-        "title": "RIZIN Landmark 15 in Hiroshima",
-        "category": "fight",
-        "date": 1784350800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrIAMrViEH4QvPSBOIUJw8bMskFLCLmMUYVSh4vyjanLf4dYF3ExCCA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-rizin-landmark-15"
-            }
-        ]
-    },
-    {
-        "id": "los-angeles-clippers-vs-minnesota-timberwolves-basketball-504177",
-        "title": "Los Angeles Clippers vs Minnesota Timberwolves",
-        "category": "basketball",
-        "date": 1784343600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Los Angeles Clippers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAir65BgGNmknvDFVuBLqzBhc+S0A"
-            },
-            "away": {
-                "name": "Minnesota Timberwolves",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggU9cgwDGzST3hiq3Al1ZgwufFaA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "los-angeles-clippers-vs-minnesota-timberwolves-basketball-504177"
-            }
-        ]
-    },
-    {
         "id": "the-open-championship-round-3-2358664",
         "title": "The Open Championship Round 3",
         "category": "golf",
@@ -278,56 +253,6 @@
             {
                 "source": "echo",
                 "id": "the-154th-open-round-3-the-open-championship-atp1000"
-            }
-        ]
-    },
-    {
-        "id": "paris-lights-vs-london-warriors-2475818",
-        "title": "Paris Lights vs London Warriors",
-        "category": "american-football",
-        "date": 1784372400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkDBAQQiEiHkBjEFhHLgNKiBTZSITTGDTp44aTPxgFxIgXqtlw9v5hBIpjqeFgSXAu1CXVgg3Mm0CBzAXQzMIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Paris Lights",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkT02A0BBDcQfXfpCHcRnXwIUmZrmDLwi80SmBNaYG2NEQgA"
-            },
-            "away": {
-                "name": "London Warriors",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3g0QtMGBQhuIPnpCGSIbcd2IJhGMCZ8UXMGVX15o+0w2OxoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-london-warriors-vs-paris-lights"
-            }
-        ]
-    },
-    {
-        "id": "uci-tour-de-france-uci-world-tour-game-13622",
-        "title": "UCI Tour de France | UCI World Tour \ud83c\udfc1",
-        "category": "other",
-        "date": 1784373000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "uci-tour-de-france-uci-world-tour-game-13622"
-            }
-        ]
-    },
-    {
-        "id": "fish-o-mania-game-288064",
-        "title": "Fish-O-Mania",
-        "category": "other",
-        "date": 1784374200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "fish-o-mania-game-288064"
             }
         ]
     },
@@ -453,6 +378,32 @@
         ]
     },
     {
+        "id": "harlem-eubank-vs-david-papot-2483551",
+        "title": "Harlem Eubank vs David Papot",
+        "category": "fight",
+        "date": 1784383200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAghBOFGBTyQvbSFPVTmiyhMgWSClhFzGe1QY5gy8ItTkH8rMBgnuJiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Harlem Eubank"
+            },
+            "away": {
+                "name": "David Papot"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_harlem-eubank-vs-david-papot-live-stream"
+            },
+            {
+                "source": "golf",
+                "id": "23872"
+            }
+        ]
+    },
+    {
         "id": "ppv-pro-motocross-spring-creek",
         "title": "Pro Motocross: Spring Creek",
         "category": "motor-sports",
@@ -571,6 +522,32 @@
         ]
     },
     {
+        "id": "pfl-austin-eblen-vs-kasanganay-2-2475846",
+        "title": "PFL Austin Eblen vs Kasanganay 2",
+        "category": "fight",
+        "date": 1784390400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtOwDgABlggUIXiCwgziQ6bMQQiSfmBIKWEXMYowqlD0-lG1OW8HejBPcTEIIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "PFL Austin Eblen"
+            },
+            "away": {
+                "name": "Kasanganay 2"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_pfl-austin-van-steenis-vs-eblen-live-stream"
+            },
+            {
+                "source": "golf",
+                "id": "23874"
+            }
+        ]
+    },
+    {
         "id": "hull-f-c--vs-leigh-leopards-2395971",
         "title": "Hull F.C. vs Leigh Leopards",
         "category": "rugby",
@@ -591,6 +568,27 @@
             {
                 "source": "echo",
                 "id": "hull-fc-vs-leigh-leopards-game-37322"
+            }
+        ]
+    },
+    {
+        "id": "23869",
+        "title": "BKFC 91 Naples Hunt - Pugliesi",
+        "category": "fight",
+        "date": 1784394000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "BKFC 91 Naples Hunt"
+            },
+            "away": {
+                "name": "Pugliesi"
+            }
+        },
+        "sources": [
+            {
+                "source": "golf",
+                "id": "23869"
             }
         ]
     },
@@ -1157,6 +1155,36 @@
             {
                 "source": "golf",
                 "id": "23809"
+            }
+        ]
+    },
+    {
+        "id": "ufc-fight-night-281-du-plessis-vs-usman-2468286",
+        "title": "UFC Fight Night 281 Du Plessis vs Usman",
+        "category": "fight",
+        "date": 1784408400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtTm8acsCF4gsIY4hSHzZg4vzAkFLCLmMUYVSh6vyjTWPc36YK7iYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "UFC Fight Night 281 Du Plessis"
+            },
+            "away": {
+                "name": "Usman"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-ufc-fight-night-du-plessis-vs-usman"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_ufc-fight-night-oklahoma-city-live-stream"
+            },
+            {
+                "source": "golf",
+                "id": "23868"
             }
         ]
     },
