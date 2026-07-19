@@ -1,5 +1,67 @@
 [
     {
+        "id": "ppv-event-04-fury-fc-121-ppv-004",
+        "title": "Fury FC 121",
+        "category": "other",
+        "date": 1784500200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-04-fury-fc-121-ppv-004"
+            }
+        ]
+    },
+    {
+        "id": "ppv-denver-nuggets-vs-toronto-raptors",
+        "title": "Denver Nuggets vs. Toronto Raptors",
+        "category": "basketball",
+        "date": 1784500200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEuMlZSIYSBSSQweNhAx5y2SJAqIIAMbZVVSSbnq9+kBFWIIKcjYFCRTIw7CFgSXPodCwbk4bYVJ6AmVyQOAbMgggA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Toronto Raptors",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgU9cgwDGzST3hiq3Al1ZgwufFaA"
+            },
+            "away": {
+                "name": "Denver Nuggets",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiEQp65BgGNmknvDFVuBLqzBhc+S0A"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-denver-nuggets-vs-toronto-raptors"
+            },
+            {
+                "source": "delta",
+                "id": "live_nba-summer-league_raptors-nuggets-live-streaming-592608096"
+            },
+            {
+                "source": "echo",
+                "id": "toronto-raptors-vs-denver-nuggets-basketball-504371"
+            },
+            {
+                "source": "golf",
+                "id": "23849"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-03-big-block-special-utica-rome-ppv-03",
+        "title": "Big Block Special Utica-Rome  \u2b50",
+        "category": "other",
+        "date": 1784498400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-03-big-block-special-utica-rome-ppv-03"
+            }
+        ]
+    },
+    {
         "id": "ppv-brooklyn-nets-vs-oklahoma-city-thunder",
         "title": "Brooklyn Nets vs. Oklahoma City Thunder",
         "category": "basketball",
@@ -8,12 +70,12 @@
         "popular": true,
         "teams": {
             "home": {
-                "name": "Oklahoma City Thunder",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgmdcgwDGzST3hiq3Al1ZgwufFaA"
+                "name": "Brooklyn Nets",
+                "badge": ""
             },
             "away": {
-                "name": "Brooklyn Nets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiEQR65BgGNmknvDFVuBLqzBhc+S0A"
+                "name": "Oklahoma City Thunder",
+                "badge": ""
             }
         },
         "sources": [
@@ -24,10 +86,6 @@
             {
                 "source": "delta",
                 "id": "live_nba-summer-league_thunder-nets-live-streaming-592607664"
-            },
-            {
-                "source": "echo",
-                "id": "oklahoma-city-thunder-vs-brooklyn-nets-basketball-504370"
             },
             {
                 "source": "golf",
@@ -180,29 +238,6 @@
         ]
     },
     {
-        "id": "atlanta-dream-w-vs-chicago-sky-w-basketball-494965",
-        "title": "Atlanta Dream W vs Chicago Sky W",
-        "category": "basketball",
-        "date": 1784491200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Atlanta Dream W",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIJnXIMAxs0k94YqtwJdWYMLnzWgA"
-            },
-            "away": {
-                "name": "Chicago Sky W",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIRXXIMAxs0k94YqtwJdWYMLnzWgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "atlanta-dream-w-vs-chicago-sky-w-basketball-494965"
-            }
-        ]
-    },
-    {
         "id": "atlanta-dream-vs-chicago-sky-2449120",
         "title": "Atlanta Dream vs Chicago Sky",
         "category": "basketball",
@@ -266,14 +301,6 @@
                 "id": "ppv-cincinnati-reds-vs-colorado-rockies"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_rockies-reds-live-streaming-588623328"
-            },
-            {
-                "source": "echo",
-                "id": "colorado-rockies-vs-cincinnati-reds-baseball-179503"
-            },
-            {
                 "source": "golf",
                 "id": "23862"
             }
@@ -300,10 +327,6 @@
             {
                 "source": "admin",
                 "id": "ppv-spain-vs-argentina"
-            },
-            {
-                "source": "delta",
-                "id": "live_world-cup-knockout-stage_spain-argentina-live-streaming-538194672"
             },
             {
                 "source": "echo",
@@ -334,10 +357,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-minnesota-twins-vs-chicago-cubs"
-            },
-            {
                 "source": "golf",
                 "id": "23861"
             }
@@ -361,10 +380,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-san-diego-padres-vs-kansas-city-royals"
-            },
             {
                 "source": "golf",
                 "id": "23860"
@@ -390,10 +405,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-baltimore-orioles-vs-houston-astros"
-            },
-            {
                 "source": "golf",
                 "id": "23858"
             }
@@ -418,10 +429,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-miami-marlins-vs-milwaukee-brewers"
-            },
-            {
                 "source": "golf",
                 "id": "23859"
             }
@@ -439,102 +446,6 @@
             {
                 "source": "admin",
                 "id": "ppv-world-matchplay-darts-day-1-s-2"
-            }
-        ]
-    },
-    {
-        "id": "cleveland-guardians-vs-pittsburgh-pirates-2388368",
-        "title": "Cleveland Guardians vs Pittsburgh Pirates",
-        "category": "baseball",
-        "date": 1784482800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgU2OWCQgD3EHwMgYIROavHjBYEgp9hs+tpUouYMvCJZZHplowLzFRCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Cleveland Guardians",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA"
-            },
-            "away": {
-                "name": "Pittsburgh Pirates",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "23857"
-            }
-        ]
-    },
-    {
-        "id": "atlanta-braves-vs-texas-rangers-2388371",
-        "title": "Atlanta Braves vs Texas Rangers",
-        "category": "baseball",
-        "date": 1784482500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbtn7ESIbrpB8QRmCEQnzRkDALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Atlanta Braves",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Texas Rangers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "23856"
-            }
-        ]
-    },
-    {
-        "id": "boston-red-sox-vs-tampa-bay-rays-2388370",
-        "title": "Boston Red Sox vs Tampa Bay Rays",
-        "category": "baseball",
-        "date": 1784482500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECh4gYdEBFwhuIPiFMwQic1eMaCwJBT7DZ9FGBWa278vSyzNTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Boston Red Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA"
-            },
-            "away": {
-                "name": "Tampa Bay Rays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "23855"
-            }
-        ]
-    },
-    {
-        "id": "philadelphia-phillies-vs-new-york-mets-2388361",
-        "title": "Philadelphia Phillies vs New York Mets",
-        "category": "baseball",
-        "date": 1784482500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeqFpMQlENxB8QRmCEQnzBvQWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Philadelphia Phillies",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA"
-            },
-            "away": {
-                "name": "New York Mets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "23854"
             }
         ]
     },
@@ -630,21 +541,6 @@
         ]
     },
     {
-        "id": "tour-de-france-stage-15-2447762",
-        "title": "Tour de France Stage 15",
-        "category": "other",
-        "date": 1784457900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL2nAwIRCg0gpuA9xAkQEEPpC6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-tour-de-france-stage-15"
-            }
-        ]
-    },
-    {
         "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-finals-tn-1",
         "title": "ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open Finals \ud83c\udfbe",
         "category": "tennis",
@@ -669,68 +565,6 @@
             {
                 "source": "admin",
                 "id": "ppv-the-open-championship-round-4"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-03-big-block-special-utica-rome-ppv-03",
-        "title": "Big Block Special Utica-Rome  \u2b50",
-        "category": "other",
-        "date": 1784498400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-03-big-block-special-utica-rome-ppv-03"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-04-fury-fc-121-ppv-004",
-        "title": "Fury FC 121",
-        "category": "other",
-        "date": 1784500200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-04-fury-fc-121-ppv-004"
-            }
-        ]
-    },
-    {
-        "id": "ppv-denver-nuggets-vs-toronto-raptors",
-        "title": "Denver Nuggets vs. Toronto Raptors",
-        "category": "basketball",
-        "date": 1784500200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEuMlZSIYSBSSQweNhAx5y2SJAqIIAMbZVVSSbnq9+kBFWIIKcjYFCRTIw7CFgSXPodCwbk4bYVJ6AmVyQOAbMgggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Toronto Raptors",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgU9cgwDGzST3hiq3Al1ZgwufFaA"
-            },
-            "away": {
-                "name": "Denver Nuggets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiEQp65BgGNmknvDFVuBLqzBhc+S0A"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-denver-nuggets-vs-toronto-raptors"
-            },
-            {
-                "source": "delta",
-                "id": "live_nba-summer-league_raptors-nuggets-live-streaming-592608096"
-            },
-            {
-                "source": "echo",
-                "id": "toronto-raptors-vs-denver-nuggets-basketball-504371"
-            },
-            {
-                "source": "golf",
-                "id": "23849"
             }
         ]
     },
