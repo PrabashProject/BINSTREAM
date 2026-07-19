@@ -69,21 +69,6 @@
         ]
     },
     {
-        "id": "belgian-feature-race-2409298",
-        "title": "Belgian Feature Race",
-        "category": "motor-sports",
-        "date": 1784448000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmAGIUm2CG4g+ICCFMxDIREcQwCwJBT7DZ9HSpRcwZeESyyPTLRgXmKiEEA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "gtwc-sprint-race-1-belgian-f3-feature-race-belgian-f2-feature-race-game-499954"
-            }
-        ]
-    },
-    {
         "id": "the-open-championship-final-round-2358665",
         "title": "The Open Championship Final Round",
         "category": "golf",
@@ -393,42 +378,6 @@
             {
                 "source": "golf",
                 "id": "23853"
-            }
-        ]
-    },
-    {
-        "id": "new-york-yankees-vs-los-angeles-dodgers-2388348",
-        "title": "New York Yankees vs Los Angeles Dodgers",
-        "category": "baseball",
-        "date": 1784478900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXvSQUADGCkhuIPiBMwQiM5ZAkQKAsC0x+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New York Yankees",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Los Angeles Dodgers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-los-angeles-dodgers-vs-new-york-yankees"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_yankees-dodgers-live-streaming-594259200"
-            },
-            {
-                "source": "echo",
-                "id": "new-york-yankees-vs-los-angeles-dodgers-baseball-179484"
-            },
-            {
-                "source": "golf",
-                "id": "23876"
             }
         ]
     },
@@ -1243,6 +1192,42 @@
             {
                 "source": "admin",
                 "id": "ppv-winnipeg-blue-bombers-vs-ottawa-red-blacks"
+            }
+        ]
+    },
+    {
+        "id": "new-york-yankees-vs-los-angeles-dodgers-2388348",
+        "title": "New York Yankees vs Los Angeles Dodgers",
+        "category": "baseball",
+        "date": 1784503200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXvSQUADGCkhuIPiBMwQiM5ZAkQKAsC0x+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "New York Yankees",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Los Angeles Dodgers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-los-angeles-dodgers-vs-new-york-yankees"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_yankees-dodgers-live-streaming-594259200"
+            },
+            {
+                "source": "echo",
+                "id": "new-york-yankees-vs-los-angeles-dodgers-baseball-179484"
+            },
+            {
+                "source": "golf",
+                "id": "23876"
             }
         ]
     }
