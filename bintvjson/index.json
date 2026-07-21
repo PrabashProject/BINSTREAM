@@ -26,17 +26,26 @@
         ]
     },
     {
-        "id": "tour-de-france-stage-16-2447763",
-        "title": "Tour de France Stage 16",
-        "category": "other",
-        "date": 1784629800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXgJDAZYMCBDcQU3AdMkQEECn0WCwJBT7DZ9FGBUou78vSyzPTLS6ovQhQA.webp",
+        "id": "mi-london-vs-sunrisers-leeds-2466485",
+        "title": "MI London vs Sunrisers Leeds",
+        "category": "cricket",
+        "date": 1784655000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKChAxgSEIj4huIAwakgIIEiE04zCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
         "popular": true,
-        "teams": null,
+        "teams": {
+            "home": {
+                "name": "MI London",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTMwKENzAhmmkH30gAJiAggShg2YmEYwJn1VswZeEXmjVTWmBdjREEA"
+            },
+            "away": {
+                "name": "Sunrisers Leeds",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQAEy7xo3ELr4gD61SBKHzBlAQpM+KLmDLb680faa0wjsaIhA"
+            }
+        },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-tour-de-france-stage-16"
+                "source": "echo",
+                "id": "the-hundred-men-mi-london-vs-sunrisers-leeds-game-1999754"
             }
         ]
     },
