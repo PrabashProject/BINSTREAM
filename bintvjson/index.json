@@ -1,5 +1,47 @@
 [
     {
+        "id": "live-event_demetrius-andrade-vs-douglas-ataide-live-stream",
+        "title": "Demetrius Andrade vs Douglas Ataide",
+        "category": "fight",
+        "date": 1784932200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Demetrius Andrade"
+            },
+            "away": {
+                "name": "Douglas Ataide"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_demetrius-andrade-vs-douglas-ataide-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-03-andrade-v-ataide-ev-3"
+            },
+            {
+                "source": "golf",
+                "id": "23971"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-06-senators-cup-stafford-gameev-6",
+        "title": "PPV EVENT 06: Senators Cup Stafford",
+        "category": "other",
+        "date": 1784931323000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-06-senators-cup-stafford-gameev-6"
+            }
+        ]
+    },
+    {
         "id": "milwaukee-brewers-vs-colorado-rockies-2388433",
         "title": "Milwaukee Brewers vs Colorado Rockies",
         "category": "baseball",
@@ -73,21 +115,6 @@
         ]
     },
     {
-        "id": "betfred-world-matchplay-day-7-2505694",
-        "title": "Betfred World Matchplay Day 7",
-        "category": "darts",
-        "date": 1784917800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiLz+CENxBSQJECYgmQiQ3xMFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-world-matchplay-day-7"
-            }
-        ]
-    },
-    {
         "id": "pga-tour-3m-open-day-2-pga-526234",
         "title": "PGA Tour: 3M Open Day 2 \ud83c\udfcc",
         "category": "golf",
@@ -123,48 +150,6 @@
             {
                 "source": "echo",
                 "id": "atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-06-senators-cup-stafford-gameev-6",
-        "title": "PPV EVENT 06: Senators Cup Stafford",
-        "category": "other",
-        "date": 1784931323000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-06-senators-cup-stafford-gameev-6"
-            }
-        ]
-    },
-    {
-        "id": "live-event_demetrius-andrade-vs-douglas-ataide-live-stream",
-        "title": "Demetrius Andrade vs Douglas Ataide",
-        "category": "fight",
-        "date": 1784932200000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Demetrius Andrade"
-            },
-            "away": {
-                "name": "Douglas Ataide"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_demetrius-andrade-vs-douglas-ataide-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-03-andrade-v-ataide-ev-3"
-            },
-            {
-                "source": "golf",
-                "id": "23971"
             }
         ]
     },
