@@ -1,5 +1,44 @@
 [
     {
+        "id": "2nd-practice-hungaroring-formula-1-2570",
+        "title": "2nd Practice | Hungaroring |",
+        "category": "motor-sports",
+        "date": 1784905200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "2nd-practice-hungaroring-formula-1-2570"
+            }
+        ]
+    },
+    {
+        "id": "hungarian-grand-prix-practice-1-2408172",
+        "title": "Hungarian Grand Prix Practice 1",
+        "category": "motor-sports",
+        "date": 1784905200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Hungarian Grand Prix"
+            },
+            "away": {
+                "name": "Practice 2"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-hungarian-grand-prix-practice-2"
+            },
+            {
+                "source": "golf",
+                "id": "23927"
+            }
+        ]
+    },
+    {
         "id": "liv-golf-uk-round-2-jcb-golf-country-club-game-162626",
         "title": "LIV Golf UK | ROUND 2 - JCB Golf & Country Club",
         "category": "other",
@@ -113,45 +152,6 @@
             {
                 "source": "echo",
                 "id": "newcastle-knights-vs-sydney-roosters-game-3373252"
-            }
-        ]
-    },
-    {
-        "id": "2nd-practice-hungaroring-formula-1-2570",
-        "title": "2nd Practice | Hungaroring |",
-        "category": "motor-sports",
-        "date": 1784905200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "2nd-practice-hungaroring-formula-1-2570"
-            }
-        ]
-    },
-    {
-        "id": "hungarian-grand-prix-practice-1-2408172",
-        "title": "Hungarian Grand Prix Practice 1",
-        "category": "motor-sports",
-        "date": 1784905200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Hungarian Grand Prix"
-            },
-            "away": {
-                "name": "Practice 1"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-hungarian-grand-prix-practice-2"
-            },
-            {
-                "source": "golf",
-                "id": "23926"
             }
         ]
     },
@@ -294,6 +294,31 @@
             {
                 "source": "golf",
                 "id": "23939"
+            }
+        ]
+    },
+    {
+        "id": "live-event_demetrius-andrade-vs-douglas-ataide-live-stream",
+        "title": "Demetrius Andrade vs Douglas Ataide",
+        "category": "fight",
+        "date": 1784932200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Demetrius Andrade"
+            },
+            "away": {
+                "name": "Douglas Ataide"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_demetrius-andrade-vs-douglas-ataide-live-stream"
+            },
+            {
+                "source": "golf",
+                "id": "23971"
             }
         ]
     },
