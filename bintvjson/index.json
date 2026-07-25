@@ -1,18 +1,5 @@
 [
     {
-        "id": "1st-qualifying-hungaroring-formula-1-2674",
-        "title": "1st Qualifying | Hungaroring |",
-        "category": "motor-sports",
-        "date": 1784988000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "1st-qualifying-hungaroring-formula-1-2674"
-            }
-        ]
-    },
-    {
         "id": "bolton-wanderers-vs-everton-2502567",
         "title": "Bolton Wanderers vs Everton",
         "category": "football",
@@ -76,7 +63,7 @@
                 "name": "Hungarian Grand Prix"
             },
             "away": {
-                "name": "Practice 3"
+                "name": "Qualifying"
             }
         },
         "sources": [
@@ -86,7 +73,7 @@
             },
             {
                 "source": "golf",
-                "id": "23928"
+                "id": "23929"
             }
         ]
     },
@@ -346,6 +333,30 @@
             {
                 "source": "echo",
                 "id": "ppv-event-15-ama-supercross-championship-washougal-pppv15"
+            }
+        ]
+    },
+    {
+        "id": "zbrojovka-brno-vs-sparta-prague-2497730",
+        "title": "Zbrojovka Brno vs Sparta Prague",
+        "category": "football",
+        "date": 1785002400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtOzzgYOiF4gsIY9RCmUICyWMhF+YEgpYRcxijCqUPD+UbU5Xvb0umKMoUA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Zbrojovka Brno",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwggAJsHwhuYEO20g+IY92MhViHGu0EKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Sparta Prague",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgYasL3iQQ3EH10gjOIwb0k1BCkz4ouYMtvrzRdprTAOxoiEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-zbrojovka-brno-vs-sparta-prague"
             }
         ]
     },
