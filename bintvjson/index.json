@@ -1,5 +1,31 @@
 [
     {
+        "id": "zuffa-boxing-9-berlanga-vs-butler-2483563",
+        "title": "Zuffa Boxing 9 Berlanga vs Butler",
+        "category": "fight",
+        "date": 1785099600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvDApgYEDn5YQvPSFPVTICCBQgYIRIvzAkFLCLmMUYVdo7fyjNRy2k70YN7iYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Zuffa Boxing 9 Berlanga"
+            },
+            "away": {
+                "name": "Butler"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_zuffa-boxing-09-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-zuffa-boxing-9-berlanga-vs-butler-incl-hitchins-vs-salas-game-15126217"
+            }
+        ]
+    },
+    {
         "id": "san-francisco-giants-vs-los-angeles-angels-2388458",
         "title": "San Francisco Giants vs Los Angeles Angels",
         "category": "baseball",
@@ -100,14 +126,6 @@
                 "id": "ppv-seattle-mariners-vs-texas-rangers"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_rangers-mariners-live-streaming-590946624"
-            },
-            {
-                "source": "echo",
-                "id": "texas-rangers-vs-seattle-mariners-baseball-179591"
-            },
-            {
                 "source": "golf",
                 "id": "23984"
             }
@@ -131,18 +149,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cincinnati-reds-vs-st-louis-cardinals"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_cardinals-reds-live-streaming-590946192"
-            },
-            {
-                "source": "echo",
-                "id": "stlouis-cardinals-vs-cincinnati-reds-baseball-179593"
-            },
             {
                 "source": "golf",
                 "id": "23983"
@@ -168,18 +174,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-houston-astros-vs-chicago-white-sox"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_white-sox-astros-live-streaming-590944896"
-            },
-            {
-                "source": "echo",
-                "id": "chicago-white-sox-vs-houston-astros-baseball-179601"
-            },
-            {
                 "source": "golf",
                 "id": "23982"
             }
@@ -204,18 +198,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-colorado-rockies-vs-milwaukee-brewers"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_brewers-rockies-live-streaming-590945328"
-            },
-            {
-                "source": "echo",
-                "id": "milwaukee-brewers-vs-colorado-rockies-baseball-179598"
-            },
-            {
                 "source": "golf",
                 "id": "23981"
             }
@@ -239,18 +221,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-athletics-vs-minnesota-twins"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_twins-athletics-live-streaming-590945760"
-            },
-            {
-                "source": "echo",
-                "id": "minnesota-twins-vs-athletics-baseball-179596"
-            },
             {
                 "source": "golf",
                 "id": "23980"
@@ -289,14 +259,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-kansas-city-royals-vs-detroit-tigers"
-            },
-            {
-                "source": "echo",
-                "id": "detroit-tigers-vs-kansas-city-royals-baseball-179600"
-            },
-            {
                 "source": "golf",
                 "id": "23977"
             }
@@ -320,10 +282,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-san-diego-padres-vs-miami-marlins"
-            },
             {
                 "source": "golf",
                 "id": "23979"
@@ -349,10 +307,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-los-angeles-dodgers-vs-new-york-mets"
-            },
-            {
                 "source": "golf",
                 "id": "23978"
             }
@@ -376,14 +330,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-atlanta-braves-vs-baltimore-orioles"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_orioles-braves-live-streaming-590941872"
-            },
             {
                 "source": "golf",
                 "id": "23974"
@@ -409,10 +355,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-toronto-blue-jays-vs-boston-red-sox"
-            },
-            {
                 "source": "golf",
                 "id": "23976"
             }
@@ -437,10 +379,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-chicago-cubs-vs-pittsburgh-pirates"
-            },
-            {
                 "source": "golf",
                 "id": "23975"
             }
@@ -464,10 +402,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-arizona-diamondbacks-vs-washington-nationals"
-            },
             {
                 "source": "golf",
                 "id": "23973"
@@ -495,19 +429,6 @@
             {
                 "source": "echo",
                 "id": "leeds-rhinos-vs-bradford-bulls-game-184842"
-            }
-        ]
-    },
-    {
-        "id": "uci-tour-de-france-uci-world-tour-game-13622",
-        "title": "UCI Tour de France | UCI World Tour \ud83c\udfc1",
-        "category": "other",
-        "date": 1785071700000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "uci-tour-de-france-uci-world-tour-game-13622"
             }
         ]
     },
