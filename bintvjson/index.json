@@ -1,5 +1,65 @@
 [
     {
+        "id": "san-francisco-giants-vs-los-angeles-angels-2388458",
+        "title": "San Francisco Giants vs Los Angeles Angels",
+        "category": "baseball",
+        "date": 1785096300000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMiBAQQUkKJIhuIPppAwQic+aO6JTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "San Francisco Giants",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyoATEPDC8UICCG4g+hkCYOIcOEroIUmfFFzBlN9eaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Los Angeles Angels",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-los-angeles-angels-vs-san-francisco-giants"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_giants-angels-live-streaming-590947056"
+            },
+            {
+                "source": "echo",
+                "id": "san-francisco-giants-vs-los-angeles-angels-baseball-179594"
+            },
+            {
+                "source": "golf",
+                "id": "23985"
+            }
+        ]
+    },
+    {
+        "id": "ppv-morocco-vs-kenya",
+        "title": "Morocco vs. Kenya",
+        "category": "football",
+        "date": 1785096000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBggaEiMCogUIAMYg1wkGURktILJvHAJMlcHhm1pUopDm5NLCnJyBQkU2z0whYElzKnITBuTjlhKycCM3JgoysIIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Morocco",
+                "badge": ""
+            },
+            "away": {
+                "name": "Kenya",
+                "badge": ""
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-morocco-vs-kenya"
+            }
+        ]
+    },
+    {
         "id": "ppv-world-matchplay-final",
         "title": "World Matchplay - Final",
         "category": "darts",
@@ -233,10 +293,6 @@
                 "id": "ppv-kansas-city-royals-vs-detroit-tigers"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_tigers-royals-live-streaming-590943600"
-            },
-            {
                 "source": "echo",
                 "id": "detroit-tigers-vs-kansas-city-royals-baseball-179600"
             },
@@ -269,14 +325,6 @@
                 "id": "ppv-san-diego-padres-vs-miami-marlins"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_marlins-padres-live-streaming-590944032"
-            },
-            {
-                "source": "echo",
-                "id": "miami-marlins-vs-san-diego-padres-baseball-179599"
-            },
-            {
                 "source": "golf",
                 "id": "23979"
             }
@@ -303,14 +351,6 @@
             {
                 "source": "admin",
                 "id": "ppv-los-angeles-dodgers-vs-new-york-mets"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_mets-dodgers-live-streaming-590944464"
-            },
-            {
-                "source": "echo",
-                "id": "new-york-mets-vs-los-angeles-dodgers-baseball-179597"
             },
             {
                 "source": "golf",
@@ -345,10 +385,6 @@
                 "id": "live_mlb_orioles-braves-live-streaming-590941872"
             },
             {
-                "source": "echo",
-                "id": "baltimore-orioles-vs-atlanta-braves-baseball-179603"
-            },
-            {
                 "source": "golf",
                 "id": "23974"
             }
@@ -375,14 +411,6 @@
             {
                 "source": "admin",
                 "id": "ppv-toronto-blue-jays-vs-boston-red-sox"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_red-sox-blue-jays-live-streaming-590942304"
-            },
-            {
-                "source": "echo",
-                "id": "boston-red-sox-vs-toronto-blue-jays-baseball-179602"
             },
             {
                 "source": "golf",
@@ -413,14 +441,6 @@
                 "id": "ppv-chicago-cubs-vs-pittsburgh-pirates"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_pirates-cubs-live-streaming-590942736"
-            },
-            {
-                "source": "echo",
-                "id": "pittsburgh-pirates-vs-chicago-cubs-baseball-179595"
-            },
-            {
                 "source": "golf",
                 "id": "23975"
             }
@@ -449,40 +469,8 @@
                 "id": "ppv-arizona-diamondbacks-vs-washington-nationals"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_nationals-diamondbacks-live-streaming-590943168"
-            },
-            {
-                "source": "echo",
-                "id": "washington-nationals-vs-arizona-diamondbacks-baseball-179590"
-            },
-            {
                 "source": "golf",
                 "id": "23973"
-            }
-        ]
-    },
-    {
-        "id": "tampa-bay-rays-vs-cleveland-guardians-2388456",
-        "title": "Tampa Bay Rays vs Cleveland Guardians",
-        "category": "baseball",
-        "date": 1785082500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLLOBgBA7iD18QRmCEQmTekiBQFgSCn2Gz6KMCpRc35ehtEemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Tampa Bay Rays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Cleveland Guardians",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "23972"
             }
         ]
     },
@@ -546,19 +534,6 @@
         ]
     },
     {
-        "id": "liv-golf-uk-round-4-jcb-golf-country-club-game-162626",
-        "title": "LIV Golf UK | ROUND 4 - JCB Golf & Country Club",
-        "category": "golf",
-        "date": 1785067500000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "liv-golf-uk-round-4-jcb-golf-country-club-game-162626"
-            }
-        ]
-    },
-    {
         "id": "atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1",
         "title": "ATP / WTA Tour: Generali / Estoril / Hamburg / Prague Open \ud83c\udfbe",
         "category": "tennis",
@@ -581,66 +556,6 @@
             {
                 "source": "echo",
                 "id": "formula-e-tokyo-eprix-race-tokyo-street-circuit-game-10000111"
-            }
-        ]
-    },
-    {
-        "id": "ppv-morocco-vs-kenya",
-        "title": "Morocco vs. Kenya",
-        "category": "football",
-        "date": 1785096000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBggaEiMCogUIAMYg1wkGURktILJvHAJMlcHhm1pUopDm5NLCnJyBQkU2z0whYElzKnITBuTjlhKycCM3JgoysIIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Morocco",
-                "badge": ""
-            },
-            "away": {
-                "name": "Kenya",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-morocco-vs-kenya"
-            }
-        ]
-    },
-    {
-        "id": "san-francisco-giants-vs-los-angeles-angels-2388458",
-        "title": "San Francisco Giants vs Los Angeles Angels",
-        "category": "baseball",
-        "date": 1785096300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMiBAQQUkKJIhuIPppAwQic+aO6JTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "San Francisco Giants",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyoATEPDC8UICCG4g+hkCYOIcOEroIUmfFFzBlN9eaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Los Angeles Angels",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-los-angeles-angels-vs-san-francisco-giants"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_giants-angels-live-streaming-590947056"
-            },
-            {
-                "source": "echo",
-                "id": "san-francisco-giants-vs-los-angeles-angels-baseball-179594"
-            },
-            {
-                "source": "golf",
-                "id": "23985"
             }
         ]
     },
