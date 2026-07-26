@@ -1,5 +1,23 @@
 [
     {
+        "id": "ppv-world-matchplay-final",
+        "title": "World Matchplay - Final",
+        "category": "darts",
+        "date": 1785092400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNCCBDAJJECjkiRILMCohE8YJokSUSiVhAS1h+cMnZlc9RdHkIoMIMUFs9MIWBJcAYz1CnVgdhUnpXTTAnaVCIIA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-world-matchplay-final"
+            },
+            {
+                "source": "echo",
+                "id": "world-matchplay-darts-darts-1"
+            }
+        ]
+    },
+    {
         "id": "texas-rangers-vs-seattle-mariners-2388455",
         "title": "Texas Rangers vs Seattle Mariners",
         "category": "baseball",
@@ -32,24 +50,6 @@
             {
                 "source": "golf",
                 "id": "23984"
-            }
-        ]
-    },
-    {
-        "id": "ppv-world-matchplay-final",
-        "title": "World Matchplay - Final",
-        "category": "darts",
-        "date": 1785090600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNCCBDAJJECjkiRILMCohE8YJokSUSiVhAS1h+cMnZlc9RdHkIoMIMUFs9MIWBJcAYz1CnVgdhUnpXTTAnaVCIIA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-world-matchplay-final"
-            },
-            {
-                "source": "echo",
-                "id": "world-matchplay-darts-darts-1"
             }
         ]
     },
@@ -463,30 +463,6 @@
         ]
     },
     {
-        "id": "ppv-algeria-vs-senegal",
-        "title": "Algeria vs. Senegal",
-        "category": "football",
-        "date": 1785085200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICNhAhspEMJBU5SlCCwgSq4BBABjUlvXiQiDVllT5NRPAM2aEFOQkChIpjMdhCwJLh2OhMG5OCWF9RwJgGzAgrX0IIA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Algeria",
-                "badge": ""
-            },
-            "away": {
-                "name": "Senegal",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-algeria-vs-senegal"
-            }
-        ]
-    },
-    {
         "id": "tampa-bay-rays-vs-cleveland-guardians-2388456",
         "title": "Tampa Bay Rays vs Cleveland Guardians",
         "category": "baseball",
@@ -504,10 +480,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cleveland-guardians-vs-tampa-bay-rays"
-            },
             {
                 "source": "golf",
                 "id": "23972"
@@ -535,21 +507,6 @@
             {
                 "source": "echo",
                 "id": "leeds-rhinos-vs-bradford-bulls-game-184842"
-            }
-        ]
-    },
-    {
-        "id": "tour-de-france-stage-21-2447768",
-        "title": "Tour de France Stage 21",
-        "category": "other",
-        "date": 1785072600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGCTAZVKSBQhuIPTiNGSICPpA2UBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-tour-de-france-stage-21"
             }
         ]
     },
@@ -727,6 +684,10 @@
             {
                 "source": "admin",
                 "id": "ppv-aew-redemption"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_aew-redemption-live-stream"
             }
         ]
     },
