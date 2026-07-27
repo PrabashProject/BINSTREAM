@@ -1,5 +1,18 @@
 [
     {
+        "id": "ppv-event-03-amsoil-championship-off-road-ppv-03",
+        "title": "AMSOIL Championship Off Road \u2b50",
+        "category": "other",
+        "date": 1785123900000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-03-amsoil-championship-off-road-ppv-03"
+            }
+        ]
+    },
+    {
         "id": "live-event_edgar-berlanga-vs-steven-butler-live-stream",
         "title": "Edgar Berlanga vs Steven Butler",
         "category": "fight",
@@ -21,43 +34,6 @@
             {
                 "source": "golf",
                 "id": "24003"
-            }
-        ]
-    },
-    {
-        "id": "pachuca-vs-quer-taro-2487469",
-        "title": "Pachuca vs Quer\u00e9taro",
-        "category": "football",
-        "date": 1785114360000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlhC8wvEIjJItITSBAQzIGMZAlri-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Pachuca",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIFHTBkUYPiG4g9EQyESJjIdSGWEYwJnw1st5evNEamtMFrGiIQA"
-            },
-            "away": {
-                "name": "Quer\u00e9taro",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcIevg0gd3EHx0g9JbYhx6JhGMCZ8UXMGXhF5o+01phHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-pachuca-vs-quer-taro"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-03-amsoil-championship-off-road-ppv-03",
-        "title": "AMSOIL Championship Off Road \u2b50",
-        "category": "other",
-        "date": 1785123900000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-03-amsoil-championship-off-road-ppv-03"
             }
         ]
     },
@@ -117,6 +93,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_rangers-mariners-live-streaming-590983776"
+            },
+            {
                 "source": "echo",
                 "id": "texas-rangers-vs-seattle-mariners-baseball-179605"
             },
@@ -144,6 +124,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_tigers-orioles-live-streaming-590984208"
+            },
             {
                 "source": "echo",
                 "id": "detroit-tigers-vs-baltimore-orioles-baseball-179611"
@@ -173,6 +157,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_marlins-phillies-live-streaming-590984640"
+            },
+            {
                 "source": "echo",
                 "id": "miami-marlins-vs-philadelphia-phillies-baseball-179610"
             },
@@ -200,6 +188,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_pirates-diamondbacks-live-streaming-590985072"
+            },
             {
                 "source": "echo",
                 "id": "pittsburgh-pirates-vs-arizona-diamondbacks-baseball-179608"
@@ -229,6 +221,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_nationals-blue-jays-live-streaming-590985504"
+            },
+            {
                 "source": "echo",
                 "id": "washington-nationals-vs-toronto-blue-jays-baseball-179609"
             },
@@ -256,6 +252,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_reds-guardians-live-streaming-590985936"
+            },
             {
                 "source": "echo",
                 "id": "cincinnati-reds-vs-cleveland-guardians-baseball-179612"
@@ -285,6 +285,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_mets-braves-live-streaming-590986368"
+            },
+            {
                 "source": "echo",
                 "id": "new-york-mets-vs-atlanta-braves-baseball-179604"
             },
@@ -313,6 +317,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_white-sox-yankees-live-streaming-590986800"
+            },
+            {
                 "source": "echo",
                 "id": "chicago-white-sox-vs-new-york-yankees-baseball-179613"
             },
@@ -340,6 +348,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_cardinals-cubs-live-streaming-590987232"
+            },
             {
                 "source": "echo",
                 "id": "stlouis-cardinals-vs-chicago-cubs-baseball-179606"
