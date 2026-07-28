@@ -1,33 +1,5 @@
 [
     {
-        "id": "stoke-city-vs-everton-2504486",
-        "title": "Stoke City vs Everton",
-        "category": "football",
-        "date": 1785264300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw4PBEgsISYhIgAxiBQgYslSK00spKSFnAIa4FRARSSzeJrH1ilOQsChWgtnphCwJLgeuwbk4LcTJHd0kwQKM9CCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Stoke City",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzBgkIDSjAATXCG4g+G-YZOaTEAhSZ8UXMGXhF5ou01qrRUukA"
-            },
-            "away": {
-                "name": "Everton",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzK9uYFNmAATENxAlcIRPpAgIIPiBTmCFJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-stoke-city-vs-everton"
-            },
-            {
-                "source": "echo",
-                "id": "stoke-city-vs-everton-game-8111"
-            }
-        ]
-    },
-    {
         "id": "heart-of-midlothian-vs-sturm-graz-2492399",
         "title": "Heart of Midlothian vs Sturm Graz",
         "category": "football",
@@ -48,10 +20,6 @@
             {
                 "source": "admin",
                 "id": "ppv-heart-of-midlothian-vs-sk-sturm-graz"
-            },
-            {
-                "source": "echo",
-                "id": "heart-of-midlothian-vs-sturm-graz-football-1556507"
             }
         ]
     },
@@ -93,12 +61,13 @@
         ]
     },
     {
-        "id": "ppv-2026-players-championship-25",
-        "title": "2026 Players Championship 25",
+        "id": "players-championship-25-2549723",
+        "title": "Players Championship 25",
         "category": "darts",
         "date": 1785236400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIICFKkhEiECCoSZIEiGEadyxChApgqmBrnSQczTFLH5JI-zCCRTbPTCFgSXOKNDnVllhWyMCYHhyZyspIA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFqDGABlYgSIXiCwgzh6iaNXLIFkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp",
         "popular": true,
+        "teams": null,
         "sources": [
             {
                 "source": "admin",
@@ -287,6 +256,19 @@
         ]
     },
     {
+        "id": "ppv-event-01-summer-shootout-charlotte-ppv-01",
+        "title": "Summer Shootout Charlotte \ud83d\udca5",
+        "category": "other",
+        "date": 1785279600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-01-summer-shootout-charlotte-ppv-01"
+            }
+        ]
+    },
+    {
         "id": "new-york-mets-vs-atlanta-braves-2388480",
         "title": "New York Mets vs Atlanta Braves",
         "category": "baseball",
@@ -342,15 +324,41 @@
             },
             {
                 "source": "delta",
-                "id": "live_mlb_reds-guardians-live-streaming-597204144"
+                "id": "live_mlb_reds-guardians-live-streaming-591010128"
             },
             {
                 "source": "echo",
-                "id": "cincinnati-reds-vs-cleveland-guardians-baseball-179612"
+                "id": "cincinnati-reds-vs-cleveland-guardians-baseball-179627"
             },
             {
                 "source": "golf",
                 "id": "24020"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-02-millbridge-speedway-ppv-02",
+        "title": "Millbridge Speedway \ud83d\udd25",
+        "category": "other",
+        "date": 1785280500000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-02-millbridge-speedway-ppv-02"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-03-usac-indiana-sprint-week-circle-city-ppv-03",
+        "title": "USAC Indiana Sprint Week Circle City \u2b50",
+        "category": "other",
+        "date": 1785281100000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-03-usac-indiana-sprint-week-circle-city-ppv-03"
             }
         ]
     },
