@@ -1,18 +1,15 @@
 [
     {
-        "id": "ppv-event-01-wwe-monday-night-raw-ppv-01",
-        "title": "WWE Monday Night RAW \ud83d\udca5",
-        "category": "fight",
-        "date": 1785200400000,
+        "id": "ppv-2026-players-championship-25",
+        "title": "2026 Players Championship 25",
+        "category": "darts",
+        "date": 1785236400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIICFKkhEiECCoSZIEiGEadyxChApgqmBrnSQczTFLH5JI-zCCRTbPTCFgSXOKNDnVllhWyMCYHhyZyspIA.webp",
         "popular": true,
         "sources": [
             {
-                "source": "echo",
-                "id": "ppv-event-01-wwe-monday-night-raw-ppv-01"
-            },
-            {
-                "source": "golf",
-                "id": "24019"
+                "source": "admin",
+                "id": "ppv-2026-players-championship-25"
             }
         ]
     },
@@ -45,16 +42,15 @@
         ]
     },
     {
-        "id": "ppv-2026-players-championship-25",
-        "title": "2026 Players Championship 25",
-        "category": "darts",
-        "date": 1785236400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIICFKkhEiECCoSZIEiGEadyxChApgqmBrnSQczTFLH5JI-zCCRTbPTCFgSXOKNDnVllhWyMCYHhyZyspIA.webp",
+        "id": "24019",
+        "title": "WWE Monday Night RAW",
+        "category": "fight",
+        "date": 1785196800000,
         "popular": true,
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-2026-players-championship-25"
+                "source": "golf",
+                "id": "24019"
             }
         ]
     },
@@ -164,6 +160,42 @@
             {
                 "source": "echo",
                 "id": "the-hundred-men-sunrisers-vs-super-giants-game-19993637"
+            }
+        ]
+    },
+    {
+        "id": "cincinnati-reds-vs-cleveland-guardians-2388476",
+        "title": "Cincinnati Reds vs Cleveland Guardians",
+        "category": "baseball",
+        "date": 1785260400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGPwbNgUkHu4g+ekDBCJTpg0ZAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Cincinnati Reds",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA"
+            },
+            "away": {
+                "name": "Cleveland Guardians",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-cleveland-guardians-vs-cincinnati-reds"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_reds-guardians-live-streaming-597204144"
+            },
+            {
+                "source": "echo",
+                "id": "cincinnati-reds-vs-cleveland-guardians-baseball-179612"
+            },
+            {
+                "source": "golf",
+                "id": "24020"
             }
         ]
     },
@@ -436,42 +468,6 @@
             {
                 "source": "golf",
                 "id": "24009"
-            }
-        ]
-    },
-    {
-        "id": "cincinnati-reds-vs-cleveland-guardians-2388476",
-        "title": "Cincinnati Reds vs Cleveland Guardians",
-        "category": "baseball",
-        "date": 1785280200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGPwbNgUkHu4g+ekDBCJTpg0ZAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Cincinnati Reds",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA"
-            },
-            "away": {
-                "name": "Cleveland Guardians",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cleveland-guardians-vs-cincinnati-reds"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_reds-guardians-live-streaming-597204144"
-            },
-            {
-                "source": "echo",
-                "id": "cincinnati-reds-vs-cleveland-guardians-baseball-179612"
-            },
-            {
-                "source": "golf",
-                "id": "24020"
             }
         ]
     },
