@@ -1,29 +1,24 @@
 [
     {
-        "id": "players-championship-26-2549724",
-        "title": "Players Championship 26",
-        "category": "darts",
-        "date": 1785322800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrX6heNEChC8QWECZIhqRg5ZPSWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+        "id": "richmond-tigers-vs-west-coast-eagles-australian-football-3523",
+        "title": "Richmond Tigers vs West Coast Eagles",
+        "category": "afl",
+        "date": 1785333600000,
         "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-2026-players-championship-26"
+        "teams": {
+            "home": {
+                "name": "Richmond Tigers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREEzrkGAY2bCe8MVXGEGrMGFz5DQA"
+            },
+            "away": {
+                "name": "West Coast Eagles",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRENnrkGAY2bCe8MVXGEGrMGFz5DQA"
             }
-        ]
-    },
-    {
-        "id": "shanghai-masters-snooker-pick3",
-        "title": "Shanghai Masters Snooker  \ud83c\udfb1",
-        "category": "other",
-        "date": 1785304800000,
-        "popular": true,
+        },
         "sources": [
             {
                 "source": "echo",
-                "id": "shanghai-masters-snooker-pick3"
+                "id": "richmond-tigers-vs-west-coast-eagles-australian-football-3523"
             }
         ]
     },
@@ -47,6 +42,75 @@
             {
                 "source": "echo",
                 "id": "fremantle-dockers-vs-western-bulldogs-australian-football-3519"
+            }
+        ]
+    },
+    {
+        "id": "gold-coast-suns-vs-melbourne-demons-australian-football-3520",
+        "title": "Gold Coast Suns vs Melbourne Demons",
+        "category": "afl",
+        "date": 1785333600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Gold Coast Suns",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREAGN65BgqzCe8MVXGEGrMGFz5DQA"
+            },
+            "away": {
+                "name": "Melbourne Demons",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQKeuQYBjZsJ7wxVcYQaswYXPn1A"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "gold-coast-suns-vs-melbourne-demons-australian-football-3520"
+            }
+        ]
+    },
+    {
+        "id": "hawthorn-hawks-vs-north-melbourne-kangaroos-australian-football-3521",
+        "title": "Hawthorn Hawks vs North Melbourne Kangaroos",
+        "category": "afl",
+        "date": 1785333600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Hawthorn Hawks",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQIeuQYBjZsJ7wxVcYQaswYXPn1A"
+            },
+            "away": {
+                "name": "North Melbourne Kangaroos",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREDHrkGAY2bCe8MVXGEGrMGFz5DQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "hawthorn-hawks-vs-north-melbourne-kangaroos-australian-football-3521"
+            }
+        ]
+    },
+    {
+        "id": "port-adelaide-power-vs-greater-western-sydney-giants-australian-football-3522",
+        "title": "Port Adelaide Power vs Greater Western Sydney Giants",
+        "category": "afl",
+        "date": 1785333600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Port Adelaide Power",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRGfXIMAxs2E94YquMINWYMLnwGgA"
+            },
+            "away": {
+                "name": "Greater Western Sydney Giants",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRECHrkGAY2bCe8MVXGEGrMGFz5DQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "port-adelaide-power-vs-greater-western-sydney-giants-australian-football-3522"
             }
         ]
     },
@@ -97,98 +161,6 @@
         ]
     },
     {
-        "id": "richmond-tigers-vs-west-coast-eagles-australian-football-3523",
-        "title": "Richmond Tigers vs West Coast Eagles",
-        "category": "afl",
-        "date": 1785333600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Richmond Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREEzrkGAY2bCe8MVXGEGrMGFz5DQA"
-            },
-            "away": {
-                "name": "West Coast Eagles",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRENnrkGAY2bCe8MVXGEGrMGFz5DQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "richmond-tigers-vs-west-coast-eagles-australian-football-3523"
-            }
-        ]
-    },
-    {
-        "id": "port-adelaide-power-vs-greater-western-sydney-giants-australian-football-3522",
-        "title": "Port Adelaide Power vs Greater Western Sydney Giants",
-        "category": "afl",
-        "date": 1785333600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Port Adelaide Power",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRGfXIMAxs2E94YquMINWYMLnwGgA"
-            },
-            "away": {
-                "name": "Greater Western Sydney Giants",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRECHrkGAY2bCe8MVXGEGrMGFz5DQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "port-adelaide-power-vs-greater-western-sydney-giants-australian-football-3522"
-            }
-        ]
-    },
-    {
-        "id": "hawthorn-hawks-vs-north-melbourne-kangaroos-australian-football-3521",
-        "title": "Hawthorn Hawks vs North Melbourne Kangaroos",
-        "category": "afl",
-        "date": 1785333600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Hawthorn Hawks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQIeuQYBjZsJ7wxVcYQaswYXPn1A"
-            },
-            "away": {
-                "name": "North Melbourne Kangaroos",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREDHrkGAY2bCe8MVXGEGrMGFz5DQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "hawthorn-hawks-vs-north-melbourne-kangaroos-australian-football-3521"
-            }
-        ]
-    },
-    {
-        "id": "gold-coast-suns-vs-melbourne-demons-australian-football-3520",
-        "title": "Gold Coast Suns vs Melbourne Demons",
-        "category": "afl",
-        "date": 1785333600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Gold Coast Suns",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREAGN65BgqzCe8MVXGEGrMGFz5DQA"
-            },
-            "away": {
-                "name": "Melbourne Demons",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQKeuQYBjZsJ7wxVcYQaswYXPn1A"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "gold-coast-suns-vs-melbourne-demons-australian-football-3520"
-            }
-        ]
-    },
-    {
         "id": "st-kilda-saints-vs-sydney-swans-australian-football-3524",
         "title": "St Kilda Saints vs Sydney Swans",
         "category": "afl",
@@ -208,6 +180,21 @@
             {
                 "source": "echo",
                 "id": "st-kilda-saints-vs-sydney-swans-australian-football-3524"
+            }
+        ]
+    },
+    {
+        "id": "players-championship-26-2549724",
+        "title": "Players Championship 26",
+        "category": "darts",
+        "date": 1785322800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrX6heNEChC8QWECZIhqRg5ZPSWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-2026-players-championship-26"
             }
         ]
     },
