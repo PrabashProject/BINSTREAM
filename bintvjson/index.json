@@ -1,43 +1,5 @@
 [
     {
-        "id": "ppv-one-inner-circle-24",
-        "title": "ONE Inner Circle 24",
-        "category": "fight",
-        "date": 1785497400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcYiwhEw0sBpZsIRcJAplIVePUkQNROoDGSxCBHyNiCCAilpKcrYFDzBbPTCFgSXIYdCwbk5bWTIHN3hyQOBbMgggA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-one-inner-circle-24"
-            }
-        ]
-    },
-    {
-        "id": "fremantle-football-club-vs-western-bulldogs-2495793",
-        "title": "Fremantle Football Club vs Western Bulldogs",
-        "category": "afl",
-        "date": 1785492600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMA2s+uSCG4gph-SaMhjBiUyQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Fremantle Football Club",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3B8QieinYhuIACYgIINSGMgY+kCh0EKTPlrZgy8IvNFamtMM7GiIQA"
-            },
-            "away": {
-                "name": "Western Bulldogs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhaIfiFWruIACYgIIPiFMmYxrcYIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "fremantle-dockers-vs-western-bulldogs-australian-football-3590"
-            }
-        ]
-    },
-    {
         "id": "melbourne-storm-vs-canterbury-bankstown-bulldogs-2417327",
         "title": "Melbourne Storm vs Canterbury Bankstown Bulldogs",
         "category": "rugby",
@@ -55,10 +17,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-storm-vs-bulldogs"
-            },
             {
                 "source": "echo",
                 "id": "melbourne-storm-vs-canterbury-bulldogs-game-197832"
@@ -339,20 +297,6 @@
         ]
     },
     {
-        "id": "ppv-lollapalooza-chicago-2026-channel-1",
-        "title": "Lollapalooza Chicago 2026 | Channel 1",
-        "category": "other",
-        "date": 1785528000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-lollapalooza-chicago-2026-channel-1"
-            }
-        ]
-    },
-    {
         "id": "ppv-lollapalooza-chicago-2026-channel-2",
         "title": "Lollapalooza Chicago 2026 | Channel 2",
         "category": "other",
@@ -363,6 +307,20 @@
             {
                 "source": "admin",
                 "id": "ppv-lollapalooza-chicago-2026-channel-2"
+            }
+        ]
+    },
+    {
+        "id": "ppv-lollapalooza-chicago-2026-channel-1",
+        "title": "Lollapalooza Chicago 2026 | Channel 1",
+        "category": "other",
+        "date": 1785528000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-lollapalooza-chicago-2026-channel-1"
             }
         ]
     },
