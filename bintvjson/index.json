@@ -1,5 +1,31 @@
 [
     {
+        "id": "ppv-wwe-summer-slam-night-2",
+        "title": "WWE SummerSlam | Night 2",
+        "category": "fight",
+        "date": 1785708000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-wwe-summer-slam-night-2"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_wwe-summerslam-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-01-wwe-summerslam-ppv-01"
+            },
+            {
+                "source": "golf",
+                "id": "24110"
+            }
+        ]
+    },
+    {
         "id": "san-diego-padres-vs-san-francisco-giants-2388556",
         "title": "San Diego Padres vs San Francisco Giants",
         "category": "baseball",
@@ -108,20 +134,6 @@
         ]
     },
     {
-        "id": "ppv-lollapalooza-chicago-2026-channel-1",
-        "title": "Lollapalooza Chicago 2026 | Channel 1",
-        "category": "other",
-        "date": 1785700800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-lollapalooza-chicago-2026-channel-1"
-            }
-        ]
-    },
-    {
         "id": "ppv-lollapalooza-chicago-2026-channel-2",
         "title": "Lollapalooza Chicago 2026 | Channel 2",
         "category": "other",
@@ -132,6 +144,20 @@
             {
                 "source": "admin",
                 "id": "ppv-lollapalooza-chicago-2026-channel-2"
+            }
+        ]
+    },
+    {
+        "id": "ppv-lollapalooza-chicago-2026-channel-1",
+        "title": "Lollapalooza Chicago 2026 | Channel 1",
+        "category": "other",
+        "date": 1785700800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-lollapalooza-chicago-2026-channel-1"
             }
         ]
     },
@@ -168,29 +194,6 @@
         ]
     },
     {
-        "id": "portland-fire-w-vs-los-angeles-sparks-w-basketball-494992",
-        "title": "Portland Fire W vs Los Angeles Sparks W",
-        "category": "basketball",
-        "date": 1785699000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Portland Fire W",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IAMYgiIGBvrkGy5pJ7wxVbgS6swYXPmtA"
-            },
-            "away": {
-                "name": "Los Angeles Sparks W",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIEPXIMAxs0k94YqtwJdWYMLnzWgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "portland-fire-w-vs-los-angeles-sparks-w-basketball-494992"
-            }
-        ]
-    },
-    {
         "id": "portland-fire-vs-los-angeles-sparks-2469380",
         "title": "Portland Fire vs Los Angeles Sparks",
         "category": "basketball",
@@ -211,10 +214,6 @@
             {
                 "source": "admin",
                 "id": "ppv-los-angeles-sparks-vs-portland-fire"
-            },
-            {
-                "source": "delta",
-                "id": "live_wnba_fire-sparks-live-streaming-524061792"
             }
         ]
     },
@@ -239,14 +238,6 @@
             {
                 "source": "admin",
                 "id": "ppv-milwaukee-brewers-vs-los-angeles-angels"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_angels-brewers-live-streaming-591281424"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-angels-vs-milwaukee-brewers-baseball-179686"
             },
             {
                 "source": "golf",
@@ -277,14 +268,6 @@
                 "id": "ppv-kansas-city-royals-vs-colorado-rockies"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_rockies-royals-live-streaming-591280992"
-            },
-            {
-                "source": "echo",
-                "id": "colorado-rockies-vs-kansas-city-royals-baseball-179694"
-            },
-            {
                 "source": "golf",
                 "id": "24091"
             }
@@ -309,18 +292,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-new-york-yankees-vs-chicago-cubs"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_cubs-yankees-live-streaming-591280560"
-            },
-            {
-                "source": "echo",
-                "id": "chicago-cubs-vs-new-york-yankees-baseball-179697"
-            },
-            {
                 "source": "golf",
                 "id": "24090"
             }
@@ -344,18 +315,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-texas-rangers-vs-houston-astros"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_astros-rangers-live-streaming-591280128"
-            },
-            {
-                "source": "echo",
-                "id": "houston-astros-vs-texas-rangers-baseball-179693"
-            },
             {
                 "source": "golf",
                 "id": "24089"
@@ -394,18 +353,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-pittsburgh-pirates-vs-cincinnati-reds"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_reds-pirates-live-streaming-591278400"
-            },
-            {
-                "source": "echo",
-                "id": "cincinnati-reds-vs-pittsburgh-pirates-baseball-179696"
-            },
-            {
                 "source": "golf",
                 "id": "24088"
             }
@@ -430,16 +377,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-arizona-diamondbacks-vs-cleveland-guardians"
-            },
-            {
                 "source": "delta",
                 "id": "live_mlb_guardians-diamondbacks-live-streaming-591278832"
-            },
-            {
-                "source": "echo",
-                "id": "cleveland-guardians-vs-arizona-diamondbacks-baseball-179695"
             },
             {
                 "source": "golf",
@@ -466,10 +405,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-miami-marlins-vs-new-york-mets"
-            },
-            {
                 "source": "golf",
                 "id": "24087"
             }
@@ -493,10 +428,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-chicago-white-sox-vs-tampa-bay-rays"
-            },
             {
                 "source": "golf",
                 "id": "24086"
@@ -522,10 +453,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-st-louis-cardinals-vs-toronto-blue-jays"
-            },
-            {
                 "source": "golf",
                 "id": "24084"
             }
@@ -550,10 +477,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-washington-nationals-vs-atlanta-braves"
-            },
-            {
                 "source": "golf",
                 "id": "24083"
             }
@@ -577,18 +500,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-philadelphia-phillies-vs-baltimore-orioles"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_orioles-phillies-live-streaming-591277536"
-            },
-            {
-                "source": "echo",
-                "id": "baltimore-orioles-vs-philadelphia-phillies-baseball-179698"
-            },
             {
                 "source": "golf",
                 "id": "24082"
@@ -629,28 +540,6 @@
             {
                 "source": "admin",
                 "id": "ppv-london-warriors-vs-berlin-thunder"
-            }
-        ]
-    },
-    {
-        "id": "ppv-wwe-summer-slam-night-2",
-        "title": "WWE SummerSlam | Night 2",
-        "category": "fight",
-        "date": 1785708000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjAaEaSBQgAxuOnAIIKbKohtMHdnkgjehTFJKQ65SSXmjw7CnKyBQkU2z0whYElyKnITBuTlkHMicCSXJgtVI1IA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-wwe-summer-slam-night-2"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_wwe-summerslam-live-stream"
-            },
-            {
-                "source": "golf",
-                "id": "24110"
             }
         ]
     },
@@ -698,6 +587,10 @@
             {
                 "source": "admin",
                 "id": "ppv-am-rica-vs-santos"
+            },
+            {
+                "source": "delta",
+                "id": "live_liga-mx-apertura_america-santos-live-streaming-598449168"
             }
         ]
     },
