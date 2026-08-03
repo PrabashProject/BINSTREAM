@@ -1,41 +1,5 @@
 [
     {
-        "id": "ppv-event-09-husets-late-models-ppv-09",
-        "title": "Husets Late Models",
-        "category": "other",
-        "date": 1785716700000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-09-husets-late-models-ppv-09"
-            }
-        ]
-    },
-    {
-        "id": "golden-state-valkyries-w-vs-toronto-tempo-w-basketball-494994",
-        "title": "Golden State Valkyries W vs Toronto Tempo W",
-        "category": "basketball",
-        "date": 1785717000000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Golden State Valkyries W",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IAMYhEVEABN65BsuaSe8MVW4EurMGFz4bQA"
-            },
-            "away": {
-                "name": "Toronto Tempo W",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IAMYg1qmPXINlzST3hiq3Al1ZgwufFaA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "golden-state-valkyries-w-vs-toronto-tempo-w-basketball-494994"
-            }
-        ]
-    },
-    {
         "id": "golden-state-valkyries-vs-toronto-tempo-2449323",
         "title": "Golden State Valkyries vs Toronto Tempo",
         "category": "basketball",
@@ -56,42 +20,19 @@
             {
                 "source": "admin",
                 "id": "ppv-toronto-tempo-vs-golden-state-valkyries"
-            },
-            {
-                "source": "delta",
-                "id": "live_wnba_valkyries-tempo-live-streaming-524062656"
             }
         ]
     },
     {
-        "id": "toluca-vs-necaxa-2487478",
-        "title": "Toluca vs Necaxa",
-        "category": "football",
-        "date": 1785718800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtWDSQMEJvqJeILCFMQQ53SR02sLJBTvtR4lGFUoe78o01jP+KzAYO7iYhBAA.webp",
+        "id": "ppv-event-09-husets-late-models-ppv-09",
+        "title": "Husets Late Models",
+        "category": "other",
+        "date": 1785716700000,
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Toluca",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgAJiCh8wq1dxAlcIRHuMh9IdQQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Necaxa",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLC96ABhApSIbiD76thgzgghEjCkz7a2YMvCLzR2prTD2xoiEA"
-            }
-        },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-toluca-vs-necaxa"
-            },
-            {
-                "source": "delta",
-                "id": "live_liga-mx-apertura_toluca-necaxa-live-streaming-598449600"
-            },
-            {
                 "source": "echo",
-                "id": "toluca-vs-necaxa-football-1550920"
+                "id": "ppv-event-09-husets-late-models-ppv-09"
             }
         ]
     },
@@ -118,6 +59,10 @@
                 "id": "ppv-celtic-vs-dundee"
             },
             {
+                "source": "delta",
+                "id": "live_premiership_celtic-dundee-live-streaming-598622832"
+            },
+            {
                 "source": "echo",
                 "id": "celtic-vs-dundee-football-1556633"
             }
@@ -141,6 +86,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_phillies-nationals-live-streaming-591319440"
+            },
             {
                 "source": "echo",
                 "id": "philadelphia-phillies-vs-washington-nationals-baseball-179702"
@@ -216,6 +165,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_yankees-cardinals-live-streaming-591319872"
+            },
+            {
                 "source": "echo",
                 "id": "new-york-yankees-vs-stlouis-cardinals-baseball-179703"
             },
@@ -243,6 +196,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_brewers-pirates-live-streaming-591320304"
+            },
             {
                 "source": "echo",
                 "id": "milwaukee-brewers-vs-pittsburgh-pirates-baseball-179705"
