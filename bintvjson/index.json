@@ -1,14 +1,25 @@
 [
     {
-        "id": "atp-wta-masters-1000-tn-1",
-        "title": "ATP / WTA Masters 1000  \ud83c\udfbe",
-        "category": "other",
-        "date": 1785769200000,
+        "id": "welsh-fire-vs-southern-brave-2466503",
+        "title": "Welsh Fire vs Southern Brave",
+        "category": "cricket",
+        "date": 1785778200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELxkpcYXmA0g+hkFJAQQJENpwhcBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
         "popular": true,
+        "teams": {
+            "home": {
+                "name": "Welsh Fire",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQKYEmBhcqkNxAATPSV0HEpmCGWEYwJnw1swZeEXmiNTWmBdjREEA"
+            },
+            "away": {
+                "name": "Southern Brave",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADEMHiBDAkIbqoMATEBBAkDfEMYmENTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
         "sources": [
             {
                 "source": "echo",
-                "id": "atp-wta-masters-1000-tn-1"
+                "id": "the-hundred-men-welsh-fire-vs-southern-brave-game-1999754"
             }
         ]
     },
@@ -57,6 +68,19 @@
             {
                 "source": "admin",
                 "id": "ppv-djurg-rden-vs-v-ster-s-sk"
+            }
+        ]
+    },
+    {
+        "id": "atp-wta-masters-1000-tn-1",
+        "title": "ATP / WTA Masters 1000  \ud83c\udfbe",
+        "category": "other",
+        "date": 1785769200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "atp-wta-masters-1000-tn-1"
             }
         ]
     },
