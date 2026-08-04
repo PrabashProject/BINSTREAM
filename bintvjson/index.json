@@ -1,31 +1,14 @@
 [
     {
-        "id": "ppv-event-01-wwe-monday-night-raw-ppv-01",
-        "title": "WWE Monday Night RAW \ud83d\udca5",
+        "id": "24126",
+        "title": "WWE Monday Night RAW",
         "category": "fight",
-        "date": 1785805200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-01-wwe-monday-night-raw-ppv-01"
-            },
-            {
-                "source": "golf",
-                "id": "24126"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-03-ama-loretta-lynn-natl-mx-championship-ppv-03",
-        "title": "AMA Loretta Lynn Nat'l MX Championship  \u2b50",
-        "category": "other",
         "date": 1785801600000,
         "popular": true,
         "sources": [
             {
-                "source": "echo",
-                "id": "ppv-event-03-ama-loretta-lynn-natl-mx-championship-ppv-03"
+                "source": "golf",
+                "id": "24126"
             }
         ]
     },
@@ -50,6 +33,10 @@
             {
                 "source": "admin",
                 "id": "ppv-ama-motocross-championship-at-loretta-lynn-s-day-1"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-01-ama-loretta-lynn-natl-mx-championship-ppv-01"
             }
         ]
     },
@@ -143,34 +130,6 @@
             {
                 "source": "echo",
                 "id": "union-st-gilloise-vs-bodoglimt-football-1598825"
-            }
-        ]
-    },
-    {
-        "id": "sparta-prague-vs-lyon-2544172",
-        "title": "Sparta Prague vs Lyon",
-        "category": "football",
-        "date": 1785866400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDGARsIMlRAoRskCpIhpiecJABjEPPikVILKWA0NIYVP221hqov5hBIptnphCwJLh2KhF1ZpazJFAmBDMBcpMwggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Sparta Prague",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgYasL3iQQ3EH10gjOIwb0k1BCkz4ouYMtvrzRdprTAOxoiEA"
-            },
-            "away": {
-                "name": "Lyon",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lhgABhAoQfHSG4gAJiBJGtIRDhAgIJghSZ8UXMGXhF5o501phXY0QggA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-sparta-prague-vs-lyon"
-            },
-            {
-                "source": "echo",
-                "id": "sparta-praha-vs-lyon-football-1598826"
             }
         ]
     },
