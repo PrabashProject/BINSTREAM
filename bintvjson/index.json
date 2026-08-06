@@ -1,5 +1,18 @@
 [
     {
+        "id": "wta-toronto-atp-montreal-tn-1",
+        "title": "WTA Toronto / ATP Montreal  \ud83c\udfbe",
+        "category": "other",
+        "date": 1786028400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "wta-toronto-atp-montreal-tn-1"
+            }
+        ]
+    },
+    {
         "id": "ppv-ama-motocross-championship-at-loretta-lynn-s-day-3",
         "title": "AMA Motocross Championship at Loretta Lynn's - Day 3",
         "category": "motor-sports",
@@ -28,39 +41,26 @@
         ]
     },
     {
-        "id": "wta-toronto-atp-montreal-tn-1",
-        "title": "WTA Toronto / ATP Montreal  \ud83c\udfbe",
-        "category": "other",
-        "date": 1786028400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "wta-toronto-atp-montreal-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "ppv-ku-ps-kuopio-vs-csu-craiova",
-        "title": "KuPS Kuopio vs. CSU Craiova",
+        "id": "ppv-jagiellonia-bialystok-vs-rangers",
+        "title": "Jagiellonia Bialystok vs. Rangers",
         "category": "football",
-        "date": 1786028400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBghhwCCHnCQcqShApgiGmRkkQ8EXpABjDUvEGpMqtPO7Eukuv5hBIptnphCwJLiPqhF1YINzJ1Ag1yF1lSWSA.webp",
+        "date": 1786032000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCEQSQILMAjAqM5YjllhIFLPkglMiTGwgSM4PDPasIDYkSHe5BQKEim2emELAkuAMYoXMG5OBWFSegIzciD5cIggA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "KuPS Kuopio",
+                "name": "Jagiellonia Bialystok",
                 "badge": ""
             },
             "away": {
-                "name": "CSU Craiova",
+                "name": "Rangers",
                 "badge": ""
             }
         },
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-ku-ps-kuopio-vs-csu-craiova"
+                "id": "ppv-jagiellonia-bialystok-vs-rangers"
             }
         ]
     },
@@ -113,30 +113,6 @@
             {
                 "source": "echo",
                 "id": "paide-vs-rapid-vienna-football-1607591"
-            }
-        ]
-    },
-    {
-        "id": "cfr-cluj-vs-troms--2554873",
-        "title": "CFR Cluj vs Troms\u00f8",
-        "category": "football",
-        "date": 1786033800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBAxWnMCGDSQvEFk0gSZi4mpaTLJBSwi5jFGFUoe78o2pzP+Dpg7uJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "CFR Cluj",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCruYMkmAATMNpDcQJEDBB9VIFAaNmQ8AhSZ8UXDeXrzRLprTAaxohBAA"
-            },
-            "away": {
-                "name": "Troms\u00f8",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplo4c9XmBDcQfEABMQEA0dM4SIFAQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cfr-cluj-napoca-vs-tromso"
             }
         ]
     },
