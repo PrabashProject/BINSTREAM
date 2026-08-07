@@ -20,38 +20,10 @@
             {
                 "source": "admin",
                 "id": "ppv-ama-motocross-championship-at-loretta-lynn-s-day-4"
-            }
-        ]
-    },
-    {
-        "id": "bayern-munich-vs-aston-villa-2467937",
-        "title": "Bayern Munich vs Aston Villa",
-        "category": "football",
-        "date": 1786104000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEDBBUQiAMYSQJECmDwRM0sAikQs9duGKpqkKawLzhrNimndElfzCCRTbPTCFgSXLJVDnVgNNFQJVcmctTQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Bayern Munich",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQvVgIAModSD56AJiBQhjaiHsYUmfFFzBl4ReaPtNaYR2NEQgA"
-            },
-            "away": {
-                "name": "Aston Villa",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS70cAEzDgIIdSF4gsIYyRAoQiGBeNmCFfAJQ8wZeEQVinD+mBfixEEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-bayern-munich-vs-aston-villa"
-            },
-            {
-                "source": "delta",
-                "id": "live_club-friendly-games_aston-villa-bayern-live-streaming-600042816"
             },
             {
                 "source": "echo",
-                "id": "bayern-munchen-vs-aston-villa-game-45151"
+                "id": "ppv-event-05-ama-loretta-lynn-natl-mx-championship-ppv-05"
             }
         ]
     },
@@ -102,6 +74,10 @@
             {
                 "source": "admin",
                 "id": "ppv-fulham-vs-crystal-palace"
+            },
+            {
+                "source": "delta",
+                "id": "live_club-friendly-games_fulham-crystal-palace-live-streaming-600244992"
             }
         ]
     },
@@ -149,6 +125,10 @@
             {
                 "source": "admin",
                 "id": "ppv-wolverhampton-wanderers-vs-port-vale"
+            },
+            {
+                "source": "delta",
+                "id": "live_efl-cup_wolves-port-vale-live-streaming-600219504"
             }
         ]
     },
@@ -337,6 +317,10 @@
                 "id": "live-event_pfl-charlotte-battle-vs-rosta-live-stream"
             },
             {
+                "source": "echo",
+                "id": "ppv-event-02-pfl-battle-v-rosta-ppv-02"
+            },
+            {
                 "source": "golf",
                 "id": "95"
             }
@@ -451,29 +435,6 @@
         ]
     },
     {
-        "id": "connecticut-sun-w-vs-phoenix-mercury-w-basketball-495006",
-        "title": "Connecticut Sun W vs Phoenix Mercury W",
-        "category": "basketball",
-        "date": 1786145400000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Connecticut Sun W",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmICPXIMAxs0k94YqtwJdWYMLnzWgA"
-            },
-            "away": {
-                "name": "Phoenix Mercury W",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiADGy+uQarmknvDFVuBLqzBhc+S0A"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "connecticut-sun-w-vs-phoenix-mercury-w-basketball-495006"
-            }
-        ]
-    },
-    {
         "id": "washington-mystics-w-vs-atlanta-dream-w-basketball-495007",
         "title": "Washington Mystics W vs Atlanta Dream W",
         "category": "basketball",
@@ -493,6 +454,29 @@
             {
                 "source": "echo",
                 "id": "washington-mystics-w-vs-atlanta-dream-w-basketball-495007"
+            }
+        ]
+    },
+    {
+        "id": "connecticut-sun-w-vs-phoenix-mercury-w-basketball-495006",
+        "title": "Connecticut Sun W vs Phoenix Mercury W",
+        "category": "basketball",
+        "date": 1786145400000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Connecticut Sun W",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmICPXIMAxs0k94YqtwJdWYMLnzWgA"
+            },
+            "away": {
+                "name": "Phoenix Mercury W",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiADGy+uQarmknvDFVuBLqzBhc+S0A"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "connecticut-sun-w-vs-phoenix-mercury-w-basketball-495006"
             }
         ]
     },
@@ -691,6 +675,19 @@
             {
                 "source": "golf",
                 "id": "68"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-11-lucas-oil-north-south-100-florence-ppv-11",
+        "title": "Lucas Oil North South 100 Florence",
+        "category": "other",
+        "date": 1786146300000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-11-lucas-oil-north-south-100-florence-ppv-11"
             }
         ]
     }
