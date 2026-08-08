@@ -1,5 +1,39 @@
 [
     {
+        "id": "ufc-fight-night-284-gamrot-vs-salkilld-2478616",
+        "title": "UFC Fight Night 284 Gamrot vs Salkilld",
+        "category": "fight",
+        "date": 1786222800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFoQQZLDoYheIPSB2mQ0wyBjXjLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "UFC Fight Night 284 Gamrot"
+            },
+            "away": {
+                "name": "Salkilld"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-ufc-fight-night-gamrot-vs-salkilld"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_ufc-fight-night-gamrot-vs-salkilld-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-01-ufc-fight-night-gamrot-v-salkilld-ppv-01"
+            },
+            {
+                "source": "golf",
+                "id": "174"
+            }
+        ]
+    },
+    {
         "id": "new-england-revolution-vs-houston-dynamo-2406738",
         "title": "New England Revolution vs Houston Dynamo",
         "category": "football",
@@ -238,58 +272,6 @@
         ]
     },
     {
-        "id": "troy-williamson-vs-callum-simpson-2-2558796",
-        "title": "Troy Williamson vs Callum Simpson 2",
-        "category": "fight",
-        "date": 1786212000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYG5aQhD7eILPpAkT00yEQpTLJBSwi5jFGFUoeb8o2pyP+VmAwN3ExCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Troy Williamson"
-            },
-            "away": {
-                "name": "Callum Simpson 2"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_troy-williamson-vs-callum-simpson-live-stream"
-            },
-            {
-                "source": "golf",
-                "id": "100"
-            }
-        ]
-    },
-    {
-        "id": "zuffa-boxing-10-mckenna-vs-oliha-2483556",
-        "title": "Zuffa Boxing 10 McKenna vs Oliha",
-        "category": "fight",
-        "date": 1786212000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmLQhag+vhC8QWECZIGQ0kBAsgYIeCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Zuffa Boxing 10 McKenna"
-            },
-            "away": {
-                "name": "Oliha"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-05-mckenna-v-oliha-ppv-05"
-            },
-            {
-                "source": "golf",
-                "id": "99"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-06-apfc-ifl-3-ppv-06",
         "title": "APFC IFL 3",
         "category": "other",
@@ -349,44 +331,6 @@
             {
                 "source": "admin",
                 "id": "ppv-ama-motocross-championship-at-loretta-lynn-s-day-5"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-09-ama-loretta-lynn-mx-championship-ppv-09"
-            }
-        ]
-    },
-    {
-        "id": "ufc-fight-night-284-gamrot-vs-salkilld-2478616",
-        "title": "UFC Fight Night 284 Gamrot vs Salkilld",
-        "category": "fight",
-        "date": 1786222800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFoQQZLDoYheIPSB2mQ0wyBjXjLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "UFC Fight Night 284 Gamrot"
-            },
-            "away": {
-                "name": "Salkilld"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-ufc-fight-night-gamrot-vs-salkilld"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_ufc-fight-night-gamrot-vs-salkilld-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-01-ufc-fight-night-gamrot-v-salkilld-ppv-01"
-            },
-            {
-                "source": "golf",
-                "id": "174"
             }
         ]
     },
