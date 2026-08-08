@@ -1,5 +1,52 @@
 [
     {
+        "id": "argentina-rugby-vs-south-africa-rugby-2496225",
+        "title": "Argentina Rugby vs South Africa Rugby",
+        "category": "rugby",
+        "date": 1786215600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Argentina Rugby",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLBIwolCBggd3EABMdRiAZCI9OFAQpM+KLuvL15G4E1ph1Y0RCA"
+            },
+            "away": {
+                "name": "South Africa Rugby",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIEiG4g+IegBNN23IZDGUIA6YgEKTPii5gy8IvNEOmtME7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "argentina-vs-south-africa-rugby-53784"
+            }
+        ]
+    },
+    {
+        "id": "montreal-alouettes-vs-edmonton-elks-2432570",
+        "title": "Montreal Alouettes vs Edmonton Elks",
+        "category": "american-football",
+        "date": 1786215600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRFBjMQ3WDpBSQJEBFwg+IRCAMgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Montreal Alouettes",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24gAJhXlZYIVWtwhDJEMeMQDaghSZ8UXMGXhF5ou01pgHY0RCA"
+            },
+            "away": {
+                "name": "Edmonton Elks",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiUzMNxB9cILQBMQiGCBSrdJnIwpM+6tmDLwi8tcCa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-edmonton-elks-vs-montreal-alouettes"
+            }
+        ]
+    },
+    {
         "id": "troy-williamson-vs-callum-simpson-2-2558796",
         "title": "Troy Williamson vs Callum Simpson 2",
         "category": "fight",
@@ -149,14 +196,6 @@
             {
                 "source": "admin",
                 "id": "ppv-colchester-united-vs-southampton"
-            },
-            {
-                "source": "delta",
-                "id": "live_efl-cup_colchester-southampton-live-streaming-601001856"
-            },
-            {
-                "source": "echo",
-                "id": "colchester-vs-southampton-football-1567398"
             }
         ]
     },
@@ -181,10 +220,6 @@
             {
                 "source": "admin",
                 "id": "ppv-rotherham-united-vs-west-bromwich-albion"
-            },
-            {
-                "source": "echo",
-                "id": "rotherham-vs-west-brom-football-1567412"
             }
         ]
     },
@@ -263,53 +298,6 @@
             {
                 "source": "echo",
                 "id": "snooker-china-open-pick3"
-            }
-        ]
-    },
-    {
-        "id": "argentina-rugby-vs-south-africa-rugby-2496225",
-        "title": "Argentina Rugby vs South Africa Rugby",
-        "category": "rugby",
-        "date": 1786215600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Argentina Rugby",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLBIwolCBggd3EABMdRiAZCI9OFAQpM+KLuvL15G4E1ph1Y0RCA"
-            },
-            "away": {
-                "name": "South Africa Rugby",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIEiG4g+IegBNN23IZDGUIA6YgEKTPii5gy8IvNEOmtME7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "echo",
-                "id": "argentina-vs-south-africa-rugby-53784"
-            }
-        ]
-    },
-    {
-        "id": "montreal-alouettes-vs-edmonton-elks-2432570",
-        "title": "Montreal Alouettes vs Edmonton Elks",
-        "category": "american-football",
-        "date": 1786215600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRFBjMQ3WDpBSQJEBFwg+IRCAMgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Montreal Alouettes",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24gAJhXlZYIVWtwhDJEMeMQDaghSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Edmonton Elks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiUzMNxB9cILQBMQiGCBSrdJnIwpM+6tmDLwi8tcCa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-edmonton-elks-vs-montreal-alouettes"
             }
         ]
     },
