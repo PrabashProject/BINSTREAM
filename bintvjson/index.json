@@ -217,14 +217,6 @@
                 "id": "ppv-milwaukee-brewers-vs-san-diego-padres"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_padres-brewers-live-streaming-591660720"
-            },
-            {
-                "source": "echo",
-                "id": "san-diego-padres-vs-milwaukee-brewers-baseball-179794"
-            },
-            {
                 "source": "golf",
                 "id": "180"
             }
@@ -293,17 +285,12 @@
         ]
     },
     {
-        "id": "ppv-wwe-monday-night-raw",
-        "title": "WWE Monday Night RAW",
+        "id": "live-event_monday-night-raw-live-stream",
+        "title": "Monday Night Raw",
         "category": "fight",
         "date": 1786406400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCohEiGlJTAIIYcuCIJWNSCVZJpEJt0SammsMUGQIYFMS6IC-mEEim2emELAkuAMYKhZ1YIVzIFAjVyZ0VSRSA.webp",
         "popular": true,
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-wwe-monday-night-raw"
-            },
             {
                 "source": "delta",
                 "id": "live-event_monday-night-raw-live-stream"
@@ -315,30 +302,6 @@
             {
                 "source": "golf",
                 "id": "195"
-            }
-        ]
-    },
-    {
-        "id": "atlanta-dream-vs-toronto-tempo-2449325",
-        "title": "Atlanta Dream vs Toronto Tempo",
-        "category": "basketball",
-        "date": 1786406400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMlnHB4wCCAjYQSkiCwiQMhXIDG8kFSkrEBxHKUwNIbbPUqyJFOQUChIptnphCwJLm2OhMG5OBWFSegJpciCbMgggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Atlanta Dream",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7ReSCgAYQ3EHxAxcekCWMATEChMEKTPii5gy8IvNEOmtME7GiIQA"
-            },
-            "away": {
-                "name": "Toronto Tempo",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxCUw3MCjBIeIbiD4GQxnCWMhEEAwQpM+KLmDLwi80Q6a0wTsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-toronto-tempo-vs-atlanta-dream"
             }
         ]
     },
@@ -514,6 +477,19 @@
         ]
     },
     {
+        "id": "wta-toronto-atp-montreal-tn-1",
+        "title": "WTA Toronto / ATP Montreal  \ud83c\udfbe",
+        "category": "other",
+        "date": 1786478400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "wta-toronto-atp-montreal-tn-1"
+            }
+        ]
+    },
+    {
         "id": "detroit-tigers-vs-cleveland-guardians-2388677",
         "title": "Detroit Tigers vs Cleveland Guardians",
         "category": "baseball",
@@ -531,6 +507,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-cleveland-guardians-vs-detroit-tigers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_tigers-guardians-live-streaming-593229744"
+            },
             {
                 "source": "echo",
                 "id": "detroit-tigers-vs-cleveland-guardians-baseball-179813"
@@ -560,6 +544,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-pittsburgh-pirates-vs-miami-marlins"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_marlins-pirates-live-streaming-593230176"
+            },
+            {
                 "source": "echo",
                 "id": "miami-marlins-vs-pittsburgh-pirates-baseball-179811"
             },
@@ -587,6 +579,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-chicago-cubs-vs-washington-nationals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_nationals-cubs-live-streaming-593230608"
+            },
             {
                 "source": "echo",
                 "id": "washington-nationals-vs-chicago-cubs-baseball-179810"
@@ -630,6 +630,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-seattle-mariners-vs-new-york-yankees"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_yankees-mariners-live-streaming-593231040"
+            },
+            {
                 "source": "echo",
                 "id": "new-york-yankees-vs-seattle-mariners-baseball-179809"
             },
@@ -658,6 +666,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-boston-red-sox-vs-toronto-blue-jays"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_blue-jays-red-sox-live-streaming-593231472"
+            },
+            {
                 "source": "echo",
                 "id": "toronto-blue-jays-vs-boston-red-sox-baseball-179805"
             },
@@ -685,6 +701,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-new-york-mets-vs-atlanta-braves"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_braves-mets-live-streaming-593231904"
+            },
             {
                 "source": "echo",
                 "id": "atlanta-braves-vs-new-york-mets-baseball-179815"
@@ -783,6 +807,34 @@
         ]
     },
     {
+        "id": "indiana-fever-vs-new-york-liberty-2449161",
+        "title": "Indiana Fever vs New York Liberty",
+        "category": "basketball",
+        "date": 1786491000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELSQ9BIEHxDcQUkCQMgU53SAhn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Indiana Fever",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow4GCCgoQibiBIHcRkCAAmITTj4EKTG1zBl4ReaJTAmtME7GiIQA"
+            },
+            "away": {
+                "name": "New York Liberty",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTwwKEKPAgQ3EHxAxc+zSZ0GJhGMCZ8UXMGTX15o+01phHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-new-york-liberty-vs-indiana-fever"
+            },
+            {
+                "source": "delta",
+                "id": "live_wnba_fever-liberty-live-streaming-524075616"
+            }
+        ]
+    },
+    {
         "id": "chicago-white-sox-vs-cincinnati-reds-2388678",
         "title": "Chicago White Sox vs Cincinnati Reds",
         "category": "baseball",
@@ -800,6 +852,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-cincinnati-reds-vs-chicago-white-sox"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_white-sox-reds-live-streaming-593232336"
+            },
             {
                 "source": "echo",
                 "id": "chicago-white-sox-vs-cincinnati-reds-baseball-179814"
@@ -829,6 +889,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-baltimore-orioles-vs-minnesota-twins"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_twins-orioles-live-streaming-593232768"
+            },
+            {
                 "source": "echo",
                 "id": "minnesota-twins-vs-baltimore-orioles-baseball-179804"
             },
@@ -856,6 +924,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-philadelphia-phillies-vs-st-louis-cardinals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_cardinals-phillies-live-streaming-593233200"
+            },
             {
                 "source": "echo",
                 "id": "stlouis-cardinals-vs-philadelphia-phillies-baseball-179806"
