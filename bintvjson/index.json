@@ -1,5 +1,18 @@
 [
     {
+        "id": "ppv-event-01-hasty-bake-high-limit-room-knoxville-ppv-01",
+        "title": "Hasty Bake High Limit Room Knoxville \ud83d\udca5",
+        "category": "other",
+        "date": 1786658400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-01-hasty-bake-high-limit-room-knoxville-ppv-01"
+            }
+        ]
+    },
+    {
         "id": "washington-nationals-vs-chicago-cubs-2388698",
         "title": "Washington Nationals vs Chicago Cubs",
         "category": "baseball",
@@ -58,14 +71,6 @@
                 "id": "ppv-boston-red-sox-vs-toronto-blue-jays"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_blue-jays-red-sox-live-streaming-593320464"
-            },
-            {
-                "source": "echo",
-                "id": "toronto-blue-jays-vs-boston-red-sox-baseball-179835"
-            },
-            {
                 "source": "golf",
                 "id": "221"
             }
@@ -92,86 +97,6 @@
             {
                 "source": "echo",
                 "id": "leeds-rhinos-vs-leigh-leopards-game-37322"
-            }
-        ]
-    },
-    {
-        "id": "shelbourne-vs-ajax-2554909",
-        "title": "Shelbourne vs Ajax",
-        "category": "football",
-        "date": 1786646700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrTZ0+IXiCwhDJQyGOJqIRCBZIKWEXMYowqlDxflG1OW-ytgYC7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Shelbourne",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyzZQIcBBAoQ3ECRB9tuDbv0gtywjGBM+KLmDLwi80Q6a0wTsaIhA"
-            },
-            "away": {
-                "name": "Ajax",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiT8QKIinYhuIPiBIGQEdUZwh1BCkz5a2YMvCLzRWprTAOxoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-shelbourne-vs-ajax-amsterdam"
-            }
-        ]
-    },
-    {
-        "id": "heart-of-midlothian-vs-benfica-2554319",
-        "title": "Heart of Midlothian vs Benfica",
-        "category": "football",
-        "date": 1786646700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvw5oQOXiAgg9WECZImQZxHvMskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Heart of Midlothian",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MABMwKSCG4gIhkHxAkQKExZCIUBCkz4ouYMvCLzRzprTCuxohBAA"
-            },
-            "away": {
-                "name": "Benfica",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAkIegAYwKZiG4g+IYwYMlcGkIgAmBCkz662YMvCLzRuprTAuxoiCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-heart-of-midlothian-vs-benfica"
-            },
-            {
-                "source": "delta",
-                "id": "live_uefa-europa-league-qualification_hearts-benfica-live-streaming-602582112"
-            }
-        ]
-    },
-    {
-        "id": "chicago-white-sox-vs-cincinnati-reds-2388705",
-        "title": "Chicago White Sox vs Cincinnati Reds",
-        "category": "baseball",
-        "date": 1786644600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtQ5EADHxAkQvEFhCmDKQ6eMgLzfMCQUsIuYxRhVKHh-KNNYr3t6MA9xMQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Chicago White Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA"
-            },
-            "away": {
-                "name": "Cincinnati Reds",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cincinnati-reds-vs-chicago-white-sox"
-            },
-            {
-                "source": "golf",
-                "id": "220"
             }
         ]
     },
@@ -213,50 +138,26 @@
         ]
     },
     {
-        "id": "detroit-tigers-vs-cleveland-guardians-2388704",
-        "title": "Detroit Tigers vs Cleveland Guardians",
+        "id": "chicago-white-sox-vs-cincinnati-reds-2388705",
+        "title": "Chicago White Sox vs Cincinnati Reds",
         "category": "baseball",
         "date": 1786641000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDG8Q0kCjD6SIbVhBmjKY2ZCnLzfMCQUsIuY0McUPMGXhFqcl4O9GA+4mIQQA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtQ5EADHxAkQvEFhCmDKQ6eMgLzfMCQUsIuYxRhVKHh-KNNYr3t6MA9xMQggA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Detroit Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA"
+                "name": "Chicago White Sox",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA"
             },
             "away": {
-                "name": "Cleveland Guardians",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA"
+                "name": "Cincinnati Reds",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA"
             }
         },
         "sources": [
             {
                 "source": "golf",
-                "id": "218"
-            }
-        ]
-    },
-    {
-        "id": "miami-marlins-vs-pittsburgh-pirates-2388702",
-        "title": "Miami Marlins vs Pittsburgh Pirates",
-        "category": "baseball",
-        "date": 1786641000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtSYhNg2ShC8QWECZIh9hk8f0wWSClhFzGKMKpQ835RprEf8rMBgbuJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Miami Marlins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Pittsburgh Pirates",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "217"
+                "id": "220"
             }
         ]
     },
@@ -270,19 +171,6 @@
             {
                 "source": "echo",
                 "id": "atpwta-cincinnati-open-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-01-hasty-bake-high-limit-room-knoxville-ppv-01",
-        "title": "Hasty Bake High Limit Room Knoxville \ud83d\udca5",
-        "category": "other",
-        "date": 1786658400000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-01-hasty-bake-high-limit-room-knoxville-ppv-01"
             }
         ]
     },
