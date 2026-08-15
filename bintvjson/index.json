@@ -317,30 +317,6 @@
         ]
     },
     {
-        "id": "winnipeg-blue-bombers-vs-ottawa-redblacks-2432573",
-        "title": "Winnipeg Blue Bombers vs Ottawa Redblacks",
-        "category": "american-football",
-        "date": 1786753800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCCkhwWZpBDdNIEiAi4QfEIm0mFTJBT7DZ9FGBUou78vV2jPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Winnipeg Blue Bombers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD15aVWAFIQ3ECRAATXUdN9cIc-AIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Ottawa Redblacks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIcAKRgkIPiG4gSICCAAmIGBdxnDxghSZ8UXMGXhF5o501phXY0QggA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-ottawa-red-blacks-at-winnipeg-blue-bombers"
-            }
-        ]
-    },
-    {
         "id": "houston-astros-vs-seattle-mariners-2388720",
         "title": "Houston Astros vs Seattle Mariners",
         "category": "baseball",
@@ -358,14 +334,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-seattle-mariners-vs-houston-astros"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_astros-mariners-live-streaming-593369280"
-            },
             {
                 "source": "golf",
                 "id": "261"
@@ -439,7 +407,7 @@
         ]
     },
     {
-        "id": "north-melbourne-kangaroos-vs-geelong-cats-australian-football-3539",
+        "id": "north-melbourne-kangaroos-vs-geelong-cats-australian-football-3608",
         "title": "North Melbourne Kangaroos vs Geelong Cats",
         "category": "afl",
         "date": 1786772700000,
@@ -457,7 +425,7 @@
         "sources": [
             {
                 "source": "echo",
-                "id": "north-melbourne-kangaroos-vs-geelong-cats-australian-football-3539"
+                "id": "north-melbourne-kangaroos-vs-geelong-cats-australian-football-3608"
             }
         ]
     },
@@ -557,7 +525,7 @@
         ]
     },
     {
-        "id": "port-adelaide-power-vs-melbourne-demons-australian-football-3540",
+        "id": "port-adelaide-power-vs-melbourne-demons-australian-football-3611",
         "title": "Port Adelaide Power vs Melbourne Demons",
         "category": "afl",
         "date": 1786788600000,
@@ -575,7 +543,7 @@
         "sources": [
             {
                 "source": "echo",
-                "id": "port-adelaide-power-vs-melbourne-demons-australian-football-3540"
+                "id": "port-adelaide-power-vs-melbourne-demons-australian-football-3611"
             }
         ]
     },
@@ -755,6 +723,34 @@
         ]
     },
     {
+        "id": "connecticut-sun-vs-new-york-liberty-2449169",
+        "title": "Connecticut Sun vs New York Liberty",
+        "category": "basketball",
+        "date": 1786813200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBA1g+IXqBS6QUkCUMGDIDSZDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Connecticut Sun",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggo4JM1IhuIEntwgAJiD4gU5kKuWEYwJnxRcwZeEXminTWmBdjREEA"
+            },
+            "away": {
+                "name": "New York Liberty",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTwwKEKPAgQ3EHxAxc+zSZ0GJhGMCZ8UXMGTX15o+01phHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-new-york-liberty-vs-connecticut-sun"
+            },
+            {
+                "source": "delta",
+                "id": "live_wnba_sun-liberty-live-streaming-524080368"
+            }
+        ]
+    },
+    {
         "id": "chicago-bears-vs-cleveland-browns-2480387",
         "title": "Chicago Bears vs Cleveland Browns",
         "category": "american-football",
@@ -881,6 +877,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-chicago-white-sox-vs-detroit-tigers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_tigers-white-sox-live-streaming-593413776"
+            },
+            {
                 "source": "echo",
                 "id": "detroit-tigers-vs-chicago-white-sox-baseball-179866"
             },
@@ -961,6 +965,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-st-louis-cardinals-vs-chicago-cubs"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_cubs-cardinals-live-streaming-593414208"
+            },
+            {
                 "source": "echo",
                 "id": "chicago-cubs-vs-stlouis-cardinals-baseball-179869"
             },
@@ -1037,6 +1049,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-new-york-yankees-vs-toronto-blue-jays"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_blue-jays-yankees-live-streaming-593414640"
+            },
+            {
                 "source": "echo",
                 "id": "toronto-blue-jays-vs-new-york-yankees-baseball-179858"
             },
@@ -1111,42 +1131,6 @@
         ]
     },
     {
-        "id": "kansas-city-chiefs-vs-los-angeles-rams-2475346",
-        "title": "Kansas City Chiefs vs Los Angeles Rams",
-        "category": "american-football",
-        "date": 1786824000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH75K87gAZNILCBMQjIEiZDTzKFkgpYRcxijCqUPd+UbU5n7Xowd3ExCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Kansas City Chiefs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS74QJECAGx1IXiCyaQEAyGogYIFGasEK+ASh5gy8IgrFOH9MC-FiIIA"
-            },
-            "away": {
-                "name": "Los Angeles Rams",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS7sk2ELxBkQmkFl0gI+kNT26AJtoIV8AlDzBl4RBWId36YJ+LEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-los-angeles-rams-at-kansas-city-chiefs"
-            },
-            {
-                "source": "delta",
-                "id": "live_nfl-preseason_chiefs-rams-live-streaming-587567520"
-            },
-            {
-                "source": "echo",
-                "id": "kansas-city-chiefs-vs-los-angeles-rams-american-football-21477"
-            },
-            {
-                "source": "golf",
-                "id": "362"
-            }
-        ]
-    },
-    {
         "id": "san-francisco-giants-vs-colorado-rockies-2388724",
         "title": "San Francisco Giants vs Colorado Rockies",
         "category": "baseball",
@@ -1164,6 +1148,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-colorado-rockies-vs-san-francisco-giants"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_giants-rockies-live-streaming-593415072"
+            },
             {
                 "source": "echo",
                 "id": "san-francisco-giants-vs-colorado-rockies-baseball-179860"
@@ -1192,6 +1184,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-washington-nationals-vs-new-york-mets"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_mets-nationals-live-streaming-593415504"
+            },
             {
                 "source": "echo",
                 "id": "new-york-mets-vs-washington-nationals-baseball-179862"
@@ -1251,6 +1251,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-baltimore-orioles-vs-tampa-bay-rays"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_rays-orioles-live-streaming-593415936"
+            },
+            {
                 "source": "echo",
                 "id": "tampa-bay-rays-vs-baltimore-orioles-baseball-179859"
             },
@@ -1278,6 +1286,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-miami-marlins-vs-cincinnati-reds"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_reds-marlins-live-streaming-593416368"
+            },
             {
                 "source": "echo",
                 "id": "cincinnati-reds-vs-miami-marlins-baseball-179868"
@@ -1395,6 +1411,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-san-diego-padres-vs-cleveland-guardians"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_guardians-padres-live-streaming-593417232"
+            },
+            {
                 "source": "echo",
                 "id": "cleveland-guardians-vs-san-diego-padres-baseball-179867"
             },
@@ -1422,6 +1446,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-seattle-mariners-vs-houston-astros"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_astros-mariners-live-streaming-593417664"
+            },
             {
                 "source": "echo",
                 "id": "houston-astros-vs-seattle-mariners-baseball-179865"
@@ -1451,6 +1483,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-philadelphia-phillies-vs-minnesota-twins"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_twins-phillies-live-streaming-593418096"
+            },
+            {
                 "source": "echo",
                 "id": "minnesota-twins-vs-philadelphia-phillies-baseball-179863"
             },
@@ -1478,6 +1518,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-arizona-diamondbacks-vs-atlanta-braves"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_braves-diamondbacks-live-streaming-593418528"
+            },
             {
                 "source": "echo",
                 "id": "atlanta-braves-vs-arizona-diamondbacks-baseball-179870"
@@ -1507,6 +1555,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-boston-red-sox-vs-pittsburgh-pirates"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_pirates-red-sox-live-streaming-593416800"
+            },
+            {
                 "source": "echo",
                 "id": "pittsburgh-pirates-vs-boston-red-sox-baseball-179861"
             },
@@ -1534,6 +1590,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-milwaukee-brewers-vs-los-angeles-dodgers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_dodgers-brewers-live-streaming-593418960"
+            },
             {
                 "source": "echo",
                 "id": "los-angeles-dodgers-vs-milwaukee-brewers-baseball-179857"
@@ -1724,6 +1788,34 @@
             {
                 "source": "echo",
                 "id": "usa-vs-argentina-rugby-53786"
+            }
+        ]
+    },
+    {
+        "id": "washington-mystics-vs-los-angeles-sparks-2449170",
+        "title": "Washington Mystics vs Los Angeles Sparks",
+        "category": "basketball",
+        "date": 1786836600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQimBSiaEFJDc9IEgZAozISxBB8DBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Washington Mystics",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA"
+            },
+            "away": {
+                "name": "Los Angeles Sparks",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQg+IGP1yUQ3EABNcICBpCI9JlCBAEKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-los-angeles-sparks-vs-washington-mystics"
+            },
+            {
+                "source": "delta",
+                "id": "live_wnba_mystics-sparks-live-streaming-524080800"
             }
         ]
     }
