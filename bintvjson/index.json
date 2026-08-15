@@ -685,10 +685,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-washington-nationals-vs-new-york-mets"
-            },
-            {
                 "source": "golf",
                 "id": "370"
             }
@@ -712,10 +708,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-colorado-rockies-vs-san-francisco-giants"
-            },
             {
                 "source": "golf",
                 "id": "369"
@@ -741,49 +733,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-jacksonville-jaguars-at-new-orleans-saints"
-            },
-            {
                 "source": "golf",
                 "id": "363"
-            }
-        ]
-    },
-    {
-        "id": "toronto-blue-jays-vs-new-york-yankees-2388722",
-        "title": "Toronto Blue Jays vs New York Yankees",
-        "category": "baseball",
-        "date": 1786820820000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEZkYwMAxAHeILAZAkQKEEdMgYIaSyQUsIuYxRhVKHp-KNqct74rLqe4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Toronto Blue Jays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA"
-            },
-            "away": {
-                "name": "New York Yankees",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "368"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-10-ama-supercross-championship-new-berlin-ppv-10",
-        "title": "AMA Supercross Championship New Berlin",
-        "category": "other",
-        "date": 1786816800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-10-ama-supercross-championship-new-berlin-ppv-10"
             }
         ]
     },
@@ -797,6 +748,19 @@
             {
                 "source": "echo",
                 "id": "ppv-event-05-submission-hunter-pro-104-ppv-05"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-10-ama-supercross-championship-new-berlin-ppv-10",
+        "title": "AMA Supercross Championship New Berlin",
+        "category": "other",
+        "date": 1786816800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-10-ama-supercross-championship-new-berlin-ppv-10"
             }
         ]
     },
