@@ -1,5 +1,41 @@
 [
     {
+        "id": "chicago-cubs-vs-st--louis-cardinals-2388748",
+        "title": "Chicago Cubs vs St. Louis Cardinals",
+        "category": "baseball",
+        "date": 1786906800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvmDSwKEPywgYekAZAgSIXbzM3qJlkgpYRcxijCqUPD+UbU5Xpr0YB7iYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Chicago Cubs",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA"
+            },
+            "away": {
+                "name": "St. Louis Cardinals",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-st-louis-cardinals-vs-chicago-cubs"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_cubs-cardinals-live-streaming-593466912"
+            },
+            {
+                "source": "echo",
+                "id": "chicago-cubs-vs-stlouis-cardinals-baseball-179884"
+            },
+            {
+                "source": "golf",
+                "id": "390"
+            }
+        ]
+    },
+    {
         "id": "lens-vs-paris-saint-germain-2478640",
         "title": "Lens vs Paris Saint-Germain",
         "category": "football",
@@ -410,14 +446,6 @@
             {
                 "source": "admin",
                 "id": "ppv-espanyol-vs-levante"
-            },
-            {
-                "source": "delta",
-                "id": "live_laliga_espanyol-levante-live-streaming-604766304"
-            },
-            {
-                "source": "echo",
-                "id": "espanyol-vs-levante-football-1570338"
             }
         ]
     },
@@ -489,10 +517,6 @@
             {
                 "source": "delta",
                 "id": "live_mlb_rays-orioles-live-streaming-593462592"
-            },
-            {
-                "source": "echo",
-                "id": "tampa-bay-rays-vs-baltimore-orioles-baseball-179874"
             },
             {
                 "source": "golf",
@@ -600,21 +624,6 @@
         ]
     },
     {
-        "id": "london-eprix-2317904",
-        "title": "London ePrix",
-        "category": "motor-sports",
-        "date": 1786889100000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmX4AGBCGkgSIXiCwgz+s9RMgI1yfmBIKWEXMYowqlD0-lG1OW8HejBPcTEIIA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "formula-e-london-eprix-game-19996"
-            }
-        ]
-    },
-    {
         "id": "british-superbikes-thruxton-day-2-thruxton-circuit-racing-0059",
         "title": "British Superbikes Thruxton | Day 2 - Thruxton Circuit \ud83c\udfc1",
         "category": "motor-sports",
@@ -641,19 +650,6 @@
         ]
     },
     {
-        "id": "indycar-game-4u8337",
-        "title": "Indycar  \ud83c\udfc1",
-        "category": "motor-sports",
-        "date": 1786878000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "indycar-game-4u8337"
-            }
-        ]
-    },
-    {
         "id": "essendon-football-club-vs-sydney-swans-2568204",
         "title": "Essendon Football Club vs Sydney Swans",
         "category": "afl",
@@ -674,42 +670,6 @@
             {
                 "source": "echo",
                 "id": "essendon-bombers-vs-sydney-swans-australian-football-3535"
-            }
-        ]
-    },
-    {
-        "id": "chicago-cubs-vs-st--louis-cardinals-2388748",
-        "title": "Chicago Cubs vs St. Louis Cardinals",
-        "category": "baseball",
-        "date": 1786906800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvmDSwKEPywgYekAZAgSIXbzM3qJlkgpYRcxijCqUPD+UbU5Xpr0YB7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Chicago Cubs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA"
-            },
-            "away": {
-                "name": "St. Louis Cardinals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-st-louis-cardinals-vs-chicago-cubs"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_cubs-cardinals-live-streaming-593466912"
-            },
-            {
-                "source": "echo",
-                "id": "chicago-cubs-vs-stlouis-cardinals-baseball-179884"
-            },
-            {
-                "source": "golf",
-                "id": "390"
             }
         ]
     },
