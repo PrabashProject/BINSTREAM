@@ -232,10 +232,6 @@
                 "id": "ppv-texas-rangers-vs-athletics"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_athletics-rangers-live-streaming-593467344"
-            },
-            {
                 "source": "echo",
                 "id": "athletics-vs-texas-rangers-baseball-179883"
             },
@@ -306,30 +302,6 @@
         ]
     },
     {
-        "id": "minnesota-twins-vs-philadelphia-phillies-2388741",
-        "title": "Minnesota Twins vs Philadelphia Phillies",
-        "category": "baseball",
-        "date": 1786903800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBzgcY+mBC9NIYyRAoDxy9QMskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Minnesota Twins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Philadelphia Phillies",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "389"
-            }
-        ]
-    },
-    {
         "id": "cleveland-guardians-vs-san-diego-padres-2388745",
         "title": "Cleveland Guardians vs San Diego Padres",
         "category": "baseball",
@@ -376,10 +348,6 @@
         },
         "sources": [
             {
-                "source": "delta",
-                "id": "live_mlb_pirates-red-sox-live-streaming-593463456"
-            },
-            {
                 "source": "echo",
                 "id": "pittsburgh-pirates-vs-boston-red-sox-baseball-179875"
             }
@@ -412,19 +380,6 @@
         ]
     },
     {
-        "id": "ppv-event-01-usac-road-racing-road-america-ppv-01",
-        "title": "USAC Road Racing Road America \ud83d\udca5",
-        "category": "other",
-        "date": 1786894200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-01-usac-road-racing-road-america-ppv-01"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-02-amsoil-championship-off-road-ppv-02",
         "title": "AMSOIL Championship Off Road \ud83d\udd25",
         "category": "other",
@@ -434,6 +389,19 @@
             {
                 "source": "echo",
                 "id": "ppv-event-02-amsoil-championship-off-road-ppv-02"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-01-usac-road-racing-road-america-ppv-01",
+        "title": "USAC Road Racing Road America \ud83d\udca5",
+        "category": "other",
+        "date": 1786894200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-01-usac-road-racing-road-america-ppv-01"
             }
         ]
     },
