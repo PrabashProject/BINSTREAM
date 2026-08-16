@@ -120,14 +120,6 @@
             {
                 "source": "admin",
                 "id": "ppv-san-jose-earthquakes-vs-st-louis-city-sc"
-            },
-            {
-                "source": "delta",
-                "id": "live_mls_san-jose-st-louis-live-streaming-538646976"
-            },
-            {
-                "source": "echo",
-                "id": "san-jose-earthquakes-vs-st-louis-city-football-1490387"
             }
         ]
     },
@@ -152,14 +144,6 @@
             {
                 "source": "admin",
                 "id": "ppv-texas-rangers-vs-athletics"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_athletics-rangers-live-streaming-593419824"
-            },
-            {
-                "source": "echo",
-                "id": "athletics-vs-texas-rangers-baseball-179871"
             },
             {
                 "source": "golf",
@@ -192,54 +176,6 @@
             {
                 "source": "golf",
                 "id": "379"
-            }
-        ]
-    },
-    {
-        "id": "colorado-rapids-vs-sporting-kansas-city-2406987",
-        "title": "Colorado Rapids vs Sporting Kansas City",
-        "category": "football",
-        "date": 1786843800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAUxIhtIYAAYQ3EHxAwQU44ZCIcKECQLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Colorado Rapids",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJw4qsABMQ3EBBB8QiEkZDb9uxhSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Sporting Kansas City",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLDcwZOOD4huICCG2ISIRABMQxmHoIUmfFF3Xl680Q6a0w6saIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-colorado-rapids-vs-sporting-kansas-city"
-            }
-        ]
-    },
-    {
-        "id": "real-salt-lake-vs-minnesota-united-2406986",
-        "title": "Real Salt Lake vs Minnesota United",
-        "category": "football",
-        "date": 1786843800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECG7kUwMCBKaQfEDBBSjhxBBMaCwJBT7DZ9FGBU6278vSyydTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Real Salt Lake",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwNUmBhgAEx4huIEkZA6QEEJcsxcuAhSZ8UXMGXhF5o501phXY0QggA"
-            },
-            "away": {
-                "name": "Minnesota United",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwMCBUg+kEBBDc9IFLiMkQifYngEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-real-salt-lake-vs-minnesota-united-fc"
             }
         ]
     },
@@ -330,10 +266,6 @@
             {
                 "source": "echo",
                 "id": "seattle-seahawks-vs-dallas-cowboys-american-football-21480"
-            },
-            {
-                "source": "golf",
-                "id": "365"
             }
         ]
     },
@@ -405,7 +337,7 @@
         "sources": [
             {
                 "source": "echo",
-                "id": "essendon-bombers-vs-sydney-swans-australian-football-3535"
+                "id": "essendon-bombers-vs-sydney-swans-australian-football-3614"
             }
         ]
     },
@@ -523,6 +455,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-watford-vs-southampton"
+            },
             {
                 "source": "delta",
                 "id": "live_championship_watford-southampton-live-streaming-603627984"
@@ -674,6 +610,34 @@
         ]
     },
     {
+        "id": "schalke-04-vs-real-madrid-2553364",
+        "title": "Schalke 04 vs Real Madrid",
+        "category": "football",
+        "date": 1786892400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJECmARgVELIggQUuRJkr4ahQGMQwxSAXDl+5ToWTxW0iCwzJ-MIJFNs9MIWBJcWyUMetpIzJJAmANMEcpUikgA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Schalke 04",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAmtFLhCbuIACZbdJbSESa+IbYRhr+KLmDLwi80ffXAwjsaIhA"
+            },
+            "away": {
+                "name": "Real Madrid",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPmDUas6kNxAQQfEIhIgYuEChAqrBCkz4ouYMvCLzRzprTCuxohBAA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-schalke-04-vs-real-madrid"
+            },
+            {
+                "source": "echo",
+                "id": "fc-schalke-04-vs-real-madrid-football-1607294"
+            }
+        ]
+    },
+    {
         "id": "racing-de-santander-vs-villarreal-2506178",
         "title": "Racing de Santander vs Villarreal",
         "category": "football",
@@ -719,6 +683,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-burnley-vs-west-ham-united"
+            },
             {
                 "source": "echo",
                 "id": "burnley-vs-west-ham-football-1563093"
@@ -818,6 +786,34 @@
             {
                 "source": "echo",
                 "id": "espanyol-vs-levante-football-1570338"
+            }
+        ]
+    },
+    {
+        "id": "liverpool-vs-como-2482899",
+        "title": "Liverpool vs Como",
+        "category": "football",
+        "date": 1786899600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbBEIUiCwgSIFHIVLgEYDUTLl8WTXlkNNYSBlUzpbJtUwpKchoFCRTaw7CFgSXOIdCwbk4NYSsHAilyQPUrCCA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Liverpool",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwACYKQgnNxB8QiAyhDqQJgzggEKTPii5gy8IvNEOmtME7GiIQA"
+            },
+            "away": {
+                "name": "Como",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcYEJpDdI2kABNcIPiAiqQJLWYmEYwJnxRcwZeEXminTWmBdjREEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-liverpool-vs-como"
+            },
+            {
+                "source": "echo",
+                "id": "liverpool-vs-como-football-1550631"
             }
         ]
     },
@@ -1130,6 +1126,34 @@
             {
                 "source": "golf",
                 "id": "389"
+            }
+        ]
+    },
+    {
+        "id": "lens-vs-paris-saint-germain-2478640",
+        "title": "Lens vs Paris Saint-Germain",
+        "category": "football",
+        "date": 1786905900000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCCohhIEiADGIkSCwh4wKapSlJ2aSBQgYRybpmrEIDWuASt44L3IRQYQUoLZ6YQsCS55bSE3VhdhUnpPdTA3WwiIIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Lens",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDxYYEJTCjQ3ECRAoQxvoZCm9R5YRjAmfFF23l680Y6a0w2saIhA"
+            },
+            "away": {
+                "name": "Paris Saint-Germain",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbtVXcQOiCD4hEJEDBD6QpywQpM+KLmDLwi80Q6a0wTsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-lens-vs-paris-saint-germain"
+            },
+            {
+                "source": "echo",
+                "id": "lens-vs-paris-saint-germain-football-1546791"
             }
         ]
     },
