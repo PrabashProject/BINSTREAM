@@ -1,5 +1,33 @@
 [
     {
+        "id": "atlas-vs-tigres-uanl-2487481",
+        "title": "Atlas vs Tigres UANL",
+        "category": "football",
+        "date": 1786849200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtSbBZg-NpC8QWECYggzMECRCXLKFkgpYRcxijCqUPD+UaaxXnr0YB7iYhBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Atlas",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgAJurApNfENxAQQuxCQN6QF-fAIUmfFFzBlV9eaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Tigres UANL",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzCgQ6mMAAmYddxB8QMEPoi4QiQ8ZAEKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-atlas-vs-tigres-uanl"
+            },
+            {
+                "source": "echo",
+                "id": "atlas-vs-tigres-uanl-football-1550923"
+            }
+        ]
+    },
+    {
         "id": "ppv-lafc-vs-san-diego-fc",
         "title": "LAFC vs. San Diego FC",
         "category": "football",
@@ -214,21 +242,17 @@
         "teams": {
             "home": {
                 "name": "Monterrey",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCqZ1yDAMbNxPeCKrcCXVmDC58FoA"
+                "badge": ""
             },
             "away": {
                 "name": "FC Juarez",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAq65BgGNm4nvBFVuBLqzBhc+S0A"
+                "badge": ""
             }
         },
         "sources": [
             {
                 "source": "admin",
                 "id": "ppv-monterrey-vs-fc-juarez"
-            },
-            {
-                "source": "echo",
-                "id": "monterrey-vs-fc-juarez-football-1550922"
             }
         ]
     },
@@ -253,14 +277,6 @@
             {
                 "source": "admin",
                 "id": "ppv-houston-dynamo-fc-vs-la-galaxy"
-            },
-            {
-                "source": "delta",
-                "id": "live_mls_houston-la-galaxy-live-streaming-538644816"
-            },
-            {
-                "source": "echo",
-                "id": "houston-dynamo-vs-los-angeles-galaxy-football-1490382"
             }
         ]
     },
@@ -285,14 +301,6 @@
             {
                 "source": "admin",
                 "id": "ppv-nashville-sc-vs-inter-miami-cf"
-            },
-            {
-                "source": "delta",
-                "id": "live_mls_nashville-inter-miami-live-streaming-538645248"
-            },
-            {
-                "source": "echo",
-                "id": "nashville-sc-vs-inter-miami-football-1490381"
             }
         ]
     },
@@ -316,28 +324,6 @@
             {
                 "source": "echo",
                 "id": "las-vegas-aces-w-vs-minnesota-lynx-w-basketball-495031"
-            }
-        ]
-    },
-    {
-        "id": "ppv-aew-saturday-night-collision",
-        "title": "AEW Saturday Night Collision",
-        "category": "fight",
-        "date": 1786838400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-aew-saturday-night-collision"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_aew-collision-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "aew-saturday-night-collision-aew-1"
             }
         ]
     },
@@ -418,44 +404,12 @@
                 "id": "ppv-dallas-cowboys-at-seattle-seahawks"
             },
             {
-                "source": "delta",
-                "id": "live_nfl-preseason_seahawks-cowboys-live-streaming-587568816"
-            },
-            {
                 "source": "echo",
                 "id": "seattle-seahawks-vs-dallas-cowboys-american-football-21480"
             },
             {
                 "source": "golf",
                 "id": "365"
-            }
-        ]
-    },
-    {
-        "id": "atlas-vs-tigres-uanl-2487481",
-        "title": "Atlas vs Tigres UANL",
-        "category": "football",
-        "date": 1786849200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtSbBZg-NpC8QWECYggzMECRCXLKFkgpYRcxijCqUPD+UaaxXnr0YB7iYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Atlas",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgAJurApNfENxAQQuxCQN6QF-fAIUmfFFzBlV9eaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Tigres UANL",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzCgQ6mMAAmYddxB8QMEPoi4QiQ8ZAEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-atlas-vs-tigres-uanl"
-            },
-            {
-                "source": "echo",
-                "id": "atlas-vs-tigres-uanl-football-1550923"
             }
         ]
     },
@@ -479,7 +433,7 @@
         "sources": [
             {
                 "source": "echo",
-                "id": "greater-western-sydney-giants-vs-west-coast-eagles-australian-football-3612"
+                "id": "greater-western-sydney-giants-vs-west-coast-eagles-australian-football-3537"
             }
         ]
     },
@@ -575,7 +529,7 @@
         "sources": [
             {
                 "source": "echo",
-                "id": "essendon-bombers-vs-sydney-swans-australian-football-3614"
+                "id": "essendon-bombers-vs-sydney-swans-australian-football-3535"
             }
         ]
     },
