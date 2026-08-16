@@ -1,18 +1,5 @@
 [
     {
-        "id": "ppv-event-02-amsoil-championship-off-road-ppv-02",
-        "title": "AMSOIL Championship Off Road \ud83d\udd25",
-        "category": "other",
-        "date": 1786894200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-02-amsoil-championship-off-road-ppv-02"
-            }
-        ]
-    },
-    {
         "id": "ppv-event-01-usac-road-racing-road-america-ppv-01",
         "title": "USAC Road Racing Road America \ud83d\udca5",
         "category": "other",
@@ -22,6 +9,19 @@
             {
                 "source": "echo",
                 "id": "ppv-event-01-usac-road-racing-road-america-ppv-01"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-02-amsoil-championship-off-road-ppv-02",
+        "title": "AMSOIL Championship Off Road \ud83d\udd25",
+        "category": "other",
+        "date": 1786894200000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-02-amsoil-championship-off-road-ppv-02"
             }
         ]
     },
@@ -275,30 +275,6 @@
         ]
     },
     {
-        "id": "watford-vs-southampton-2501258",
-        "title": "Watford vs Southampton",
-        "category": "football",
-        "date": 1786883400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBAoQWELzD9dvHSFPUQEENJOntMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Watford",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizky8MHzAoQ3EBH0gjRvYhK6QKAhSZ8UXMOqLzR9prTCOxoiEA"
-            },
-            "away": {
-                "name": "Southampton",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwF8w3IhBAwQ3EABNcukCRAoQiHHxAQCFJnxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "416"
-            }
-        ]
-    },
-    {
         "id": "british-superbikes-thruxton-day-2-thruxton-circuit-racing-0059",
         "title": "British Superbikes Thruxton | Day 2 - Thruxton Circuit \ud83c\udfc1",
         "category": "motor-sports",
@@ -532,10 +508,6 @@
             {
                 "source": "echo",
                 "id": "liverpool-vs-como-football-1550631"
-            },
-            {
-                "source": "golf",
-                "id": "434"
             }
         ]
     },
