@@ -211,10 +211,6 @@
             {
                 "source": "admin",
                 "id": "ppv-indiana-fever-vs-atlanta-dream"
-            },
-            {
-                "source": "delta",
-                "id": "live_wnba_dream-fever-live-streaming-524082528"
             }
         ]
     },
@@ -261,10 +257,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-milwaukee-brewers-vs-los-angeles-dodgers"
-            },
-            {
                 "source": "golf",
                 "id": "394"
             }
@@ -288,10 +280,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-kansas-city-royals-vs-los-angeles-angels"
-            },
             {
                 "source": "golf",
                 "id": "393"
@@ -317,10 +305,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-texas-rangers-vs-athletics"
-            },
-            {
                 "source": "golf",
                 "id": "392"
             }
@@ -344,14 +328,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-colorado-rockies-vs-san-francisco-giants"
-            },
-            {
-                "source": "echo",
-                "id": "san-francisco-giants-vs-colorado-rockies-baseball-179878"
-            },
             {
                 "source": "golf",
                 "id": "391"
@@ -383,34 +359,6 @@
         ]
     },
     {
-        "id": "cleveland-guardians-vs-san-diego-padres-2388745",
-        "title": "Cleveland Guardians vs San Diego Padres",
-        "category": "baseball",
-        "date": 1786902000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRAxWYMinkheILCFOaUh01eogSLJBSwi5jFLo76Ou8o2pz9+KzAYO6MYhBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Cleveland Guardians",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA"
-            },
-            "away": {
-                "name": "San Diego Padres",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live_mlb_guardians-padres-live-streaming-593464752"
-            },
-            {
-                "source": "echo",
-                "id": "cleveland-guardians-vs-san-diego-padres-baseball-179881"
-            }
-        ]
-    },
-    {
         "id": "-20260816",
         "title": "NFL vs RedZone",
         "category": "american-football",
@@ -433,32 +381,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-03-motoamerica-superbikes-virginia-ppv-03"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-02-amsoil-championship-off-road-ppv-02",
-        "title": "AMSOIL Championship Off Road \ud83d\udd25",
-        "category": "other",
-        "date": 1786894200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-02-amsoil-championship-off-road-ppv-02"
-            }
-        ]
-    },
-    {
-        "id": "ppv-event-01-usac-road-racing-road-america-ppv-01",
-        "title": "USAC Road Racing Road America \ud83d\udca5",
-        "category": "other",
-        "date": 1786894200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-01-usac-road-racing-road-america-ppv-01"
             }
         ]
     },
