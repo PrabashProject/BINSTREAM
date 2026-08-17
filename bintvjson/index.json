@@ -1,5 +1,33 @@
 [
     {
+        "id": "tijuana-vs-cruz-azul-2487485",
+        "title": "Tijuana vs Cruz Azul",
+        "category": "football",
+        "date": 1786935600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFkhxvMClYheILCFMQQ5mCBIgrR+CyQUsIuYxRhV+jp-KNqcvr4rMBgnuJiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Tijuana",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxwwuABjAoQO7iD76Q2gwZyISuAhSZ8UXMGXhF5ou01pgHY0RCA"
+            },
+            "away": {
+                "name": "Cruz Azul",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgG0IuMCnYhuIPiAO6SIdYkT6YBCkz5a2YMvCLzRWprTAOxoiEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-tijuana-vs-cruz-azul"
+            },
+            {
+                "source": "echo",
+                "id": "club-tijuana-vs-cruz-azul-football-1550927"
+            }
+        ]
+    },
+    {
         "id": "seattle-sounders-vs-vancouver-whitecaps-2406992",
         "title": "Seattle Sounders vs Vancouver Whitecaps",
         "category": "football",
@@ -115,42 +143,6 @@
             {
                 "source": "admin",
                 "id": "ppv-austin-fc-vs-fc-dallas"
-            },
-            {
-                "source": "delta",
-                "id": "live_mls_austin-dallas-live-streaming-538644384"
-            },
-            {
-                "source": "echo",
-                "id": "austin-vs-fc-dallas-football-1490383"
-            }
-        ]
-    },
-    {
-        "id": "tijuana-vs-cruz-azul-2487485",
-        "title": "Tijuana vs Cruz Azul",
-        "category": "football",
-        "date": 1786935600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFkhxvMClYheILCFMQQ5mCBIgrR+CyQUsIuYxRhV+jp-KNqcvr4rMBgnuJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Tijuana",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxwwuABjAoQO7iD76Q2gwZyISuAhSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Cruz Azul",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgG0IuMCnYhuIPiAO6SIdYkT6YBCkz5a2YMvCLzRWprTAOxoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-tijuana-vs-cruz-azul"
-            },
-            {
-                "source": "echo",
-                "id": "club-tijuana-vs-cruz-azul-football-1550927"
             }
         ]
     },
