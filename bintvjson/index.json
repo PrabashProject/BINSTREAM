@@ -1,14 +1,29 @@
 [
     {
-        "id": "ppv-event-01-wwe-monday-night-raw-ppv-01",
-        "title": "WWE Monday Night RAW \ud83d\udca5",
-        "category": "other",
-        "date": 1787014800000,
+        "id": "leyton-orient-vs-afc-wimbledon-2531796",
+        "title": "Leyton Orient vs AFC Wimbledon",
+        "category": "football",
+        "date": 1787076000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSTAkIeGFmheILCFMmYukBBDTTulkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
         "popular": true,
+        "teams": {
+            "home": {
+                "name": "AFC Wimbledon",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4h6EECgbsQ3EABMQRo4dVHVKEHwIUm1rmDLwi80Vqa0wjsaIhA"
+            },
+            "away": {
+                "name": "Leyton Orient",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLogBKMNzAgQ3EABMdICLtwgUBy3wIUm1rmDLwi80SmBNaYR2NEQgA"
+            }
+        },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-leyton-orient-vs-afc-wimbledon"
+            },
+            {
                 "source": "echo",
-                "id": "ppv-event-01-wwe-monday-night-raw-ppv-01"
+                "id": "leyton-orient-vs-afc-wimbledon-football-1588894"
             }
         ]
     },
