@@ -56,30 +56,6 @@
         ]
     },
     {
-        "id": "necaxa-vs-le-n-2487486",
-        "title": "Necaxa vs Le\u00f3n",
-        "category": "football",
-        "date": 1787014800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECQ1yQAwjm46QRiCBMwNIcwfgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Necaxa",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLC96ABhApSIbiD76thgzgghEjCkz7a2YMvCLzR2prTD2xoiEA"
-            },
-            "away": {
-                "name": "Le\u00f3n",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjMQKftkohuIPiBK4QiFMZAQzKAhSZ8NbMGXhF5ojU1phHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-necaxa-vs-le-n"
-            }
-        ]
-    },
-    {
         "id": "colorado-rockies-vs-los-angeles-dodgers-2388756",
         "title": "Colorado Rockies vs Los Angeles Dodgers",
         "category": "baseball",
@@ -100,14 +76,6 @@
             {
                 "source": "admin",
                 "id": "ppv-los-angeles-dodgers-vs-colorado-rockies"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_rockies-dodgers-live-streaming-593500176"
-            },
-            {
-                "source": "echo",
-                "id": "colorado-rockies-vs-los-angeles-dodgers-baseball-179892"
             },
             {
                 "source": "golf",
@@ -133,14 +101,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-chicago-white-sox-vs-chicago-cubs"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_cubs-white-sox-live-streaming-593499744"
-            },
             {
                 "source": "golf",
                 "id": "420"
@@ -298,6 +258,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_orioles-yankees-live-streaming-593517024"
+            },
+            {
                 "source": "echo",
                 "id": "baltimore-orioles-vs-new-york-yankees-baseball-179910"
             },
@@ -325,6 +289,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_reds-cardinals-live-streaming-593517456"
+            },
             {
                 "source": "echo",
                 "id": "cincinnati-reds-vs-stlouis-cardinals-baseball-179908"
@@ -354,6 +322,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_guardians-giants-live-streaming-593517888"
+            },
+            {
                 "source": "echo",
                 "id": "cleveland-guardians-vs-san-francisco-giants-baseball-179907"
             },
@@ -381,6 +353,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_phillies-marlins-live-streaming-593518320"
+            },
             {
                 "source": "echo",
                 "id": "philadelphia-phillies-vs-miami-marlins-baseball-179900"
@@ -410,6 +386,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_pirates-tigers-live-streaming-593518752"
+            },
+            {
                 "source": "echo",
                 "id": "pittsburgh-pirates-vs-detroit-tigers-baseball-179899"
             },
@@ -437,6 +417,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_rays-blue-jays-live-streaming-593519184"
+            },
             {
                 "source": "echo",
                 "id": "tampa-bay-rays-vs-toronto-blue-jays-baseball-179898"
@@ -480,6 +464,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_red-sox-diamondbacks-live-streaming-593519616"
+            },
+            {
                 "source": "echo",
                 "id": "boston-red-sox-vs-arizona-diamondbacks-baseball-179909"
             },
@@ -507,6 +495,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_mets-padres-live-streaming-593520048"
+            },
             {
                 "source": "echo",
                 "id": "new-york-mets-vs-san-diego-padres-baseball-179901"
@@ -536,6 +528,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_twins-braves-live-streaming-593521344"
+            },
+            {
                 "source": "echo",
                 "id": "minnesota-twins-vs-atlanta-braves-baseball-179917"
             },
@@ -564,6 +560,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_royals-athletics-live-streaming-593520480"
+            },
+            {
                 "source": "echo",
                 "id": "kansas-city-royals-vs-athletics-baseball-179904"
             },
@@ -591,6 +591,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_brewers-mariners-live-streaming-593520912"
+            },
             {
                 "source": "echo",
                 "id": "milwaukee-brewers-vs-seattle-mariners-baseball-179896"
