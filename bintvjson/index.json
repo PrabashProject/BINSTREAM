@@ -28,30 +28,6 @@
         ]
     },
     {
-        "id": "ppv-fenerbahce-vs-lyon",
-        "title": "Fenerbahce vs. Lyon",
-        "category": "football",
-        "date": 1787079600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8bCHHCQEECRABjYONkoQ6sqvWLgEESCzKQa+YgXGQMGcCoHLIWxBTk9AoSKbZ6YQsCS4FZyEwbk49YVJ6AmVyEN1IiCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Fenerbahce",
-                "badge": ""
-            },
-            "away": {
-                "name": "Lyon",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-fenerbahce-vs-lyon"
-            }
-        ]
-    },
-    {
         "id": "levski-sofia-vs-aek-athens-2570475",
         "title": "Levski Sofia vs AEK Athens",
         "category": "football",
@@ -133,6 +109,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-fenerbah-e-vs-lyon"
+            },
             {
                 "source": "delta",
                 "id": "live_uefa-champions-league-playoff-round_fenerbahce-lyon-live-streaming-605350800"
