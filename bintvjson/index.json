@@ -228,30 +228,6 @@
         ]
     },
     {
-        "id": "barcelona-vs-al-ahly-2549460",
-        "title": "Barcelona vs Al Ahly",
-        "category": "football",
-        "date": 1787162400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMjWEjgEEAGNswKuKUrZy2SC0gYIFCGW6SIWWVlyTBnXtJ6Qo8hFBhB0gopTlCwJLjmehF1YnKTJPd3hyFxlSGSA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Barcelona",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huIFAnbYQ6gCYhEKEBBAwQB06fgEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Al Ahly",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCqQfECRDww3EHo1a9EXPrUoQMAhSZ8UXMGR315o+01phHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-barcelona-vs-al-ahly"
-            }
-        ]
-    },
-    {
         "id": "minnesota-twins-vs-atlanta-braves-2388793",
         "title": "Minnesota Twins vs Atlanta Braves",
         "category": "baseball",
@@ -272,10 +248,6 @@
             {
                 "source": "admin",
                 "id": "ppv-atlanta-braves-vs-minnesota-twins"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_twins-braves-live-streaming-593567136"
             },
             {
                 "source": "echo",
@@ -301,10 +273,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-san-diego-padres-vs-new-york-mets"
-            },
             {
                 "source": "golf",
                 "id": "470"
@@ -512,6 +480,32 @@
             {
                 "source": "golf",
                 "id": "475"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-01-super-dirtcar-series-utica-rome-ppv-01",
+        "title": "Super DIRTcar Series Utica Rome \ud83d\udca5",
+        "category": "other",
+        "date": 1787179500000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-01-super-dirtcar-series-utica-rome-ppv-01"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-02-millbridge-sprints-ppv-02",
+        "title": " Millbridge Sprints \ud83d\udd25",
+        "category": "other",
+        "date": 1787181300000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-02-millbridge-sprints-ppv-02"
             }
         ]
     },
@@ -836,6 +830,19 @@
             {
                 "source": "golf",
                 "id": "478"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-03-floracing-night-in-america-mason-city-ppv-03",
+        "title": "FloRacing Night in America Mason City  \u2b50",
+        "category": "other",
+        "date": 1787183100000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-03-floracing-night-in-america-mason-city-ppv-03"
             }
         ]
     }
