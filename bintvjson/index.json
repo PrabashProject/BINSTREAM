@@ -50,10 +50,6 @@
             {
                 "source": "delta",
                 "id": "live_mls_portland-san-diego-live-streaming-538751088"
-            },
-            {
-                "source": "echo",
-                "id": "portland-timbers-vs-san-diego-football-1490405"
             }
         ]
     },
@@ -82,10 +78,6 @@
             {
                 "source": "delta",
                 "id": "live_mls_vancouver-houston-live-streaming-538751520"
-            },
-            {
-                "source": "echo",
-                "id": "vancouver-whitecaps-vs-houston-dynamo-football-1490404"
             }
         ]
     },
@@ -114,10 +106,6 @@
             {
                 "source": "delta",
                 "id": "live_mls_la-galaxy-san-jose-live-streaming-538750656"
-            },
-            {
-                "source": "echo",
-                "id": "los-angeles-galaxy-vs-san-jose-earthquakes-football-1490403"
             }
         ]
     },
@@ -146,78 +134,6 @@
         ]
     },
     {
-        "id": "ppv-colorado-rapids-vs-lafc",
-        "title": "Colorado Rapids vs. LAFC",
-        "category": "football",
-        "date": 1787189400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ILCAjZSwCCBDBEKEPFkgSIGLOA0JVcaXnThIzdnEhl+kxIDGllOSkChIptMdhCwJLluOhMG5OKRMyRwJFciDtMgggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Colorado Rapids",
-                "badge": ""
-            },
-            "away": {
-                "name": "LAFC",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-colorado-rapids-vs-lafc"
-            }
-        ]
-    },
-    {
-        "id": "real-salt-lake-vs-fc-dallas-2407004",
-        "title": "Real Salt Lake vs FC Dallas",
-        "category": "football",
-        "date": 1787189400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFJQbAwbEDBDcQfPSClGDIRImMkCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Real Salt Lake",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwNUmBhgAEx4huIEkZA6QEEJcsxcuAhSZ8UXMGXhF5o501phXY0QggA"
-            },
-            "away": {
-                "name": "FC Dallas",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYcChDgNIbiBUgYuXYZCI9WvgQpMrXMGXhF5olMCa0wDsaIhA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-real-salt-lake-vs-fc-dallas"
-            }
-        ]
-    },
-    {
-        "id": "seattle-sounders-vs-austin-fc-2407003",
-        "title": "Seattle Sounders vs Austin FC",
-        "category": "football",
-        "date": 1787189400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQAYQSkIhzcQfQyANGSuiyCsFgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Seattle Sounders",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulx0wKEKPhgQIbiD4gYIACYG9F44hMEKTPii5gy2+vNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Austin FC",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24ha9MPxAATEKpIgUIAxDUhTOPiD4EKTG1zBl4ReaJTAmtME7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-seattle-sounders-fc-vs-austin-fc"
-            }
-        ]
-    },
-    {
         "id": "colorado-rockies-vs-los-angeles-dodgers-2388784",
         "title": "Colorado Rockies vs Los Angeles Dodgers",
         "category": "baseball",
@@ -238,54 +154,6 @@
             {
                 "source": "golf",
                 "id": "483"
-            }
-        ]
-    },
-    {
-        "id": "houston-astros-vs-los-angeles-angels-2388782",
-        "title": "Houston Astros vs Los Angeles Angels",
-        "category": "baseball",
-        "date": 1787184600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLOSTAADCD6wQ3PSBMkQKQyatmSBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Houston Astros",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA"
-            },
-            "away": {
-                "name": "Los Angeles Angels",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "482"
-            }
-        ]
-    },
-    {
-        "id": "texas-rangers-vs-washington-nationals-2388776",
-        "title": "Texas Rangers vs Washington Nationals",
-        "category": "baseball",
-        "date": 1787184300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWgNGiQIRNxB8dIEiBQh9R4yBgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Texas Rangers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Washington Nationals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "481"
             }
         ]
     },
