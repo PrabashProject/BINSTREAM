@@ -54,10 +54,6 @@
             {
                 "source": "admin",
                 "id": "ppv-connecticut-sun-vs-las-vegas-aces"
-            },
-            {
-                "source": "delta",
-                "id": "live_wnba_aces-sun-live-streaming-524086416"
             }
         ]
     },
@@ -82,10 +78,6 @@
             {
                 "source": "admin",
                 "id": "ppv-atlanta-dream-vs-los-angeles-sparks"
-            },
-            {
-                "source": "delta",
-                "id": "live_wnba_sparks-dream-live-streaming-524086848"
             }
         ]
     },
@@ -152,25 +144,6 @@
         ]
     },
     {
-        "id": "tna-impact--1153-2580341",
-        "title": "TNA iMPACT #1153",
-        "category": "fight",
-        "date": 1787274000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-tna-impact"
-            },
-            {
-                "source": "echo",
-                "id": "tna-impact-tna-1"
-            }
-        ]
-    },
-    {
         "id": "houston-astros-vs-los-angeles-angels-2388795",
         "title": "Houston Astros vs Los Angeles Angels",
         "category": "baseball",
@@ -188,10 +161,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-los-angeles-angels-vs-houston-astros"
-            },
             {
                 "source": "golf",
                 "id": "493"
@@ -485,6 +454,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-atlanta-braves-vs-milwaukee-brewers"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_brewers-braves-live-streaming-593639280"
             },
@@ -516,6 +489,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-st-louis-cardinals-vs-philadelphia-phillies"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_phillies-cardinals-live-streaming-593639712"
@@ -553,6 +530,10 @@
                 "id": "ppv-new-york-jets-at-pittsburgh-steelers"
             },
             {
+                "source": "delta",
+                "id": "live_nfl-preseason_steelers-jets-live-streaming-587571408"
+            },
+            {
                 "source": "echo",
                 "id": "pittsburgh-steelers-vs-new-york-jets-american-football-21483"
             },
@@ -580,6 +561,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-toronto-blue-jays-vs-new-york-yankees"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_yankees-blue-jays-live-streaming-593640576"
@@ -613,6 +598,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-san-francisco-giants-vs-boston-red-sox"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_red-sox-giants-live-streaming-593641008"
             },
@@ -644,6 +633,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-washington-nationals-vs-miami-marlins"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_marlins-nationals-live-streaming-593641440"
@@ -677,6 +670,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-tampa-bay-rays-vs-baltimore-orioles"
+            },
+            {
                 "source": "delta",
                 "id": "live_mlb_orioles-rays-live-streaming-593640144"
             },
@@ -687,6 +684,62 @@
             {
                 "source": "golf",
                 "id": "499"
+            }
+        ]
+    },
+    {
+        "id": "washington-mystics-vs-minnesota-lynx-2449183",
+        "title": "Washington Mystics vs Minnesota Lynx",
+        "category": "basketball",
+        "date": 1787355000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjkawKMAIAMIbiCkgSRjZZAgIZ3AWBIKfYbPq6VmtmDLwiWWU0mWjAfMVEIIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Washington Mystics",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA"
+            },
+            "away": {
+                "name": "Minnesota Lynx",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgkYFGF6skIbiBIHcRkCAAmekChDwCFJnxRcwZeEXminTWmBdjREEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-minnesota-lynx-vs-washington-mystics"
+            },
+            {
+                "source": "delta",
+                "id": "live_wnba_mystics-lynx-live-streaming-524087712"
+            }
+        ]
+    },
+    {
+        "id": "chicago-sky-vs-golden-state-valkyries-2449182",
+        "title": "Chicago Sky vs Golden State Valkyries",
+        "category": "basketball",
+        "date": 1787355000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52pEChBSSICNhAwQWEAGMFq2VPVVZI7MHjAIIGsPVmV8kAeA0spFOTkChegvsdhCwJLhWOhMG5OOWFSendDMCCjcIggA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Chicago Sky",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgpuSLhDcQJXVr2q9KLQBMCFJnxRcwZeEXmibTWmDtjREIA"
+            },
+            "away": {
+                "name": "Golden State Valkyries",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgoMXMAAmwJCG4g+IRCGP6QJC6uWEYwJnxRcwZeEXminTWmBdjREEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-golden-state-valkyries-vs-chicago-sky"
+            },
+            {
+                "source": "delta",
+                "id": "live_wnba_sky-valkyries-live-streaming-524087280"
             }
         ]
     },
@@ -711,6 +764,10 @@
             {
                 "source": "admin",
                 "id": "ppv-carolina-panthers-at-jacksonville-jaguars"
+            },
+            {
+                "source": "delta",
+                "id": "live_nfl-preseason_jaguars-panthers-live-streaming-587571840"
             },
             {
                 "source": "echo",
@@ -740,6 +797,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-new-york-mets-vs-chicago-white-sox"
+            },
             {
                 "source": "delta",
                 "id": "live_mlb_white-sox-mets-live-streaming-593641872"
