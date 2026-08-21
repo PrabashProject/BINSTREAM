@@ -1,5 +1,34 @@
 [
     {
+        "id": "bkfc-fight-night-mohegan-sun-henry-vs-trinidad-snake-2546545",
+        "title": "BKFC Fight Night Mohegan Sun Henry vs Trinidad-Snake",
+        "category": "fight",
+        "date": 1787349600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "BKFC Fight Night Mohegan Sun Henry"
+            },
+            "away": {
+                "name": "Trinidad-Snake"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_bkfc-fight-night-henry-vs-trinidad-snake-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-03-bkfc-fight-night-henry-v-trinidad-snake-ppv-03"
+            },
+            {
+                "source": "golf",
+                "id": "536"
+            }
+        ]
+    },
+    {
         "id": "milwaukee-brewers-vs-atlanta-braves-2388805",
         "title": "Milwaukee Brewers vs Atlanta Braves",
         "category": "baseball",
@@ -32,34 +61,6 @@
             {
                 "source": "golf",
                 "id": "494"
-            }
-        ]
-    },
-    {
-        "id": "arsenal-vs-coventry-city-2494000",
-        "title": "Arsenal vs Coventry City",
-        "category": "football",
-        "date": 1787338800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFMCTii+ENxB8QRiCBIgTKXEZBSCmin2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Arsenal",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIpi8gCakQ3EBp24QEPSD4gYIRCAIUmfNWzBl4ReaLVNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Coventry City",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLgUYbmHWJuICLj0gYIRIj4gUIC4RjAmfFFzBl4ReaMdNaYZ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live_premier-league_arsenal-coventry-live-streaming-607223952"
-            },
-            {
-                "source": "golf",
-                "id": "455"
             }
         ]
     },
@@ -97,35 +98,6 @@
             {
                 "source": "echo",
                 "id": "atp-wta-cincinnati-open-tn-1"
-            }
-        ]
-    },
-    {
-        "id": "bkfc-fight-night-mohegan-sun-henry-vs-trinidad-snake-2546545",
-        "title": "BKFC Fight Night Mohegan Sun Henry vs Trinidad-Snake",
-        "category": "fight",
-        "date": 1787349600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "BKFC Fight Night Mohegan Sun Henry"
-            },
-            "away": {
-                "name": "Trinidad-Snake"
-            }
-        },
-        "sources": [
-            {
-                "source": "delta",
-                "id": "live-event_bkfc-fight-night-henry-vs-trinidad-snake-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-03-bkfc-fight-night-henry-v-trinidad-snake-ppv-03"
-            },
-            {
-                "source": "golf",
-                "id": "536"
             }
         ]
     },
