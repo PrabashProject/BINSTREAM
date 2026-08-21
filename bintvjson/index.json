@@ -193,14 +193,6 @@
                 "id": "ppv-los-angeles-angels-vs-houston-astros"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_astros-angels-live-streaming-593607312"
-            },
-            {
-                "source": "echo",
-                "id": "houston-astros-vs-los-angeles-angels-baseball-179931"
-            },
-            {
                 "source": "golf",
                 "id": "493"
             }
@@ -225,10 +217,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-washington-nationals-vs-texas-rangers"
-            },
-            {
                 "source": "golf",
                 "id": "492"
             }
@@ -244,30 +232,6 @@
             {
                 "source": "echo",
                 "id": "ppv-event-01-southern-nationals-toccoa-ppv-01"
-            }
-        ]
-    },
-    {
-        "id": "dallas-wings-vs-indiana-fever-2449179",
-        "title": "Dallas Wings vs Indiana Fever",
-        "category": "basketball",
-        "date": 1787270400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOOHhEBYENxBSQJPSBSmQFiAdMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Dallas Wings",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm-ENw2wwfDSBL7chkIZQhdMAhSZ8UXMGXhF5ou01pgHY0RCA"
-            },
-            "away": {
-                "name": "Indiana Fever",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow4GCCgoQibiBIHcRkCAAmITTj4EKTG1zBl4ReaJTAmtME7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-indiana-fever-vs-dallas-wings"
             }
         ]
     },
@@ -289,18 +253,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-las-vegas-raiders-at-houston-texans"
-            },
-            {
-                "source": "delta",
-                "id": "live_nfl-preseason_texans-raiders-live-streaming-587570112"
-            },
-            {
-                "source": "echo",
-                "id": "houston-texans-vs-las-vegas-raiders-american-football-21481"
-            },
             {
                 "source": "golf",
                 "id": "436"
@@ -380,23 +332,10 @@
         ]
     },
     {
-        "id": "1st-sprint-shootout-circuit-zandvoort-formula-1-2677",
-        "title": "1st Sprint Shootout | Circuit Zandvoort |",
-        "category": "motor-sports",
-        "date": 1787322600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "1st-sprint-shootout-circuit-zandvoort-formula-1-2677"
-            }
-        ]
-    },
-    {
         "id": "dutch-grand-prix-practice-1-2408177",
         "title": "Dutch Grand Prix Practice 1",
         "category": "motor-sports",
-        "date": 1787322600000,
+        "date": 1787308200000,
         "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJnzB9cITVJDddRiCBQ6YIExcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
         "popular": true,
         "teams": {
@@ -410,11 +349,24 @@
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-dutch-grand-prix-practice-1"
+                "id": "ppv-dutch-grand-prix-sprint-qualifying"
             },
             {
                 "source": "golf",
                 "id": "32"
+            }
+        ]
+    },
+    {
+        "id": "1st-sprint-shootout-circuit-zandvoort-formula-1-2677",
+        "title": "1st Sprint Shootout | Circuit Zandvoort |",
+        "category": "motor-sports",
+        "date": 1787322600000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "1st-sprint-shootout-circuit-zandvoort-formula-1-2677"
             }
         ]
     },
@@ -533,6 +485,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_brewers-braves-live-streaming-593639280"
+            },
+            {
                 "source": "echo",
                 "id": "milwaukee-brewers-vs-atlanta-braves-baseball-179941"
             },
@@ -560,6 +516,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_phillies-cardinals-live-streaming-593639712"
+            },
             {
                 "source": "echo",
                 "id": "philadelphia-phillies-vs-stlouis-cardinals-baseball-179939"
@@ -621,6 +581,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_yankees-blue-jays-live-streaming-593640576"
+            },
+            {
                 "source": "echo",
                 "id": "new-york-yankees-vs-toronto-blue-jays-baseball-179940"
             },
@@ -648,6 +612,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_red-sox-giants-live-streaming-593641008"
+            },
             {
                 "source": "echo",
                 "id": "boston-red-sox-vs-san-francisco-giants-baseball-179947"
@@ -677,6 +645,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_mlb_marlins-nationals-live-streaming-593641440"
+            },
+            {
                 "source": "echo",
                 "id": "miami-marlins-vs-washington-nationals-baseball-179935"
             },
@@ -704,6 +676,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_orioles-rays-live-streaming-593640144"
+            },
             {
                 "source": "echo",
                 "id": "baltimore-orioles-vs-tampa-bay-rays-baseball-179948"
@@ -764,6 +740,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_white-sox-mets-live-streaming-593641872"
+            },
             {
                 "source": "echo",
                 "id": "chicago-white-sox-vs-new-york-mets-baseball-179942"
