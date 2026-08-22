@@ -142,14 +142,6 @@
                 "id": "ppv-lincoln-city-vs-portsmouth"
             },
             {
-                "source": "delta",
-                "id": "live_championship_lincoln-portsmouth-live-streaming-607234752"
-            },
-            {
-                "source": "echo",
-                "id": "lincoln-vs-portsmouth-football-1563098"
-            },
-            {
                 "source": "golf",
                 "id": "523"
             }
@@ -204,14 +196,6 @@
             {
                 "source": "admin",
                 "id": "ppv-hull-city-vs-manchester-united"
-            },
-            {
-                "source": "delta",
-                "id": "live_premier-league_hull-man-utd-live-streaming-607224384"
-            },
-            {
-                "source": "echo",
-                "id": "hull-city-vs-manchester-united-football-1557368"
             },
             {
                 "source": "golf",
@@ -375,6 +359,20 @@
             {
                 "source": "admin",
                 "id": "ppv-pro-motocross-budds-creek"
+            }
+        ]
+    },
+    {
+        "id": "ppv-goal-rush",
+        "title": "Goal Rush",
+        "category": "football",
+        "date": 1787407200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-goal-rush"
             }
         ]
     },
@@ -779,20 +777,6 @@
             {
                 "source": "echo",
                 "id": "lens-vs-auxerre-football-1552732"
-            }
-        ]
-    },
-    {
-        "id": "ppv-goal-rush",
-        "title": "Goal Rush",
-        "category": "football",
-        "date": 1787414400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-goal-rush"
             }
         ]
     },
