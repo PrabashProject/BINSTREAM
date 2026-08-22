@@ -1,5 +1,33 @@
 [
     {
+        "id": "south-sydney-rabbitohs-vs-new-zealand-warriors-2417358",
+        "title": "South Sydney Rabbitohs vs New Zealand Warriors",
+        "category": "rugby",
+        "date": 1787383800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRFNwg+ITYm7bdIYyRAHEplMYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "South Sydney Rabbitohs",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw2IKKMIwQ3ECX25VIPkYAmJkwQpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "New Zealand Warriors",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gQDECmAAGMKu4gAJiAhGQiU6tXG+BCk1tcwZeEXmitTWmGdjREIA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-rabbitohs-vs-warriors"
+            },
+            {
+                "source": "echo",
+                "id": "south-sydney-rabbitohs-vs-new-zealand-warriors-game-3373252"
+            }
+        ]
+    },
+    {
         "id": "melbourne-football-club-vs-western-bulldogs-2568208",
         "title": "Melbourne Football Club vs Western Bulldogs",
         "category": "afl",
@@ -101,30 +129,6 @@
         ]
     },
     {
-        "id": "south-sydney-rabbitohs-vs-new-zealand-warriors-2417358",
-        "title": "South Sydney Rabbitohs vs New Zealand Warriors",
-        "category": "rugby",
-        "date": 1787383800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRFNwg+ITYm7bdIYyRAHEplMYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "South Sydney Rabbitohs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw2IKKMIwQ3ECX25VIPkYAmJkwQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "New Zealand Warriors",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gQDECmAAGMKu4gAJiAhGQiU6tXG+BCk1tcwZeEXmitTWmGdjREIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-rabbitohs-vs-warriors"
-            }
-        ]
-    },
-    {
         "id": "st--george-illawara-dragons-vs-canterbury-bankstown-bulldogs-2417359",
         "title": "St. George Illawara Dragons vs Canterbury Bankstown Bulldogs",
         "category": "rugby",
@@ -145,6 +149,10 @@
             {
                 "source": "admin",
                 "id": "ppv-dragons-vs-bulldogs"
+            },
+            {
+                "source": "echo",
+                "id": "st-george-illawarra-dragons-vs-canterbury-bulldogs-game-236363"
             }
         ]
     },
@@ -185,25 +193,6 @@
         ]
     },
     {
-        "id": "dutch-grand-prix-sprint-2408179",
-        "title": "Dutch Grand Prix Sprint",
-        "category": "motor-sports",
-        "date": 1787392800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBggpYGUlwhuIPsZAaUBrRpyNgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-dutch-grand-prix-qualifying"
-            },
-            {
-                "source": "golf",
-                "id": "34"
-            }
-        ]
-    },
-    {
         "id": "adelaide-football-club-vs-greater-western-sydney-giants-2568210",
         "title": "Adelaide Football Club vs Greater Western Sydney Giants",
         "category": "afl",
@@ -223,7 +212,20 @@
         "sources": [
             {
                 "source": "echo",
-                "id": "adelaide-crows-vs-greater-western-sydney-giants-australian-football-3543"
+                "id": "adelaide-crows-vs-greater-western-sydney-giants-australian-football-3619"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-06-eternal-mma-109-ppv-06",
+        "title": "Eternal MMA 109",
+        "category": "other",
+        "date": 1787396400000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-06-eternal-mma-109-ppv-06"
             }
         ]
     },
@@ -793,6 +795,49 @@
         ]
     },
     {
+        "id": "st-helens-vs-castleford-tigers-2396005",
+        "title": "St Helens vs Castleford Tigers",
+        "category": "rugby",
+        "date": 1787407200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUbW5hRVPiG4g9UkCRBmziUyhAwCwJBT7DZ9FNrYou28vSyzPTLRg7vSiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "St Helens",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCVgYQbT4huIbTBAATI7hAGQeswQpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "Castleford Tigers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJlu0FCC3cQfEABMQOnYYghEe5YRjAmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "st-helens-vs-castleford-tigers-game-184842"
+            }
+        ]
+    },
+    {
+        "id": "dutch-grand-prix-sprint-2408179",
+        "title": "Dutch Grand Prix Sprint",
+        "category": "motor-sports",
+        "date": 1787407200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBggpYGUlwhuIPsZAaUBrRpyNgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-dutch-grand-prix-sprint"
+            },
+            {
+                "source": "golf",
+                "id": "34"
+            }
+        ]
+    },
+    {
         "id": "athletic-bilbao-vs-sevilla-2506180",
         "title": "Athletic Bilbao vs Sevilla",
         "category": "football",
@@ -1213,6 +1258,35 @@
         ]
     },
     {
+        "id": "live-event_george-liddard-vs-dario-morello-live-stream",
+        "title": "George Liddard vs Dario Morello",
+        "category": "fight",
+        "date": 1787421600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "George Liddard"
+            },
+            "away": {
+                "name": "Dario Morello"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_george-liddard-vs-dario-morello-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-07-liddard-v-morello-ppv-07"
+            },
+            {
+                "source": "golf",
+                "id": "560"
+            }
+        ]
+    },
+    {
         "id": "ppv-rhein-fire-at-london-warriors",
         "title": "Rhein Fire at London Warriors",
         "category": "american-football",
@@ -1481,6 +1555,30 @@
         ]
     },
     {
+        "id": "catalans-dragons-vs-hull-f-c--2396006",
+        "title": "Catalans Dragons vs Hull F.C.",
+        "category": "rugby",
+        "date": 1787425200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEH3LwwJXOxDcNIKSF0hzIRLpTmCwJBT7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Catalans Dragons",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOoATMOBQaQ3EBFwhVIFCER8D+5YRjAmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Hull F.C.",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4ATfsCa0kIbiD4hVu40YggSIGOYIUmfFFzBl4ReaIdbgYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "catalans-dragons-vs-hull-fc-game-37322"
+            }
+        ]
+    },
+    {
         "id": "espanyol-vs-real-madrid-2506183",
         "title": "Espanyol vs Real Madrid",
         "category": "football",
@@ -1625,7 +1723,7 @@
         "title": "UFC Fight Night 285 Hernandez vs Rodrigues",
         "category": "fight",
         "date": 1787432400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMhBA0aJECinZsIAMYiQw4PGA0sc4JKzaQk4epUKII0iBgr94kSnKWBQqwUVOwhYElzKnITBuTksNMicPLTBg-VJ9IA.webp",
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtUph+KEHF4gDWECeOJju6SBIhm+YEgpYRcxijCqUPD+UaaxXvb0YB7iYhBAA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -1645,8 +1743,42 @@
                 "id": "live-event_ufc-fight-night-hernandez-vs-rodrigues-live-stream"
             },
             {
+                "source": "echo",
+                "id": "ppv-event-01-ufc-fight-night-hernandez-v-rodrigues-ppv-01"
+            },
+            {
                 "source": "golf",
                 "id": "433"
+            }
+        ]
+    },
+    {
+        "id": "pfl-tampa-cyborg-vs-vieira-2514738",
+        "title": "PFL Tampa Cyborg vs Vieira",
+        "category": "fight",
+        "date": 1787434200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrIAMIGCBSsBIXiCwgzpxGd2JTzfMCQUsIuYxRhV+jh-KNqc-Xt6MA9xMQggA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "PFL Tampa Cyborg"
+            },
+            "away": {
+                "name": "Vieira"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_pfl-tampa-cyborg-vs-vieira-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-08-pfl-cyborg-v-vieira-ppv-08"
+            },
+            {
+                "source": "golf",
+                "id": "561"
             }
         ]
     },
