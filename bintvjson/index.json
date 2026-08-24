@@ -1,59 +1,5 @@
 [
     {
-        "id": "ppv-wwe-monday-night-raw",
-        "title": "WWE Monday Night RAW",
-        "category": "fight",
-        "date": 1787608800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCohEiGlJTAIIYcuCIJWNSCVZJpEJt0SammsMUGQIYFMS6IC-mEEim2emELAkuAMYKhZ1YIVzIFAjVyZ0VSRSA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-wwe-monday-night-raw"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_monday-night-raw-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-01-wwe-monday-night-raw-ppv-01"
-            },
-            {
-                "source": "golf",
-                "id": "604"
-            }
-        ]
-    },
-    {
-        "id": "m-laga-vs-deportivo-de-a-coru-a-2506182",
-        "title": "M\u00e1laga vs Deportivo de A Coru\u00f1a",
-        "category": "football",
-        "date": 1787599800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "M\u00e1laga",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJxuYFGAAm2ENxAQQfEIhIgYuEChBnGFJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Deportivo de A Coru\u00f1a",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATXAzCqwfLSG4g+IY4hj6QiAyTUEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-m-laga-vs-deportivo"
-            },
-            {
-                "source": "delta",
-                "id": "live_laliga_malaga-deportivo-live-streaming-608507424"
-            }
-        ]
-    },
-    {
         "id": "detroit-tigers-vs-tampa-bay-rays-2388850",
         "title": "Detroit Tigers vs Tampa Bay Rays",
         "category": "baseball",
@@ -122,6 +68,27 @@
             {
                 "source": "golf",
                 "id": "556"
+            }
+        ]
+    },
+    {
+        "id": "live-event_monday-night-raw-live-stream",
+        "title": "Monday Night Raw",
+        "category": "fight",
+        "date": 1787608800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live-event_monday-night-raw-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-01-wwe-monday-night-raw-ppv-01"
+            },
+            {
+                "source": "golf",
+                "id": "604"
             }
         ]
     },
