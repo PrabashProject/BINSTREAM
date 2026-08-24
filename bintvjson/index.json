@@ -1,5 +1,31 @@
 [
     {
+        "id": "ppv-wwe-monday-night-raw",
+        "title": "WWE Monday Night RAW",
+        "category": "fight",
+        "date": 1787608800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCohEiGlJTAIIYcuCIJWNSCVZJpEJt0SammsMUGQIYFMS6IC-mEEim2emELAkuAMYKhZ1YIVzIFAjVyZ0VSRSA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-wwe-monday-night-raw"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_monday-night-raw-live-stream"
+            },
+            {
+                "source": "echo",
+                "id": "ppv-event-01-wwe-monday-night-raw-ppv-01"
+            },
+            {
+                "source": "golf",
+                "id": "604"
+            }
+        ]
+    },
+    {
         "id": "m-laga-vs-deportivo-de-a-coru-a-2506182",
         "title": "M\u00e1laga vs Deportivo de A Coru\u00f1a",
         "category": "football",
@@ -24,56 +50,6 @@
             {
                 "source": "delta",
                 "id": "live_laliga_malaga-deportivo-live-streaming-608507424"
-            }
-        ]
-    },
-    {
-        "id": "fulham-vs-chelsea-2494009",
-        "title": "Fulham vs Chelsea",
-        "category": "football",
-        "date": 1787598000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGaN4oGdENxB8QRkiBQhE+kzhQFgSCn2Gz6KMCu1s35ellnamtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Fulham",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnB8wagCZgUkENxAQDIY8f36YJjQQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Chelsea",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgNgAExBRRYENxB8QRnJsTGQpghSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "464"
-            }
-        ]
-    },
-    {
-        "id": "ppv-wwe-monday-night-raw",
-        "title": "WWE Monday Night RAW",
-        "category": "fight",
-        "date": 1787608800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCohEiGlJTAIIYcuCIJWNSCVZJpEJt0SammsMUGQIYFMS6IC-mEEim2emELAkuAMYKhZ1YIVzIFAjVyZ0VSRSA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-wwe-monday-night-raw"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_monday-night-raw-live-stream"
-            },
-            {
-                "source": "echo",
-                "id": "ppv-event-01-wwe-monday-night-raw-ppv-01"
-            },
-            {
-                "source": "golf",
-                "id": "604"
             }
         ]
     },
