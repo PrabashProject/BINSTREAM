@@ -120,30 +120,6 @@
         ]
     },
     {
-        "id": "malm--vs-djurg-rden-2477935",
-        "title": "Malm\u00f6 vs Djurg\u00e5rden",
-        "category": "football",
-        "date": 1787590800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGA1J2IeLBDcQfECYi6QJEyCkgzIAsCQU+w2fQ0qUXMGT30ssl5MtGA+YqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Malm\u00f6",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhARcIFMCRgkdENxB9DGk2pghEB5YRjAmfTWzBl4ReaM1NaYZ2NEQgA"
-            },
-            "away": {
-                "name": "Djurg\u00e5rden",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgyZPtRIhuICLhDb9u3fpQh4BCkz4oua8vXmi7TWmDVjREIA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-malm-ff-vs-djurg-rden"
-            }
-        ]
-    },
-    {
         "id": "ppv-wwe-monday-night-raw",
         "title": "WWE Monday Night RAW",
         "category": "fight",
@@ -154,6 +130,10 @@
             {
                 "source": "admin",
                 "id": "ppv-wwe-monday-night-raw"
+            },
+            {
+                "source": "delta",
+                "id": "live-event_monday-night-raw-live-stream"
             },
             {
                 "source": "echo",
