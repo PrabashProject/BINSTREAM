@@ -24,10 +24,6 @@
             {
                 "source": "delta",
                 "id": "live_leagues-cup_leon-salt-lake-live-streaming-608531616"
-            },
-            {
-                "source": "echo",
-                "id": "leon-vs-real-salt-lake-football-1627559"
             }
         ]
     },
@@ -78,14 +74,6 @@
                 "id": "ppv-cincinnati-reds-vs-san-francisco-giants"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_giants-reds-live-streaming-593765856"
-            },
-            {
-                "source": "echo",
-                "id": "san-francisco-giants-vs-cincinnati-reds-baseball-179995"
-            },
-            {
                 "source": "golf",
                 "id": "588"
             }
@@ -112,14 +100,6 @@
             {
                 "source": "admin",
                 "id": "ppv-chicago-cubs-vs-arizona-diamondbacks"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_diamondbacks-cubs-live-streaming-593764128"
-            },
-            {
-                "source": "echo",
-                "id": "arizona-diamondbacks-vs-chicago-cubs-baseball-180004"
             },
             {
                 "source": "golf",
@@ -150,14 +130,6 @@
                 "id": "ppv-minnesota-twins-vs-athletics"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_athletics-twins-live-streaming-593764560"
-            },
-            {
-                "source": "echo",
-                "id": "athletics-vs-minnesota-twins-baseball-180003"
-            },
-            {
                 "source": "golf",
                 "id": "586"
             }
@@ -186,14 +158,6 @@
                 "id": "ppv-philadelphia-phillies-vs-seattle-mariners"
             },
             {
-                "source": "delta",
-                "id": "live_mlb_mariners-phillies-live-streaming-593765424"
-            },
-            {
-                "source": "echo",
-                "id": "seattle-mariners-vs-philadelphia-phillies-baseball-179994"
-            },
-            {
                 "source": "golf",
                 "id": "585"
             }
@@ -220,14 +184,6 @@
             {
                 "source": "admin",
                 "id": "ppv-pittsburgh-pirates-vs-san-diego-padres"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_padres-pirates-live-streaming-593764992"
-            },
-            {
-                "source": "echo",
-                "id": "san-diego-padres-vs-pittsburgh-pirates-baseball-179990"
             },
             {
                 "source": "golf",
@@ -361,6 +317,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-tampa-bay-rays-vs-detroit-tigers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_tigers-rays-live-streaming-593799120"
+            },
+            {
                 "source": "echo",
                 "id": "detroit-tigers-vs-tampa-bay-rays-baseball-180014"
             },
@@ -393,6 +357,10 @@
                 "id": "ppv-bradford-city-vs-burnley"
             },
             {
+                "source": "delta",
+                "id": "live_efl-cup_bradford-burnley-live-streaming-608854320"
+            },
+            {
                 "source": "echo",
                 "id": "bradford-vs-burnley-football-1623084"
             }
@@ -421,6 +389,10 @@
                 "id": "ppv-tottenham-hotspur-vs-charlton-athletic"
             },
             {
+                "source": "delta",
+                "id": "live_efl-cup_tottenham-charlton-live-streaming-608855184"
+            },
+            {
                 "source": "echo",
                 "id": "tottenham-vs-charlton-football-1623092"
             }
@@ -447,6 +419,10 @@
             {
                 "source": "admin",
                 "id": "ppv-newcastle-united-vs-west-bromwich-albion"
+            },
+            {
+                "source": "delta",
+                "id": "live_efl-cup_newcastle-west-brom-live-streaming-608854752"
             },
             {
                 "source": "echo",
@@ -501,6 +477,10 @@
                 "id": "ppv-preston-north-end-vs-everton"
             },
             {
+                "source": "delta",
+                "id": "live_efl-cup_preston-everton-live-streaming-608855616"
+            },
+            {
                 "source": "echo",
                 "id": "preston-vs-everton-football-1623101"
             }
@@ -527,6 +507,10 @@
             {
                 "source": "admin",
                 "id": "ppv-viking-fk-vs-dinamo-zagreb"
+            },
+            {
+                "source": "delta",
+                "id": "live_uefa-champions-league-playoff-round_viking-dinamo-live-streaming-608852592"
             },
             {
                 "source": "echo",
@@ -561,6 +545,10 @@
                 "id": "ppv-aek-athens-vs-levski-sofia"
             },
             {
+                "source": "delta",
+                "id": "live_uefa-champions-league-playoff-round_aek-levski-sofia-live-streaming-608851296"
+            },
+            {
                 "source": "echo",
                 "id": "aek-athens-fc-vs-levski-sofia-football-1622629"
             },
@@ -588,6 +576,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_uefa-champions-league-playoff-round_lyon-fenerbahce-live-streaming-608852160"
+            },
             {
                 "source": "echo",
                 "id": "lyon-vs-fenerbahce-football-1622630"
@@ -619,6 +611,10 @@
             {
                 "source": "admin",
                 "id": "ppv-nk-celje-vs-slovan-bratislava"
+            },
+            {
+                "source": "delta",
+                "id": "live_uefa-champions-league-playoff-round_celje-slovan-live-streaming-608851728"
             },
             {
                 "source": "echo",
@@ -653,6 +649,10 @@
                 "id": "ppv-real-madrid-vs-real-sociedad"
             },
             {
+                "source": "delta",
+                "id": "live_laliga_real-madrid-real-sociedad-live-streaming-608853024"
+            },
+            {
                 "source": "echo",
                 "id": "real-madrid-vs-real-sociedad-football-1570340"
             },
@@ -680,6 +680,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-chicago-cubs-vs-arizona-diamondbacks"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_diamondbacks-cubs-live-streaming-593799552"
+            },
             {
                 "source": "echo",
                 "id": "arizona-diamondbacks-vs-chicago-cubs-baseball-180018"
@@ -709,6 +717,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-cincinnati-reds-vs-san-francisco-giants"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_giants-reds-live-streaming-593799984"
+            },
+            {
                 "source": "echo",
                 "id": "san-francisco-giants-vs-cincinnati-reds-baseball-180009"
             },
@@ -736,6 +752,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-cleveland-guardians-vs-los-angeles-angels"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_angels-guardians-live-streaming-593800416"
+            },
             {
                 "source": "echo",
                 "id": "los-angeles-angels-vs-cleveland-guardians-baseball-180013"
@@ -765,6 +789,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-pittsburgh-pirates-vs-san-diego-padres"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_padres-pirates-live-streaming-593800848"
+            },
+            {
                 "source": "echo",
                 "id": "san-diego-padres-vs-pittsburgh-pirates-baseball-180010"
             },
@@ -792,6 +824,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-philadelphia-phillies-vs-seattle-mariners"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_mariners-phillies-live-streaming-593801280"
+            },
             {
                 "source": "echo",
                 "id": "seattle-mariners-vs-philadelphia-phillies-baseball-180008"
@@ -821,6 +861,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-boston-red-sox-vs-miami-marlins"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_marlins-red-sox-live-streaming-593801712"
+            },
+            {
                 "source": "echo",
                 "id": "miami-marlins-vs-boston-red-sox-baseball-180019"
             },
@@ -849,12 +897,48 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-colorado-rockies-vs-washington-nationals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_nationals-rockies-live-streaming-593802144"
+            },
+            {
                 "source": "echo",
                 "id": "washington-nationals-vs-colorado-rockies-baseball-180006"
             },
             {
                 "source": "golf",
                 "id": "596"
+            }
+        ]
+    },
+    {
+        "id": "connecticut-sun-vs-golden-state-valkyries-2449193",
+        "title": "Connecticut Sun vs Golden State Valkyries",
+        "category": "basketball",
+        "date": 1787785200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IECJARs2EFXEgAxiCyklIMsLkLxKYPJQ79wRMJGzFJ4BHWa9-MIPMEZ9wsCS5FeoY9bSzMj0XeHJHa1JrIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Connecticut Sun",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggo4JM1IhuIEntwgAJiD4gU5kKuWEYwJnxRcwZeEXminTWmBdjREEA"
+            },
+            "away": {
+                "name": "Golden State Valkyries",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgoMXMAAmwJCG4g+IRCGP6QJC6uWEYwJnxRcwZeEXminTWmBdjREEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-golden-state-valkyries-vs-connecticut-sun"
+            },
+            {
+                "source": "delta",
+                "id": "live_wnba_sun-valkyries-live-streaming-524093760"
             }
         ]
     },
@@ -876,6 +960,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-houston-astros-vs-new-york-yankees"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_yankees-astros-live-streaming-593802576"
+            },
             {
                 "source": "echo",
                 "id": "new-york-yankees-vs-houston-astros-baseball-180005"
@@ -905,6 +997,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-kansas-city-royals-vs-toronto-blue-jays"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_blue-jays-royals-live-streaming-593803008"
+            },
+            {
                 "source": "echo",
                 "id": "toronto-blue-jays-vs-kansas-city-royals-baseball-180007"
             },
@@ -932,6 +1032,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-milwaukee-brewers-vs-new-york-mets"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_mets-brewers-live-streaming-593803440"
+            },
             {
                 "source": "echo",
                 "id": "new-york-mets-vs-milwaukee-brewers-baseball-180012"
@@ -961,6 +1069,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-los-angeles-dodgers-vs-atlanta-braves"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_braves-dodgers-live-streaming-593803872"
+            },
+            {
                 "source": "echo",
                 "id": "atlanta-braves-vs-los-angeles-dodgers-baseball-180016"
             },
@@ -989,6 +1105,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-texas-rangers-vs-chicago-white-sox"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_white-sox-rangers-live-streaming-593804304"
+            },
+            {
                 "source": "echo",
                 "id": "chicago-white-sox-vs-texas-rangers-baseball-180015"
             },
@@ -1016,6 +1140,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-baltimore-orioles-vs-st-louis-cardinals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_cardinals-orioles-live-streaming-593804736"
+            },
             {
                 "source": "echo",
                 "id": "stlouis-cardinals-vs-baltimore-orioles-baseball-180011"
