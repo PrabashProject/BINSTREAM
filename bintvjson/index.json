@@ -1,46 +1,5 @@
 [
     {
-        "id": "us-open-roland-2026",
-        "title": "US Open \ud83c\udfbe",
-        "category": "other",
-        "date": 1788273000000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "us-open-roland-2026"
-            }
-        ]
-    },
-    {
-        "id": "parma-vs-cremonese-2579098",
-        "title": "Parma vs Cremonese",
-        "category": "football",
-        "date": 1788278400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBo0sIkAGNJwKiBlYQJcZoggdIWRoVlEKJSG3CzisqpAW5J-mEEim2emELAkue0PLdOCBcyEwJgeHInYCCyCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Cremonese",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMCnFhwibmtwg+ICCBj6zqkPAIUmfTWzBl4ReaM1NaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Parma",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATYEz64wqsChDcQJEFv1aYISzn0TCMDfxRcwZeEXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-parma-vs-cremonese"
-            },
-            {
-                "source": "echo",
-                "id": "parma-vs-cremonese-football-1629056"
-            }
-        ]
-    },
-    {
         "id": "halifax-town-vs-hartlepool-united-2528214",
         "title": "Halifax Town vs Hartlepool United",
         "category": "football",
@@ -115,6 +74,10 @@
                 "id": "ppv-portsmouth-vs-derby-county"
             },
             {
+                "source": "delta",
+                "id": "live_championship_portsmouth-derby-live-streaming-612544464"
+            },
+            {
                 "source": "echo",
                 "id": "portsmouth-vs-derby-football-1563121"
             }
@@ -173,6 +136,10 @@
             {
                 "source": "admin",
                 "id": "ppv-sheffield-united-vs-bolton-wanderers"
+            },
+            {
+                "source": "delta",
+                "id": "live_championship_sheffield-utd-bolton-live-streaming-612545328"
             }
         ]
     },
@@ -233,6 +200,90 @@
         ]
     },
     {
+        "id": "bromley-vs-leyton-orient-2500743",
+        "title": "Bromley vs Leyton Orient",
+        "category": "football",
+        "date": 1788288300000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBJg2plgYhuIPiFM4IGkCWMgYxgjop9hs+ijAqUXD+Xr7RXky0YB5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Bromley",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5huIAQAYwSHSHUATEEfUoQJEDFwaQIAhSZ8UXMGXhF5o501phXY0QggA"
+            },
+            "away": {
+                "name": "Leyton Orient",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4h6EECgbsQ3EABMQRo4dVHVKEHwIUm1rmDLwi80Vqa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-bromley-vs-leyton-orient"
+            },
+            {
+                "source": "echo",
+                "id": "bromley-vs-leyton-orient-football-1564273"
+            }
+        ]
+    },
+    {
+        "id": "doncaster-rovers-vs-notts-county-2500740",
+        "title": "Doncaster Rovers vs Notts County",
+        "category": "football",
+        "date": 1788288300000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiBiVYNENxB8QRnBBBSQGwzBAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Doncaster Rovers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjkAJrDAaQIbiAi59IGCESIca4wQpM+KLmDKr680faa0wjsaIhA"
+            },
+            "away": {
+                "name": "Notts County",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJRuYPmAAmsENxARcBkDBCIcWkHxAgCFJnxRcwZeEXminTWmBdjREEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-doncaster-rovers-vs-notts-county"
+            },
+            {
+                "source": "echo",
+                "id": "doncaster-vs-notts-county-football-1564275"
+            }
+        ]
+    },
+    {
+        "id": "leicester-city-vs-plymouth-argyle-2500734",
+        "title": "Leicester City vs Plymouth Argyle",
+        "category": "football",
+        "date": 1788288300000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCD7UBUDd00hDOCCCkgSpkBpQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Leicester City",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBRwfaCRDcQEXSAMGdiRFoAmBCkz4ouYMvCLzRtprTD2xoiEA"
+            },
+            "away": {
+                "name": "Plymouth Argyle",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgGsIIUbSQhuIACYhDKfSEQxcIPkcIxgTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-leicester-city-vs-plymouth-argyle"
+            },
+            {
+                "source": "echo",
+                "id": "leicester-vs-plymouth-football-1564277"
+            }
+        ]
+    },
+    {
         "id": "fleetwood-town-vs-oldham-athletic-2500182",
         "title": "Fleetwood Town vs Oldham Athletic",
         "category": "football",
@@ -289,6 +340,19 @@
         ]
     },
     {
+        "id": "us-open-roland-2026",
+        "title": "US Open \ud83c\udfbe",
+        "category": "other",
+        "date": 1788273000000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "us-open-roland-2026"
+            }
+        ]
+    },
+    {
         "id": "torino-vs-monza-2577931",
         "title": "Torino vs Monza",
         "category": "football",
@@ -309,6 +373,10 @@
             {
                 "source": "admin",
                 "id": "ppv-torino-vs-monza"
+            },
+            {
+                "source": "delta",
+                "id": "live_coppa-italia_torino-monza-live-streaming-612537552"
             },
             {
                 "source": "echo",
