@@ -1,5 +1,18 @@
 [
     {
+        "id": "us-open-roland-2026",
+        "title": "US Open \ud83c\udfbe",
+        "category": "other",
+        "date": 1788445800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "us-open-roland-2026"
+            }
+        ]
+    },
+    {
         "id": "fremantle-dockers-vs-hawthorn-hawks-australian-football-3625",
         "title": "Fremantle Dockers vs Hawthorn Hawks",
         "category": "afl",
@@ -41,31 +54,23 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-bulldogs-vs-broncos"
+                "source": "echo",
+                "id": "canterbury-bulldogs-vs-brisbane-broncos-game-236363"
             }
         ]
     },
     {
-        "id": "bulldogs-vs-broncos-game-236363",
-        "title": "Western Bulldogs vs Broncos",
-        "category": "rugby",
-        "date": 1788432600000,
+        "id": "omega-european-masters-2360231",
+        "title": "Omega European Masters",
+        "category": "golf",
+        "date": 1788393600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHHhg+YJLpAkQ3EHwMhz5mCETmpIFAWB6Y-YbPoowKlFy-l6WLI+TLRgXmKiEEA.webp",
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Western Bulldogs",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREAPrkGAY2bCe8MVXGEGrMGFz5DQA"
-            },
-            "away": {
-                "name": "Broncos",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IRChBqmdcgwDGzST3hiq3Al1ZgwufFaA"
-            }
-        },
+        "teams": null,
         "sources": [
             {
                 "source": "echo",
-                "id": "bulldogs-vs-broncos-game-236363"
+                "id": "omega-european-masters-dp-world-tour-game-162626"
             }
         ]
     },
@@ -370,6 +375,30 @@
             {
                 "source": "echo",
                 "id": "real-sociedad-vs-celta-vigo-football-1570392"
+            }
+        ]
+    },
+    {
+        "id": "bradford-bulls-vs-castleford-tigers-2396016",
+        "title": "Bradford Bulls vs Castleford Tigers",
+        "category": "rugby",
+        "date": 1788462000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPXhgQwGQAZmIbiD4gpIEiCtXE50-ALAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Bradford Bulls",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLYhRABjAgQ3HSD4gAJiAj69MPaZQEKTPii5gy8IvNEOmtME7GiIQA"
+            },
+            "away": {
+                "name": "Castleford Tigers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJlu0FCC3cQfEABMQOnYYghEe5YRjAmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "echo",
+                "id": "bradford-bulls-vs-castleford-tigers-game-37322"
             }
         ]
     },
