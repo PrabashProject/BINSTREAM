@@ -1,74 +1,5 @@
 [
     {
-        "id": "ppv-event-16-world-of-outlaws-sprint-cars-husets-ppv16",
-        "title": "World of Outlaws Sprint Cars Husets",
-        "category": "other",
-        "date": 1788739800000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "echo",
-                "id": "ppv-event-16-world-of-outlaws-sprint-cars-husets-ppv16"
-            }
-        ]
-    },
-    {
-        "id": "toluca-vs-monterrey-2599040",
-        "title": "Toluca vs Monterrey",
-        "category": "football",
-        "date": 1788743700000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRBUQMiCBggAxsHjYQclCCwhEKYNMXqV+kCXWmppkyDUxgEfSp17+YQSKbZ6YQsCS5FPSE3VgcJMj0CYzA3e1J7IA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Toluca",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgAJiCh8wq1dxAlcIRHuMh9IdQQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Monterrey",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT9gYYEhAoQ3XSD659JEBCMmAJroIUmfVWzBl4ReaNVNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-toluca-vs-monterrey"
-            },
-            {
-                "source": "echo",
-                "id": "toluca-vs-monterrey-football-1638066"
-            }
-        ]
-    },
-    {
-        "id": "cruz-azul-vs-santos-laguna-2487514",
-        "title": "Cruz Azul vs Santos Laguna",
-        "category": "football",
-        "date": 1788746400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiJgEIEOxDcQfXSAimQMECQshEfAsCQV7rEWM0qUXMGXhEssl5MtNqi9GFAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Cruz Azul",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgG0IuMCnYhuIPiAO6SIdYkT6YBCkz5a2YMvCLzRWprTAOxoiEA"
-            },
-            "away": {
-                "name": "Santos Laguna",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAM-ECn5gkoENxB8DGo4f2HEEAhSZ9NbMGXhF5ozU1pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-cruz-azul-vs-santos"
-            },
-            {
-                "source": "echo",
-                "id": "cruz-azul-vs-santos-laguna-football-1550956"
-            }
-        ]
-    },
-    {
         "id": "los-angeles-dodgers-vs-washington-nationals-2458195",
         "title": "Los Angeles Dodgers vs Washington Nationals",
         "category": "baseball",
@@ -101,6 +32,19 @@
             {
                 "source": "golf",
                 "id": "1004"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-16-world-of-outlaws-sprint-cars-husets-ppv16",
+        "title": "World of Outlaws Sprint Cars Husets",
+        "category": "other",
+        "date": 1788739800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "echo",
+                "id": "ppv-event-16-world-of-outlaws-sprint-cars-husets-ppv16"
             }
         ]
     },
@@ -153,6 +97,10 @@
             {
                 "source": "admin",
                 "id": "ppv-getafe-vs-celta-vigo"
+            },
+            {
+                "source": "delta",
+                "id": "live_laliga_getafe-celta-live-streaming-614104416"
             },
             {
                 "source": "echo",
@@ -251,6 +199,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-atlanta-braves-vs-philadelphia-phillies"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_phillies-braves-live-streaming-594216000"
+            },
+            {
                 "source": "echo",
                 "id": "philadelphia-phillies-vs-atlanta-braves-baseball-184973"
             },
@@ -278,6 +234,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-new-york-mets-vs-miami-marlins"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_marlins-mets-live-streaming-594216864"
+            },
             {
                 "source": "echo",
                 "id": "miami-marlins-vs-new-york-mets-baseball-184975"
@@ -307,6 +271,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-los-angeles-angels-vs-boston-red-sox"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_red-sox-angels-live-streaming-594217728"
+            },
+            {
                 "source": "echo",
                 "id": "boston-red-sox-vs-los-angeles-angels-baseball-184977"
             },
@@ -334,6 +306,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-cleveland-guardians-vs-baltimore-orioles"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_orioles-guardians-live-streaming-594217296"
+            },
             {
                 "source": "echo",
                 "id": "baltimore-orioles-vs-cleveland-guardians-baseball-184976"
@@ -363,6 +343,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-chicago-cubs-vs-milwaukee-brewers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_brewers-cubs-live-streaming-594218592"
+            },
+            {
                 "source": "echo",
                 "id": "milwaukee-brewers-vs-chicago-cubs-baseball-184979"
             },
@@ -391,12 +379,44 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-arizona-diamondbacks-vs-kansas-city-royals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_royals-diamondbacks-live-streaming-594218160"
+            },
+            {
                 "source": "echo",
                 "id": "kansas-city-royals-vs-arizona-diamondbacks-baseball-184978"
             },
             {
                 "source": "golf",
                 "id": "1009"
+            }
+        ]
+    },
+    {
+        "id": "hamilton-tiger-cats-vs-toronto-argonauts-2432586",
+        "title": "Hamilton Tiger-Cats vs Toronto Argonauts",
+        "category": "american-football",
+        "date": 1788805800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGG4hRIBppBapIRDBAptICLktmCwJBT7DZ9DSpRcwZeESyyPTLRgXmKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Hamilton Tiger-Cats",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm7Q+5MtxBaIuELr57DunDAIUmfFFzBl4ReaOtNaYW2NEQgA"
+            },
+            "away": {
+                "name": "Toronto Argonauts",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDTVIAVRIhuIACa4QR7SZCI+uAhSZ8UXMGXhF5ou01pgHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-toronto-argonauts-at-hamilton-tiger-cats"
             }
         ]
     },
@@ -446,6 +466,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-minnesota-twins-vs-detroit-tigers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_tigers-twins-live-streaming-594216432"
+            },
             {
                 "source": "echo",
                 "id": "detroit-tigers-vs-minnesota-twins-baseball-184974"
@@ -503,12 +531,44 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-washington-nationals-vs-san-diego-padres"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_padres-nationals-live-streaming-594219024"
+            },
+            {
                 "source": "echo",
                 "id": "san-diego-padres-vs-washington-nationals-baseball-184980"
             },
             {
                 "source": "golf",
                 "id": "1012"
+            }
+        ]
+    },
+    {
+        "id": "calgary-stampeders-vs-edmonton-elks-2432587",
+        "title": "Calgary Stampeders vs Edmonton Elks",
+        "category": "american-football",
+        "date": 1788818400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCFFIQfMEmYhuIKZpAacfEIhDHNBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Calgary Stampeders",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAADAlJckIbiBIgAJvt0gURs6b4EKTa1zBl4ReaJTAmtMI7GiIQA"
+            },
+            "away": {
+                "name": "Edmonton Elks",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiUzMNxB9cILQBMQiGCBSrdJnIwpM+6tmDLwi8tcCa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-edmonton-elks-at-calgary-stampeders"
             }
         ]
     },
