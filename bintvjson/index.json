@@ -1,266 +1,57 @@
 [
     {
-        "id": "ppv-event-02-raf-13-convington-v-muhammad-ppv-02",
-        "title": "RAF 13 Convington v Muhammad \ud83d\udd25",
-        "category": "fight",
-        "date": 1789779600000,
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "RAF 13 Convington"
-            },
-            "away": {
-                "name": "Muhammad"
-            }
-        },
-        "sources": [
-            {
-                "source": "golf",
-                "id": "1517"
-            }
-        ]
-    },
-    {
-        "id": "st--louis-cardinals-vs-washington-nationals-2601484",
-        "title": "St. Louis Cardinals vs Washington Nationals",
-        "category": "baseball",
-        "date": 1789776900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHLBJifEFJDcQukCZAoQEEIhhWTBYEgp9hs+ijAqNbD+XpZZGky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "St. Louis Cardinals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA"
-            },
-            "away": {
-                "name": "Washington Nationals",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-washington-nationals-vs-st-louis-cardinals"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_cardinals-nationals-live-streaming-594420336"
-            },
-            {
-                "source": "foxtrot",
-                "id": "nationals-v-cardinals-401816991"
-            },
-            {
-                "source": "golf",
-                "id": "1466"
-            }
-        ]
-    },
-    {
-        "id": "houston-astros-vs-atlanta-braves-2601483",
-        "title": "Houston Astros vs Atlanta Braves",
-        "category": "baseball",
-        "date": 1789776600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxhuFfCG189IAyBMgUICCEQwrRgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Houston Astros",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA"
-            },
-            "away": {
-                "name": "Atlanta Braves",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-atlanta-braves-vs-houston-astros"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_astros-braves-live-streaming-594419904"
-            },
-            {
-                "source": "foxtrot",
-                "id": "braves-v-astros-401816988"
-            },
-            {
-                "source": "golf",
-                "id": "1465"
-            }
-        ]
-    },
-    {
-        "id": "colorado-rockies-vs-seattle-mariners-2601482",
-        "title": "Colorado Rockies vs Seattle Mariners",
-        "category": "baseball",
-        "date": 1789776600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGBTsQWjSRDcQfECZMoQEEIhhWQUgsCQU+w2fT1stbMGXhEsslpMtGA+YqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Colorado Rockies",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA"
-            },
-            "away": {
-                "name": "Seattle Mariners",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-seattle-mariners-vs-colorado-rockies"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_rockies-mariners-live-streaming-594419472"
-            },
-            {
-                "source": "foxtrot",
-                "id": "mariners-v-rockies-401816992"
-            },
-            {
-                "source": "golf",
-                "id": "1464"
-            }
-        ]
-    },
-    {
-        "id": "texas-rangers-vs-toronto-blue-jays-2601481",
-        "title": "Texas Rangers vs Toronto Blue Jays",
-        "category": "baseball",
-        "date": 1789776300000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFIIEAGELqkhuIPrpMoQEEIhiWQJAsCQU+w2fRRgVGth-L0ssjSZaMA8xUQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Texas Rangers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Toronto Blue Jays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-toronto-blue-jays-vs-texas-rangers"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_rangers-blue-jays-live-streaming-594419040"
-            },
-            {
-                "source": "foxtrot",
-                "id": "blue-jays-v-rangers-401816990"
-            },
-            {
-                "source": "golf",
-                "id": "1463"
-            }
-        ]
-    },
-    {
-        "id": "raf13-covington-vs-muhammad",
-        "title": "RAF13: Covington vs Muhammad",
-        "category": "fight",
-        "date": 1789776000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuPYFgFYU9YwBOYNHQsAY2AFNgSFgVJ6VhgATF4MehISzlO6EFxCSUIXHRnAAhjhBLs2MgyUQQ1EBxIgGPbXNokxPBTuFLVMyfashuK+XJ6IlBiXLmE0eCRoCmhcKHIGMK7weGgUirwEESBRVmHJcHoZeuEgkQHkuZF4smDgEEUpeBLwHLAcrlGSMFS0DEwtnHx0CGwaicJgYAyyOEA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "foxtrot",
-                "id": "raf13-covington-vs-muhammad"
-            }
-        ]
-    },
-    {
-        "id": "ppv-wwe-friday-night-smackdown",
-        "title": "WWE Friday Night Smackdown",
-        "category": "fight",
-        "date": 1789776000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp",
-        "popular": true,
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-wwe-friday-night-smackdown"
-            },
-            {
-                "source": "delta",
-                "id": "live-event_friday-night-smackdown-live-stream"
-            }
-        ]
-    },
-    {
-        "id": "texas-tech-vs-houston-2498751",
-        "title": "Texas Tech vs Houston",
+        "id": "oregon-vs-portland-state-2498752",
+        "title": "Oregon vs Portland State",
         "category": "american-football",
-        "date": 1789776000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBB8wokOxBSQ3AyBQhEmiOaMgrJAsCQU+w2fRQ62KLjvL0sst5MtGCe9KIQQA.webp",
+        "date": 1789785000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDMQpmwKSAghuGkCn0g+Js3oMoCwJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Texas Tech",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwAAwJgSEBBAkQ3fSBW6QiRKZDndBCkz4ouYMvCLzRTprTAuxoiCA"
+                "name": "Oregon",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgg+YGXTAoQ3ECRAATEBBCJExg8cMEKTPii5gy8IvNGOmtMM7GiIQA"
             },
             "away": {
-                "name": "Houston",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBJgTHHxAoQ3ECRAATEBBCJEBnSBB8CFJra5gy8IvNEp1zYGGdjREEA"
+                "name": "Portland State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0IhBAE0qwQ3ECRDqQEEIn18jIFLgIUmfFFzBl4ReaIdNaYJ2NEQgA"
             }
         },
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-houston-cougars-at-texas-tech-red-raiders"
-            },
-            {
-                "source": "delta",
-                "id": "live_cfb_texas-tech-houston-live-streaming-587788704"
+                "id": "ppv-portland-state-vikings-at-oregon-ducks"
             },
             {
                 "source": "golf",
-                "id": "1425"
+                "id": "1426"
             }
         ]
     },
     {
-        "id": "los-angeles-angels-vs-minnesota-twins-2601485",
-        "title": "Los Angeles Angels vs Minnesota Twins",
+        "id": "los-angeles-dodgers-vs-san-francisco-giants-2601488",
+        "title": "Los Angeles Dodgers vs San Francisco Giants",
         "category": "baseball",
-        "date": 1789781880000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgYPMEh7AkIbiD4gzZlCAghEMGxaZIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+        "date": 1789784100000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCDiiyAjdxB8QRoyhAbEMMyAlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Los Angeles Angels",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA"
+                "name": "Los Angeles Dodgers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA"
             },
             "away": {
-                "name": "Minnesota Twins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA"
+                "name": "San Francisco Giants",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyoATEPDC8UICCG4g+hkCYOIcOEroIUmfFFzBlN9eaIdNaYJ2NEQgA"
             }
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-minnesota-twins-vs-los-angeles-angels"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_angels-twins-live-streaming-594420768"
-            },
-            {
                 "source": "foxtrot",
-                "id": "twins-v-angels-401816994"
+                "id": "giants-v-dodgers-401816996"
             },
             {
                 "source": "golf",
-                "id": "1467"
+                "id": "1470"
             }
         ]
     },
@@ -282,14 +73,6 @@
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-miami-marlins-vs-san-diego-padres"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_padres-marlins-live-streaming-594421632"
-            },
             {
                 "source": "foxtrot",
                 "id": "marlins-v-padres-401816993"
@@ -319,14 +102,6 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-new-york-yankees-vs-arizona-diamondbacks"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_diamondbacks-yankees-live-streaming-594421200"
-            },
-            {
                 "source": "foxtrot",
                 "id": "yankees-v-diamondbacks-401816995"
             },
@@ -337,122 +112,89 @@
         ]
     },
     {
-        "id": "golden-state-valkyries-vs-portland-fire-2469392",
-        "title": "Golden State Valkyries vs Portland Fire",
-        "category": "basketball",
-        "date": 1789783200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCykQAY2BVZpbMEQSS42SHgjlEEMM17h8jerJYQekCevrx5CKDCCdBZSnKFgSXDI9DnVkdjMg83bTBnYEcyCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Golden State Valkyries",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgoMXMAAmwJCG4g+IRCGP6QJC6uWEYwJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Portland Fire",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw+YXvJBsQ3EHxAlchkClMgLOZYRjAmfFFzBl4ReaMdNaYZ2NEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-portland-fire-vs-golden-state-valkyries"
-            },
-            {
-                "source": "delta",
-                "id": "live_wnba_valkyries-fire-live-streaming-524103264"
-            }
-        ]
-    },
-    {
-        "id": "los-angeles-dodgers-vs-san-francisco-giants-2601488",
-        "title": "Los Angeles Dodgers vs San Francisco Giants",
+        "id": "los-angeles-angels-vs-minnesota-twins-2601485",
+        "title": "Los Angeles Angels vs Minnesota Twins",
         "category": "baseball",
-        "date": 1789783800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCDiiyAjdxB8QRoyhAbEMMyAlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+        "date": 1789781880000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgYPMEh7AkIbiD4gzZlCAghEMGxaZIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Los Angeles Dodgers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA"
+                "name": "Los Angeles Angels",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA"
             },
             "away": {
-                "name": "San Francisco Giants",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyoATEPDC8UICCG4g+hkCYOIcOEroIUmfFFzBlN9eaIdNaYJ2NEQgA"
+                "name": "Minnesota Twins",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA"
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-san-francisco-giants-vs-los-angeles-dodgers"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_dodgers-giants-live-streaming-594422064"
-            },
             {
                 "source": "foxtrot",
-                "id": "giants-v-dodgers-401816996"
+                "id": "twins-v-angels-401816994"
             },
             {
                 "source": "golf",
-                "id": "1470"
+                "id": "1467"
             }
         ]
     },
     {
-        "id": "oregon-vs-portland-state-2498752",
-        "title": "Oregon vs Portland State",
+        "id": "ppv-event-02-raf-13-convington-v-muhammad-ppv-02",
+        "title": "RAF 13 Convington v Muhammad \ud83d\udd25",
+        "category": "fight",
+        "date": 1789779600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "RAF 13 Convington"
+            },
+            "away": {
+                "name": "Muhammad"
+            }
+        },
+        "sources": [
+            {
+                "source": "golf",
+                "id": "1517"
+            }
+        ]
+    },
+    {
+        "id": "raf13-covington-vs-muhammad",
+        "title": "RAF13: Covington vs Muhammad",
+        "category": "fight",
+        "date": 1789776000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuPYFgFYU9YwBOYNHQsAY2AFNgSFgVJ6VhgATF4MehISzlO6EFxCSUIXHRnAAhjhBLs2MgyUQQ1EBxIgGPbXNokxPBTuFLVMyfashuK+XJ6IlBiXLmE0eCRoCmhcKHIGMK7weGgUirwEESBRVmHJcHoZeuEgkQHkuZF4smDgEEUpeBLwHLAcrlGSMFS0DEwtnHx0CGwaicJgYAyyOEA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "foxtrot",
+                "id": "raf13-covington-vs-muhammad"
+            }
+        ]
+    },
+    {
+        "id": "texas-tech-vs-houston-2498751",
+        "title": "Texas Tech vs Houston",
         "category": "american-football",
-        "date": 1789785000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDMQpmwKSAghuGkCn0g+Js3oMoCwJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp",
+        "date": 1789776000000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBB8wokOxBSQ3AyBQhEmiOaMgrJAsCQU+w2fRQ62KLjvL0sst5MtGCe9KIQQA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Oregon",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgg+YGXTAoQ3ECRAATEBBCJExg8cMEKTPii5gy8IvNGOmtMM7GiIQA"
+                "name": "Texas Tech",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwAAwJgSEBBAkQ3fSBW6QiRKZDndBCkz4ouYMvCLzRTprTAuxoiCA"
             },
             "away": {
-                "name": "Portland State",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0IhBAE0qwQ3ECRDqQEEIn18jIFLgIUmfFFzBl4ReaIdNaYJ2NEQgA"
+                "name": "Houston",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBJgTHHxAoQ3ECRAATEBBCJEBnSBB8CFJra5gy8IvNEp1zYGGdjREEA"
             }
         },
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-portland-state-vikings-at-oregon-ducks"
-            },
-            {
-                "source": "delta",
-                "id": "live_cfb_oregon-portland-state-live-streaming-587790432"
-            },
             {
                 "source": "golf",
-                "id": "1426"
-            }
-        ]
-    },
-    {
-        "id": "ju-rez-vs-tigres-uanl-2487525",
-        "title": "Ju\u00e1rez vs Tigres UANL",
-        "category": "football",
-        "date": 1789786800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDOBgkuECpDcQfECYggzMPSEtmUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Ju\u00e1rez",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxz0qKEDBB8Q3ECRAATbSAimjIRIkMEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Tigres UANL",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzCgQ6mMAAmYddxB8QMEPoi4QiQ8ZAEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-fc-juarez-vs-tigres-uanl"
+                "id": "1425"
             }
         ]
     },
@@ -468,6 +210,19 @@
             {
                 "source": "admin",
                 "id": "ppv-austria-practice-2"
+            }
+        ]
+    },
+    {
+        "id": "red-bull-ring-free-practice-3-moto3-1789800000",
+        "title": "Red Bull Ring \u2014 Free Practice 3",
+        "category": "motor-sports",
+        "date": 1789800000000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "hotel",
+                "id": "red-bull-ring-free-practice-3-moto3-1789800000"
             }
         ]
     },
@@ -533,8 +288,16 @@
                 "id": "ppv-tottenham-hotspur-vs-aston-villa"
             },
             {
+                "source": "delta",
+                "id": "live_premier-league_tottenham-aston-villa-live-streaming-617139648"
+            },
+            {
                 "source": "golf",
                 "id": "1419"
+            },
+            {
+                "source": "hotel",
+                "id": "tottenham-hotspur-vs-aston-villa-premier-league-1789817400"
             }
         ]
     },
@@ -559,6 +322,14 @@
             {
                 "source": "admin",
                 "id": "ppv-osasuna-vs-rayo-vallecano"
+            },
+            {
+                "source": "delta",
+                "id": "live_laliga_osasuna-rayo-vallecano-live-streaming-617517216"
+            },
+            {
+                "source": "hotel",
+                "id": "osasuna-vs-rayo-vallecano-laliga-ea-sports-1789819200"
             }
         ]
     },
@@ -574,6 +345,19 @@
             {
                 "source": "admin",
                 "id": "ppv-austria-sprint"
+            }
+        ]
+    },
+    {
+        "id": "paul-ricard-race-bol-d-or-fim-endurance-world-championship-1789822800",
+        "title": "Paul Ricard \u2014 Race: Bol d\u2019Or",
+        "category": "motor-sports",
+        "date": 1789822800000,
+        "popular": true,
+        "sources": [
+            {
+                "source": "hotel",
+                "id": "paul-ricard-race-bol-d-or-fim-endurance-world-championship-1789822800"
             }
         ]
     },
@@ -598,6 +382,14 @@
             {
                 "source": "admin",
                 "id": "ppv-bologna-vs-torino"
+            },
+            {
+                "source": "delta",
+                "id": "live_serie-a_bologna-torino-live-streaming-617140512"
+            },
+            {
+                "source": "hotel",
+                "id": "bologna-vs-torino-serie-a-1789822800"
             }
         ]
     },
@@ -622,6 +414,14 @@
             {
                 "source": "admin",
                 "id": "ppv-udinese-vs-cagliari"
+            },
+            {
+                "source": "delta",
+                "id": "live_serie-a_udinese-cagliari-live-streaming-617140944"
+            },
+            {
+                "source": "hotel",
+                "id": "udinese-vs-cagliari-serie-a-1789822800"
             }
         ]
     },
@@ -694,6 +494,10 @@
             {
                 "source": "admin",
                 "id": "ppv-hamburg-sv-vs-fc-cologne"
+            },
+            {
+                "source": "hotel",
+                "id": "hamburg-sv-vs-fc-cologne-bundesliga-1789824600"
             }
         ]
     },
@@ -718,6 +522,14 @@
             {
                 "source": "admin",
                 "id": "ppv-eintracht-frankfurt-vs-sc-freiburg"
+            },
+            {
+                "source": "delta",
+                "id": "live_bundesliga_frankfurt-freiburg-live-streaming-617142240"
+            },
+            {
+                "source": "hotel",
+                "id": "eintracht-frankfurt-vs-sc-freiburg-bundesliga-1789824600"
             }
         ]
     },
@@ -742,6 +554,10 @@
             {
                 "source": "admin",
                 "id": "ppv-borussia-m-nchengladbach-vs-mainz"
+            },
+            {
+                "source": "hotel",
+                "id": "borussia-m-nchengladbach-vs-mainz-bundesliga-1789824600"
             }
         ]
     },
@@ -766,6 +582,14 @@
             {
                 "source": "admin",
                 "id": "ppv-werder-bremen-vs-fc-augsburg"
+            },
+            {
+                "source": "delta",
+                "id": "live_bundesliga_bremen-augsburg-live-streaming-617143104"
+            },
+            {
+                "source": "hotel",
+                "id": "werder-bremen-vs-fc-augsburg-bundesliga-1789824600"
             }
         ]
     },
@@ -790,6 +614,10 @@
             {
                 "source": "admin",
                 "id": "ppv-wrexham-vs-southampton"
+            },
+            {
+                "source": "delta",
+                "id": "live_championship_wrexham-southampton-live-streaming-617553072"
             }
         ]
     },
@@ -816,8 +644,16 @@
                 "id": "ppv-brighton-hove-albion-vs-arsenal"
             },
             {
+                "source": "delta",
+                "id": "live_premier-league_brighton-arsenal-live-streaming-617508144"
+            },
+            {
                 "source": "golf",
                 "id": "1422"
+            },
+            {
+                "source": "hotel",
+                "id": "brighton-hove-albion-vs-arsenal-premier-league-1789826400"
             }
         ]
     },
@@ -844,8 +680,16 @@
                 "id": "ppv-everton-vs-ipswich-town"
             },
             {
+                "source": "delta",
+                "id": "live_premier-league_everton-ipswich-live-streaming-617508576"
+            },
+            {
                 "source": "golf",
                 "id": "1421"
+            },
+            {
+                "source": "hotel",
+                "id": "everton-vs-ipswich-town-premier-league-1789826400"
             }
         ]
     },
@@ -872,8 +716,16 @@
                 "id": "ppv-newcastle-united-vs-hull-city"
             },
             {
+                "source": "delta",
+                "id": "live_premier-league_newcastle-hull-live-streaming-617509440"
+            },
+            {
                 "source": "golf",
                 "id": "1420"
+            },
+            {
+                "source": "hotel",
+                "id": "newcastle-united-vs-hull-city-premier-league-1789826400"
             }
         ]
     },
@@ -898,6 +750,10 @@
             {
                 "source": "admin",
                 "id": "ppv-athletic-club-vs-alav-s"
+            },
+            {
+                "source": "hotel",
+                "id": "athletic-club-vs-alav-s-laliga-ea-sports-1789827300"
             }
         ]
     },
@@ -946,6 +802,10 @@
             {
                 "source": "admin",
                 "id": "ppv-paris-fc-vs-strasbourg"
+            },
+            {
+                "source": "hotel",
+                "id": "paris-fc-vs-strasbourg-ligue-1-1789830900"
             }
         ]
     },
@@ -991,8 +851,58 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_cfb_delaware-coastal-carolina-live-streaming-587827152"
+            },
+            {
                 "source": "golf",
                 "id": "1427"
+            }
+        ]
+    },
+    {
+        "id": "as-roma-vs-internazionale-serie-a-1789833600",
+        "title": "AS Roma vs Internazionale",
+        "category": "football",
+        "date": 1789833600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "AS Roma"
+            },
+            "away": {
+                "name": "Internazionale"
+            }
+        },
+        "sources": [
+            {
+                "source": "hotel",
+                "id": "as-roma-vs-internazionale-serie-a-1789833600"
+            }
+        ]
+    },
+    {
+        "id": "live_cfb_kansas-arizona-st-live-streaming-587828880",
+        "title": "Kansas Jayhawks vs Arizona State Sun Devils",
+        "category": "american-football",
+        "date": 1789833600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Arizona State Sun Devils"
+            },
+            "away": {
+                "name": "Kansas Jayhawks"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_kansas-arizona-st-live-streaming-587828880"
+            },
+            {
+                "source": "golf",
+                "id": "1433"
             }
         ]
     },
@@ -1017,6 +927,102 @@
             {
                 "source": "admin",
                 "id": "ppv-as-roma-vs-inter-milan"
+            },
+            {
+                "source": "delta",
+                "id": "live_serie-a_roma-inter-live-streaming-617511600"
+            }
+        ]
+    },
+    {
+        "id": "east-tennessee-state-vs-west-georgia-2598529",
+        "title": "East Tennessee State vs West Georgia",
+        "category": "american-football",
+        "date": 1789833600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "East Tennessee State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggBSYAAY17ENxAkQAExAQQiQyZOWCFJnxRcwZeEXmjHTWmGdjREIA"
+            },
+            "away": {
+                "name": "West Georgia",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphK5gAE2zB8IPiG66QRo4j0GUIVYwpM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_east-tennessee-st-west-georgia-wolves-live-streaming-623870208"
+            }
+        ]
+    },
+    {
+        "id": "new-haven-vs-brown-2598528",
+        "title": "New Haven vs Brown",
+        "category": "american-football",
+        "date": 1789833600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "New Haven",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4hVvOcCQhuakPv2J1IEiBT6CFJnxRcwZeEXmjbTWmHtjREIA"
+            },
+            "away": {
+                "name": "Brown",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwAJsELgkCENxAkQakBBCJDx0zFwEKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_new-haven-chargers-brown-bears-live-streaming-623871072"
+            }
+        ]
+    },
+    {
+        "id": "lehigh-vs-dartmouth-2593907",
+        "title": "Lehigh vs Dartmouth",
+        "category": "american-football",
+        "date": 1789833600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Lehigh",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksIZFRAExBbuIEiE0QQiPXxAx9RghSZ8UXMGXhF5ou01pgHY0RCA"
+            },
+            "away": {
+                "name": "Dartmouth",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQgAJurBl4YJCG4gS6kBBCIjGo3xMEKTPii5by9eaMdNaYLWNEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_lehigh-mountain-dartmouth-big-green-live-streaming-623870640"
+            }
+        ]
+    },
+    {
+        "id": "columbia-vs-lafayette-2593906",
+        "title": "Columbia vs Lafayette",
+        "category": "american-football",
+        "date": 1789833600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Columbia",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwB9QgBNgSENxAkQmkBBCJDxw4cYUmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Lafayette",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1oAGMCFykQibiBIgAJiAg79IPiBhnGFJnxRcwZeEXmjHTWmGdjREIA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_columbia-lions-lafayette-live-streaming-623869776"
             }
         ]
     },
@@ -1037,6 +1043,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_texas-state-north-texas-live-streaming-587831040"
+            },
             {
                 "source": "golf",
                 "id": "1446"
@@ -1064,6 +1074,10 @@
             {
                 "source": "admin",
                 "id": "ppv-buffalo-bulls-at-penn-state-nittany-lions"
+            },
+            {
+                "source": "delta",
+                "id": "live_cfb_penn-state-buffalo-live-streaming-587830608"
             },
             {
                 "source": "golf",
@@ -1094,6 +1108,10 @@
                 "id": "ppv-kent-state-golden-flashes-at-ohio-state-buckeyes"
             },
             {
+                "source": "delta",
+                "id": "live_cfb_ohio-state-kent-state-live-streaming-587830176"
+            },
+            {
                 "source": "golf",
                 "id": "1429"
             }
@@ -1116,6 +1134,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_minnesota-akron-live-streaming-587829744"
+            },
             {
                 "source": "golf",
                 "id": "1436"
@@ -1141,6 +1163,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_cfb_clemson-north-carolina-live-streaming-587828016"
+            },
+            {
                 "source": "golf",
                 "id": "1435"
             }
@@ -1163,6 +1189,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_georgia-tech-mercer-live-streaming-587850480"
+            },
             {
                 "source": "golf",
                 "id": "1434"
@@ -1187,6 +1217,10 @@
         },
         "sources": [
             {
+                "source": "delta",
+                "id": "live_cfb_iowa-state-bowling-green-live-streaming-587828448"
+            },
+            {
                 "source": "golf",
                 "id": "1432"
             }
@@ -1210,6 +1244,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_kansas-st-tulane-live-streaming-587829312"
+            },
             {
                 "source": "golf",
                 "id": "1431"
@@ -1239,6 +1277,10 @@
                 "id": "ppv-georgia-bulldogs-at-arkansas-razorbacks"
             },
             {
+                "source": "delta",
+                "id": "live_cfb_arkansas-georgia-bulldogs-live-streaming-587827584"
+            },
+            {
                 "source": "golf",
                 "id": "1428"
             }
@@ -1265,6 +1307,14 @@
             {
                 "source": "admin",
                 "id": "ppv-vf-b-stuttgart-vs-borussia-dortmund"
+            },
+            {
+                "source": "delta",
+                "id": "live_bundesliga_stuttgart-dortmund-live-streaming-617523264"
+            },
+            {
+                "source": "hotel",
+                "id": "vfb-stuttgart-vs-borussia-dortmund-bundesliga-1789835400"
             }
         ]
     },
@@ -1289,6 +1339,14 @@
             {
                 "source": "admin",
                 "id": "ppv-celta-vigo-vs-racing-santander"
+            },
+            {
+                "source": "delta",
+                "id": "live_laliga_celta-r-racing-club-live-streaming-617515488"
+            },
+            {
+                "source": "hotel",
+                "id": "celta-vigo-vs-racing-santander-laliga-ea-sports-1789835400"
             }
         ]
     },
@@ -1315,8 +1373,40 @@
                 "id": "ppv-nottingham-forest-vs-coventry-city"
             },
             {
+                "source": "delta",
+                "id": "live_premier-league_forest-coventry-live-streaming-617509872"
+            },
+            {
                 "source": "golf",
                 "id": "1423"
+            },
+            {
+                "source": "hotel",
+                "id": "nottingham-forest-vs-coventry-city-premier-league-1789835400"
+            }
+        ]
+    },
+    {
+        "id": "wisconsin-vs-eastern-michigan-2498763",
+        "title": "Wisconsin vs Eastern Michigan",
+        "category": "american-football",
+        "date": 1789835400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFPxAoQ9eJBDcQUrSEQwQJAyb5aCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Wisconsin",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwAAwhwUARBDcQJECpB7EiPvpAp9BCkz4ouYMvCLzRTprTAuxoiCA"
+            },
+            "away": {
+                "name": "Eastern Michigan",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADuIKPSS4Q6kiAAmGkIkT6QO5YRjAmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_wisconsin-eastern-michigan-live-streaming-587831472"
             }
         ]
     },
@@ -1368,23 +1458,168 @@
         ]
     },
     {
-        "id": "1433",
-        "title": "Arizona State Sun Devils - Kansas Jayhawks",
-        "category": "american-football",
-        "date": 1789840800000,
+        "id": "dallas-wings-vs-phoenix-mercury-2449207",
+        "title": "Dallas Wings vs Phoenix Mercury",
+        "category": "basketball",
+        "date": 1789837200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDq4wU7KBDcQUkCQMgU5kFYi4rBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
         "popular": true,
         "teams": {
             "home": {
-                "name": "Arizona State Sun Devils"
+                "name": "Dallas Wings",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm-ENw2wwfDSBL7chkIZQhdMAhSZ8UXMGXhF5ou01pgHY0RCA"
             },
             "away": {
-                "name": "Kansas Jayhawks"
+                "name": "Phoenix Mercury",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3m0kDYEjAoQ3EHxAATfbpA69xkiGWEYwJnxRcwZeEXminTWmBdjREEA"
             }
         },
         "sources": [
             {
-                "source": "golf",
-                "id": "1433"
+                "source": "admin",
+                "id": "ppv-phoenix-mercury-vs-dallas-wings"
+            },
+            {
+                "source": "delta",
+                "id": "live_wnba_wings-mercury-live-streaming-524104128"
+            }
+        ]
+    },
+    {
+        "id": "butler-vs-chicago-state-2598781",
+        "title": "Butler vs Chicago State",
+        "category": "american-football",
+        "date": 1789837200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Butler",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEhgTenwQhuIEiAAmICCET6jJxBMIx1-FFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Chicago State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzBEADCHq0QIbiD47DiA3sQATEPAIUmfFFzBl4ReaPtNaq0VLpA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_butler-bulldogs-chicago-state-cougars-live-streaming-623871936"
+            }
+        ]
+    },
+    {
+        "id": "indiana-state-vs-valparaiso-2593911",
+        "title": "Indiana State vs Valparaiso",
+        "category": "american-football",
+        "date": 1789837200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Indiana State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpMggAJsAAMIPmG4h9JdTtzGQpmOYIUmfFFzBl4ReaPtNaYR2NEQgA"
+            },
+            "away": {
+                "name": "Valparaiso",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8UwACZgUYPglUgSIDSAghERviBTHcBCkz7q2YMvCLzR6prTCuxohBAA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_indiana-state-valparaiso-beacons-live-streaming-623873232"
+            }
+        ]
+    },
+    {
+        "id": "colgate-vs-cornell-2593910",
+        "title": "Colgate vs Cornell",
+        "category": "american-football",
+        "date": 1789837200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Colgate",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8w3ECmCF5aEBpIgAJiAghEhk4bOMKTPlrZgy8IvNFamtMM7GiIQA"
+            },
+            "away": {
+                "name": "Cornell",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0JIwSYABMwmkHu4gSIXRBCIjui2YIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_colgate-cornell-big-red-live-streaming-623872368"
+            }
+        ]
+    },
+    {
+        "id": "new-hampshire-vs-harvard-2593909",
+        "title": "New Hampshire vs Harvard",
+        "category": "american-football",
+        "date": 1789837200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "New Hampshire",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpP5sQEdQhDcQJEABN1IRHr64DIPgQpMrXMGXhF5olMCa0wDsaIhA"
+            },
+            "away": {
+                "name": "Harvard",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15gwolGG6QQ3ECRAATEBBCIDxkLt0EKTPii7ry9eRuBNaa0VLpA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_new-hampshire-harvard-crimson-live-streaming-623873664"
+            }
+        ]
+    },
+    {
+        "id": "bryant-vs-princeton-2593908",
+        "title": "Bryant vs Princeton",
+        "category": "american-football",
+        "date": 1789837200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Bryant",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC9aZAfIiqQJEABMQ2xHsPbuuAhSZ8UXMGXhF5ou01pgHY0RCA"
+            },
+            "away": {
+                "name": "Princeton",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTNoceShDcQJEABMQEEIj19dFmAQpM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_bryant-bulldogs-princeton-tigers-live-streaming-623871504"
+            }
+        ]
+    },
+    {
+        "id": "central-michigan-vs-wyoming-2498766",
+        "title": "Central Michigan vs Wyoming",
+        "category": "american-football",
+        "date": 1789837200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Central Michigan",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4h6ABmI4c3ECRAATNSESJ9RkCAmEYwJnxRcwZeEXmjHTWmGdjREIA"
+            },
+            "away": {
+                "name": "Wyoming",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQhV8MNxAg6ILSRAATEBBCJEfXCBhGCFJnxRcwZDfXminTWmBdjREEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_central-michigan-wyoming-live-streaming-623869344"
             }
         ]
     },
@@ -1413,6 +1648,177 @@
         ]
     },
     {
+        "id": "saint-thomas--mn--vs-southern-utah-2598782",
+        "title": "Saint Thomas (MN) vs Southern Utah",
+        "category": "american-football",
+        "date": 1789840800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "St. Thomas",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0ITShDZ65BgGNmCnvBlVuwhqzBhc+e0A"
+            },
+            "away": {
+                "name": "Southern Utah",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IKiCKb65BgGNmCnvBlVuwhqzBhc+e0A"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_saint-thomas-tommies-southern-utah-live-streaming-587858688"
+            }
+        ]
+    },
+    {
+        "id": "holy-cross-vs-yale-2593913",
+        "title": "Holy Cross vs Yale",
+        "category": "american-football",
+        "date": 1789840800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Holy Cross",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAwFNCFqhuIEiAAmICFr2GQFnPAIUmfVWzBl4ReaNVNa60VLpA"
+            },
+            "away": {
+                "name": "Yale",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4hw8WLhDdtIEiAAmICCET61MQyBgEKTPii5gyG+vNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_holy-cross-yale-bulldogs-live-streaming-623874096"
+            }
+        ]
+    },
+    {
+        "id": "illinois-vs-southern-illinois-2498768",
+        "title": "Illinois vs Southern Illinois",
+        "category": "american-football",
+        "date": 1789840800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Illinois",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphn8xYfiG4gSIACYgIIRIgMwQ55YRjAmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Southern Illinois",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwEATUnRDcwILSFUgIufXt0ljjCkz4ouYMvCLzRtprTD2xoiEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_illinois-southern-illinois-live-streaming-587851344"
+            }
+        ]
+    },
+    {
+        "id": "boston-college-vs-maine-2498767",
+        "title": "Boston College vs Maine",
+        "category": "american-football",
+        "date": 1789840800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiAia6CECRAapIFCEQxNBkEZyNgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Boston College",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnlJmYACYheabSBIgtEEIkQGtMECAIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Maine",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAh+YEiHgbVIbiAAmICHtOqjfEJomEYwJnxRcN5evNFOmtMBrGiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_boston-college-maine-live-streaming-587850912"
+            }
+        ]
+    },
+    {
+        "id": "chicago-white-sox-vs-detroit-tigers-2601496",
+        "title": "Chicago White Sox vs Detroit Tigers",
+        "category": "baseball",
+        "date": 1789841400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWiAYgIuOiG4g+IY8ZTaQiGOb4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Chicago White Sox",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA"
+            },
+            "away": {
+                "name": "Detroit Tigers",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-detroit-tigers-vs-chicago-white-sox"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_white-sox-tigers-live-streaming-594436320"
+            },
+            {
+                "source": "golf",
+                "id": "1478"
+            }
+        ]
+    },
+    {
+        "id": "western-carolina-vs-presbyterian-2593915",
+        "title": "Western Carolina vs Presbyterian",
+        "category": "american-football",
+        "date": 1789842600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Western Carolina",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcwalMxAATECVV6dICCET6QIGLlUEKTPprZgy8IvNGamtMM7GiIQA"
+            },
+            "away": {
+                "name": "Presbyterian",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3jZ+YbiFogQmkiAAmICFpD6+Z0yAIUmfFFzBlV9eaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_western-carolina-presbyterian-blue-hose-live-streaming-623874960"
+            }
+        ]
+    },
+    {
+        "id": "stony-brook-vs-rhode-island-2593914",
+        "title": "Stony Brook vs Rhode Island",
+        "category": "american-football",
+        "date": 1789842600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Stony Brook",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRg+IUWz6wQ3EABMQEXCHU4c69TAIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Rhode Island",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4g1AE1zQYIbiBIhNEEIgOqDmiYRjAmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_stony-brook-rhode-island-live-streaming-623874528"
+            }
+        ]
+    },
+    {
         "id": "ppv-lyon-vs-stade-rennais",
         "title": "Lyon vs. Stade Rennais",
         "category": "football",
@@ -1433,6 +1839,10 @@
             {
                 "source": "admin",
                 "id": "ppv-lyon-vs-stade-rennais"
+            },
+            {
+                "source": "hotel",
+                "id": "lyon-vs-stade-rennais-ligue-1-1789843500"
             }
         ]
     },
@@ -1457,6 +1867,10 @@
             {
                 "source": "admin",
                 "id": "ppv-le-mans-vs-lorient"
+            },
+            {
+                "source": "hotel",
+                "id": "le-mans-vs-lorient-ligue-1-1789843500"
             }
         ]
     },
@@ -1481,6 +1895,10 @@
             {
                 "source": "admin",
                 "id": "ppv-toulouse-vs-le-havre-ac"
+            },
+            {
+                "source": "hotel",
+                "id": "toulouse-vs-le-havre-ac-ligue-1-1789843500"
             }
         ]
     },
@@ -1505,6 +1923,10 @@
             {
                 "source": "admin",
                 "id": "ppv-angers-vs-troyes"
+            },
+            {
+                "source": "hotel",
+                "id": "angers-vs-troyes-ligue-1-1789843500"
             }
         ]
     },
@@ -1529,6 +1951,14 @@
             {
                 "source": "admin",
                 "id": "ppv-venezia-vs-lazio"
+            },
+            {
+                "source": "delta",
+                "id": "live_serie-a_venezia-lazio-live-streaming-617512032"
+            },
+            {
+                "source": "hotel",
+                "id": "venezia-vs-lazio-serie-a-1789843500"
             }
         ]
     },
@@ -1555,8 +1985,16 @@
                 "id": "ppv-sevilla-vs-barcelona"
             },
             {
+                "source": "delta",
+                "id": "live_laliga_sevilla-barcelona-live-streaming-617517648"
+            },
+            {
                 "source": "golf",
                 "id": "1424"
+            },
+            {
+                "source": "hotel",
+                "id": "sevilla-vs-barcelona-laliga-ea-sports-1789844400"
             }
         ]
     },
@@ -1585,6 +2023,53 @@
         ]
     },
     {
+        "id": "bucknell-vs-penn-2593918",
+        "title": "Bucknell vs Penn",
+        "category": "american-football",
+        "date": 1789844400000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGF5hcIXom4gpIFCAgg+xkCV0h9BYEgp9hs+ijAqUXD+XpZZXky0GqL0oUA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Bucknell",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATEBpjEUIbiBIh1EEIgNHcuAhSZ8UXMGXhF5ou01pgHY0RCA"
+            },
+            "away": {
+                "name": "Penn",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8QZcDGBhg+EN3UgAJiAghEJVaat8CFJra5gy8IvNEpdzbc7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_bucknell-bison-pennsylvania-quakers-live-streaming-623875392"
+            }
+        ]
+    },
+    {
+        "id": "montana-state-vs-central-connecticut-2593917",
+        "title": "Montana State vs Central Connecticut",
+        "category": "american-football",
+        "date": 1789844400000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Montana State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoabMEjDcQOkiAAmICCET6+uXboIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Central Connecticut",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgEowogCa4Q3HSBIgtEEIgNaDMHQQpM+KLuvL15o+01ph1Y0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_montana-state-bobcats-central-connecticut-st-live-streaming-623875824"
+            }
+        ]
+    },
+    {
         "id": "toledo-vs-temple-2498770",
         "title": "Toledo vs Temple",
         "category": "american-football",
@@ -1601,6 +2086,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_toledo-temple-live-streaming-587832768"
+            },
             {
                 "source": "golf",
                 "id": "1438"
@@ -1654,8 +2143,81 @@
                 "id": "ppv-kentucky-wildcats-at-texas-a-m-aggies"
             },
             {
+                "source": "delta",
+                "id": "live_cfb_texas-am-kentucky-live-streaming-587835360"
+            },
+            {
                 "source": "golf",
                 "id": "1439"
+            }
+        ]
+    },
+    {
+        "id": "richmond-vs-georgetown-2593920",
+        "title": "Richmond vs Georgetown",
+        "category": "american-football",
+        "date": 1789846200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Richmond",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApm7EDGIoQ3EABMQEEIhIg+BkFYswCFJnzVswZeEXmi1TWmBdjREEA"
+            },
+            "away": {
+                "name": "Georgetown",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmpTmDBkc3ECRAqQEEIn2G+ICzAIUmfFFy3l680Q6a1NoqXSA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_richmond-georgetown-hoyas-live-streaming-587859552"
+            }
+        ]
+    },
+    {
+        "id": "albany-vs-monmouth-2593919",
+        "title": "Albany vs Monmouth",
+        "category": "american-football",
+        "date": 1789846200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Albany",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgUuMABNgm2CG4hNICPtMhDx87gIUmfFFzBlV9eaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Monmouth",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3BIQAEzC8ADJRDcNICPpMgQJXJcYUmfFFzBl4ReaPtNaYR2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_albany-monmouth-live-streaming-623876256"
+            }
+        ]
+    },
+    {
+        "id": "washington-state-vs-duquesne-2498778",
+        "title": "Washington State vs Duquesne",
+        "category": "american-football",
+        "date": 1789846200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Washington State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh16s+IPtjYhuIEiAAmICCESJ1unIwpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "Duquesne",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCi0IPiFoATHiG4hth4wc0RcIc3wIUm1rmDLwi80SmBNaYR2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_washington-st-duquesne-live-streaming-587852640"
             }
         ]
     },
@@ -1680,6 +2242,10 @@
             {
                 "source": "admin",
                 "id": "ppv-usc-trojans-at-rutgers-scarlet-knights"
+            },
+            {
+                "source": "delta",
+                "id": "live_cfb_rutgers-usc-live-streaming-587834928"
             },
             {
                 "source": "golf",
@@ -1710,6 +2276,10 @@
                 "id": "ppv-utep-miners-at-michigan-wolverines"
             },
             {
+                "source": "delta",
+                "id": "live_cfb_michigan-utep-live-streaming-587834496"
+            },
+            {
                 "source": "golf",
                 "id": "1444"
             }
@@ -1732,6 +2302,10 @@
             }
         },
         "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_california-wagner-live-streaming-587851776"
+            },
             {
                 "source": "golf",
                 "id": "1445"
@@ -1789,8 +2363,36 @@
                 "id": "ppv-utah-state-aggies-at-utah-utes"
             },
             {
+                "source": "delta",
+                "id": "live_cfb_utah-utah-state-live-streaming-587835792"
+            },
+            {
                 "source": "golf",
                 "id": "1443"
+            }
+        ]
+    },
+    {
+        "id": "cincinnati-vs-miami--oh--2498772",
+        "title": "Cincinnati vs Miami (OH)",
+        "category": "american-football",
+        "date": 1789846200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJD0ADCESJuIQ5pR6QMECTN8NIPgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Cincinnati",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmuYE0KISIbiB1q+ukDBBmj5ghSZ8UXMGXhF5ou01pgHY0RCA"
+            },
+            "away": {
+                "name": "Miami (OH)",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApKbMEmAAGEIm4gSIACYgIei6ZyJjBCkz5qNZeEXmi1TWmDCipdIA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_cincinnati-miami-ohio-live-streaming-587833632"
             }
         ]
     },
@@ -1817,8 +2419,126 @@
                 "id": "ppv-florida-state-seminoles-at-alabama-crimson-tide"
             },
             {
+                "source": "delta",
+                "id": "live_cfb_alabama-florida-state-live-streaming-587833200"
+            },
+            {
                 "source": "golf",
                 "id": "1440"
+            }
+        ]
+    },
+    {
+        "id": "bethune-cookman-vs-virginia-lynchburg-2598532",
+        "title": "Bethune-Cookman vs Virginia Lynchburg",
+        "category": "american-football",
+        "date": 1789848000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Bethune-Cookman",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIgyqxGRghuakABMQEEJoMmQKEDAIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Virginia Lynchburg"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_bethune-cookman-virginia-lynchburg-dragons-live-streaming-623865888"
+            }
+        ]
+    },
+    {
+        "id": "idaho-vs-abilene-christian-2593922",
+        "title": "Idaho vs Abilene Christian",
+        "category": "american-football",
+        "date": 1789848000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Idaho",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgAJlyxgkwAAwhu6kBFxHDIMyBQEKTPii5gy8IvNEOmtME7GiIQA"
+            },
+            "away": {
+                "name": "Abilene Christian",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnixcYFCD64Q3ECRAATEBBCIDxnCH0EKTPii5gyq+vNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_idaho-abilene-christian-live-streaming-623876688"
+            }
+        ]
+    },
+    {
+        "id": "norfolk-state-vs-hampton-2593921",
+        "title": "Norfolk State vs Hampton",
+        "category": "american-football",
+        "date": 1789848000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Norfolk State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFIQfEFAAmdENxAkQWzSESGNOFCBQEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Hampton",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyij53EDHYgNJEABMQEEIj2GQmzQQpM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_norfolk-st-hampton-pirates-live-streaming-587859984"
+            }
+        ]
+    },
+    {
+        "id": "baylor-vs-louisiana-tech-2498783",
+        "title": "Baylor vs Louisiana Tech",
+        "category": "american-football",
+        "date": 1789848000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Baylor",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyT8QAiCCgkQ3EDoAmWkIkQ6dfEwQpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "Louisiana Tech",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwaxMMAAmIbiBIgdEVSZ16DywjGBM+KLmDJr680faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_baylor-louisiana-tech-live-streaming-587836224"
+            }
+        ]
+    },
+    {
+        "id": "liberty-vs-ball-state-2498782",
+        "title": "Liberty vs Ball State",
+        "category": "american-football",
+        "date": 1789848000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Liberty",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiS4QAE35hRibiBIaQEEIkTqQenMsIxgTPii7by9eaMdNaYbWNEQgA"
+            },
+            "away": {
+                "name": "Ball State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYFWxAQQMECRDc9IFVpCJE+-SZgEKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_liberty-flames-ball-state-live-streaming-587837520"
             }
         ]
     },
@@ -1843,6 +2563,10 @@
             {
                 "source": "admin",
                 "id": "ppv-northern-iowa-panthers-at-iowa-hawkeyes"
+            },
+            {
+                "source": "delta",
+                "id": "live_cfb_iowa-northern-iowa-live-streaming-587853072"
             }
         ]
     },
@@ -1867,6 +2591,33 @@
             {
                 "source": "admin",
                 "id": "ppv-western-kentucky-hilltoppers-at-indiana-hoosiers"
+            },
+            {
+                "source": "delta",
+                "id": "live_cfb_indiana-western-kentucky-live-streaming-587837088"
+            }
+        ]
+    },
+    {
+        "id": "duke-vs-stanford-2498779",
+        "title": "Duke vs Stanford",
+        "category": "american-football",
+        "date": 1789848000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Duke",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzBg+ICCC0xg+ENxAkQAEw0hEiI+q0oCFJnxRcwZeEXminTWqtFS6QA"
+            },
+            "away": {
+                "name": "Stanford",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMABMwA4GBAhuIEiE2qQiRGb4WQKAhSZ8UXMGXhF5ol01pg3YqIQQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_duke-stanford-live-streaming-587836656"
             }
         ]
     },
@@ -1888,6 +2639,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-milwaukee-brewers-vs-baltimore-orioles"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_orioles-brewers-live-streaming-594433296"
+            },
             {
                 "source": "golf",
                 "id": "1471"
@@ -1913,6 +2672,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-philadelphia-phillies-vs-new-york-mets"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_mets-phillies-live-streaming-594433728"
+            },
+            {
                 "source": "golf",
                 "id": "1473"
             }
@@ -1937,8 +2704,86 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-boston-red-sox-vs-tampa-bay-rays"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_rays-red-sox-live-streaming-594434160"
+            },
+            {
                 "source": "golf",
                 "id": "1472"
+            }
+        ]
+    },
+    {
+        "id": "south-carolina-vs-mississippi-state-2498784",
+        "title": "South Carolina vs Mississippi State",
+        "category": "american-football",
+        "date": 1789848900000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUNzBlaoECG4gpIFCAgg+xkCRAxzpgsCQU+w2fRRa2KLlvL0sst5MtGCe9KIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "South Carolina",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAADCF5hmIACaaQfEBBAwQKYyBIGj5wjGBM+qtmDLwi80aqa0wbsVEIIA"
+            },
+            "away": {
+                "name": "Mississippi State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8QAE0ggQxUN1W4QMEIkTqQ+lCYIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_south-carolina-mississippi-st-live-streaming-587837952"
+            }
+        ]
+    },
+    {
+        "id": "louisiana-monroe-vs-southeastern-louisiana-2498785",
+        "title": "Louisiana-Monroe vs Southeastern Louisiana",
+        "category": "american-football",
+        "date": 1789849800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Louisiana-Monroe",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqUYcPDC80IbiAAmICHtOqSIPiAsoCFJnxRcwZLfXminTWmBdjREEA"
+            },
+            "away": {
+                "name": "Southeastern Louisiana",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiRgkIAbwghuOkCRAATENsQG+Go7gIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_ulm-southeastern-louisiana-live-streaming-587853504"
+            }
+        ]
+    },
+    {
+        "id": "arkansas-pine-bluff-vs-central-state--oh--2598533",
+        "title": "Arkansas-Pine Bluff vs Central State (OH)",
+        "category": "american-football",
+        "date": 1789851600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Arkansas-Pine Bluff",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJCr4YACYgNpENxAltICCESGtZ4wQpM+KLmDLr680faa0wjsaIhA"
+            },
+            "away": {
+                "name": "Central State (OH)",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4JB9fCBQhuIPiAMGSuEDFOGthGMCZ8UXMGXhF5o+01phHY0RCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_arkansas-pine-bluff-central-state-marauders-live-streaming-623866320"
             }
         ]
     },
@@ -1965,6 +2810,218 @@
             {
                 "source": "delta",
                 "id": "live-event_ufc-331-van-vs-pantoja-2-live-stream"
+            },
+            {
+                "source": "hotel",
+                "id": "ufc-331-van-vs-pantoja-2-ufc-1789851600"
+            }
+        ]
+    },
+    {
+        "id": "charleston-southern-vs-point-university-2598534",
+        "title": "Charleston Southern vs Point University",
+        "category": "american-football",
+        "date": 1789855200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Charleston Southern",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplFhgABgYhuIXTpIgAJiAghEB4wf0EKTPii5gy8IvNEOmtME7GiIQA"
+            },
+            "away": {
+                "name": "Point University"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_charleston-southern-point-university-skyhawks-live-streaming-623866752"
+            }
+        ]
+    },
+    {
+        "id": "chattanooga-vs-wofford-2593929",
+        "title": "Chattanooga vs Wofford",
+        "category": "american-football",
+        "date": 1789855200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Chattanooga",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAowSIkrAkQ3EDoAmICCESH9uYwQpM+KLtvL15o+01phtY0RCA"
+            },
+            "away": {
+                "name": "Wofford",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFOuYgYbENxAkQaiCESGQ2g9oIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_chattanooga-wofford-live-streaming-623877552"
+            }
+        ]
+    },
+    {
+        "id": "eastern-kentucky-vs-dayton-2593928",
+        "title": "Eastern Kentucky vs Dayton",
+        "category": "american-football",
+        "date": 1789855200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Eastern Kentucky",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYJHRAhg+ENxAATEBH1ntxmCEQwCFJnxRcwZeEXminTWmBdjREEA"
+            },
+            "away": {
+                "name": "Dayton",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0QgQJEH02gQ3dSAAmICCEQajGlIYIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_eastern-kentucky-dayton-flyers-live-streaming-623877984"
+            }
+        ]
+    },
+    {
+        "id": "william-and--mary-vs-fordham-2593927",
+        "title": "William and  Mary vs Fordham",
+        "category": "american-football",
+        "date": 1789855200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "William and  Mary",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMEjBk+uEBBDcQJNXpCJjIEDFMTCMYEz4ouW8vXmjnTWmC1jREEA"
+            },
+            "away": {
+                "name": "Fordham",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOBIFbeWhDcQJEABMQEEIj2G+JgwQpM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_william-mary-fordham-live-streaming-623878848"
+            }
+        ]
+    },
+    {
+        "id": "gardner-webb-vs-north-carolina-central-2593926",
+        "title": "Gardner-Webb vs North Carolina Central",
+        "category": "american-football",
+        "date": 1789855200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Gardner-Webb",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDywIDQBMQEENxAkQ23YkPa+BjQQpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "North Carolina Central",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQIBmHX0ADCG4gSIACaqQiI33NmJhGMCZ8UXMGXhF5o501phXY0QggA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_gardner-webb-north-carolina-central-live-streaming-623878416"
+            }
+        ]
+    },
+    {
+        "id": "towson-vs-morgan-state-2593925",
+        "title": "Towson vs Morgan State",
+        "category": "american-football",
+        "date": 1789855200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Towson",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwGs+IEJ3XcQJEABMQEEIj3qUuEHwIUm1rmDLwi80SmBNaYR2NEQgA"
+            },
+            "away": {
+                "name": "Morgan State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIgAJupAoGwfCG4hVGiCESq+uECZgEKTPtrZgy8IvNHamtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_towson-morgan-state-live-streaming-587860848"
+            }
+        ]
+    },
+    {
+        "id": "elon-vs-sacred-heart-2593924",
+        "title": "Elon vs Sacred Heart",
+        "category": "american-football",
+        "date": 1789855200000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Elon",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYoQveGAAmIGOpAkQavRCO6QOxEcIxgTPii5gym+vNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Sacred Heart",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQAiCF4pQW1SAAmITYjV9DeiAQpM+OtmDLwi80Tqa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_elon-sacred-heart-pioneers-live-streaming-587860416"
+            }
+        ]
+    },
+    {
+        "id": "appalachian-state-vs-charlotte-2498788",
+        "title": "Appalachian State vs Charlotte",
+        "category": "american-football",
+        "date": 1789855200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKDDpgklZiG4gpIFCEQwQJU4ZAQQfAsCQV7rEWJRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Appalachian State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBxeYMHzAkQEENxA6AJrpCJEOvcYIUmfFF23l680Q6a0NoqXSA"
+            },
+            "away": {
+                "name": "Charlotte",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgYIFMCTAAJiAghuIEiD0HEiE3pT6CFJn01swZeEXmjNTWmBdjREEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_appalachian-st-charlotte-live-streaming-587838384"
+            }
+        ]
+    },
+    {
+        "id": "old-dominion-vs-east-carolina-2498786",
+        "title": "Old Dominion vs East Carolina",
+        "category": "american-football",
+        "date": 1789855200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCBj8wIQXxDcQUkBsQwQJEBE0hEfAsCQV7rEWJRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Old Dominion",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyUKZGMxDcQJEABMQEEIkSG9xmAQpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "East Carolina",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATYKpDww4GCG4gSITRC1mjIEHsYUmfFFzBlt9eaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_old-dominion-east-carolina-live-streaming-587839248"
             }
         ]
     },
@@ -1987,8 +3044,39 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-athletics-vs-cleveland-guardians"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_guardians-athletics-live-streaming-594434592"
+            },
+            {
                 "source": "golf",
                 "id": "1474"
+            }
+        ]
+    },
+    {
+        "id": "missouri-state-vs-marshall-2498789",
+        "title": "Missouri State vs Marshall",
+        "category": "american-football",
+        "date": 1789857000000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Missouri State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhypl69MMAAmIbiBIgdEEIgN9d+kHwIUm1rmDLwi80SmBNaYR2NEQgA"
+            },
+            "away": {
+                "name": "Marshall",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApivAAwLE3EABMQEEIhIg++w8ZDLCMYEz5q2YMvCLzRaprTAuxoiCA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_missouri-state-marshall-live-streaming-587839680"
             }
         ]
     },
@@ -2010,6 +3098,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-kansas-city-royals-vs-pittsburgh-pirates"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_pirates-royals-live-streaming-594435456"
+            },
             {
                 "source": "golf",
                 "id": "1476"
@@ -2034,6 +3130,14 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-chicago-cubs-vs-cincinnati-reds"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_reds-cubs-live-streaming-594435024"
+            },
             {
                 "source": "golf",
                 "id": "1475"
@@ -2107,6 +3211,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-dallas-stars-vs-st-louis-blues"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl-preseason_blues-stars-live-streaming-610735680"
+            },
+            {
                 "source": "golf",
                 "id": "1461"
             }
@@ -2131,8 +3243,434 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-toronto-maple-leafs-vs-montreal-canadiens"
+            },
+            {
+                "source": "delta",
+                "id": "live_nhl-preseason_canadiens-maple-leafs-live-streaming-610735248"
+            },
+            {
                 "source": "golf",
                 "id": "1460"
+            }
+        ]
+    },
+    {
+        "id": "atlanta-dream-vs-chicago-sky-2449208",
+        "title": "Atlanta Dream vs Chicago Sky",
+        "category": "basketball",
+        "date": 1789858800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBAhREEFJB8Q3PdqMgU5rSF0w9BYEgp9hs+ijAqUXD+XpZZXky0YB5iOkA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Atlanta Dream",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7ReSCgAYQ3EHxAxcekCWMATEChMEKTPii5gy8IvNEOmtME7GiIQA"
+            },
+            "away": {
+                "name": "Chicago Sky",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgpuSLhDcQJXVr2q9KLQBMCFJnxRcwZeEXmibTWmDtjREIA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-chicago-sky-vs-atlanta-dream"
+            },
+            {
+                "source": "delta",
+                "id": "live_wnba_dream-sky-live-streaming-524104560"
+            }
+        ]
+    },
+    {
+        "id": "mississippi-valley-state-vs-delta-state-2598538",
+        "title": "Mississippi Valley State vs Delta State",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Mississippi Valley State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplpIw3agJAhuIEiAAmICCET6+O06YIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Delta State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBSuEEIkTcQfEPv2I9OjTsYUmfFFzBl4ReaOtNaYW2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_mississippi-valley-state-delta-devils-delta-state-statesmen-live-streaming-623868048"
+            }
+        ]
+    },
+    {
+        "id": "jackson-state-vs-tuskegee-2598537",
+        "title": "Jackson State vs Tuskegee",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Jackson State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiRgAJgxAkQfXCG5aQakBBCJtxlIYgEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Tuskegee"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_jackson-state-tuskegee-golden-tigers-live-streaming-623867616"
+            }
+        ]
+    },
+    {
+        "id": "west-florida-vs-austin-peay-2598535",
+        "title": "West Florida vs Austin Peay",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "West Florida",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IAMYgqIGPXINNzBT3gyq3YQ1ZgwufA6A"
+            },
+            "away": {
+                "name": "Austin Peay",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0ICCBj1yDAMbMFPeDKrdhDVmDC58doA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_west-florida-argonauts-austin-peay-live-streaming-587862576"
+            }
+        ]
+    },
+    {
+        "id": "incarnate-word-vs-houston-baptist-2593937",
+        "title": "Incarnate Word vs Houston Baptist",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Incarnate Word",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgQdEHxDwwJENxB6AJiAjbDIEylwgYBCkz4ouu8vXmjnTWmF1jREEA"
+            },
+            "away": {
+                "name": "Houston Baptist",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxKIbmBAgAJsAAMGkCV0gIIRCZ3aLxghSZ8UXMGXhF5o501phXY0QggA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_incarnate-word-houston-baptist-live-streaming-587861712"
+            }
+        ]
+    },
+    {
+        "id": "tarleton-state-vs-merrimack-2593936",
+        "title": "Tarleton State vs Merrimack",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Tarleton State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksOJJSIFCG5aQAExAkQRviBghEiCOYIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Merrimack",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIgQosOrB8Q3dSAAmICMZAwQKQ2d0EKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_tarleton-state-texans-merrimack-warriors-live-streaming-587858256"
+            }
+        ]
+    },
+    {
+        "id": "western-illinois-vs-morehead-state-2593935",
+        "title": "Western Illinois vs Morehead State",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Western Illinois",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3AowfEDBAkQG7tpAATEBBCIdITWc0EKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Morehead State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0TcwakM1IhuIEiAAmICCET6+uSxAIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_western-illinois-morehead-state-eagles-live-streaming-610727040"
+            }
+        ]
+    },
+    {
+        "id": "north-alabama-vs-alcorn-state-2593933",
+        "title": "North Alabama vs Alcorn State",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "North Alabama",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ECADMQ0QQ3ECRAATENu0wQKQyEQGCFJnxRcwZeEXmjHTWmGdjREIA"
+            },
+            "away": {
+                "name": "Alcorn State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3iwKaEHxAoQ3ECRAATEBBCIDxxKfgEKTPii5gyq+vNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_north-alabama-lions-alcorn-state-live-streaming-623879712"
+            }
+        ]
+    },
+    {
+        "id": "southeast-missouri-state-vs-central-arkansas-2593932",
+        "title": "Southeast Missouri State vs Central Arkansas",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Southeast Missouri State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxgSMHxB8w3MABMQ3ECRCGIIRKa1aLMAhSZ8UXMGXhF5ol01pg3YqIQQA"
+            },
+            "away": {
+                "name": "Central Arkansas",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCI+YFMDDAkPENxAATEBH1mQIEiBQX9BCkz6a2YMvCLzRmprTCuxohBAA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_southeast-missouri-st-central-arkansas-live-streaming-623880144"
+            }
+        ]
+    },
+    {
+        "id": "south-dakota-state-vs-youngstown-state-2593930",
+        "title": "South Dakota State vs Youngstown State",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "South Dakota State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZVEKMABMQ3HSBIhtEEIgN8Q5nJoIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Youngstown State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplHykDXMAAMIbiBIgAJiAghEBkCBhGQKAhSZ8UXMGXhF5o501phXY0QggA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_south-dakota-state-youngstown-state-live-streaming-587862144"
+            }
+        ]
+    },
+    {
+        "id": "sam-houston-state-vs-nicholls-2498799",
+        "title": "Sam Houston State vs Nicholls",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Sam Houston State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwh6KEOGkhuIACZrVBxJoggYuAhSZ8UXMGXhF5ou01pgHY0RCA"
+            },
+            "away": {
+                "name": "Nicholls",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgEhghGHTBIQ3ECRAATEBBCIDfXCGvKN6-ii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_sam-houston-state-nicholls-state-live-streaming-587854800"
+            }
+        ]
+    },
+    {
+        "id": "jacksonville-state-vs-georgia-southern-2498798",
+        "title": "Jacksonville State vs Georgia Southern",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Jacksonville State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATNWBK5gSEFu561ICCERb1KEFeWEYwJnxRdN5evNFOmtMJrGiIQA"
+            },
+            "away": {
+                "name": "Georgia Southern",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoQtJCDJ8QAExDc9ICOq0gd+nSeWEYwJnxRcwZeEXminTWmBdjREEA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_jacksonville-state-georgia-southern-live-streaming-587840544"
+            }
+        ]
+    },
+    {
+        "id": "south-alabama-vs-ohio-2498797",
+        "title": "South Alabama vs Ohio",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "South Alabama",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwMGBQ8QZECG4gVICPtN6TfXPoIUmfLWzBl4ReaK1NaG0VLpA"
+            },
+            "away": {
+                "name": "Ohio",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEC+YcH1whuIEiAAmICCESIjJlCBAEKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_south-alabama-ohio-live-streaming-587841840"
+            }
+        ]
+    },
+    {
+        "id": "middle-tennessee-vs-nevada-2498796",
+        "title": "Middle Tennessee vs Nevada",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Middle Tennessee",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwQIKH2zMQ3EHxCJ1EECkMgSuEABMCFJnxRcwZeEXminTWmBdjREEA"
+            },
+            "away": {
+                "name": "Nevada",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3ry+FAAwht3EABMQEXPpCJEObSAIUmfFFzBl4ReaPtNaYR2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_middle-tennessee-st-nevada-live-streaming-587840976"
+            }
+        ]
+    },
+    {
+        "id": "south-florida-vs-delaware-state-2498795",
+        "title": "South Florida vs Delaware State",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "South Florida",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCI4OUQBNg+ENxAkQmkBFVnjKMyAIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            },
+            "away": {
+                "name": "Delaware State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAM-YCpAowIZiG4gSIACYgIIREdOmDKAhSZ8UXMGXhF5o501phXY0QggA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_south-florida-delaware-state-live-streaming-587855232"
+            }
+        ]
+    },
+    {
+        "id": "rice-vs-western-michigan-2498794",
+        "title": "Rice vs Western Michigan",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Rice",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQfIlgoATEN1UhdEEIkS7diGAQpM+KLmDLxNpTk1phHY0RCA"
+            },
+            "away": {
+                "name": "Western Michigan",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0mbXgAZgmkNxAATVXpMhDxxHwIUmVrmDLwi80SmBNaYB2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_rice-western-michigan-live-streaming-587841408"
+            }
+        ]
+    },
+    {
+        "id": "oklahoma-state-vs-murray-state-2498792",
+        "title": "Oklahoma State vs Murray State",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Oklahoma State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wKNmAFQIIbiBIgAJiF2JEJw4hgEKTPhs1l4ReaI1NaYMKKl0gA"
+            },
+            "away": {
+                "name": "Murray State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQhE9PmCQIQ3ECRAATEBDX6QfXOfgEKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_southwestern-oklahoma-state-bulldogs-southeastern-oklahoma-state-savage-storm-live-streaming-587822832"
+            }
+        ]
+    },
+    {
+        "id": "ucf-vs-georgia-state-2498791",
+        "title": "UCF vs Georgia State",
+        "category": "american-football",
+        "date": 1789858800000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "UCF",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIWoW5FE3ECRBqI642pQgYICAQpM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "Georgia State",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBQUbEAIggUIbiBIgAJqpCJEh3dsYUmfdWzBl4ReaPVNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_ucf-georgia-st-live-streaming-587842704"
             }
         ]
     },
@@ -2157,6 +3695,10 @@
             {
                 "source": "admin",
                 "id": "ppv-florida-gators-at-auburn-tigers"
+            },
+            {
+                "source": "delta",
+                "id": "live_cfb_florida-atl-florida-int-live-streaming-587838816"
             }
         ]
     },
@@ -2181,6 +3723,10 @@
             {
                 "source": "admin",
                 "id": "ppv-troy-trojans-at-missouri-tigers"
+            },
+            {
+                "source": "delta",
+                "id": "live_cfb_northwest-missouri-missouri-southern-lions-live-streaming-587810304"
             }
         ]
     },
@@ -2227,6 +3773,14 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-toronto-blue-jays-vs-texas-rangers"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_rangers-blue-jays-live-streaming-594435888"
+            },
+            {
                 "source": "golf",
                 "id": "1477"
             }
@@ -2251,32 +3805,16 @@
         },
         "sources": [
             {
-                "source": "golf",
-                "id": "1479"
-            }
-        ]
-    },
-    {
-        "id": "chicago-white-sox-vs-detroit-tigers-2601496",
-        "title": "Chicago White Sox vs Detroit Tigers",
-        "category": "baseball",
-        "date": 1789859400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWiAYgIuOiG4g+IY8ZTaQiGOb4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Chicago White Sox",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA"
+                "source": "admin",
+                "id": "ppv-atlanta-braves-vs-houston-astros"
             },
-            "away": {
-                "name": "Detroit Tigers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA"
-            }
-        },
-        "sources": [
+            {
+                "source": "delta",
+                "id": "live_mlb_astros-braves-live-streaming-594436752"
+            },
             {
                 "source": "golf",
-                "id": "1478"
+                "id": "1479"
             }
         ]
     },
@@ -2299,8 +3837,63 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-washington-nationals-vs-st-louis-cardinals"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_cardinals-nationals-live-streaming-594437184"
+            },
+            {
                 "source": "golf",
                 "id": "1480"
+            }
+        ]
+    },
+    {
+        "id": "washington-vs-eastern-washington-2498801",
+        "title": "Washington vs Eastern Washington",
+        "category": "american-football",
+        "date": 1789859700000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEDxBkkYbrBDcQUkChCIYWsyAghbEpjpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Washington",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoEbMCVUgt3HSAAmICCESI+IPVYIUmfFF03l680Q6a0wmsaIhA"
+            },
+            "away": {
+                "name": "Eastern Washington",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQ9cABMxmkN1UhdEEIjW7dKdQQpM+KLmDLwi80faa0wjsaIhA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_washington-eastern-washington-live-streaming-587856096"
+            }
+        ]
+    },
+    {
+        "id": "nebraska-vs-north-dakota-2498800",
+        "title": "Nebraska vs North Dakota",
+        "category": "american-football",
+        "date": 1789859700000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Nebraska",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTsQKEJtGhuIACb7DEEIhw5jywjGBM+KLmDLwi80faa0wjsaIhA"
+            },
+            "away": {
+                "name": "North Dakota",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnlgwAE2DqwfEHu4gSIdSAghER3YhMoCFJnxRcwZeEXminTWmtFS6QA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_nebraska-north-dakota-live-streaming-587855664"
             }
         ]
     },
@@ -2412,6 +4005,10 @@
             {
                 "source": "admin",
                 "id": "ppv-bristol-motor-speedway-bass-pro-shops-night-race"
+            },
+            {
+                "source": "hotel",
+                "id": "bristol-motor-speedway-the-chase-race-bass-pro-shops-night-race-nascar-cup-series-1789860600"
             }
         ]
     },
@@ -2436,6 +4033,33 @@
             {
                 "source": "admin",
                 "id": "ppv-michigan-state-spartans-at-notre-dame-fighting-irish"
+            },
+            {
+                "source": "delta",
+                "id": "live_cfb_notre-dame-michigan-state-live-streaming-587844432"
+            }
+        ]
+    },
+    {
+        "id": "maryland-vs-virginia-tech-2498807",
+        "title": "Maryland vs Virginia Tech",
+        "category": "american-football",
+        "date": 1789860600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Maryland",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3wgyZWnzB8Q3EDsQgQEXSESISxghSZ8UXMBqLzR9prTCOxoiEA"
+            },
+            "away": {
+                "name": "Virginia Tech",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3BLyMEHxDcQJEABMQEEIkRaNKEDAIUmfFFzBl4ReaIdNaYJ2NEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_maryland-virginia-tech-live-streaming-587843568"
             }
         ]
     },
@@ -2460,6 +4084,33 @@
             {
                 "source": "admin",
                 "id": "ppv-west-virginia-mountaineers-at-virginia-cavaliers"
+            },
+            {
+                "source": "delta",
+                "id": "live_cfb_west-virginia-state-yellow-jackets-wv-wesleyan-bobcats-live-streaming-587804256"
+            }
+        ]
+    },
+    {
+        "id": "northwestern-vs-colorado-2498805",
+        "title": "Northwestern vs Colorado",
+        "category": "american-football",
+        "date": 1789860600000,
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Northwestern",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMuEABNqWSCG6aQEdRr0gzR-SAIUmfFFzBl4ReaPtNaYR2NEQgA"
+            },
+            "away": {
+                "name": "Colorado",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmlEDGBgQAlCG4gSIFSAghEiI30MgQBCkz4ouYMvCLzRzprTCuxohBAA"
+            }
+        },
+        "sources": [
+            {
+                "source": "delta",
+                "id": "live_cfb_northwestern-colorado-live-streaming-587844000"
             }
         ]
     },
@@ -2508,6 +4159,10 @@
             {
                 "source": "admin",
                 "id": "ppv-new-mexico-lobos-at-oklahoma-sooners"
+            },
+            {
+                "source": "delta",
+                "id": "live_cfb_northwestern-oklahoma-state-rangers-oklahoma-baptist-bison-live-streaming-587821536"
             }
         ]
     },
@@ -2532,6 +4187,10 @@
             {
                 "source": "admin",
                 "id": "ppv-lsu-tigers-at-ole-miss-rebels"
+            },
+            {
+                "source": "delta",
+                "id": "live_cfb_ole-miss-lsu-tigers-live-streaming-587845296"
             }
         ]
     },
@@ -2556,6 +4215,10 @@
             {
                 "source": "admin",
                 "id": "ppv-kennesaw-state-owls-at-tennessee-volunteers"
+            },
+            {
+                "source": "delta",
+                "id": "live_cfb_tennessee-kennesaw-st-live-streaming-587846160"
             }
         ]
     }
