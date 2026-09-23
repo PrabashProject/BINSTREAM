@@ -1,31 +1,29 @@
 [
     {
-        "id": "players-championship-30-2608321",
-        "title": "Players Championship 30",
-        "category": "darts",
-        "date": 1790161200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDgpgABhC8QIPvpBYQKTZZggIhu83zAkFLCLmMUYVdo5fyjajltR3owL3ExCCA.webp",
+        "id": "baltimore-orioles-vs-toronto-blue-jays-2606507",
+        "title": "Baltimore Orioles vs Toronto Blue Jays",
+        "category": "baseball",
+        "date": 1790184900000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrX5gw-JAxC8QWEChAwDICCbNGQ8FkgpYRcxijCqUPD+UbU5XviswNpijGFAA.webp",
         "popular": true,
-        "teams": null,
+        "teams": {
+            "home": {
+                "name": "Baltimore Orioles",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA"
+            },
+            "away": {
+                "name": "Toronto Blue Jays",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA"
+            }
+        },
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-players-championship-30-den-bosch"
-            }
-        ]
-    },
-    {
-        "id": "dana-whites-contender-series-season-10-week-7-2558804",
-        "title": "Dana Whites Contender Series season 10 Week 7",
-        "category": "fight",
-        "date": 1790121600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQjigyUkENxB9cIEgZBmcKEBBDwCwJBT7DZ9HSpRcwZeESyyPTLRgXmKiEEA.webp",
-        "popular": true,
-        "teams": null,
-        "sources": [
+                "id": "ppv-toronto-blue-jays-vs-baltimore-orioles"
+            },
             {
                 "source": "golf",
-                "id": "1668"
+                "id": "1613"
             }
         ]
     },
@@ -58,30 +56,17 @@
         ]
     },
     {
-        "id": "baltimore-orioles-vs-toronto-blue-jays-2606507",
-        "title": "Baltimore Orioles vs Toronto Blue Jays",
-        "category": "baseball",
-        "date": 1790184900000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrX5gw-JAxC8QWEChAwDICCbNGQ8FkgpYRcxijCqUPD+UbU5XviswNpijGFAA.webp",
+        "id": "players-championship-30-2608321",
+        "title": "Players Championship 30",
+        "category": "darts",
+        "date": 1790161200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDgpgABhC8QIPvpBYQKTZZggIhu83zAkFLCLmMUYVdo5fyjajltR3owL3ExCCA.webp",
         "popular": true,
-        "teams": {
-            "home": {
-                "name": "Baltimore Orioles",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA"
-            },
-            "away": {
-                "name": "Toronto Blue Jays",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA"
-            }
-        },
+        "teams": null,
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-toronto-blue-jays-vs-baltimore-orioles"
-            },
-            {
-                "source": "golf",
-                "id": "1613"
+                "id": "ppv-players-championship-30-den-bosch"
             }
         ]
     },
