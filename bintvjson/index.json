@@ -1,53 +1,5 @@
 [
     {
-        "id": "dolphins-vs-sydney-roosters-2608056",
-        "title": "Dolphins vs Sydney Roosters",
-        "category": "rugby",
-        "date": 1790329800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEKRC8swMGBRaQfEFJBmShxN1wgYBYEgp9hs+ijAqUXD+Xo7RXky0eqL0oUA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Dolphins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLApKqkBFwhuIACYg+2mPpBmSIRHoIUmfNWzBl4ReaLVNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Sydney Roosters",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgUuEOpRg+IbiAAmICIZCITukFbMEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-dolphins-vs-roosters"
-            }
-        ]
-    },
-    {
-        "id": "brisbane-bullets-vs-illawarra-hawks-2487891",
-        "title": "Brisbane Bullets vs Illawarra Hawks",
-        "category": "basketball",
-        "date": 1790328600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMAAMnJA0ghuIKUZAkQMUycTGYBYEgp9hs+ijAqNbd+XpZZGplowdzFRCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Brisbane Bullets",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplFYwSUsEI5uIEiAh6QxgCYg+IGJcsEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Illawarra Hawks",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRhRSEHzAoQO7ptwgSukKZggAJiH3LCMYEz4oua8vXmjnTWmDVjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-brisbane-bullets-vs-illawarra-hawks"
-            }
-        ]
-    },
-    {
         "id": "azerbaijan-grand-prix-practice-3-2408189",
         "title": "Azerbaijan Grand Prix Practice 3",
         "category": "motor-sports",
@@ -57,51 +9,8 @@
         "teams": null,
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-azerbaijan-grand-prix-qualifying"
-            },
-            {
                 "source": "golf",
-                "id": "1664"
-            }
-        ]
-    },
-    {
-        "id": "baku-city-circuit-feature-race-1-formula-2-1790331300",
-        "title": "Baku City Circuit \u2014 Feature Race 1",
-        "category": "motor-sports",
-        "date": 1790331300000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "hotel",
-                "id": "baku-city-circuit-feature-race-1-formula-2-1790331300"
-            }
-        ]
-    },
-    {
-        "id": "1st-qualifying-baku-city-circuit-formula-1-2686",
-        "title": "1st Qualifying | Baku City Circuit |",
-        "category": "motor-sports",
-        "date": 1790337600000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "hotel",
-                "id": "baku-city-circuit-qualifying-formula-1-1790337600"
-            }
-        ]
-    },
-    {
-        "id": "cremona-free-practice-2-worldsbk-1790341200",
-        "title": "Cremona \u2014 Free Practice 2",
-        "category": "other",
-        "date": 1790341200000,
-        "popular": true,
-        "sources": [
-            {
-                "source": "hotel",
-                "id": "cremona-free-practice-2-worldsbk-1790341200"
+                "id": "1665"
             }
         ]
     },
@@ -130,6 +39,10 @@
             {
                 "source": "delta",
                 "id": "live_uefa-nations-league-league-c-gr-2_armenia-latvia-live-streaming-539391312"
+            },
+            {
+                "source": "foxtrot",
+                "id": "latvia-v-armenia-unl-401861050"
             },
             {
                 "source": "hotel",
@@ -164,6 +77,10 @@
                 "id": "live_uefa-nations-league-league-b-gr-2_georgia-northern-ireland-live-streaming-539389584"
             },
             {
+                "source": "foxtrot",
+                "id": "northern-ireland-v-georgia-unl-401861049"
+            },
+            {
                 "source": "hotel",
                 "id": "georgia-vs-northern-ireland-uefa-nations-league-1790352000"
             }
@@ -189,11 +106,15 @@
         "sources": [
             {
                 "source": "admin",
-                "id": "ppv-chicago-cubs-vs-boston-red-sox"
+                "id": "ppv-chicago-cubs-vs-boston-red-sox-game-2"
             },
             {
                 "source": "delta",
                 "id": "live_mlb_red-sox-cubs-live-streaming-594514944"
+            },
+            {
+                "source": "foxtrot",
+                "id": "cubs-v-red-sox-401817104"
             },
             {
                 "source": "golf",
@@ -256,6 +177,10 @@
                 "id": "live_uefa-nations-league-league-c-gr-2_montenegro-cyprus-live-streaming-539391744"
             },
             {
+                "source": "foxtrot",
+                "id": "cyprus-v-montenegro-unl-401861056"
+            },
+            {
                 "source": "hotel",
                 "id": "montenegro-vs-cyprus-uefa-nations-league-1790361900"
             }
@@ -286,6 +211,10 @@
             {
                 "source": "delta",
                 "id": "live_uefa-nations-league-league-b-gr-4_sweden-romania-live-streaming-539390880"
+            },
+            {
+                "source": "foxtrot",
+                "id": "romania-v-sweden-unl-401861051"
             },
             {
                 "source": "hotel",
@@ -320,6 +249,10 @@
                 "id": "live_uefa-nations-league-league-b-gr-4_poland-bosnia-herzegovina-live-streaming-539390448"
             },
             {
+                "source": "foxtrot",
+                "id": "bosnia-herzegovina-v-poland-unl-401861055"
+            },
+            {
                 "source": "hotel",
                 "id": "poland-vs-bosnia-herzegovina-uefa-nations-league-1790361900"
             }
@@ -352,6 +285,10 @@
                 "id": "live_uefa-nations-league-league-b-gr-2_hungary-ukraine-live-streaming-539390016"
             },
             {
+                "source": "foxtrot",
+                "id": "ukraine-v-hungary-unl-401861054"
+            },
+            {
                 "source": "hotel",
                 "id": "hungary-vs-ukraine-uefa-nations-league-1790361900"
             }
@@ -378,6 +315,10 @@
             {
                 "source": "admin",
                 "id": "ppv-italy-vs-belgium"
+            },
+            {
+                "source": "foxtrot",
+                "id": "belgium-v-italy-unl-401861052"
             },
             {
                 "source": "hotel",
@@ -409,6 +350,42 @@
             {
                 "source": "golf",
                 "id": "1641"
+            }
+        ]
+    },
+    {
+        "id": "new-york-yankees-vs-baltimore-orioles-2608252",
+        "title": "New York Yankees vs Baltimore Orioles",
+        "category": "baseball",
+        "date": 1790366700000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdon5QYPEiF4gsIFCBj6QEY+bPH8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "New York Yankees",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
+            },
+            "away": {
+                "name": "Baltimore Orioles",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-baltimore-orioles-vs-new-york-yankees-game-2"
+            },
+            {
+                "source": "delta",
+                "id": "live_mlb_yankees-orioles-live-streaming-594508464"
+            },
+            {
+                "source": "foxtrot",
+                "id": "orioles-v-yankees-401817088"
+            },
+            {
+                "source": "golf",
+                "id": "1708"
             }
         ]
     },
@@ -452,6 +429,10 @@
                 "id": "live_mlb_phillies-rays-live-streaming-594496800"
             },
             {
+                "source": "foxtrot",
+                "id": "rays-v-phillies-401817078"
+            },
+            {
                 "source": "golf",
                 "id": "1706"
             }
@@ -484,8 +465,26 @@
                 "id": "live_mlb_tigers-pirates-live-streaming-594496368"
             },
             {
+                "source": "foxtrot",
+                "id": "pirates-v-tigers-401817077"
+            },
+            {
                 "source": "golf",
                 "id": "1705"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-09-4-crown-nationals-eldora-ppv-09",
+        "title": "4 Crown Nationals Eldora",
+        "category": "motor-sports",
+        "date": 1790376300000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYAENgebHhmzpWXCDICejWGIbBDnBJAXjgKMWTCduXCEA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "foxtrot",
+                "id": "4-crown-nationals-at-eldora-speedway"
             }
         ]
     },
@@ -516,8 +515,26 @@
                 "id": "live_mlb_nationals-mets-live-streaming-594497232"
             },
             {
+                "source": "foxtrot",
+                "id": "mets-v-nationals-401817076"
+            },
+            {
                 "source": "golf",
                 "id": "1707"
+            }
+        ]
+    },
+    {
+        "id": "ppv-event-10-amsoil-championship-off-road-ppv-10",
+        "title": "AMSOIL Championship Off Road",
+        "category": "motor-sports",
+        "date": 1790377200000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYuN7ABHIoRAgIC3AUawxDYPs4JICuSjFkwnblwhA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "foxtrot",
+                "id": "amsoil-championship-off-road-in-san-bernardino-ca"
             }
         ]
     },
@@ -631,38 +648,6 @@
         ]
     },
     {
-        "id": "new-york-yankees-vs-baltimore-orioles-2608252",
-        "title": "New York Yankees vs Baltimore Orioles",
-        "category": "baseball",
-        "date": 1790377500000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdon5QYPEiF4gsIFCBj6QEY+bPH8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "New York Yankees",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA"
-            },
-            "away": {
-                "name": "Baltimore Orioles",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-baltimore-orioles-vs-new-york-yankees"
-            },
-            {
-                "source": "delta",
-                "id": "live_mlb_yankees-orioles-live-streaming-594508464"
-            },
-            {
-                "source": "golf",
-                "id": "1708"
-            }
-        ]
-    },
-    {
         "id": "toronto-blue-jays-vs-cincinnati-reds-2608253",
         "title": "Toronto Blue Jays vs Cincinnati Reds",
         "category": "baseball",
@@ -687,6 +672,10 @@
             {
                 "source": "delta",
                 "id": "live_mlb_blue-jays-reds-live-streaming-594498096"
+            },
+            {
+                "source": "foxtrot",
+                "id": "reds-v-blue-jays-401817075"
             },
             {
                 "source": "golf",
@@ -719,6 +708,10 @@
             {
                 "source": "delta",
                 "id": "live_mlb_marlins-braves-live-streaming-594498960"
+            },
+            {
+                "source": "foxtrot",
+                "id": "braves-v-marlins-401817072"
             },
             {
                 "source": "golf",
@@ -785,6 +778,10 @@
                 "id": "live_mlb_brewers-cardinals-live-streaming-594500256"
             },
             {
+                "source": "foxtrot",
+                "id": "cardinals-v-brewers-401817081"
+            },
+            {
                 "source": "golf",
                 "id": "1714"
             }
@@ -817,6 +814,10 @@
                 "id": "live_mlb_royals-guardians-live-streaming-594499824"
             },
             {
+                "source": "foxtrot",
+                "id": "guardians-v-royals-401817079"
+            },
+            {
                 "source": "golf",
                 "id": "1713"
             }
@@ -847,6 +848,10 @@
             {
                 "source": "delta",
                 "id": "live_mlb_white-sox-rockies-live-streaming-594499392"
+            },
+            {
+                "source": "foxtrot",
+                "id": "rockies-v-white-sox-401817080"
             },
             {
                 "source": "golf",
