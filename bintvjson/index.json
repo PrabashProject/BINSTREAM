@@ -1,53 +1,5 @@
 [
     {
-        "id": "ppv-dallas-wings-vs-golden-state-valkyries",
-        "title": "Dallas Wings vs. Golden State Valkyries",
-        "category": "basketball",
-        "date": 1790557200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEDBABjaSDLjJKYBBBYQ6lHNUjtVacHgjSEg8D0yVEZavXrSS-mEFGC2emELAkuKUqFPWK2FSeldDMCdlEIggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Dallas Wings",
-                "badge": ""
-            },
-            "away": {
-                "name": "Golden State Valkyries",
-                "badge": ""
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-dallas-wings-vs-golden-state-valkyries"
-            }
-        ]
-    },
-    {
-        "id": "denver-broncos-vs-los-angeles-rams-2475420",
-        "title": "Denver Broncos vs Los Angeles Rams",
-        "category": "american-football",
-        "date": 1790554800000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMAAMc6ilAhuIPiBMQjIEiBTmpJgsCQU+w2fRRgVeth-L0ssvSZaMA8xUQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Denver Broncos",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiRgUIWqBRgAJiG4g+IYxEP7jZmIYIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Los Angeles Rams",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ZIwfENxBkQmkBt0R9uPboAm2ghSZ8UXMGXhF5ou01pgHY0RCA"
-            }
-        },
-        "sources": [
-            {
-                "source": "foxtrot",
-                "id": "rams-v-broncos-401872962"
-            }
-        ]
-    },
-    {
         "id": "latvia-vs-cyprus-2475291",
         "title": "Latvia vs Cyprus",
         "category": "football",
@@ -65,6 +17,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-latvia-vs-cyprus"
+            },
             {
                 "source": "delta",
                 "id": "live_uefa-nations-league-league-c-gr-2_latvia-cyprus-live-streaming-539460864"
@@ -94,6 +50,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-armenia-vs-montenegro"
+            },
+            {
                 "source": "delta",
                 "id": "live_uefa-nations-league-league-c-gr-2_armenia-montenegro-live-streaming-539460432"
             },
@@ -122,6 +82,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-georgia-vs-ukraine"
+            },
+            {
                 "source": "delta",
                 "id": "live_uefa-nations-league-league-b-gr-2_georgia-ukraine-live-streaming-539458704"
             },
@@ -132,10 +96,26 @@
         ]
     },
     {
-        "id": "live_uefa-nations-league-league-a-gr-1_turkiye-italy-live-streaming-539458272",
-        "title": "T\u00fcrkiye vs Italy",
+        "id": "boylesports-world-grand-prix-round-1-day-2-2610696",
+        "title": "BoyleSports World Grand Prix Round 1 Day 2",
+        "category": "darts",
+        "date": 1790614800000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCADGwCSClTg8UopBYQZRDRJydErNhAxgW1euPiQwy9asaU5CKDCCRTbPTCFgSXJPtDnVkdhZXsCRXJnGWUIIA.webp",
+        "popular": true,
+        "teams": null,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-2026-world-grand-prix-day-1"
+            }
+        ]
+    },
+    {
+        "id": "ppv-t-rkiye-vs-italy",
+        "title": "T\u00fcrkiye vs. Italy",
         "category": "football",
         "date": 1790621100000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiLCBTB4wKiDnCQMrNNmkQAY0kgSICCEWKyNMohibSIqwpAhZILFP5hBVgtnphCwJLg1ShF1YIKzIpdxkwF2AQsgggA.webp",
         "popular": true,
         "teams": {
             "home": {
@@ -148,6 +128,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-t-rkiye-vs-italy"
+            },
             {
                 "source": "delta",
                 "id": "live_uefa-nations-league-league-a-gr-1_turkiye-italy-live-streaming-539458272"
@@ -177,6 +161,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-romania-vs-bosnia-herzegovina"
+            },
+            {
                 "source": "delta",
                 "id": "live_uefa-nations-league-league-b-gr-4_romania-bosnia-herzegovina-live-streaming-539459568"
             },
@@ -204,6 +192,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-sweden-vs-poland"
+            },
             {
                 "source": "delta",
                 "id": "live_uefa-nations-league-league-b-gr-4_sweden-poland-live-streaming-539460000"
@@ -233,6 +225,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-northern-ireland-vs-hungary"
+            },
+            {
                 "source": "delta",
                 "id": "live_uefa-nations-league-league-b-gr-2_northern-ireland-hungary-live-streaming-539459136"
             },
@@ -260,6 +256,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-belgium-vs-france"
+            },
             {
                 "source": "delta",
                 "id": "live_uefa-nations-league-league-a-gr-1_belgium-france-live-streaming-539457840"
