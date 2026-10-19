@@ -1,89 +1,5 @@
 [
     {
-        "id": "monterrey-vs-pachuca-2487559",
-        "title": "Monterrey vs Pachuca",
-        "category": "football",
-        "date": 1792371600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmCkUsYFGBIhuIPiFMQQ5mCANWTUgsCQU+w2fT0qUXfeXpZZXky0YPpiohBAA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Monterrey",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT9gYYEhAoQ3XSD659JEBCMmAJroIUmfVWzBl4ReaNVNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Pachuca",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIFHTBkUYPiG4g9EQyESJjIdSGWEYwJnw1st5evNEamtMFrGiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-monterrey-vs-pachuca"
-            }
-        ]
-    },
-    {
-        "id": "green-bay-packers-vs-dallas-cowboys-2475465",
-        "title": "Green Bay Packers vs Dallas Cowboys",
-        "category": "american-football",
-        "date": 1792369200000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECAghuIMgPzaQfDZqO6QKE4hQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Green Bay Packers",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjID5AEzB8QMENxDaQICAb0gUZ7fAIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Dallas Cowboys",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8QAE0FraibqpAGI+vYZBG+BCkwtcwZeEXmiUwJrTB2xoiEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-dallas-cowboys-at-green-bay-packers"
-            },
-            {
-                "source": "golf",
-                "id": "2296"
-            },
-            {
-                "source": "hotel",
-                "id": "dallas-cowboys-vs-green-bay-packers-nfl-1792369200"
-            }
-        ]
-    },
-    {
-        "id": "calgary-flames-vs-carolina-hurricanes-2591620",
-        "title": "Calgary Flames vs Carolina Hurricanes",
-        "category": "hockey",
-        "date": 1792368000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCCgwxSdiG4g+IKSBggUp-ZZMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Calgary Flames",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIcCuAAGbSG56Qa-ShAkQiNUZAwCFJnxRcwZeEXmjHTWmGdjREIA"
-            },
-            "away": {
-                "name": "Carolina Hurricanes",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIGCAGh4YECG4gSICJtwhEOI3uWEYwJnxRcwZHfXminTWmBdjREEA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-carolina-hurricanes-vs-calgary-flames"
-            },
-            {
-                "source": "golf",
-                "id": "2385"
-            }
-        ]
-    },
-    {
         "id": "monza-vs-cagliari-2482207",
         "title": "Monza vs Cagliari",
         "category": "football",
@@ -242,6 +158,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-colorado-avalanche-vs-philadelphia-flyers"
+            },
+            {
                 "source": "golf",
                 "id": "2388"
             }
@@ -266,6 +186,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-anaheim-ducks-vs-new-york-rangers"
+            },
+            {
                 "source": "golf",
                 "id": "2387"
             }
@@ -289,6 +213,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-san-jose-sharks-vs-toronto-maple-leafs"
+            },
             {
                 "source": "golf",
                 "id": "2389"
