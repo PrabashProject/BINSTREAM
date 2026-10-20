@@ -1,33 +1,5 @@
 [
     {
-        "id": "utah-mammoth-vs-pittsburgh-penguins-2591624",
-        "title": "Utah Mammoth vs Pittsburgh Penguins",
-        "category": "hockey",
-        "date": 1792458000000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMAAMzHrmwhuIPiCkgYIFGYPXLUgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Utah Mammoth",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4hRoebxzcQqiCAAmhkChAwQic-AIUmfFFzBl4ReaIdNaYJ2NEQgA"
-            },
-            "away": {
-                "name": "Pittsburgh Penguins",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyi0kIFsHwhuIEiAggAJjpApcBkHysEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-pittsburgh-penguins-vs-utah-mammoth"
-            },
-            {
-                "source": "golf",
-                "id": "2390"
-            }
-        ]
-    },
-    {
         "id": "san-francisco-49ers-vs-washington-commanders-2475466",
         "title": "San Francisco 49ers vs Washington Commanders",
         "category": "american-football",
@@ -46,40 +18,8 @@
         },
         "sources": [
             {
-                "source": "admin",
-                "id": "ppv-washington-commanders-at-san-francisco-49-ers"
-            },
-            {
-                "source": "golf",
-                "id": "2316"
-            },
-            {
                 "source": "hotel",
                 "id": "washington-commanders-vs-san-francisco-49ers-nfl-1792447200"
-            }
-        ]
-    },
-    {
-        "id": "golden-state-valkyries-vs-atlanta-dream-2617451",
-        "title": "Golden State Valkyries vs Atlanta Dream",
-        "category": "basketball",
-        "date": 1792454400000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICMEQgQVEAGNsIydMnBZMcSGFrlZWQomyQakClIgsOiFp3be5CQKFKCis2ELAkuOWaFhuTgltMjNXeHIA4AkyCCA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Golden State Valkyries",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgoMXMAAmwJCG4g+IRCGP6QJC6uWEYwJnxRcwZeEXminTWmBdjREEA"
-            },
-            "away": {
-                "name": "Atlanta Dream",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7ReSCgAYQ3EHxAxcekCWMATEChMEKTPii5gy8IvNEOmtME7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-atlanta-dream-vs-golden-state-valkyries"
             }
         ]
     },
@@ -104,10 +44,6 @@
             {
                 "source": "admin",
                 "id": "ppv-cleveland-guardians-vs-tampa-bay-rays"
-            },
-            {
-                "source": "hotel",
-                "id": "cleveland-guardians-vs-tampa-bay-rays-mlb-1792452600"
             }
         ]
     },
@@ -471,6 +407,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-toronto-maple-leafs-vs-columbus-blue-jackets"
+            },
+            {
                 "source": "golf",
                 "id": "2416"
             }
@@ -494,6 +434,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-san-jose-sharks-vs-montreal-canadiens"
+            },
             {
                 "source": "golf",
                 "id": "2412"
@@ -519,6 +463,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-colorado-avalanche-vs-new-jersey-devils"
+            },
+            {
                 "source": "golf",
                 "id": "2413"
             }
@@ -543,6 +491,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-los-angeles-kings-vs-washington-capitals"
+            },
+            {
                 "source": "golf",
                 "id": "2415"
             }
@@ -566,6 +518,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-anaheim-ducks-vs-new-york-islanders"
+            },
             {
                 "source": "golf",
                 "id": "2414"
