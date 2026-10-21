@@ -1,5 +1,55 @@
 [
     {
+        "id": "ppv-the-golazo-show",
+        "title": "The Golazo Show",
+        "category": "football",
+        "date": 1792605600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp",
+        "popular": true,
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-the-golazo-show"
+            },
+            {
+                "source": "golf",
+                "id": "2497"
+            },
+            {
+                "source": "hotel",
+                "id": "the-golazo-show-cbs-uefa-champions-league-1792605600"
+            }
+        ]
+    },
+    {
+        "id": "levante-vs-athletic-bilbao-2506222",
+        "title": "Levante vs Athletic Bilbao",
+        "category": "football",
+        "date": 1792605600000,
+        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAVSRgBAnNxB8QRiCBQgYIEycMoCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "popular": true,
+        "teams": {
+            "home": {
+                "name": "Levante",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnB9o4eGBAhuICCD4hEJEDCMHzKAhSZ8UXMGU315o+01phHY0RCA"
+            },
+            "away": {
+                "name": "Athletic Bilbao",
+                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATEOD4gBq0iG5qQiFCAggYG3PvMEKTPii5gy8IvNGOmtMM7GiIQA"
+            }
+        },
+        "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-levante-vs-athletic-club"
+            },
+            {
+                "source": "hotel",
+                "id": "levante-vs-athletic-club-laliga-ea-sports-1792605300"
+            }
+        ]
+    },
+    {
         "id": "como-vs-manchester-united-2594667",
         "title": "Como vs Manchester United",
         "category": "football",
@@ -64,48 +114,15 @@
         ]
     },
     {
-        "id": "ppv-the-golazo-show",
-        "title": "The Golazo Show",
+        "id": "goals-show-xtra-tnt-uefa-champions-league-1792609200",
+        "title": "Goals Show Xtra (TNT)",
         "category": "football",
-        "date": 1792605600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp",
+        "date": 1792609200000,
         "popular": true,
         "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-the-golazo-show"
-            },
-            {
-                "source": "golf",
-                "id": "2497"
-            }
-        ]
-    },
-    {
-        "id": "levante-vs-athletic-bilbao-2506222",
-        "title": "Levante vs Athletic Bilbao",
-        "category": "football",
-        "date": 1792605600000,
-        "poster": "/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAVSRgBAnNxB8QRiCBQgYIEycMoCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "popular": true,
-        "teams": {
-            "home": {
-                "name": "Levante",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnB9o4eGBAhuICCD4hEJEDCMHzKAhSZ8UXMGU315o+01phHY0RCA"
-            },
-            "away": {
-                "name": "Athletic Bilbao",
-                "badge": "GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATEOD4gBq0iG5qQiFCAggYG3PvMEKTPii5gy8IvNGOmtMM7GiIQA"
-            }
-        },
-        "sources": [
-            {
-                "source": "admin",
-                "id": "ppv-levante-vs-athletic-club"
-            },
             {
                 "source": "hotel",
-                "id": "levante-vs-athletic-club-laliga-ea-sports-1792604100"
+                "id": "goals-show-xtra-tnt-uefa-champions-league-1792609200"
             }
         ]
     },
@@ -457,6 +474,10 @@
         },
         "sources": [
             {
+                "source": "admin",
+                "id": "ppv-florida-panthers-vs-ottawa-senators"
+            },
+            {
                 "source": "golf",
                 "id": "2439"
             }
@@ -480,6 +501,10 @@
             }
         },
         "sources": [
+            {
+                "source": "admin",
+                "id": "ppv-philadelphia-flyers-vs-buffalo-sabres"
+            },
             {
                 "source": "golf",
                 "id": "2438"
